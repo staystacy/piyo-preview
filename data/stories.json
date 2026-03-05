@@ -1,0 +1,1700 @@
+{
+  "generatedAt": "2026-03-05T05:44:33Z",
+  "stories": [
+    {
+      "id": "goldilocks-and-the-three-bears",
+      "title": {
+        "EN": "Goldilocks and the Three Bears",
+        "ZH-TW": "金髮女孩與三隻熊",
+        "JA": "ゴルディロックスと3びきのくま"
+      },
+      "languages": [
+        "EN",
+        "JA",
+        "ZH-TW"
+      ],
+      "versions": [
+        "standard",
+        "toddler"
+      ],
+      "pages": {
+        "EN": {
+          "standard": [
+            {
+              "page": "P01",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Goldie loved walking in the forest.\nToday, she found a path she'd never seen before.\n\"Hmm? Where does this lead?\"",
+              "timestamps": null
+            },
+            {
+              "page": "P02",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "At the end of the path was the cutest little cottage!\nThe door was open, and something smelled delicious inside.\nGoldie couldn't help herself. She tiptoed in.",
+              "timestamps": null
+            },
+            {
+              "page": "P03",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "On the table sat three bowls of porridge — a big one, a medium one, and a tiny one.\nGoldie tasted the big bowl.\n\"Ow ow ow! This one is too HOT!\"",
+              "timestamps": null
+            },
+            {
+              "page": "P04",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "She tasted the medium bowl.\n\"Brrr! This one is too COLD!\"",
+              "timestamps": null
+            },
+            {
+              "page": "P05",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "She tasted the tiny bowl.\n\"This one is…  just right!\"\nGoldie ate it all up. Every last drop!",
+              "timestamps": null
+            },
+            {
+              "page": "P06",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "In the living room, Goldie found three chairs.\nShe sat in the big chair.\n\"Ouch! This one is too HARD!\"",
+              "timestamps": null
+            },
+            {
+              "page": "P07",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "She sat in the medium chair.\n\"Whoa! This one is too SOFT!\"\nShe sank right in and could barely get out!",
+              "timestamps": null
+            },
+            {
+              "page": "P08",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "She sat in the tiny chair.\n\"This one is…  just right!\"\nBut she wiggled and wobbled and—\nCRACK!  The chair broke!",
+              "timestamps": null
+            },
+            {
+              "page": "P09",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Upstairs, Goldie found three beds.\nShe climbed onto the big bed.\n\"Whew! This one is too HIGH!\"",
+              "timestamps": null
+            },
+            {
+              "page": "P10",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "She tried the medium bed.\n\"Ugh! This one is too SMALL!\"\nHer feet stuck right out the end!",
+              "timestamps": null
+            },
+            {
+              "page": "P11",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "She lay down in the tiny bed.\n\"This one is… just… right…\"\nAnd just like that, Goldie fell fast asleep. Zzzzzz.",
+              "timestamps": null
+            },
+            {
+              "page": "P12",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "The door opened. The three bears were home!\nPapa Bear rumbled… \"Who's been eating MY porridge?\"\nMama Bear gasped… \"Who broke MY chair?\"\nBaby Bear ran upstairs and squealed — \"Someone's in MY bed!\"",
+              "timestamps": null
+            },
+            {
+              "page": "P13",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Goldie woke up and saw three bears staring at her.\n\"AAAH! I'm so sorry! I'm so so sorry!\"\n\"I shouldn't have come into your house without asking!\"",
+              "timestamps": null
+            },
+            {
+              "page": "P14",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Mama Bear smiled…  \"It's okay, dear. Just knock next time!\"\nBaby Bear tugged on Goldie's dress… \"Come play with me again!\"\nGoldie waved goodbye… \"I will! And I'll bring yummy porridge!\"\nAnd from that day on… Goldie and the three bears became the best of friends.",
+              "timestamps": null
+            }
+          ],
+          "toddler": [
+            {
+              "page": "P01",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Goldie found a little house in the forest.\nMmm, yummy smell!\nShe went inside.",
+              "timestamps": null
+            },
+            {
+              "page": "P02",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Big bowl —\ntoo HOT!",
+              "timestamps": null
+            },
+            {
+              "page": "P03",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Medium bowl —\ntoo COLD!",
+              "timestamps": null
+            },
+            {
+              "page": "P04",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Tiny bowl —\njust right!\nAll gone!",
+              "timestamps": null
+            },
+            {
+              "page": "P05",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Big chair —  too HARD!\nMedium chair —  too SOFT!",
+              "timestamps": null
+            },
+            {
+              "page": "P06",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Tiny chair —\njust right!\nBut…  CRACK! It broke!",
+              "timestamps": null
+            },
+            {
+              "page": "P07",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Big bed —  too HIGH!\nMedium bed —  too SMALL!",
+              "timestamps": null
+            },
+            {
+              "page": "P08",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Tiny bed —\njust right…\nZzz, Goldie fell asleep.",
+              "timestamps": null
+            },
+            {
+              "page": "P09",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "The bears came home!\n\"Someone's in my bed!\"",
+              "timestamps": null
+            },
+            {
+              "page": "P10",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Goldie said sorry.\nThey all became… friends!",
+              "timestamps": null
+            }
+          ]
+        },
+        "JA": {
+          "standard": [
+            {
+              "page": "P01",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ゴルディは もりの おさんぽが だいすき。\nきょう、みたことのない こみちを みつけました。\n「あれ？このみち、どこに つづくのかな？」",
+              "timestamps": null
+            },
+            {
+              "page": "P02",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "こみちの さきに、かわいい おうちが ありました！\nドアが あいていて、なかから いいにおいが します。\nゴルディは がまんできなくて…… そうっと はいりました。",
+              "timestamps": null
+            },
+            {
+              "page": "P03",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "テーブルに おかゆが 3つ。おおきいの、ちゅうくらいの、ちいさいの。\nゴルディが おおきいのを ぱくっ。\n「あちちちち！これは あつすぎる！」",
+              "timestamps": null
+            },
+            {
+              "page": "P04",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ちゅうくらいのを ぱくっ。\n「ひゃー！これも つめたすぎる！」",
+              "timestamps": null
+            },
+            {
+              "page": "P05",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ちいさいのを ぱくっ。\n「これは……  ちょ～ど いい！おいしい！」\nゴルディは ぜんぶ たべちゃいました。",
+              "timestamps": null
+            },
+            {
+              "page": "P06",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "おへやに いすが 3つ。\nおおきい いすに すわりました。\n「いたたた！これは かたすぎる！」",
+              "timestamps": null
+            },
+            {
+              "page": "P07",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ちゅうくらいの いすに すわりました。\n「ふにゃ～！これも やわらかすぎる！」\nからだが ずぶずぶ しずんじゃう！",
+              "timestamps": null
+            },
+            {
+              "page": "P08",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ちいさい いすに すわりました。\n「これは……  ちょ～ど いい！」\nでも うれしくて ゆらゆら ゆらゆら——\n「パキッ！」  いすが こわれちゃった！",
+              "timestamps": null
+            },
+            {
+              "page": "P09",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "2かいに あがると、ベッドが 3つ。\nおおきい ベッドに のぼりました。\n「たかい たかい！これは たかすぎる！」",
+              "timestamps": null
+            },
+            {
+              "page": "P10",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ちゅうくらいの ベッドに ねました。\n「ちいさい ちいさい！これも ちいさすぎる！」\nあしが ベッドから はみでちゃう！",
+              "timestamps": null
+            },
+            {
+              "page": "P11",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ちいさい ベッドに ねました。\n「これは…… ちょ～ど…… いい……」\nゴルディは すうすう ねむってしまいました。",
+              "timestamps": null
+            },
+            {
+              "page": "P12",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ドアが あきました。3びきのくまが かえってきた！\nパパくま…… 「だれか ぼくの おかゆを たべたぞ？」\nママくま…… 「だれか わたしの いすを こわしたわ！」\nこぐまのベアくんが 2かいに かけあがります—— 「だれか ぼくの ベッドに いる！！」",
+              "timestamps": null
+            },
+            {
+              "page": "P13",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ゴルディが めを さますと、くまが 3びき！\n「きゃー！ごめんなさい ごめんなさい！」\n「かってに はいって、ごめんなさい！」",
+              "timestamps": null
+            },
+            {
+              "page": "P14",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ママくまが にっこり……  「いいのよ。こんどは ノックしてね！」\nベアくんが ゴルディの スカートを ひっぱります…… 「また あそびにきてね！」\nゴルディは てを ふりました…… 「うん！こんどは おいしい おかゆ もってくるね！」\nそれからずっと…… ゴルディと 3びきのくまは なかよしに なりました。",
+              "timestamps": null
+            }
+          ],
+          "toddler": [
+            {
+              "page": "P01",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ゴルディが もりで…… おうちを みつけた。\nいいにおい！\nなかに はいりました。",
+              "timestamps": null
+            },
+            {
+              "page": "P02",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "おおきいの——\nあつすぎる！",
+              "timestamps": null
+            },
+            {
+              "page": "P03",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ちゅうくらいの——\nつめたすぎる！",
+              "timestamps": null
+            },
+            {
+              "page": "P04",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ちいさいの——\nちょうど いい！\nぜんぶ たべた！",
+              "timestamps": null
+            },
+            {
+              "page": "P05",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "おおきい いす……  かたい！\nちゅうくらいの……  やわらかい！",
+              "timestamps": null
+            },
+            {
+              "page": "P06",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ちいさい いす——\nちょうど いい！\nでも……  パキッ！こわれた！",
+              "timestamps": null
+            },
+            {
+              "page": "P07",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "おおきい ベッド……  たかい！\nちゅうくらいの……  ちいさい！",
+              "timestamps": null
+            },
+            {
+              "page": "P08",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ちいさい ベッド——\nちょうど いい……\nすうすう…… ねちゃった。",
+              "timestamps": null
+            },
+            {
+              "page": "P09",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "くまさん かえってきた！\n「だれか ベッドに いる！」",
+              "timestamps": null
+            },
+            {
+              "page": "P10",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ゴルディ ごめんね。\nみんな…… なかよし！",
+              "timestamps": null
+            }
+          ]
+        },
+        "ZH-TW": {
+          "standard": [
+            {
+              "page": "P01",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "小金最喜歡在森林裡散步。\n今天，她發現了一條從沒走過的小路。\n「咦？這條路通到哪裡呢？」",
+              "timestamps": null
+            },
+            {
+              "page": "P02",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "小路的盡頭，是一間好可愛的小屋！\n門開開的，裡面飄出好香好香的味道。\n小金忍不住…… 走了進去。",
+              "timestamps": null
+            },
+            {
+              "page": "P03",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "桌上有三碗粥—— 大碗、中碗、小碗。\n小金嚐了一口大碗的粥。\n「好燙好燙！這個太燙了！」",
+              "timestamps": null
+            },
+            {
+              "page": "P04",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "小金嚐了一口中碗的粥。\n「好冰好冰！這個也太冰了！」",
+              "timestamps": null
+            },
+            {
+              "page": "P05",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "小金嚐了一口小碗的粥。\n「這個……  剛～剛～好！好好吃！」\n小金把小碗粥吃得一口都不剩。",
+              "timestamps": null
+            },
+            {
+              "page": "P06",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "小金走到客廳，看到三把椅子。\n她坐了大椅子。\n「好硬好硬！這個太硬了！」",
+              "timestamps": null
+            },
+            {
+              "page": "P07",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "她坐了中椅子。\n「好軟好軟！這個也太軟了！」\n整個人都陷進去了！",
+              "timestamps": null
+            },
+            {
+              "page": "P08",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "她坐了小椅子。\n「這個……  剛～剛～好！」\n可是小金太開心，晃呀晃——\n「喀啦！」  椅子裂開了！",
+              "timestamps": null
+            },
+            {
+              "page": "P09",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "小金走上樓，看到三張床。\n她爬上大床。\n「好高好高！這個太高了！」",
+              "timestamps": null
+            },
+            {
+              "page": "P10",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "她躺了中床。\n「好小好小！這個也太小了！」\n腳都伸出了床尾，怎麼躺都不舒服。",
+              "timestamps": null
+            },
+            {
+              "page": "P11",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "她躺了小床。\n「這個…… 剛～剛～好……」\n小金一下子就睡著了。呼…… 呼……",
+              "timestamps": null
+            },
+            {
+              "page": "P12",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "門開了！三隻熊回來了。\n熊爸爸說…… 「誰吃了我的粥？」\n熊媽媽說…… 「誰坐壞了我的椅子？」\n小熊寶寶跑到樓上大叫—— 「有人在我的床上！」",
+              "timestamps": null
+            },
+            {
+              "page": "P13",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "小金醒來，看到三隻熊，嚇了一大跳！\n「啊！對不起對不起！」\n「我不應該亂進別人的家！」",
+              "timestamps": null
+            },
+            {
+              "page": "P14",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "熊媽媽笑了……  「沒關係，下次記得先敲門喔！」\n小熊寶寶拉著小金的手…… 「你下次再來跟我玩！」\n小金揮揮手…… 「好！我下次帶好吃的粥來！」\n後來呀…… 小金和三隻熊變成了好朋友。",
+              "timestamps": null
+            }
+          ],
+          "toddler": [
+            {
+              "page": "P01",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "小金在森林裡…… 發現一間小屋。\n好香好香！\n她走了進去。",
+              "timestamps": null
+            },
+            {
+              "page": "P02",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "大碗的粥——\n太燙了！",
+              "timestamps": null
+            },
+            {
+              "page": "P03",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "中碗的粥——\n太冰了！",
+              "timestamps": null
+            },
+            {
+              "page": "P04",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "小碗的粥——\n剛剛好！\n吃光光！",
+              "timestamps": null
+            },
+            {
+              "page": "P05",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "大椅子……  太硬！\n中椅子……  太軟！",
+              "timestamps": null
+            },
+            {
+              "page": "P06",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "小椅子——\n剛剛好！\n可是……  喀啦！壞了！",
+              "timestamps": null
+            },
+            {
+              "page": "P07",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "大床……  太高！\n中床……  太小！",
+              "timestamps": null
+            },
+            {
+              "page": "P08",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "小床——\n剛剛好……\n呼～ 小金睡著了。",
+              "timestamps": null
+            },
+            {
+              "page": "P09",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "三隻熊回來了！\n「有人在我的床上！」",
+              "timestamps": null
+            },
+            {
+              "page": "P10",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "小金說對不起。\n大家變成…… 好朋友！",
+              "timestamps": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "the-tortoise-and-the-hare",
+      "title": {
+        "EN": "The Tortoise and the Hare",
+        "ZH-TW": "龜兔賽跑",
+        "JA": "ウサギとカメ"
+      },
+      "languages": [
+        "EN",
+        "JA",
+        "ZH-TW"
+      ],
+      "versions": [
+        "standard",
+        "toddler"
+      ],
+      "pages": {
+        "EN": {
+          "standard": [
+            {
+              "page": "P01",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Hops the Hare was the fastest runner in the forest.\nHe loved teasing Tilly the Tortoise… \"You're sooooo slow! Ha ha ha!\"\nTilly looked up calmly.  \"Then let's have a race.\"",
+              "timestamps": null
+            },
+            {
+              "page": "P02",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Judge Owl raised his flag.\n\"Ready… set…  GO!\"\nZOOM! Hops shot off like a rocket!\nTilly took her first step. One step… two steps… nice and slow.",
+              "timestamps": null
+            },
+            {
+              "page": "P03",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Hops ran so far ahead, he turned around and laughed.\n\"Ha! The tortoise is just a tiny little dot!\"\nHe put his hands on his hips and grinned.",
+              "timestamps": null
+            },
+            {
+              "page": "P04",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Tilly kept walking, one little step at a time.\nShe whispered to herself…\n\"It's okay, nice and slow, step by step, here I go.\"",
+              "timestamps": null
+            },
+            {
+              "page": "P05",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Hops was too far ahead with nothing to do. So boring!\nHe chased butterflies. He picked flowers.\n\"The tortoise is so slow… I can play all day!\"",
+              "timestamps": null
+            },
+            {
+              "page": "P06",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Hops yawned a biiiiig yawn.\n\"She's so slow… I'll just rest… my eyes… for a second…\"\nAnd just like that… Hops was snoring. Zzzzzzz.",
+              "timestamps": null
+            },
+            {
+              "page": "P07",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Tilly walked and walked… and walked.\nShe passed right by the snoring hare.\nShe glanced at him… but didn't stop.\n\"It's okay, nice and slow, step by step, here I go.\"",
+              "timestamps": null
+            },
+            {
+              "page": "P08",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "The hill was steep. Tilly was so tired, sweat dripping from her head.\nBut she didn't stop.\n\"It's okay… nice and slow… step by step… here I go.\"",
+              "timestamps": null
+            },
+            {
+              "page": "P09",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Hops' eyes popped open!\n\"Oh no! How long was I asleep?!\"\nHe looked around —  the tortoise was GONE!",
+              "timestamps": null
+            },
+            {
+              "page": "P10",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Hops ran as fast as he could!\nBut far, far away, near the top of the hill—\nTilly was almost at the finish line!",
+              "timestamps": null
+            },
+            {
+              "page": "P11",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "\"It's okay, nice and slow, step by step, here I go.\"\nTilly crossed the finish line!\n\"HOORAY! Tilly wins!\" everyone cheered!",
+              "timestamps": null
+            },
+            {
+              "page": "P12",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Hops arrived, panting and puffing.\n\"You were amazing!\" he said. \"I'll never be lazy again.\"\nTilly smiled… \"Want to run together next time?\"\nAnd from that day on… they became the very best of friends.",
+              "timestamps": null
+            }
+          ],
+          "toddler": [
+            {
+              "page": "P01",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Hops laughed at Tilly.  \"You're so slow!\"\nTilly said… \"Let's race!\"",
+              "timestamps": null
+            },
+            {
+              "page": "P02",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Ready, set, GO!\nZOOM! Hops was fast!\nTilly… walked slowly.",
+              "timestamps": null
+            },
+            {
+              "page": "P03",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Tilly walked step by step.\n\"Nice and slow… here I go.\"",
+              "timestamps": null
+            },
+            {
+              "page": "P04",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Hops got tired…\nand fell asleep.  Zzzzz!",
+              "timestamps": null
+            },
+            {
+              "page": "P05",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Tilly walked past the sleeping hare.\n\"Nice and slow… here I go.\"",
+              "timestamps": null
+            },
+            {
+              "page": "P06",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Tilly climbed the hill.\nHops woke up —  oh no!",
+              "timestamps": null
+            },
+            {
+              "page": "P07",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Tilly crossed the finish!\n\"Hooray!\"",
+              "timestamps": null
+            },
+            {
+              "page": "P08",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "Hops said… \"You're amazing!\"\nThey became… best friends.",
+              "timestamps": null
+            }
+          ]
+        },
+        "JA": {
+          "standard": [
+            {
+              "page": "P01",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ウサギのピョンタは、もりで いちばん あしが はやい。\nいつも カメのゆっくんを わらいます。\n「きみ、あるくの おっそいなぁ！あはは！」\nゆっくんは しずかに いいました。  「じゃあ、きょうそう しよう。」",
+              "timestamps": null
+            },
+            {
+              "page": "P02",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "しんぱんの フクロウが はたを あげました。\n「よーい……  ドン！」\nピュー！ピョンタが あっというまに みえなくなりました！\nゆっくんは いっぽめを ふみだします。いっぽ、いっぽ、ゆっくり ゆっくり。",
+              "timestamps": null
+            },
+            {
+              "page": "P03",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ピョンタは ずっと さきまで はしって、ふりかえりました。\n「あはは！カメが ちっちゃい てんてんに なってる！」\nピョンタは うでを くんで、にやり。",
+              "timestamps": null
+            },
+            {
+              "page": "P04",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ゆっくんは いっぽいっぽ あるきます。\nちいさなこえで じぶんに いいました……\n「だいじょうぶ、ゆっくり ゆっくり、いっぽ いっぽ、とまらない。」",
+              "timestamps": null
+            },
+            {
+              "page": "P05",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ピョンタは さきに いきすぎて、たいくつ。\nちょうちょを おいかけたり、おはなを つんだり。\n「カメは あんなに おそいもん、ちょっと あそんでも へいきへいき！」",
+              "timestamps": null
+            },
+            {
+              "page": "P06",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "あそびつかれて、ピョンタは おおきな おおきな あくびを しました。\n「カメは おそいから…… ちょっと ねても…… まけないもん……」\nそのまま…… ぐうぐう ねてしまいました。",
+              "timestamps": null
+            },
+            {
+              "page": "P07",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ゆっくんは あるいて あるいて…… あるきます。\nぐうぐう ねている ピョンタの よこを とおりました。\nゆっくんは ちらっと みましたが…… とまりません。\n「だいじょうぶ、ゆっくり ゆっくり、いっぽ いっぽ、とまらない。」",
+              "timestamps": null
+            },
+            {
+              "page": "P08",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "のぼりざかは たいへん。ゆっくんは あせびっしょり。\nでも とまりません。\n「だいじょうぶ…… ゆっくり ゆっくり…… いっぽ いっぽ…… とまらない。」",
+              "timestamps": null
+            },
+            {
+              "page": "P09",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ピョンタが パッと めを さましました！\n「えっ！！ぼく どれくらい ねてた？」\nきょろきょろ みまわすと——  ゆっくんが いない！",
+              "timestamps": null
+            },
+            {
+              "page": "P10",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ピョンタは ぜんりょくで はしります！\nでも とおくに みえるのは——\nゆっくんが もう やまの うえ！",
+              "timestamps": null
+            },
+            {
+              "page": "P11",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "「だいじょうぶ、ゆっくり ゆっくり、いっぽ いっぽ、とまらない。」\nゆっくんが ゴールしました！\n「やったー！ゆっくんの かち！」みんなで おおよろこび！",
+              "timestamps": null
+            },
+            {
+              "page": "P12",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ピョンタは ゴールに つきました。はぁはぁ ぜぇぜぇ。\n「ゆっくん、すごいよ！ぼく もう なまけないよ。」\nゆっくんは にっこり…… 「こんどは いっしょに はしろうよ。」\nそれからずっと…… ふたりは いちばんの なかよしに なりました。",
+              "timestamps": null
+            }
+          ],
+          "toddler": [
+            {
+              "page": "P01",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ピョンタが ゆっくんを わらった。  「おそーい！」\nゆっくん…… 「きょうそう しよう！」",
+              "timestamps": null
+            },
+            {
+              "page": "P02",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "よーい ドン！\nピュー！ピョンタ はやい！\nゆっくんは…… ゆっくり。",
+              "timestamps": null
+            },
+            {
+              "page": "P03",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ゆっくん いっぽいっぽ。\n「ゆっくり ゆっくり…… とまらない。」",
+              "timestamps": null
+            },
+            {
+              "page": "P04",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ピョンタ つかれて……\nぐうぐう…… ねちゃった。",
+              "timestamps": null
+            },
+            {
+              "page": "P05",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ゆっくんは ねてる ピョンタの よこを とおります。\n「ゆっくり ゆっくり。」",
+              "timestamps": null
+            },
+            {
+              "page": "P06",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ゆっくん のぼります。\nピョンタ おきた——  あっ！",
+              "timestamps": null
+            },
+            {
+              "page": "P07",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ゆっくん ゴール！\n「やったー！」",
+              "timestamps": null
+            },
+            {
+              "page": "P08",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "ピョンタ…… 「すごいよ！」\nふたりは…… なかよしに なりました。",
+              "timestamps": null
+            }
+          ]
+        },
+        "ZH-TW": {
+          "standard": [
+            {
+              "page": "P01",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "跳跳兔跑得好快好快，他最喜歡笑慢慢龜——\n「你走路好慢喔！哈哈哈！」\n慢慢龜說……  「那我們來比賽吧！」",
+              "timestamps": null
+            },
+            {
+              "page": "P02",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "貓頭鷹裁判舉起旗子——\n「預備—— 跑！」\n咻！跳跳兔一下子就不見了！\n慢慢龜踏出第一步，一步、一步，慢慢走。",
+              "timestamps": null
+            },
+            {
+              "page": "P03",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "跳跳兔跑好遠好遠，回頭一看——\n「哈！烏龜只有一個小點點！」\n跳跳兔雙手叉腰，得意地笑了。",
+              "timestamps": null
+            },
+            {
+              "page": "P04",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "慢慢龜一步一步往前走。\n他小聲地對自己說……\n「沒關係，慢慢走，一步一步，不要停。」",
+              "timestamps": null
+            },
+            {
+              "page": "P05",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "跳跳兔跑太前面了，等得好無聊。\n他看到蝴蝶就追蝴蝶，看到花就摘花。\n「反正烏龜那麼慢，玩一下沒關係啦！」",
+              "timestamps": null
+            },
+            {
+              "page": "P06",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "玩累了，跳跳兔打了一個好大好大的哈欠。\n「烏龜那麼慢…… 我睡一下下…… 也不會輸……」\n跳跳兔就這樣…… 呼嚕呼嚕睡著了。",
+              "timestamps": null
+            },
+            {
+              "page": "P07",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "慢慢龜走呀走…… 走呀走。\n他經過了睡得好熟的跳跳兔。\n慢慢龜看了兔子一眼…… 沒有停下來。\n「沒關係，慢慢走，一步一步，不要停。」",
+              "timestamps": null
+            },
+            {
+              "page": "P08",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "上坡路好辛苦，慢慢龜滿頭大汗。\n可是他沒有停下來。\n「沒關係…… 慢慢走…… 一步一步…… 不要停。」",
+              "timestamps": null
+            },
+            {
+              "page": "P09",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "跳跳兔突然醒來！\n「啊！！我睡了多久？」\n他到處張望——  烏龜不見了！",
+              "timestamps": null
+            },
+            {
+              "page": "P10",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "跳跳兔拼命跑呀跑！\n可是遠遠看過去——\n慢慢龜已經快到山頂了！",
+              "timestamps": null
+            },
+            {
+              "page": "P11",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "「沒關係，慢慢走，一步一步，不要停。」\n慢慢龜跨過了終點線！\n「耶！慢慢龜贏了！」大家一起歡呼！",
+              "timestamps": null
+            },
+            {
+              "page": "P12",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "跳跳兔跑到終點，喘得說不出話來。\n他對慢慢龜說…… 「你好厲害！我以後不會再偷懶了。」\n慢慢龜笑了…… 「我們一起跑，好不好？」\n後來呀…… 他們變成了最好的朋友。",
+              "timestamps": null
+            }
+          ],
+          "toddler": [
+            {
+              "page": "P01",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "跳跳兔笑慢慢龜走路慢。\n慢慢龜說…… 「來比賽！」",
+              "timestamps": null
+            },
+            {
+              "page": "P02",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "預備——跑！\n咻！跳跳兔好快！\n慢慢龜…… 慢慢走。",
+              "timestamps": null
+            },
+            {
+              "page": "P03",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "慢慢龜一步一步走。\n「慢慢走…… 不要停。」",
+              "timestamps": null
+            },
+            {
+              "page": "P04",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "跳跳兔玩累了……\n呼嚕呼嚕…… 睡著了。",
+              "timestamps": null
+            },
+            {
+              "page": "P05",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "慢慢龜經過睡著的兔子。\n「慢慢走…… 不要停。」",
+              "timestamps": null
+            },
+            {
+              "page": "P06",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "慢慢龜爬呀爬。\n跳跳兔醒來了——  啊！",
+              "timestamps": null
+            },
+            {
+              "page": "P07",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "慢慢龜到終點了！\n「耶！」",
+              "timestamps": null
+            },
+            {
+              "page": "P08",
+              "mediaType": null,
+              "media": null,
+              "audio": null,
+              "text": "跳跳兔說…… 「你好厲害！」\n他們變成…… 好朋友。",
+              "timestamps": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "three-little-pigs",
+      "title": {
+        "EN": "The Three Little Pigs",
+        "ZH-TW": "三隻小豬",
+        "JA": "三匹の子ぶた"
+      },
+      "languages": [
+        "EN",
+        "JA",
+        "ZH-TW"
+      ],
+      "versions": [
+        "standard",
+        "toddler"
+      ],
+      "pages": {
+        "EN": {
+          "standard": [
+            {
+              "page": "P01",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P01.mp4",
+              "audio": "final/three-little-pigs/EN/standard/P01_v1.mp3",
+              "text": "Biggie, Woody, and Bricky were three little pig brothers.\nOne day, Mama Pig said…\n\"You're all grown up now! Time to build your very own houses!\"",
+              "timestamps": null
+            },
+            {
+              "page": "P02",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P02.mp4",
+              "audio": "final/three-little-pigs/EN/standard/P02_v4.mp3",
+              "text": "Biggie grabbed a bunch of straw and  slapped his house together in no time.\n\"Done! My straw house is all finished!\"\nThen he flopped into a chair… and fell fast asleep.",
+              "timestamps": null
+            },
+            {
+              "page": "P03",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P03.mp4",
+              "audio": "final/three-little-pigs/EN/standard/P03_v2.mp3",
+              "text": "Woody found lots of sticks and hammered away — tap, tap, tap!\n\"Hmph! My house is WAY better than yours!\" he said proudly.",
+              "timestamps": null
+            },
+            {
+              "page": "P04",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P04.mp4",
+              "audio": "final/three-little-pigs/EN/standard/P04_v2.mp3",
+              "text": "Bricky carried bricks one by one… and spread cement layer by layer.\nIt was hard work.  But Bricky didn't stop.",
+              "timestamps": null
+            },
+            {
+              "page": "P05",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P05.mp4",
+              "audio": "final/three-little-pigs/EN/standard/P05_v1.mp3",
+              "text": "At last! Bricky's brick house was done!\nBig… beautiful… and strong.",
+              "timestamps": null
+            },
+            {
+              "page": "P06",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P06.mp4",
+              "audio": "final/three-little-pigs/EN/standard/P06_v2.mp3",
+              "text": "One day… Big Bad Wolf showed up!\nHe marched to Biggie's straw house and growled—\n\"Little pig, little pig, let me in!\"\nBiggie shook all over…  \"No, no, no! Not by the hair on my chinny chin chin!\"",
+              "timestamps": null
+            },
+            {
+              "page": "P07",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P07.mp4",
+              "audio": "final/three-little-pigs/EN/standard/P07_v2.mp3",
+              "text": "Big Bad Wolf took a deeeeep breath—\n\"I'll huff, and I'll puff, and I'll BLOW your house down!\"\nWHOOOOSH!\nStraw flew everywhere! The house was gone!\nBiggie ran and ran and ran.",
+              "timestamps": null
+            },
+            {
+              "page": "P08",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P08.mp4",
+              "audio": "final/three-little-pigs/EN/standard/P08_v2.mp3",
+              "text": "Biggie ran to Woody's stick house.\n\"Open up! The wolf is coming!\"\nBig Bad Wolf followed—\n\"Little pig, little pig, let me in!\"\nBoth piggies shouted… \"No, no, no! Not by the hair on our chinny chin chins!\"",
+              "timestamps": null
+            },
+            {
+              "page": "P09",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P09.mp4",
+              "audio": "final/three-little-pigs/EN/standard/P09_v1.mp3",
+              "text": "Big Bad Wolf took a deeeeep breath—\n\"I'll huff, and I'll puff, and I'll BLOW your house down!\"\nCRAAAAASH!\nSticks flew everywhere! That house was gone too!\nBiggie and Woody held hands and ran!",
+              "timestamps": null
+            },
+            {
+              "page": "P10",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P10.mp4",
+              "audio": "final/three-little-pigs/EN/standard/P10_v2.mp3",
+              "text": "The two brothers ran to Bricky's brick house.\nBricky opened the door wide…  \"Quick, come in! You're safe here!\"",
+              "timestamps": null
+            },
+            {
+              "page": "P11",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P11.mp4",
+              "audio": "final/three-little-pigs/EN/standard/P11_v1.mp3",
+              "text": "Big Bad Wolf caught up—\n\"Little pig, little pig, let me in!\"\nAll three piggies shouted together…  \"No, no, NO! Not by the hair on our chinny chin chins!\"\nBig Bad Wolf took the biggest… deepest breath… of all—",
+              "timestamps": null
+            },
+            {
+              "page": "P12",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P12.mp4",
+              "audio": "final/three-little-pigs/EN/standard/P12_v2.mp3",
+              "text": "\"I'll HUFF! And I'll PUFF! And I'll BLOW YOUR HOUSE DOWN!\"\nHe huffed… and he puffed… and he puffed… and he huffed…\nBut he could NOT blow it down!\nBig Bad Wolf fell flat on his face…  and slunk away.",
+              "timestamps": null
+            },
+            {
+              "page": "P13",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P13.mp4",
+              "audio": "final/three-little-pigs/EN/standard/P13_v4.mp3",
+              "text": "That night, the three brothers had a cozy dinner in Bricky's brick house.\nBiggie said… \"Bricky, thank you!\"\nWoody said… \"Next time, I'm building with bricks too!\"\nAnd from that day on… the three little pigs lived happily together.",
+              "timestamps": null
+            }
+          ],
+          "toddler": [
+            {
+              "page": "P01",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P01.mp4",
+              "audio": "final/three-little-pigs/EN/toddler/P01_v1.mp3",
+              "text": "Three little pigs… set off to build houses.\n\"Good luck!\" said Mama.",
+              "timestamps": null
+            },
+            {
+              "page": "P02",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P02.mp4",
+              "audio": "final/three-little-pigs/EN/toddler/P02_v3.mp3",
+              "text": "Biggie built a straw house.\nSo fast!",
+              "timestamps": null
+            },
+            {
+              "page": "P03",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P03.mp4",
+              "audio": "final/three-little-pigs/EN/toddler/P03_v3.mp3",
+              "text": "Woody built a stick house.\nBricky built a brick house.\nSo strong!",
+              "timestamps": null
+            },
+            {
+              "page": "P04",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P04.mp4",
+              "audio": "final/three-little-pigs/EN/toddler/P04_v2.mp3",
+              "text": "Wolf came!\n\"Let me in!\"\n\"No!\"\nWHOOSH!\nThe straw house fell down!",
+              "timestamps": null
+            },
+            {
+              "page": "P05",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P05.mp4",
+              "audio": "final/three-little-pigs/EN/toddler/P05_v3.mp3",
+              "text": "Wolf came again!\n\"Let me in!\"\n\"No!\"\nCRASH!\nThe stick house fell too!",
+              "timestamps": null
+            },
+            {
+              "page": "P06",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P06.mp4",
+              "audio": "final/three-little-pigs/EN/toddler/P06_v1.mp3",
+              "text": "All three hid in the brick house.\n\"We're safe!\"",
+              "timestamps": null
+            },
+            {
+              "page": "P07",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P07.mp4",
+              "audio": "final/three-little-pigs/EN/toddler/P07_v1.mp3",
+              "text": "\"Let me in!\"\n\"No no NO!\"",
+              "timestamps": null
+            },
+            {
+              "page": "P08",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P08.mp4",
+              "audio": "final/three-little-pigs/EN/toddler/P08_v1.mp3",
+              "text": "HUFF… PUFF…\nCan't blow it down!\nWolf ran away!",
+              "timestamps": null
+            },
+            {
+              "page": "P09",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P09.mp4",
+              "audio": "final/three-little-pigs/EN/toddler/P09_v4.mp3",
+              "text": "Three little pigs had a happy dinner together!",
+              "timestamps": null
+            }
+          ]
+        },
+        "JA": {
+          "standard": [
+            {
+              "page": "P01",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P01.mp4",
+              "audio": "final/three-little-pigs/JA/standard/P01_v1.mp3",
+              "text": "ブータ、ブーすけ、ブーこは、おかあさんブタの 3にんきょうだい。\nあるひ、おかあさんが いいました。\n「もう おおきくなったわね。じぶんの おうちを つくりなさい！」",
+              "timestamps": null
+            },
+            {
+              "page": "P02",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P02.mp4",
+              "audio": "final/three-little-pigs/JA/standard/P02_v1.mp3",
+              "text": "ブータは わらを あつめて……  あっというまに おうちを つくりました。\n「できた できた！ぼくの わらのおうち！」\nブータは いすに すわって…… ぐうぐう おひるねです。",
+              "timestamps": null
+            },
+            {
+              "page": "P03",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P03.mp4",
+              "audio": "final/three-little-pigs/JA/standard/P03_v3.mp3",
+              "text": "ブーすけは きを たくさん あつめて、トントントンと おうちを つくりました。\n「ふん！ぼくの おうちのほうが ずっと すごいぞ！」",
+              "timestamps": null
+            },
+            {
+              "page": "P04",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P04.mp4",
+              "audio": "final/three-little-pigs/JA/standard/P04_v1.mp3",
+              "text": "ブーこは レンガを いっこいっこ はこんで…… セメントを ぬりました。\nつかれた つかれた。  でも ブーこは やめません。",
+              "timestamps": null
+            },
+            {
+              "page": "P05",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P05.mp4",
+              "audio": "final/three-little-pigs/JA/standard/P05_v3.mp3",
+              "text": "とうとう！ブーこの レンガのおうちが できました！\nおおきくて、きれいで、じょうぶ！",
+              "timestamps": null
+            },
+            {
+              "page": "P06",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P06.mp4",
+              "audio": "final/three-little-pigs/JA/standard/P06_v3.mp3",
+              "text": "あるひ…… おおかみのガオーが やってきました！\nわらのおうちの まえで おおきなこえで いいました——\n「こぶたちゃん、こぶたちゃん、なかに いれてよ！」\nブータは ぶるぶるぶる。  「いやだ いやだ、ぜったい いれないよ！」",
+              "timestamps": null
+            },
+            {
+              "page": "P07",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P07.mp4",
+              "audio": "final/three-little-pigs/JA/standard/P07_v3.mp3",
+              "text": "おおかみは おおきく いきを すって——\n「ふぅ～～～っ！」\nわらが ぴゅんぴゅん とんでいきます！おうちが こわれちゃった！\nブータは にげろにげろ！",
+              "timestamps": null
+            },
+            {
+              "page": "P08",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P08.mp4",
+              "audio": "final/three-little-pigs/JA/standard/P08_v1.mp3",
+              "text": "ブータは はしって はしって、ブーすけの きのおうちに にげこみました。\n「あけて！おおかみが きたよ！」\nおおかみが おいかけてきました——\n「こぶたちゃん、こぶたちゃん、なかに いれてよ！」\nふたりで いっしょに さけびます……  「いやだ いやだ、ぜったい いれないよ！」",
+              "timestamps": null
+            },
+            {
+              "page": "P09",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P09.mp4",
+              "audio": "final/three-little-pigs/JA/standard/P09_v1.mp3",
+              "text": "おおかみは おおきく いきを すって——\n「ふぅ～～～っ！」\nきが バキバキ とんでいきます！きのおうちも こわれちゃった！\nブータと ブーすけは ぎゅっと てを つないで にげました！",
+              "timestamps": null
+            },
+            {
+              "page": "P10",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P10.mp4",
+              "audio": "final/three-little-pigs/JA/standard/P10_v2.mp3",
+              "text": "ふたりは ブーこの レンガのおうちに たどりつきました。\nブーこが ドアを あけます……  「はやく はいって！ここは あんぜんだよ！」",
+              "timestamps": null
+            },
+            {
+              "page": "P11",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P11.mp4",
+              "audio": "final/three-little-pigs/JA/standard/P11_v1.mp3",
+              "text": "おおかみが おいかけてきました——\n「こぶたちゃん、こぶたちゃん、なかに いれてよ！」\n3にんで いっしょに さけびます……  「いやだ いやだ、ぜ～ったい いれないよ！」\nおおかみは いちばん おおきく…… いきを すって——",
+              "timestamps": null
+            },
+            {
+              "page": "P12",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P12.mp4",
+              "audio": "final/three-little-pigs/JA/standard/P12_v1.mp3",
+              "text": "「ふぅ～～～っ！」\nふぅふぅ…… ふぅふぅ……\nぜんぜん たおれない！\nおおかみは べたっと たおれて……  しっぽを まいて にげていきました。",
+              "timestamps": null
+            },
+            {
+              "page": "P13",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P13.mp4",
+              "audio": "final/three-little-pigs/JA/standard/P13_v1.mp3",
+              "text": "そのよる、3にんきょうだいは ブーこのおうちで…… なかよく ごはんを たべました。\nブータ…… 「ブーこ、ありがとう！」\nブーすけ…… 「こんどは ぼくも レンガで つくるよ！」\nそれからずっと…… 3びきのこぶたは なかよく くらしました。",
+              "timestamps": null
+            }
+          ],
+          "toddler": [
+            {
+              "page": "P01",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P01.mp4",
+              "audio": "final/three-little-pigs/JA/toddler/P01_v3.mp3",
+              "text": "3びきのこぶたが…… おうちを つくりに いくよ。\n「がんばってね！」",
+              "timestamps": null
+            },
+            {
+              "page": "P02",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P02.mp4",
+              "audio": "final/three-little-pigs/JA/toddler/P02_v2.mp3",
+              "text": "ブータは わらのおうち。\nはやい はやい！",
+              "timestamps": null
+            },
+            {
+              "page": "P03",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P03.mp4",
+              "audio": "final/three-little-pigs/JA/toddler/P03_v2.mp3",
+              "text": "ブーすけは きのおうち。\nブーこは レンガのおうち。\nじょうぶ！",
+              "timestamps": null
+            },
+            {
+              "page": "P04",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P04.mp4",
+              "audio": "final/three-little-pigs/JA/toddler/P04_v4.mp3",
+              "text": "おおかみだ！\n「いれてよ！」\n「いやだ！」\nふぅ～！\nわらのおうち たおれた！",
+              "timestamps": null
+            },
+            {
+              "page": "P05",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P05.mp4",
+              "audio": "final/three-little-pigs/JA/toddler/P05_v2.mp3",
+              "text": "おおかみ また！\n「いれてよ！」\n「いやだ！」\nふぅ～！\nきのおうちも たおれた！",
+              "timestamps": null
+            },
+            {
+              "page": "P06",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P06.mp4",
+              "audio": "final/three-little-pigs/JA/toddler/P06_v1.mp3",
+              "text": "3びき みんなで…… レンガのおうちへ。\n「あんぜん！」",
+              "timestamps": null
+            },
+            {
+              "page": "P07",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P07.mp4",
+              "audio": "final/three-little-pigs/JA/toddler/P07_v1.mp3",
+              "text": "「いれてよ！」\n「ぜったい いやだ！」",
+              "timestamps": null
+            },
+            {
+              "page": "P08",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P08.mp4",
+              "audio": "final/three-little-pigs/JA/toddler/P08_v1.mp3",
+              "text": "ふぅ～～！\nふぅふぅ……\nたおれない！\nおおかみ にげた！",
+              "timestamps": null
+            },
+            {
+              "page": "P09",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P09.mp4",
+              "audio": "final/three-little-pigs/JA/toddler/P09_v1.mp3",
+              "text": "3びきのこぶた…… なかよく ごはん！",
+              "timestamps": null
+            }
+          ]
+        },
+        "ZH-TW": {
+          "standard": [
+            {
+              "page": "P01",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P01.mp4",
+              "audio": "final/three-little-pigs/ZH-TW/standard/P01.mp3",
+              "text": "大毛、二毛和小毛，是豬媽媽的三個寶貝。\n有一天，豬媽媽說……\n「你們長大了，去蓋自己的房子吧！」",
+              "timestamps": null
+            },
+            {
+              "page": "P02",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P02.mp4",
+              "audio": "final/three-little-pigs/ZH-TW/standard/P02_v1.mp3",
+              "text": "大毛找了一堆稻草…… 兩三下就蓋好了。\n「好了好了！我的稻草屋蓋好啦！」\n大毛開心地躺在椅子上…… 睡午覺去了。",
+              "timestamps": null
+            },
+            {
+              "page": "P03",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P03.mp4",
+              "audio": "final/three-little-pigs/ZH-TW/standard/P03.mp3",
+              "text": "二毛找了好多木頭，叮叮咚咚蓋了一間木頭屋。\n「哼！我的房子比大毛的厲害多了！」",
+              "timestamps": null
+            },
+            {
+              "page": "P04",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P04.mp4",
+              "audio": "final/three-little-pigs/ZH-TW/standard/P04_v2.mp3",
+              "text": "小毛一塊一塊搬磚頭…… 一層一層塗水泥。\n好累好累…… 可是小毛沒有停下來。",
+              "timestamps": null
+            },
+            {
+              "page": "P05",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P05.mp4",
+              "audio": "final/three-little-pigs/ZH-TW/standard/P05_v1.mp3",
+              "text": "終於！小毛的磚頭屋蓋好了！\n又大又漂亮又堅固。",
+              "timestamps": null
+            },
+            {
+              "page": "P06",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P06.mp4",
+              "audio": "final/three-little-pigs/ZH-TW/standard/P06_v2.mp3",
+              "text": "有一天…… 大野狼來了！\n他走到大毛的稻草屋前面，大聲說——\n「小豬小豬，讓我進去！」\n大毛嚇得抖抖抖……  「不要不要，就不讓你進來！」",
+              "timestamps": null
+            },
+            {
+              "page": "P07",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P07.mp4",
+              "audio": "final/three-little-pigs/ZH-TW/standard/P07_v2.mp3",
+              "text": "大野狼吸了一大口氣——\n「呼～～～！」\n稻草飛得到處都是！稻草屋倒了！\n大毛嚇得拔腿就跑。",
+              "timestamps": null
+            },
+            {
+              "page": "P08",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P08.mp4",
+              "audio": "final/three-little-pigs/ZH-TW/standard/P08_v2.mp3",
+              "text": "大毛跑呀跑，跑到二毛的木頭屋。\n「快開門！大野狼來了！」\n大野狼追來了——\n「小豬小豬，讓我進去！」\n兩隻小豬一起喊……  「不要不要，就不讓你進來！」",
+              "timestamps": null
+            },
+            {
+              "page": "P09",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P09.mp4",
+              "audio": "final/three-little-pigs/ZH-TW/standard/P09_v1.mp3",
+              "text": "大野狼吸了一大口氣——\n「呼～～～！」\n木板飛得到處都是！木頭屋也倒了！\n大毛和二毛抱在一起，拔腿就跑！",
+              "timestamps": null
+            },
+            {
+              "page": "P10",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P10.mp4",
+              "audio": "final/three-little-pigs/ZH-TW/standard/P10_v3.mp3",
+              "text": "兩個哥哥跑到小毛的磚頭屋前面。\n小毛打開門……  「快進來！這裡安全！」",
+              "timestamps": null
+            },
+            {
+              "page": "P11",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P11.mp4",
+              "audio": "final/three-little-pigs/ZH-TW/standard/P11_v1.mp3",
+              "text": "大野狼追到磚頭屋前面——\n「小豬小豬，讓我進去！」\n三隻小豬一起喊……  「不要不要，就不讓你進來！」\n大野狼吸了…… 最～大～口氣——",
+              "timestamps": null
+            },
+            {
+              "page": "P12",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P12.mp4",
+              "audio": "final/three-little-pigs/ZH-TW/standard/P12_v1.mp3",
+              "text": "「呼～～～！」\n吹呀吹…… 吹呀吹……\n吹——不——倒！\n大野狼累得趴在地上……  灰溜溜地跑掉了。",
+              "timestamps": null
+            },
+            {
+              "page": "P13",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P13.mp4",
+              "audio": "final/three-little-pigs/ZH-TW/standard/P13_v1.mp3",
+              "text": "三兄弟在小毛的磚頭屋裡，一起吃晚餐、一起聊天。\n大毛說…… 「小毛，謝謝你！」\n二毛說…… 「下次，我也要蓋磚頭屋！」\n後來呀…… 三隻小豬就快快樂樂住在一起了。",
+              "timestamps": null
+            }
+          ],
+          "toddler": [
+            {
+              "page": "P01",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P01.mp4",
+              "audio": "final/three-little-pigs/ZH-TW/toddler/P01.mp3",
+              "text": "三隻小豬…… 要去蓋房子了。\n豬媽媽說……  「加油喔！」",
+              "timestamps": null
+            },
+            {
+              "page": "P02",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P02.mp4",
+              "audio": "final/three-little-pigs/ZH-TW/toddler/P02_v1.mp3",
+              "text": "大毛蓋了稻草屋。\n好快好快！",
+              "timestamps": null
+            },
+            {
+              "page": "P03",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P03.mp4",
+              "audio": "final/three-little-pigs/ZH-TW/toddler/P03.mp3",
+              "text": "二毛蓋了木頭屋。\n小毛蓋了磚頭屋。\n好堅固！",
+              "timestamps": null
+            },
+            {
+              "page": "P04",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P04.mp4",
+              "audio": "final/three-little-pigs/ZH-TW/toddler/P04_v2.mp3",
+              "text": "大野狼來了！\n「讓我進去！」\n「不要！」\n呼～～～！\n稻草屋倒了！",
+              "timestamps": null
+            },
+            {
+              "page": "P05",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P05.mp4",
+              "audio": "final/three-little-pigs/ZH-TW/toddler/P05_v2.mp3",
+              "text": "大野狼又來了！\n「讓我進去！」\n「不要！」\n呼～～～！\n木頭屋也倒了！",
+              "timestamps": null
+            },
+            {
+              "page": "P06",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P06.mp4",
+              "audio": "final/three-little-pigs/ZH-TW/toddler/P06.mp3",
+              "text": "三隻小豬…… 躲進磚頭屋。\n「這裡安全！」",
+              "timestamps": null
+            },
+            {
+              "page": "P07",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P07.mp4",
+              "audio": "final/three-little-pigs/ZH-TW/toddler/P07_v1.mp3",
+              "text": "「讓我進去！」\n「不要不要！」",
+              "timestamps": null
+            },
+            {
+              "page": "P08",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P08.mp4",
+              "audio": "final/three-little-pigs/ZH-TW/toddler/P08_v2.mp3",
+              "text": "呼～～～！\n吹呀吹……\n吹不倒！\n大野狼跑掉了！",
+              "timestamps": null
+            },
+            {
+              "page": "P09",
+              "mediaType": "video",
+              "media": "final/three-little-pigs/media/P09.mp4",
+              "audio": "final/three-little-pigs/ZH-TW/toddler/P09.mp3",
+              "text": "三隻小豬好開心……\n一起吃飯飯。",
+              "timestamps": null
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

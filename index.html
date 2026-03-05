@@ -1,0 +1,951 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Piyo Preview</title>
+
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&family=Inter:wght@400;500;600&family=Noto+Serif+TC:wght@400;600&family=Noto+Serif+JP:wght@400;600&display=swap" rel="stylesheet">
+
+<style>
+/* ============================================================
+   RESET & BASE
+   ============================================================ */
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --bg: #FAF7F2;
+  --card-bg: #FFFFFF;
+  --text-primary: #2C2C2C;
+  --text-secondary: #8C8C8C;
+  --accent: #8B6F47;
+  --accent-light: rgba(139, 111, 71, 0.15);
+  --unspoken: #CCCCCC;
+  --hint: #B8A080;
+  --shadow: 0 2px 16px rgba(0, 0, 0, 0.06);
+  --radius: 12px;
+  --max-content: 960px;
+  --max-media: 860px;
+  --font-title: 'Cormorant Garamond', Georgia, serif;
+  --font-ui: 'Inter', -apple-system, sans-serif;
+  --font-en: 'Inter', sans-serif;
+  --font-zh: 'Noto Serif TC', serif;
+  --font-ja: 'Noto Serif JP', serif;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text-primary);
+  font-family: var(--font-ui);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+/* ============================================================
+   WELCOME OVERLAY
+   ============================================================ */
+.welcome-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(250, 247, 242, 0.96);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  transition: opacity 0.4s ease;
+}
+.welcome-overlay.hidden {
+  opacity: 0;
+  pointer-events: none;
+}
+.welcome-btn {
+  font-family: var(--font-title);
+  font-size: 28px;
+  font-weight: 600;
+  color: var(--accent);
+  background: var(--card-bg);
+  border: 2px solid var(--accent);
+  border-radius: 60px;
+  padding: 20px 48px;
+  cursor: pointer;
+  box-shadow: var(--shadow);
+  transition: all 0.2s ease;
+  letter-spacing: 0.5px;
+}
+.welcome-btn:hover {
+  background: var(--accent);
+  color: #fff;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 24px rgba(139, 111, 71, 0.2);
+}
+
+/* ============================================================
+   HEADER
+   ============================================================ */
+.app-header {
+  max-width: var(--max-content);
+  margin: 0 auto;
+  padding: 32px 24px 0;
+}
+.page-title {
+  font-family: var(--font-title);
+  font-size: 32px;
+  font-weight: 600;
+  color: var(--text-primary);
+  text-align: center;
+  margin-bottom: 24px;
+  letter-spacing: 1px;
+}
+.controls-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+/* ============================================================
+   CUSTOM DROPDOWN
+   ============================================================ */
+.dropdown {
+  position: relative;
+  min-width: 160px;
+}
+.dropdown-trigger {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 10px 16px;
+  background: var(--card-bg);
+  border: 1.5px solid #E0D8CE;
+  border-radius: 8px;
+  cursor: pointer;
+  font-family: var(--font-ui);
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text-primary);
+  transition: border-color 0.2s, box-shadow 0.2s;
+  user-select: none;
+  white-space: nowrap;
+}
+.dropdown-trigger:hover {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-light);
+}
+.dropdown-trigger .arrow {
+  font-size: 10px;
+  color: var(--text-secondary);
+  transition: transform 0.2s;
+}
+.dropdown.open .dropdown-trigger .arrow {
+  transform: rotate(180deg);
+}
+.dropdown-menu {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0;
+  right: 0;
+  background: var(--card-bg);
+  border: 1.5px solid #E0D8CE;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  z-index: 100;
+  overflow: hidden;
+  display: none;
+}
+.dropdown.open .dropdown-menu {
+  display: block;
+}
+.dropdown-item {
+  padding: 10px 16px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 400;
+  color: var(--text-primary);
+  transition: background 0.15s;
+  white-space: nowrap;
+}
+.dropdown-item:hover {
+  background: var(--accent-light);
+}
+.dropdown-item.active {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+/* ============================================================
+   AUTO-PLAY TOGGLE
+   ============================================================ */
+.auto-play-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-left: 8px;
+}
+.auto-play-label {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text-secondary);
+  user-select: none;
+}
+.toggle-switch {
+  position: relative;
+  width: 44px;
+  height: 24px;
+  cursor: pointer;
+}
+.toggle-switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+.toggle-slider {
+  position: absolute;
+  inset: 0;
+  background: #D4CFC7;
+  border-radius: 12px;
+  transition: background 0.25s;
+}
+.toggle-slider::before {
+  content: '';
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 18px;
+  height: 18px;
+  background: #fff;
+  border-radius: 50%;
+  transition: transform 0.25s;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.15);
+}
+.toggle-switch input:checked + .toggle-slider {
+  background: var(--accent);
+}
+.toggle-switch input:checked + .toggle-slider::before {
+  transform: translateX(20px);
+}
+
+/* ============================================================
+   PLAYER CARD
+   ============================================================ */
+.player-card {
+  max-width: var(--max-content);
+  margin: 24px auto 0;
+  padding: 0 24px 24px;
+}
+.card-inner {
+  background: var(--card-bg);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+
+/* ============================================================
+   MEDIA CONTAINER
+   ============================================================ */
+.media-wrapper {
+  position: relative;
+  max-width: var(--max-media);
+  margin: 0 auto;
+}
+.media-container {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  background: #F0EDE8;
+  overflow: hidden;
+}
+.media-container img,
+.media-container video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.media-placeholder {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  color: var(--text-secondary);
+  background: #F0EDE8;
+}
+
+/* Slide animation container */
+.slide-wrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.3s ease;
+}
+
+/* ============================================================
+   NAV ARROWS
+   ============================================================ */
+.nav-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.5);
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  color: var(--text-primary);
+  z-index: 10;
+  transition: background 0.2s, opacity 0.2s;
+  opacity: 0.6;
+}
+.nav-arrow:hover {
+  background: rgba(255, 255, 255, 0.9);
+  opacity: 1;
+}
+.nav-arrow.left { left: 12px; }
+.nav-arrow.right { right: 12px; }
+.nav-arrow.hidden { display: none; }
+
+/* ============================================================
+   AUDIO HINT
+   ============================================================ */
+.audio-hint {
+  text-align: center;
+  font-size: 13px;
+  color: var(--hint);
+  padding: 6px 0 0;
+  display: none;
+}
+.audio-hint.visible { display: block; }
+
+/* ============================================================
+   SUBTITLE AREA
+   ============================================================ */
+.subtitle-area {
+  min-height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 32px;
+  text-align: center;
+  line-height: 1.8;
+  font-size: 18px;
+  white-space: pre-line;
+}
+.subtitle-area[data-lang="EN"] { font-family: var(--font-en); font-size: 18px; }
+.subtitle-area[data-lang="ZH-TW"] { font-family: var(--font-zh); font-size: 20px; }
+.subtitle-area[data-lang="JA"] { font-family: var(--font-ja); font-size: 20px; }
+
+/* Karaoke word spans */
+.subtitle-area .word {
+  color: var(--unspoken);
+  transition: color 0.15s ease, background-color 0.15s ease;
+  border-radius: 3px;
+  padding: 1px 2px;
+}
+.subtitle-area .word.spoken {
+  color: var(--text-primary);
+}
+.subtitle-area .word.active {
+  color: var(--text-primary);
+  background-color: var(--accent-light);
+}
+
+/* ============================================================
+   PROGRESS BAR / FOOTER
+   ============================================================ */
+.progress-footer {
+  max-width: var(--max-content);
+  margin: 16px auto 32px;
+  padding: 0 24px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.page-indicator {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text-secondary);
+  white-space: nowrap;
+  min-width: 60px;
+  text-align: center;
+}
+.progress-track {
+  flex: 1;
+  height: 6px;
+  background: #E8E2D9;
+  border-radius: 3px;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+.progress-fill {
+  height: 100%;
+  background: var(--accent);
+  border-radius: 3px;
+  transition: width 0.3s ease;
+}
+
+/* ============================================================
+   RESPONSIVE
+   ============================================================ */
+@media (max-width: 768px) {
+  .page-title { font-size: 24px; }
+  .controls-row { gap: 8px; }
+  .dropdown { min-width: 120px; }
+  .subtitle-area { padding: 16px 20px; min-height: 80px; }
+  .nav-arrow { width: 36px; height: 36px; font-size: 16px; }
+}
+</style>
+</head>
+<body>
+
+<!-- Welcome Overlay -->
+<div class="welcome-overlay" id="welcomeOverlay">
+  <button class="welcome-btn" id="welcomeBtn">&#9654; Start Preview</button>
+</div>
+
+<!-- Header -->
+<header class="app-header">
+  <h1 class="page-title">Piyo Preview</h1>
+  <div class="controls-row">
+    <div class="dropdown" id="storyDropdown">
+      <div class="dropdown-trigger"><span class="label">Story</span><span class="arrow">&#9662;</span></div>
+      <div class="dropdown-menu"></div>
+    </div>
+    <div class="dropdown" id="langDropdown">
+      <div class="dropdown-trigger"><span class="label">Language</span><span class="arrow">&#9662;</span></div>
+      <div class="dropdown-menu"></div>
+    </div>
+    <div class="dropdown" id="versionDropdown">
+      <div class="dropdown-trigger"><span class="label">Version</span><span class="arrow">&#9662;</span></div>
+      <div class="dropdown-menu"></div>
+    </div>
+    <div class="auto-play-wrapper">
+      <span class="auto-play-label">Auto &#9654;</span>
+      <label class="toggle-switch">
+        <input type="checkbox" id="autoPlayToggle" checked>
+        <span class="toggle-slider"></span>
+      </label>
+    </div>
+  </div>
+</header>
+
+<!-- Player -->
+<main class="player-card">
+  <div class="card-inner">
+    <div class="media-wrapper">
+      <div class="media-container" id="mediaContainer"></div>
+      <button class="nav-arrow left" id="prevBtn">&#8249;</button>
+      <button class="nav-arrow right" id="nextBtn">&#8250;</button>
+    </div>
+    <div class="audio-hint" id="audioHint">&#128263; Audio not ready</div>
+    <div class="subtitle-area" id="subtitleArea"></div>
+  </div>
+</main>
+
+<!-- Progress -->
+<div class="progress-footer">
+  <div class="page-indicator" id="pageIndicator">0 / 0</div>
+  <div class="progress-track" id="progressTrack">
+    <div class="progress-fill" id="progressFill"></div>
+  </div>
+</div>
+
+<!-- Audio -->
+<audio id="audioPlayer" preload="auto"></audio>
+
+<script>
+/* ============================================================
+   APP STATE
+   ============================================================ */
+const state = {
+  data: null,          // stories.json
+  storyIndex: 0,
+  lang: 'EN',
+  version: 'standard',
+  pageIndex: 0,
+  autoPlay: true,
+  audioUnlocked: false,
+  autoPlayTimer: null,
+  karaokeRAF: null,
+};
+
+const LANG_LABELS = { 'EN': 'English', 'ZH-TW': '繁體中文', 'JA': '日本語' };
+const VERSION_LABELS = { 'standard': 'Standard（4-6y）', 'toddler': 'Toddler（2-4y）' };
+
+/* ============================================================
+   DOM REFS
+   ============================================================ */
+const $ = (sel) => document.querySelector(sel);
+const welcomeOverlay = $('#welcomeOverlay');
+const welcomeBtn = $('#welcomeBtn');
+const storyDropdown = $('#storyDropdown');
+const langDropdown = $('#langDropdown');
+const versionDropdown = $('#versionDropdown');
+const autoPlayToggle = $('#autoPlayToggle');
+const mediaContainer = $('#mediaContainer');
+const prevBtn = $('#prevBtn');
+const nextBtn = $('#nextBtn');
+const audioHint = $('#audioHint');
+const subtitleArea = $('#subtitleArea');
+const pageIndicator = $('#pageIndicator');
+const progressTrack = $('#progressTrack');
+const progressFill = $('#progressFill');
+const audioPlayer = $('#audioPlayer');
+
+/* ============================================================
+   DATA LOADER
+   ============================================================ */
+async function loadData() {
+  try {
+    const res = await fetch('./data/stories.json?t=' + Date.now());
+    state.data = await res.json();
+  } catch (e) {
+    mediaContainer.innerHTML = '<div class="media-placeholder">Failed to load stories.json</div>';
+    return false;
+  }
+  return true;
+}
+
+/* ============================================================
+   DROPDOWN CONTROLLER
+   ============================================================ */
+function setupDropdown(dropdownEl, items, onSelect) {
+  const trigger = dropdownEl.querySelector('.dropdown-trigger .label');
+  const menu = dropdownEl.querySelector('.dropdown-menu');
+  const triggerEl = dropdownEl.querySelector('.dropdown-trigger');
+
+  function render(selectedValue) {
+    menu.innerHTML = '';
+    items.forEach(item => {
+      const div = document.createElement('div');
+      div.className = 'dropdown-item' + (item.value === selectedValue ? ' active' : '');
+      div.textContent = item.label;
+      div.addEventListener('click', () => {
+        dropdownEl.classList.remove('open');
+        onSelect(item.value);
+      });
+      menu.appendChild(div);
+    });
+    const selected = items.find(i => i.value === selectedValue);
+    if (selected) trigger.textContent = selected.label;
+  }
+
+  triggerEl.addEventListener('click', (e) => {
+    e.stopPropagation();
+    // Close other dropdowns
+    document.querySelectorAll('.dropdown.open').forEach(d => {
+      if (d !== dropdownEl) d.classList.remove('open');
+    });
+    dropdownEl.classList.toggle('open');
+  });
+
+  return { render };
+}
+
+// Close dropdowns on outside click
+document.addEventListener('click', () => {
+  document.querySelectorAll('.dropdown.open').forEach(d => d.classList.remove('open'));
+});
+
+let storyDD, langDD, versionDD;
+
+function initDropdowns() {
+  const stories = state.data.stories;
+
+  // Story dropdown
+  storyDD = setupDropdown(storyDropdown,
+    stories.map((s, i) => ({
+      value: i,
+      label: s.title[state.lang] || s.title['EN'] || s.id
+    })),
+    (val) => { state.storyIndex = val; state.pageIndex = 0; onSelectionChange(); }
+  );
+
+  // Language dropdown
+  const currentStory = stories[state.storyIndex];
+  langDD = setupDropdown(langDropdown,
+    currentStory.languages.map(l => ({ value: l, label: LANG_LABELS[l] || l })),
+    (val) => { state.lang = val; state.pageIndex = 0; onSelectionChange(); }
+  );
+
+  // Version dropdown
+  versionDD = setupDropdown(versionDropdown,
+    currentStory.versions.map(v => ({ value: v, label: VERSION_LABELS[v] || v })),
+    (val) => { state.version = val; state.pageIndex = 0; onSelectionChange(); }
+  );
+
+  updateDropdowns();
+}
+
+function updateDropdowns() {
+  const stories = state.data.stories;
+  const currentStory = stories[state.storyIndex];
+
+  // Update story dropdown with current language titles
+  storyDD.render(state.storyIndex);
+  storyDropdown.querySelector('.dropdown-menu').innerHTML = '';
+  stories.forEach((s, i) => {
+    const div = document.createElement('div');
+    div.className = 'dropdown-item' + (i === state.storyIndex ? ' active' : '');
+    div.textContent = s.title[state.lang] || s.title['EN'] || s.id;
+    div.addEventListener('click', () => {
+      storyDropdown.classList.remove('open');
+      state.storyIndex = i;
+      state.pageIndex = 0;
+      onSelectionChange();
+    });
+    storyDropdown.querySelector('.dropdown-menu').appendChild(div);
+  });
+  const storyLabel = currentStory.title[state.lang] || currentStory.title['EN'] || currentStory.id;
+  storyDropdown.querySelector('.dropdown-trigger .label').textContent = storyLabel;
+
+  // Update lang dropdown
+  langDD.render(state.lang);
+  // Rebuild lang items for current story
+  langDropdown.querySelector('.dropdown-menu').innerHTML = '';
+  currentStory.languages.forEach(l => {
+    const div = document.createElement('div');
+    div.className = 'dropdown-item' + (l === state.lang ? ' active' : '');
+    div.textContent = LANG_LABELS[l] || l;
+    div.addEventListener('click', () => {
+      langDropdown.classList.remove('open');
+      state.lang = l;
+      state.pageIndex = 0;
+      onSelectionChange();
+    });
+    langDropdown.querySelector('.dropdown-menu').appendChild(div);
+  });
+  langDropdown.querySelector('.dropdown-trigger .label').textContent = LANG_LABELS[state.lang] || state.lang;
+
+  // Update version dropdown
+  versionDD.render(state.version);
+  versionDropdown.querySelector('.dropdown-menu').innerHTML = '';
+  currentStory.versions.forEach(v => {
+    const div = document.createElement('div');
+    div.className = 'dropdown-item' + (v === state.version ? ' active' : '');
+    div.textContent = VERSION_LABELS[v] || v;
+    div.addEventListener('click', () => {
+      versionDropdown.classList.remove('open');
+      state.version = v;
+      state.pageIndex = 0;
+      onSelectionChange();
+    });
+    versionDropdown.querySelector('.dropdown-menu').appendChild(div);
+  });
+  versionDropdown.querySelector('.dropdown-trigger .label').textContent = VERSION_LABELS[state.version] || state.version;
+}
+
+/* ============================================================
+   PAGE DATA HELPERS
+   ============================================================ */
+function getCurrentPages() {
+  const story = state.data.stories[state.storyIndex];
+  const langPages = story.pages[state.lang];
+  if (!langPages) return [];
+  return langPages[state.version] || [];
+}
+
+function getCurrentPage() {
+  const pages = getCurrentPages();
+  return pages[state.pageIndex] || null;
+}
+
+/* ============================================================
+   PAGE RENDERER
+   ============================================================ */
+function renderPage() {
+  const page = getCurrentPage();
+  const pages = getCurrentPages();
+  const total = pages.length;
+
+  // Stop any current playback
+  stopAudio();
+  cancelKaraoke();
+
+  if (!page) {
+    mediaContainer.innerHTML = '<div class="media-placeholder">No pages available</div>';
+    subtitleArea.textContent = '';
+    subtitleArea.removeAttribute('data-lang');
+    audioHint.classList.remove('visible');
+    pageIndicator.textContent = '0 / 0';
+    progressFill.style.width = '0%';
+    prevBtn.classList.add('hidden');
+    nextBtn.classList.add('hidden');
+    return;
+  }
+
+  // Media
+  renderMedia(page);
+
+  // Subtitle
+  renderSubtitle(page);
+
+  // Audio hint
+  if (!page.audio) {
+    audioHint.classList.add('visible');
+  } else {
+    audioHint.classList.remove('visible');
+  }
+
+  // Nav arrows
+  prevBtn.classList.toggle('hidden', state.pageIndex === 0);
+  nextBtn.classList.toggle('hidden', state.pageIndex >= total - 1);
+
+  // Page indicator & progress
+  pageIndicator.textContent = `${state.pageIndex + 1} / ${total}`;
+  progressFill.style.width = total > 0 ? `${((state.pageIndex + 1) / total) * 100}%` : '0%';
+
+  // Play audio
+  if (page.audio && state.audioUnlocked) {
+    playAudio(page);
+  }
+}
+
+function renderMedia(page) {
+  mediaContainer.innerHTML = '';
+  if (!page.media) {
+    mediaContainer.innerHTML = '<div class="media-placeholder">\uD83D\uDDBC\uFE0F Media not ready</div>';
+    return;
+  }
+  if (page.mediaType === 'video') {
+    const video = document.createElement('video');
+    video.src = page.media;
+    video.muted = true;
+    video.playsInline = true;
+    video.loop = true;
+    video.id = 'currentVideo';
+    mediaContainer.appendChild(video);
+    if (state.audioUnlocked) video.play().catch(() => {});
+  } else {
+    const img = document.createElement('img');
+    img.src = page.media;
+    img.alt = page.page;
+    img.draggable = false;
+    mediaContainer.appendChild(img);
+  }
+}
+
+function renderSubtitle(page) {
+  subtitleArea.innerHTML = '';
+  subtitleArea.setAttribute('data-lang', state.lang);
+
+  if (!page.text) return;
+
+  if (page.timestamps && page.timestamps.length > 0) {
+    // Karaoke mode: render each word as a span
+    page.timestamps.forEach((ts, i) => {
+      const span = document.createElement('span');
+      span.className = 'word';
+      span.textContent = ts.word;
+      span.dataset.index = i;
+      subtitleArea.appendChild(span);
+      // Add space between words (for EN), for CJK no space needed
+      if (state.lang === 'EN' && i < page.timestamps.length - 1) {
+        subtitleArea.appendChild(document.createTextNode(' '));
+      }
+    });
+  } else {
+    // Plain text mode
+    subtitleArea.textContent = page.text;
+  }
+}
+
+/* ============================================================
+   AUDIO CONTROLLER
+   ============================================================ */
+function playAudio(page) {
+  clearAutoPlayTimer();
+  audioPlayer.src = page.audio;
+  audioPlayer.currentTime = 0;
+  audioPlayer.play().then(() => {
+    // Start karaoke if timestamps
+    if (page.timestamps && page.timestamps.length > 0) {
+      startKaraoke(page.timestamps);
+    }
+    // Sync video start
+    const video = document.getElementById('currentVideo');
+    if (video) {
+      video.currentTime = 0;
+      video.play().catch(() => {});
+    }
+  }).catch(() => {});
+}
+
+function stopAudio() {
+  audioPlayer.pause();
+  audioPlayer.removeAttribute('src');
+  clearAutoPlayTimer();
+}
+
+function clearAutoPlayTimer() {
+  if (state.autoPlayTimer) {
+    clearTimeout(state.autoPlayTimer);
+    state.autoPlayTimer = null;
+  }
+}
+
+// Audio ended handler
+audioPlayer.addEventListener('ended', () => {
+  cancelKaraoke();
+  if (state.autoPlay) {
+    const pages = getCurrentPages();
+    if (state.pageIndex < pages.length - 1) {
+      state.autoPlayTimer = setTimeout(() => {
+        goNext();
+      }, 1500);
+    }
+  }
+});
+
+/* ============================================================
+   KARAOKE ENGINE
+   ============================================================ */
+function startKaraoke(timestamps) {
+  cancelKaraoke();
+  const wordEls = subtitleArea.querySelectorAll('.word');
+  if (wordEls.length === 0) return;
+
+  function update() {
+    const t = audioPlayer.currentTime;
+    wordEls.forEach((el, i) => {
+      const ts = timestamps[i];
+      if (!ts) return;
+      if (t >= ts.end) {
+        el.classList.add('spoken');
+        el.classList.remove('active');
+      } else if (t >= ts.start) {
+        el.classList.add('active');
+        el.classList.remove('spoken');
+      } else {
+        el.classList.remove('spoken', 'active');
+      }
+    });
+    if (!audioPlayer.paused) {
+      state.karaokeRAF = requestAnimationFrame(update);
+    }
+  }
+  state.karaokeRAF = requestAnimationFrame(update);
+}
+
+function cancelKaraoke() {
+  if (state.karaokeRAF) {
+    cancelAnimationFrame(state.karaokeRAF);
+    state.karaokeRAF = null;
+  }
+}
+
+/* ============================================================
+   NAVIGATION CONTROLLER
+   ============================================================ */
+function goPrev() {
+  if (state.pageIndex > 0) {
+    state.pageIndex--;
+    renderPage();
+  }
+}
+
+function goNext() {
+  const pages = getCurrentPages();
+  if (state.pageIndex < pages.length - 1) {
+    state.pageIndex++;
+    renderPage();
+  }
+}
+
+function goToPage(index) {
+  const pages = getCurrentPages();
+  if (index >= 0 && index < pages.length) {
+    state.pageIndex = index;
+    renderPage();
+  }
+}
+
+// Arrow buttons
+prevBtn.addEventListener('click', goPrev);
+nextBtn.addEventListener('click', goNext);
+
+// Keyboard
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'ArrowLeft') { e.preventDefault(); goPrev(); }
+  if (e.key === 'ArrowRight') { e.preventDefault(); goNext(); }
+});
+
+// Progress bar click
+progressTrack.addEventListener('click', (e) => {
+  const rect = progressTrack.getBoundingClientRect();
+  const ratio = (e.clientX - rect.left) / rect.width;
+  const pages = getCurrentPages();
+  const index = Math.floor(ratio * pages.length);
+  goToPage(Math.min(index, pages.length - 1));
+});
+
+/* ============================================================
+   AUTO PLAY TOGGLE
+   ============================================================ */
+autoPlayToggle.addEventListener('change', () => {
+  state.autoPlay = autoPlayToggle.checked;
+  if (!state.autoPlay) clearAutoPlayTimer();
+});
+
+/* ============================================================
+   SELECTION CHANGE
+   ============================================================ */
+function onSelectionChange() {
+  // Validate lang/version exist for new story
+  const story = state.data.stories[state.storyIndex];
+  if (!story.languages.includes(state.lang)) {
+    state.lang = story.languages[0] || 'EN';
+  }
+  if (!story.versions.includes(state.version)) {
+    state.version = story.versions[0] || 'standard';
+  }
+  updateDropdowns();
+  renderPage();
+}
+
+/* ============================================================
+   WELCOME / INIT
+   ============================================================ */
+welcomeBtn.addEventListener('click', () => {
+  state.audioUnlocked = true;
+  welcomeOverlay.classList.add('hidden');
+  // Play current page audio if available
+  const page = getCurrentPage();
+  if (page && page.audio) {
+    playAudio(page);
+  }
+  // Play video if present
+  const video = document.getElementById('currentVideo');
+  if (video) video.play().catch(() => {});
+});
+
+async function init() {
+  const ok = await loadData();
+  if (!ok) return;
+
+  // Set defaults
+  const firstStory = state.data.stories[0];
+  state.storyIndex = 0;
+  state.lang = firstStory.languages[0] || 'EN';
+  state.version = firstStory.versions[0] || 'standard';
+  state.pageIndex = 0;
+
+  initDropdowns();
+  renderPage();
+}
+
+init();
+</script>
+</body>
+</html>
