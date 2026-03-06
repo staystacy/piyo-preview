@@ -768,6 +768,18 @@ function renderCJKKaraoke(wrapper, page) {
     }
   });
 
+  // Count CJK content chars in page.text
+  let textCJKCount = 0;
+  for (const ch of page.text) {
+    if (ch !== '\n' && ch !== ' ' && isCJKContent(ch)) textCJKCount++;
+  }
+
+  // Proportional mapping: handles kanji↔hiragana count mismatches
+  // (e.g. TS "母" = 1 char vs text "かあ" = 2 chars)
+  // When counts match, round(i*(M-1)/(N-1)) = i → identical to 1:1
+  const M = contentTimings.length;
+  const N = textCJKCount;
+
   let contentIdx = 0;
   let lastTiming = null;
 
@@ -779,9 +791,13 @@ function renderCJKKaraoke(wrapper, page) {
     span.className = 'word';
     span.textContent = ch;
 
-    if (isCJKContent(ch) && contentIdx < contentTimings.length) {
-      lastTiming = contentTimings[contentIdx++];
-    } else if (!isCJKContent(ch)) {
+    if (isCJKContent(ch)) {
+      if (M > 0 && contentIdx < N) {
+        const tsIdx = Math.min(Math.round(contentIdx * (M - 1) / Math.max(N - 1, 1)), M - 1);
+        lastTiming = contentTimings[tsIdx];
+      }
+      contentIdx++;
+    } else {
       span.dataset.punct = '1';
     }
     if (lastTiming) {
