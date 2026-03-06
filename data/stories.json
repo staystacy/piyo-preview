@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-06T07:42:31Z",
+  "generatedAt": "2026-03-06T10:56:46Z",
   "stories": [
     {
       "id": "goldilocks-and-the-three-bears",
@@ -22,8 +22,8 @@
           "standard": [
             {
               "page": "P01",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P01.mp4",
               "audio": "final/goldilocks-and-the-three-bears/EN/standard/P01_v2.mp3",
               "text": "Goldie loved walking in the forest.\nToday, she found a path she'd never seen before.\n\"Hmm? Where does this lead?\"",
               "timestamps": [
@@ -151,8 +151,8 @@
             },
             {
               "page": "P02",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P02.mp4",
               "audio": "final/goldilocks-and-the-three-bears/EN/standard/P02_v2.mp3",
               "text": "At the end of the path was the cutest little cottage!\nThe door was open, and something smelled delicious inside.\nGoldie couldn't help herself. She tiptoed in.",
               "timestamps": [
@@ -322,8 +322,8 @@
             },
             {
               "page": "P03",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P03.mp4",
               "audio": "final/goldilocks-and-the-three-bears/EN/standard/P03_v1.mp3",
               "text": "On the table sat three bowls of porridge — a big one, a medium one, and a tiny one.\nGoldie tasted the big bowl.\n\"Ow ow ow! This one is too HOT!\"",
               "timestamps": [
@@ -517,8 +517,8 @@
             },
             {
               "page": "P04",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P04.mp4",
               "audio": "final/goldilocks-and-the-three-bears/EN/standard/P04_v2.mp3",
               "text": "She tasted the medium bowl.\n\"Brrr! This one is too COLD!\"",
               "timestamps": [
@@ -592,8 +592,8 @@
             },
             {
               "page": "P05",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P05.mp4",
               "audio": "final/goldilocks-and-the-three-bears/EN/standard/P05_v1.mp3",
               "text": "She tasted the tiny bowl.\n\"This one is…  just right!\"\nGoldie ate it all up. Every last drop!",
               "timestamps": [
@@ -709,8 +709,8 @@
             },
             {
               "page": "P06",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P06.mp4",
               "audio": "final/goldilocks-and-the-three-bears/EN/standard/P06_v1.mp3",
               "text": "In the living room, Goldie found three chairs.\nShe sat in the big chair.\n\"Ouch! This one is too HARD!\"",
               "timestamps": [
@@ -838,8 +838,8 @@
             },
             {
               "page": "P07",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P07.mp4",
               "audio": "final/goldilocks-and-the-three-bears/EN/standard/P07_v1.mp3",
               "text": "She sat in the medium chair.\n\"Whoa! This one is too SOFT!\"\nShe sank right in and could barely get out!",
               "timestamps": [
@@ -973,8 +973,8 @@
             },
             {
               "page": "P08",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P08.mp4",
               "audio": "final/goldilocks-and-the-three-bears/EN/standard/P08_v1.mp3",
               "text": "She sat in the tiny chair.\n\"This one is…  just right!\"\nBut she wiggled and wobbled and—\nCRACK!  The chair broke!",
               "timestamps": [
@@ -1108,8 +1108,8 @@
             },
             {
               "page": "P09",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P09.mp4",
               "audio": "final/goldilocks-and-the-three-bears/EN/standard/P09_v2.mp3",
               "text": "Upstairs, Goldie found three beds.\nShe climbed onto the big bed.\n\"Whew! This one is too HIGH!\"",
               "timestamps": [
@@ -1219,8 +1219,8 @@
             },
             {
               "page": "P10",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P10.mp4",
               "audio": "final/goldilocks-and-the-three-bears/EN/standard/P10_v1.mp3",
               "text": "She tried the medium bed.\n\"Ugh! This one is too SMALL!\"\nHer feet stuck right out the end!",
               "timestamps": [
@@ -1336,8 +1336,8 @@
             },
             {
               "page": "P11",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P11.mp4",
               "audio": "final/goldilocks-and-the-three-bears/EN/standard/P11_v1.mp3",
               "text": "She lay down in the tiny bed.\n\"This one is… just… right…\"\nAnd just like that, Goldie fell fast asleep. Zzzzzz.",
               "timestamps": [
@@ -1465,8 +1465,8 @@
             },
             {
               "page": "P12",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P12.mp4",
               "audio": "final/goldilocks-and-the-three-bears/EN/standard/P12_v1.mp3",
               "text": "The door opened. The three bears were home!\nPapa Bear rumbled… \"Who's been eating MY porridge?\"\nMama Bear gasped… \"Who broke MY chair?\"\nBaby Bear ran upstairs and squealed — \"Someone's in MY bed!\"",
               "timestamps": [
@@ -1672,8 +1672,8 @@
             },
             {
               "page": "P13",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P13.mp4",
               "audio": "final/goldilocks-and-the-three-bears/EN/standard/P13_v3.mp3",
               "text": "Goldie woke up and saw three bears staring at her.\n\"AAAH! I'm so sorry! I'm so so sorry!\"\n\"I shouldn't have come into your house without asking!\"",
               "timestamps": [
@@ -1855,8 +1855,8 @@
             },
             {
               "page": "P14",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P14.mp4",
               "audio": "final/goldilocks-and-the-three-bears/EN/standard/P14_v2.mp3",
               "text": "Mama Bear smiled…  \"It's okay, dear. Just knock next time!\"\nBaby Bear tugged on Goldie's dress… \"Come play with me again!\"\nGoldie waved goodbye… \"I will! And I'll bring yummy porridge!\"\nAnd from that day on… Goldie and the three bears became the best of friends.",
               "timestamps": [
@@ -2142,8 +2142,8 @@
           "toddler": [
             {
               "page": "P01",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P02.mp4",
               "audio": "final/goldilocks-and-the-three-bears/EN/toddler/P01_v4.mp3",
               "text": "Goldie found a little house in the forest.\nMmm, yummy smell!\nShe went inside.",
               "timestamps": [
@@ -2235,8 +2235,8 @@
             },
             {
               "page": "P02",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P03.mp4",
               "audio": "final/goldilocks-and-the-three-bears/EN/toddler/P02_v1.mp3",
               "text": "Big bowl —\ntoo HOT!",
               "timestamps": [
@@ -2268,8 +2268,8 @@
             },
             {
               "page": "P03",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P04.mp4",
               "audio": "final/goldilocks-and-the-three-bears/EN/toddler/P03_v2.mp3",
               "text": "Medium bowl —\ntoo COLD!",
               "timestamps": [
@@ -2301,8 +2301,8 @@
             },
             {
               "page": "P04",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P05.mp4",
               "audio": "final/goldilocks-and-the-three-bears/EN/toddler/P04_v2.mp3",
               "text": "Tiny bowl —\njust right!\nAll gone!",
               "timestamps": [
@@ -2346,8 +2346,8 @@
             },
             {
               "page": "P05",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P06.mp4",
               "audio": "final/goldilocks-and-the-three-bears/EN/toddler/P05_v2.mp3",
               "text": "Big chair —  too HARD!\nMedium chair —  too SOFT!",
               "timestamps": [
@@ -2403,8 +2403,8 @@
             },
             {
               "page": "P06",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P08.mp4",
               "audio": "final/goldilocks-and-the-three-bears/EN/toddler/P06_v2.mp3",
               "text": "Tiny chair —\njust right!\nBut…  CRACK! It broke!",
               "timestamps": [
@@ -2460,8 +2460,8 @@
             },
             {
               "page": "P07",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P09.mp4",
               "audio": "final/goldilocks-and-the-three-bears/EN/toddler/P07_v1.mp3",
               "text": "Big bed —  too HIGH!\nMedium bed —  too SMALL!",
               "timestamps": [
@@ -2517,8 +2517,8 @@
             },
             {
               "page": "P08",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P11.mp4",
               "audio": "final/goldilocks-and-the-three-bears/EN/toddler/P08_v2.mp3",
               "text": "Tiny bed —\njust right…\nZzz, Goldie fell asleep.",
               "timestamps": [
@@ -2568,8 +2568,8 @@
             },
             {
               "page": "P09",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P12.mp4",
               "audio": "final/goldilocks-and-the-three-bears/EN/toddler/P09_v2.mp3",
               "text": "The bears came home!\n\"Someone's in my bed!\"",
               "timestamps": [
@@ -2625,8 +2625,8 @@
             },
             {
               "page": "P10",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P14.mp4",
               "audio": "final/goldilocks-and-the-three-bears/EN/toddler/P10_v1.mp3",
               "text": "Goldie said sorry.\nThey all became… friends!",
               "timestamps": [
@@ -2680,8 +2680,8 @@
           "standard": [
             {
               "page": "P01",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P01.mp4",
               "audio": "final/goldilocks-and-the-three-bears/JA/standard/P01_v1.mp3",
               "text": "ゴルディは もりの おさんぽが だいすき。\nきょう、みたことのない こみちを みつけました。\n「あれ？このみち、どこに つづくのかな？」",
               "timestamps": [
@@ -2989,8 +2989,8 @@
             },
             {
               "page": "P02",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P02.mp4",
               "audio": "final/goldilocks-and-the-three-bears/JA/standard/P02_v1.mp3",
               "text": "こみちの さきに、かわいい おうちが ありました！\nドアが あいていて、なかから いいにおいが します。\nゴルディは がまんできなくて…… そうっと はいりました。",
               "timestamps": [
@@ -3370,8 +3370,8 @@
             },
             {
               "page": "P03",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P03.mp4",
               "audio": "final/goldilocks-and-the-three-bears/JA/standard/P03_v1.mp3",
               "text": "テーブルに おかゆが 3つ。おおきいの、ちゅうくらいの、ちいさいの。\nゴルディが おおきいのを ぱくっ。\n「あちちちち！これは あつすぎる！」",
               "timestamps": [
@@ -3715,8 +3715,8 @@
             },
             {
               "page": "P04",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P04.mp4",
               "audio": "final/goldilocks-and-the-three-bears/JA/standard/P04_v1.mp3",
               "text": "ちゅうくらいのを ぱくっ。\n「ひゃー！これも つめたすぎる！」",
               "timestamps": [
@@ -3856,8 +3856,8 @@
             },
             {
               "page": "P05",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P05.mp4",
               "audio": "final/goldilocks-and-the-three-bears/JA/standard/P05_v2.mp3",
               "text": "ちいさいのを ぱくっ。\n「これは……  ちょ～ど いい！おいしい！」\nゴルディは ぜんぶ たべちゃいました。",
               "timestamps": [
@@ -4105,8 +4105,8 @@
             },
             {
               "page": "P06",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P06.mp4",
               "audio": "final/goldilocks-and-the-three-bears/JA/standard/P06_v2.mp3",
               "text": "おへやに いすが 3つ。\nおおきい いすに すわりました。\n「いたたた！これは かたすぎる！」",
               "timestamps": [
@@ -4324,8 +4324,8 @@
             },
             {
               "page": "P07",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P07.mp4",
               "audio": "final/goldilocks-and-the-three-bears/JA/standard/P07_v1.mp3",
               "text": "ちゅうくらいの いすに すわりました。\n「ふにゃ～！これも やわらかすぎる！」\nからだが ずぶずぶ しずんじゃう！",
               "timestamps": [
@@ -4579,8 +4579,8 @@
             },
             {
               "page": "P08",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P08.mp4",
               "audio": "final/goldilocks-and-the-three-bears/JA/standard/P08_v1.mp3",
               "text": "ちいさい いすに すわりました。\n「これは……  ちょ～ど いい！」\nでも うれしくて ゆらゆら ゆらゆら——\n「パキッ！」  いすが こわれちゃった！",
               "timestamps": [
@@ -4882,8 +4882,8 @@
             },
             {
               "page": "P09",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P09.mp4",
               "audio": "final/goldilocks-and-the-three-bears/JA/standard/P09_v2.mp3",
               "text": "2かいに あがると、ベッドが 3つ。\nおおきい ベッドに のぼりました。\n「たかい たかい！これは たかすぎる！」",
               "timestamps": [
@@ -5131,8 +5131,8 @@
             },
             {
               "page": "P10",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P10.mp4",
               "audio": "final/goldilocks-and-the-three-bears/JA/standard/P10_v1.mp3",
               "text": "ちゅうくらいの ベッドに ねました。\n「ちいさい ちいさい！これも ちいさすぎる！」\nあしが ベッドから はみでちゃう！",
               "timestamps": [
@@ -5410,8 +5410,8 @@
             },
             {
               "page": "P11",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P11.mp4",
               "audio": "final/goldilocks-and-the-three-bears/JA/standard/P11_v1.mp3",
               "text": "ちいさい ベッドに ねました。\n「これは…… ちょ～ど…… いい……」\nゴルディは すうすう ねむってしまいました。",
               "timestamps": [
@@ -5671,8 +5671,8 @@
             },
             {
               "page": "P12",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P12.mp4",
               "audio": "final/goldilocks-and-the-three-bears/JA/standard/P12_v2.mp3",
               "text": "ドアが あきました。3びきのくまが かえってきた！\nパパくま…… 「だれか ぼくの おかゆを たべたぞ？」\nママくま…… 「だれか わたしの いすを こわしたわ！」\nこぐまのベアくんが 2かいに かけあがります—— 「だれか ぼくの ベッドに いる！！」",
               "timestamps": [
@@ -6196,8 +6196,8 @@
             },
             {
               "page": "P13",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P13.mp4",
               "audio": "final/goldilocks-and-the-three-bears/JA/standard/P13_v1.mp3",
               "text": "ゴルディが めを さますと、くまが 3びき！\n「きゃー！ごめんなさい ごめんなさい！」\n「かってに はいって、ごめんなさい！」",
               "timestamps": [
@@ -6493,8 +6493,8 @@
             },
             {
               "page": "P14",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P14.mp4",
               "audio": "final/goldilocks-and-the-three-bears/JA/standard/P14_v1.mp3",
               "text": "ママくまが にっこり……  「いいのよ。こんどは ノックしてね！」\nベアくんが ゴルディの スカートを ひっぱります…… 「また あそびにきてね！」\nゴルディは てを ふりました…… 「うん！こんどは おいしい おかゆ もってくるね！」\nそれからずっと…… ゴルディと 3びきのくまは なかよしに なりました。",
               "timestamps": [
@@ -7224,8 +7224,8 @@
           "toddler": [
             {
               "page": "P01",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P02.mp4",
               "audio": "final/goldilocks-and-the-three-bears/JA/toddler/P01_v1.mp3",
               "text": "ゴルディが もりで…… おうちを みつけた。\nいいにおい！\nなかに はいりました。",
               "timestamps": [
@@ -7407,8 +7407,8 @@
             },
             {
               "page": "P02",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P03.mp4",
               "audio": "final/goldilocks-and-the-three-bears/JA/toddler/P02_v1.mp3",
               "text": "おおきいの——\nあつすぎる！",
               "timestamps": [
@@ -7476,8 +7476,8 @@
             },
             {
               "page": "P03",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P04.mp4",
               "audio": "final/goldilocks-and-the-three-bears/JA/toddler/P03_v2.mp3",
               "text": "ちゅうくらいの——\nつめたすぎる！",
               "timestamps": [
@@ -7551,8 +7551,8 @@
             },
             {
               "page": "P04",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P05.mp4",
               "audio": "final/goldilocks-and-the-three-bears/JA/toddler/P04_v1.mp3",
               "text": "ちいさいの——\nちょうど いい！\nぜんぶ たべた！",
               "timestamps": [
@@ -7668,8 +7668,8 @@
             },
             {
               "page": "P05",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P06.mp4",
               "audio": "final/goldilocks-and-the-three-bears/JA/toddler/P05_v1.mp3",
               "text": "おおきい いす……  かたい！\nちゅうくらいの……  やわらかい！",
               "timestamps": [
@@ -7791,8 +7791,8 @@
             },
             {
               "page": "P06",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P08.mp4",
               "audio": "final/goldilocks-and-the-three-bears/JA/toddler/P06_v1.mp3",
               "text": "ちいさい いす——\nちょうど いい！\nでも……  パキッ！こわれた！",
               "timestamps": [
@@ -7932,8 +7932,8 @@
             },
             {
               "page": "P07",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P09.mp4",
               "audio": "final/goldilocks-and-the-three-bears/JA/toddler/P07_v2.mp3",
               "text": "おおきい ベッド……  たかい！\nちゅうくらいの……  ちいさい！",
               "timestamps": [
@@ -8061,8 +8061,8 @@
             },
             {
               "page": "P08",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P11.mp4",
               "audio": "final/goldilocks-and-the-three-bears/JA/toddler/P08_v3.mp3",
               "text": "ちいさい ベッド——\nちょうど いい……\nすうすう…… ねちゃった。",
               "timestamps": [
@@ -8208,8 +8208,8 @@
             },
             {
               "page": "P09",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P12.mp4",
               "audio": "final/goldilocks-and-the-three-bears/JA/toddler/P09_v1.mp3",
               "text": "くまさん かえってきた！\n「だれか ベッドに いる！」",
               "timestamps": [
@@ -8331,8 +8331,8 @@
             },
             {
               "page": "P10",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P14.mp4",
               "audio": "final/goldilocks-and-the-three-bears/JA/toddler/P10_v1.mp3",
               "text": "ゴルディ ごめんね。\nみんな…… なかよし！",
               "timestamps": [
@@ -8440,8 +8440,8 @@
           "standard": [
             {
               "page": "P01",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P01.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/standard/P01_v2.mp3",
               "text": "小金最喜歡在森林裡散步。\n今天，她發現了一條從沒走過的小路。\n「咦？這條路通到哪裡呢？」",
               "timestamps": [
@@ -8683,8 +8683,8 @@
             },
             {
               "page": "P02",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P02.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/standard/P02_v1.mp3",
               "text": "小路的盡頭，是一間好可愛的小屋！\n門開開的，裡面飄出好香好香的味道。\n小金忍不住…… 走了進去。",
               "timestamps": [
@@ -8938,8 +8938,8 @@
             },
             {
               "page": "P03",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P03.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/standard/P03_v1.mp3",
               "text": "桌上有三碗粥—— 大碗、中碗、小碗。\n小金嚐了一口大碗的粥。\n「好燙好燙！這個太燙了！」",
               "timestamps": [
@@ -9181,8 +9181,8 @@
             },
             {
               "page": "P04",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P04.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/standard/P04_v1.mp3",
               "text": "小金嚐了一口中碗的粥。\n「好冰好冰！這個也太冰了！」",
               "timestamps": [
@@ -9328,8 +9328,8 @@
             },
             {
               "page": "P05",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P05.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/standard/P05_v1.mp3",
               "text": "小金嚐了一口小碗的粥。\n「這個……  剛～剛～好！好好吃！」\n小金把小碗粥吃得一口都不剩。",
               "timestamps": [
@@ -9547,8 +9547,8 @@
             },
             {
               "page": "P06",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P06.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/standard/P06_v1.mp3",
               "text": "小金走到客廳，看到三把椅子。\n她坐了大椅子。\n「好硬好硬！這個太硬了！」",
               "timestamps": [
@@ -9748,8 +9748,8 @@
             },
             {
               "page": "P07",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P07.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/standard/P07_v1.mp3",
               "text": "她坐了中椅子。\n「好軟好軟！這個也太軟了！」\n整個人都陷進去了！",
               "timestamps": [
@@ -9937,8 +9937,8 @@
             },
             {
               "page": "P08",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P08.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/standard/P08_v1.mp3",
               "text": "她坐了小椅子。\n「這個……  剛～剛～好！」\n可是小金太開心，晃呀晃——\n「喀啦！」  椅子裂開了！",
               "timestamps": [
@@ -10150,8 +10150,8 @@
             },
             {
               "page": "P09",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P09.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/standard/P09_v1.mp3",
               "text": "小金走上樓，看到三張床。\n她爬上大床。\n「好高好高！這個太高了！」",
               "timestamps": [
@@ -10333,8 +10333,8 @@
             },
             {
               "page": "P10",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P10.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/standard/P10_v1.mp3",
               "text": "她躺了中床。\n「好小好小！這個也太小了！」\n腳都伸出了床尾，怎麼躺都不舒服。",
               "timestamps": [
@@ -10546,8 +10546,8 @@
             },
             {
               "page": "P11",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P11.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/standard/P11_v4.mp3",
               "text": "她躺了小床。\n「這個…… 剛～剛～好……」\n小金一下子就睡著了。呼…… 呼……",
               "timestamps": [
@@ -10705,8 +10705,8 @@
             },
             {
               "page": "P12",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P12.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/standard/P12_v2.mp3",
               "text": "門開了！三隻熊回來了。\n熊爸爸說…… 「誰吃了我的粥？」\n熊媽媽說…… 「誰坐壞了我的椅子？」\n小熊寶寶跑到樓上大叫—— 「有人在我的床上！」",
               "timestamps": [
@@ -11050,8 +11050,8 @@
             },
             {
               "page": "P13",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P13.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/standard/P13_v1.mp3",
               "text": "小金醒來，看到三隻熊，嚇了一大跳！\n「啊！對不起對不起！」\n「我不應該亂進別人的家！」",
               "timestamps": [
@@ -11287,8 +11287,8 @@
             },
             {
               "page": "P14",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P14.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/standard/P14_v1.mp3",
               "text": "熊媽媽笑了……  「沒關係，下次記得先敲門喔！」\n小熊寶寶拉著小金的手…… 「你下次再來跟我玩！」\n小金揮揮手…… 「好！我下次帶好吃的粥來！」\n後來呀…… 小金和三隻熊變成了好朋友。",
               "timestamps": [
@@ -11742,8 +11742,8 @@
           "toddler": [
             {
               "page": "P01",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P02.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/toddler/P01_v4.mp3",
               "text": "小金在森林裡…… 發現一間小屋。\n好香好香！\n她走了進去。",
               "timestamps": [
@@ -11901,8 +11901,8 @@
             },
             {
               "page": "P02",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P03.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/toddler/P02_v1.mp3",
               "text": "大碗的粥——\n太燙了！",
               "timestamps": [
@@ -11964,8 +11964,8 @@
             },
             {
               "page": "P03",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P04.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/toddler/P03_v2.mp3",
               "text": "中碗的粥——\n太冰了！",
               "timestamps": [
@@ -12027,8 +12027,8 @@
             },
             {
               "page": "P04",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P05.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/toddler/P04_v1.mp3",
               "text": "小碗的粥——\n剛剛好！\n吃光光！",
               "timestamps": [
@@ -12114,8 +12114,8 @@
             },
             {
               "page": "P05",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P06.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/toddler/P05.mp3",
               "text": "大椅子……  太硬！\n中椅子……  太軟！",
               "timestamps": [
@@ -12195,8 +12195,8 @@
             },
             {
               "page": "P06",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P08.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/toddler/P06_v2.mp3",
               "text": "小椅子——\n剛剛好！\n可是……  喀啦！壞了！",
               "timestamps": [
@@ -12300,8 +12300,8 @@
             },
             {
               "page": "P07",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P09.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/toddler/P07_v1.mp3",
               "text": "大床……  太高！\n中床……  太小！",
               "timestamps": [
@@ -12369,8 +12369,8 @@
             },
             {
               "page": "P08",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P11.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/toddler/P08.mp3",
               "text": "小床——\n剛剛好……\n呼～ 小金睡著了。",
               "timestamps": [
@@ -12462,8 +12462,8 @@
             },
             {
               "page": "P09",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P12.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/toddler/P09_v2.mp3",
               "text": "三隻熊回來了！\n「有人在我的床上！」",
               "timestamps": [
@@ -12561,8 +12561,8 @@
             },
             {
               "page": "P10",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/goldilocks-and-the-three-bears/media/P14.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/toddler/P10.mp3",
               "text": "小金說對不起。\n大家變成…… 好朋友！",
               "timestamps": [
@@ -12689,8 +12689,8 @@
           "standard": [
             {
               "page": "P01",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P01.mp4",
               "audio": "final/the-tortoise-and-the-hare/EN/standard/P01_v1.mp3",
               "text": "Hops the Hare was the fastest runner in the forest.\nHe loved teasing Tilly the Tortoise… \"You're sooooo slow! Ha ha ha!\"\nTilly looked up calmly.  \"Then let's have a race.\"",
               "timestamps": [
@@ -12866,8 +12866,8 @@
             },
             {
               "page": "P02",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P02.mp4",
               "audio": "final/the-tortoise-and-the-hare/EN/standard/P02_v1.mp3",
               "text": "Judge Owl raised his flag.\n\"Ready… set…  GO!\"\nZOOM! Hops shot off like a rocket!\nTilly took her first step. One step… two steps… nice and slow.",
               "timestamps": [
@@ -13037,8 +13037,8 @@
             },
             {
               "page": "P03",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P03.mp4",
               "audio": "final/the-tortoise-and-the-hare/EN/standard/P03_v3.mp3",
               "text": "Hops ran so far ahead, he turned around and laughed.\n\"Ha! The tortoise is just a tiny little dot!\"\nHe put his hands on his hips and grinned.",
               "timestamps": [
@@ -13214,8 +13214,8 @@
             },
             {
               "page": "P04",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P04.mp4",
               "audio": "final/the-tortoise-and-the-hare/EN/standard/P04_v1.mp3",
               "text": "Tilly kept walking, one little step at a time.\nShe whispered to herself…\n\"It's okay, nice and slow, step by step, here I go.\"",
               "timestamps": [
@@ -13367,8 +13367,8 @@
             },
             {
               "page": "P05",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P05.mp4",
               "audio": "final/the-tortoise-and-the-hare/EN/standard/P05_v1.mp3",
               "text": "Hops was too far ahead with nothing to do. So boring!\nHe chased butterflies. He picked flowers.\n\"The tortoise is so slow… I can play all day!\"",
               "timestamps": [
@@ -13538,8 +13538,8 @@
             },
             {
               "page": "P06",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P06.mp4",
               "audio": "final/the-tortoise-and-the-hare/EN/standard/P06_v2.mp3",
               "text": "Hops yawned a biiiiig yawn.\n\"She's so slow… I'll just rest… my eyes… for a second…\"\nAnd just like that… Hops was snoring. Zzzzzzz.",
               "timestamps": [
@@ -13685,8 +13685,8 @@
             },
             {
               "page": "P07",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P07.mp4",
               "audio": "final/the-tortoise-and-the-hare/EN/standard/P07_v1.mp3",
               "text": "Tilly walked and walked… and walked.\nShe passed right by the snoring hare.\nShe glanced at him… but didn't stop.\n\"It's okay, nice and slow, step by step, here I go.\"",
               "timestamps": [
@@ -13880,8 +13880,8 @@
             },
             {
               "page": "P08",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P08.mp4",
               "audio": "final/the-tortoise-and-the-hare/EN/standard/P08_v1.mp3",
               "text": "The hill was steep. Tilly was so tired, sweat dripping from her head.\nBut she didn't stop.\n\"It's okay… nice and slow… step by step… here I go.\"",
               "timestamps": [
@@ -14057,8 +14057,8 @@
             },
             {
               "page": "P09",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P09.mp4",
               "audio": "final/the-tortoise-and-the-hare/EN/standard/P09_v4.mp3",
               "text": "Hops' eyes popped open!\n\"Oh no! How long was I asleep?!\"\nHe looked around —  the tortoise was GONE!",
               "timestamps": [
@@ -14174,8 +14174,8 @@
             },
             {
               "page": "P10",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P10.mp4",
               "audio": "final/the-tortoise-and-the-hare/EN/standard/P10_v2.mp3",
               "text": "Hops ran as fast as he could!\nBut far, far away, near the top of the hill—\nTilly was almost at the finish line!",
               "timestamps": [
@@ -14327,8 +14327,8 @@
             },
             {
               "page": "P11",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P11.mp4",
               "audio": "final/the-tortoise-and-the-hare/EN/standard/P11_v1.mp3",
               "text": "\"It's okay, nice and slow, step by step, here I go.\"\nTilly crossed the finish line!\n\"HOORAY! Tilly wins!\" everyone cheered!",
               "timestamps": [
@@ -14462,8 +14462,8 @@
             },
             {
               "page": "P12",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P12.mp4",
               "audio": "final/the-tortoise-and-the-hare/EN/standard/P12_v1.mp3",
               "text": "Hops arrived, panting and puffing.\n\"You were amazing!\" he said. \"I'll never be lazy again.\"\nTilly smiled… \"Want to run together next time?\"\nAnd from that day on… they became the very best of friends.",
               "timestamps": [
@@ -14677,8 +14677,8 @@
           "toddler": [
             {
               "page": "P01",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P01.mp4",
               "audio": "final/the-tortoise-and-the-hare/EN/toddler/P01_v2.mp3",
               "text": "Hops laughed at Tilly.  \"You're so slow!\"\nTilly said… \"Let's race!\"",
               "timestamps": [
@@ -14752,8 +14752,8 @@
             },
             {
               "page": "P02",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P02.mp4",
               "audio": "final/the-tortoise-and-the-hare/EN/toddler/P02_v1.mp3",
               "text": "Ready, set, GO!\nZOOM! Hops was fast!\nTilly… walked slowly.",
               "timestamps": [
@@ -14821,8 +14821,8 @@
             },
             {
               "page": "P03",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P04.mp4",
               "audio": "final/the-tortoise-and-the-hare/EN/toddler/P03_v2.mp3",
               "text": "Tilly walked step by step.\n\"Nice and slow… here I go.\"",
               "timestamps": [
@@ -14896,8 +14896,8 @@
             },
             {
               "page": "P04",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P06.mp4",
               "audio": "final/the-tortoise-and-the-hare/EN/toddler/P04_v2.mp3",
               "text": "Hops got tired…\nand fell asleep.  Zzzzz!",
               "timestamps": [
@@ -14941,8 +14941,8 @@
             },
             {
               "page": "P05",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P07.mp4",
               "audio": "final/the-tortoise-and-the-hare/EN/toddler/P05_v2.mp3",
               "text": "Tilly walked past the sleeping hare.\n\"Nice and slow… here I go.\"",
               "timestamps": [
@@ -15022,8 +15022,8 @@
             },
             {
               "page": "P06",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P08.mp4",
               "audio": "final/the-tortoise-and-the-hare/EN/toddler/P06_v1.mp3",
               "text": "Tilly climbed the hill.\nHops woke up —  oh no!",
               "timestamps": [
@@ -15085,8 +15085,8 @@
             },
             {
               "page": "P07",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P11.mp4",
               "audio": "final/the-tortoise-and-the-hare/EN/toddler/P07_v2.mp3",
               "text": "Tilly crossed the finish!\n\"Hooray!\"",
               "timestamps": [
@@ -15124,8 +15124,8 @@
             },
             {
               "page": "P08",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P12.mp4",
               "audio": "final/the-tortoise-and-the-hare/EN/toddler/P08_v1.mp3",
               "text": "Hops said… \"You're amazing!\"\nThey became… best friends.",
               "timestamps": [
@@ -15185,8 +15185,8 @@
           "standard": [
             {
               "page": "P01",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P01.mp4",
               "audio": "final/the-tortoise-and-the-hare/JA/standard/P01_v1.mp3",
               "text": "ウサギのピョンタは、もりで いちばん あしが はやい。\nいつも カメのゆっくんを わらいます。\n「きみ、あるくの おっそいなぁ！あはは！」\nゆっくんは しずかに いいました。  「じゃあ、きょうそう しよう。」",
               "timestamps": [
@@ -15644,8 +15644,8 @@
             },
             {
               "page": "P02",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P02.mp4",
               "audio": "final/the-tortoise-and-the-hare/JA/standard/P02_v1.mp3",
               "text": "しんぱんの フクロウが はたを あげました。\n「よーい……  ドン！」\nピュー！ピョンタが あっというまに みえなくなりました！\nゆっくんは いっぽめを ふみだします。いっぽ、いっぽ、ゆっくり ゆっくり。",
               "timestamps": [
@@ -16133,8 +16133,8 @@
             },
             {
               "page": "P03",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P03.mp4",
               "audio": "final/the-tortoise-and-the-hare/JA/standard/P03_v1.mp3",
               "text": "ピョンタは ずっと さきまで はしって、ふりかえりました。\n「あはは！カメが ちっちゃい てんてんに なってる！」\nピョンタは うでを くんで、にやり。",
               "timestamps": [
@@ -16460,8 +16460,8 @@
             },
             {
               "page": "P04",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P04.mp4",
               "audio": "final/the-tortoise-and-the-hare/JA/standard/P04_v1.mp3",
               "text": "ゆっくんは いっぽいっぽ あるきます。\nちいさなこえで じぶんに いいました……\n「だいじょうぶ、ゆっくり ゆっくり、いっぽ いっぽ、とまらない。」",
               "timestamps": [
@@ -16769,8 +16769,8 @@
             },
             {
               "page": "P05",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P05.mp4",
               "audio": "final/the-tortoise-and-the-hare/JA/standard/P05_v1.mp3",
               "text": "ピョンタは さきに いきすぎて、たいくつ。\nちょうちょを おいかけたり、おはなを つんだり。\n「カメは あんなに おそいもん、ちょっと あそんでも へいきへいき！」",
               "timestamps": [
@@ -17114,8 +17114,8 @@
             },
             {
               "page": "P06",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P06.mp4",
               "audio": "final/the-tortoise-and-the-hare/JA/standard/P06_v1.mp3",
               "text": "あそびつかれて、ピョンタは おおきな おおきな あくびを しました。\n「カメは おそいから…… ちょっと ねても…… まけないもん……」\nそのまま…… ぐうぐう ねてしまいました。",
               "timestamps": [
@@ -17495,8 +17495,8 @@
             },
             {
               "page": "P07",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P07.mp4",
               "audio": "final/the-tortoise-and-the-hare/JA/standard/P07_v1.mp3",
               "text": "ゆっくんは あるいて あるいて…… あるきます。\nぐうぐう ねている ピョンタの よこを とおりました。\nゆっくんは ちらっと みましたが…… とまりません。\n「だいじょうぶ、ゆっくり ゆっくり、いっぽ いっぽ、とまらない。」",
               "timestamps": [
@@ -17978,8 +17978,8 @@
             },
             {
               "page": "P08",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P08.mp4",
               "audio": "final/the-tortoise-and-the-hare/JA/standard/P08_v3.mp3",
               "text": "のぼりざかは たいへん。ゆっくんは あせびっしょり。\nでも とまりません。\n「だいじょうぶ…… ゆっくり ゆっくり…… いっぽ いっぽ…… とまらない。」",
               "timestamps": [
@@ -18293,8 +18293,8 @@
             },
             {
               "page": "P09",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P09.mp4",
               "audio": "final/the-tortoise-and-the-hare/JA/standard/P09_v1.mp3",
               "text": "ピョンタが パッと めを さましました！\n「えっ！！ぼく どれくらい ねてた？」\nきょろきょろ みまわすと——  ゆっくんが いない！",
               "timestamps": [
@@ -18596,8 +18596,8 @@
             },
             {
               "page": "P10",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P10.mp4",
               "audio": "final/the-tortoise-and-the-hare/JA/standard/P10_v1.mp3",
               "text": "ピョンタは ぜんりょくで はしります！\nでも とおくに みえるのは——\nゆっくんが もう やまの うえ！",
               "timestamps": [
@@ -18809,8 +18809,8 @@
             },
             {
               "page": "P11",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P11.mp4",
               "audio": "final/the-tortoise-and-the-hare/JA/standard/P11_v1.mp3",
               "text": "「だいじょうぶ、ゆっくり ゆっくり、いっぽ いっぽ、とまらない。」\nゆっくんが ゴールしました！\n「やったー！ゆっくんの かち！」みんなで おおよろこび！",
               "timestamps": [
@@ -19148,8 +19148,8 @@
             },
             {
               "page": "P12",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P12.mp4",
               "audio": "final/the-tortoise-and-the-hare/JA/standard/P12_v2.mp3",
               "text": "ピョンタは ゴールに つきました。はぁはぁ ぜぇぜぇ。\n「ゆっくん、すごいよ！ぼく もう なまけないよ。」\nゆっくんは にっこり…… 「こんどは いっしょに はしろうよ。」\nそれからずっと…… ふたりは いちばんの なかよしに なりました。",
               "timestamps": [
@@ -19693,8 +19693,8 @@
           "toddler": [
             {
               "page": "P01",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P01.mp4",
               "audio": "final/the-tortoise-and-the-hare/JA/toddler/P01_v1.mp3",
               "text": "ピョンタが ゆっくんを わらった。  「おそーい！」\nゆっくん…… 「きょうそう しよう！」",
               "timestamps": [
@@ -19882,8 +19882,8 @@
             },
             {
               "page": "P02",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P02.mp4",
               "audio": "final/the-tortoise-and-the-hare/JA/toddler/P02_v1.mp3",
               "text": "よーい ドン！\nピュー！ピョンタ はやい！\nゆっくんは…… ゆっくり。",
               "timestamps": [
@@ -20059,8 +20059,8 @@
             },
             {
               "page": "P03",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P04.mp4",
               "audio": "final/the-tortoise-and-the-hare/JA/toddler/P03_v1.mp3",
               "text": "ゆっくん いっぽいっぽ。\n「ゆっくり ゆっくり…… とまらない。」",
               "timestamps": [
@@ -20212,8 +20212,8 @@
             },
             {
               "page": "P04",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P06.mp4",
               "audio": "final/the-tortoise-and-the-hare/JA/toddler/P04_v2.mp3",
               "text": "ピョンタ つかれて……\nぐうぐう…… ねちゃった。",
               "timestamps": [
@@ -20323,8 +20323,8 @@
             },
             {
               "page": "P05",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P07.mp4",
               "audio": "final/the-tortoise-and-the-hare/JA/toddler/P05_v2.mp3",
               "text": "ゆっくんは ねてる ピョンタの よこを とおります。\n「ゆっくり ゆっくり。」",
               "timestamps": [
@@ -20506,8 +20506,8 @@
             },
             {
               "page": "P06",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P08.mp4",
               "audio": "final/the-tortoise-and-the-hare/JA/toddler/P06_v2.mp3",
               "text": "ゆっくん のぼります。\nピョンタ おきた——  あっ！",
               "timestamps": [
@@ -20635,8 +20635,8 @@
             },
             {
               "page": "P07",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P11.mp4",
               "audio": "final/the-tortoise-and-the-hare/JA/toddler/P07_v1.mp3",
               "text": "ゆっくん ゴール！\n「やったー！」",
               "timestamps": [
@@ -20722,8 +20722,8 @@
             },
             {
               "page": "P08",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P12.mp4",
               "audio": "final/the-tortoise-and-the-hare/JA/toddler/P08_v1.mp3",
               "text": "ピョンタ…… 「すごいよ！」\nふたりは…… なかよしに なりました。",
               "timestamps": [
@@ -20867,8 +20867,8 @@
           "standard": [
             {
               "page": "P01",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P01.mp4",
               "audio": "final/the-tortoise-and-the-hare/ZH-TW/standard/P01_v2.mp3",
               "text": "跳跳兔跑得好快好快，他最喜歡笑慢慢龜——\n「你走路好慢喔！哈哈哈！」\n慢慢龜說……  「那我們來比賽吧！」",
               "timestamps": [
@@ -21134,8 +21134,8 @@
             },
             {
               "page": "P02",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P02.mp4",
               "audio": "final/the-tortoise-and-the-hare/ZH-TW/standard/P02.mp3",
               "text": "貓頭鷹裁判舉起旗子——\n「預備—— 跑！」\n咻！跳跳兔一下子就不見了！\n慢慢龜踏出第一步，一步、一步，慢慢走。",
               "timestamps": [
@@ -21413,8 +21413,8 @@
             },
             {
               "page": "P03",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P03.mp4",
               "audio": "final/the-tortoise-and-the-hare/ZH-TW/standard/P03_v3.mp3",
               "text": "跳跳兔跑好遠好遠，回頭一看——\n「哈！烏龜只有一個小點點！」\n跳跳兔雙手叉腰，得意地笑了。",
               "timestamps": [
@@ -21662,8 +21662,8 @@
             },
             {
               "page": "P04",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P04.mp4",
               "audio": "final/the-tortoise-and-the-hare/ZH-TW/standard/P04_v1.mp3",
               "text": "慢慢龜一步一步往前走。\n他小聲地對自己說……\n「沒關係，慢慢走，一步一步，不要停。」",
               "timestamps": [
@@ -21893,8 +21893,8 @@
             },
             {
               "page": "P05",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P05.mp4",
               "audio": "final/the-tortoise-and-the-hare/ZH-TW/standard/P05_v1.mp3",
               "text": "跳跳兔跑太前面了，等得好無聊。\n他看到蝴蝶就追蝴蝶，看到花就摘花。\n「反正烏龜那麼慢，玩一下沒關係啦！」",
               "timestamps": [
@@ -22190,8 +22190,8 @@
             },
             {
               "page": "P06",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P06.mp4",
               "audio": "final/the-tortoise-and-the-hare/ZH-TW/standard/P06_v1.mp3",
               "text": "玩累了，跳跳兔打了一個好大好大的哈欠。\n「烏龜那麼慢…… 我睡一下下…… 也不會輸……」\n跳跳兔就這樣…… 呼嚕呼嚕睡著了。",
               "timestamps": [
@@ -22493,8 +22493,8 @@
             },
             {
               "page": "P07",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P07.mp4",
               "audio": "final/the-tortoise-and-the-hare/ZH-TW/standard/P07_v4.mp3",
               "text": "慢慢龜走呀走…… 走呀走。\n他經過了睡得好熟的跳跳兔。\n慢慢龜看了兔子一眼…… 沒有停下來。\n「沒關係，慢慢走，一步一步，不要停。」",
               "timestamps": [
@@ -22832,8 +22832,8 @@
             },
             {
               "page": "P08",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P08.mp4",
               "audio": "final/the-tortoise-and-the-hare/ZH-TW/standard/P08_v2.mp3",
               "text": "上坡路好辛苦，慢慢龜滿頭大汗。\n可是他沒有停下來。\n「沒關係…… 慢慢走…… 一步一步…… 不要停。」",
               "timestamps": [
@@ -23081,8 +23081,8 @@
             },
             {
               "page": "P09",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P09.mp4",
               "audio": "final/the-tortoise-and-the-hare/ZH-TW/standard/P09_v1.mp3",
               "text": "跳跳兔突然醒來！\n「啊！！我睡了多久？」\n他到處張望——  烏龜不見了！",
               "timestamps": [
@@ -23270,8 +23270,8 @@
             },
             {
               "page": "P10",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P10.mp4",
               "audio": "final/the-tortoise-and-the-hare/ZH-TW/standard/P10_v1.mp3",
               "text": "跳跳兔拼命跑呀跑！\n可是遠遠看過去——\n慢慢龜已經快到山頂了！",
               "timestamps": [
@@ -23447,8 +23447,8 @@
             },
             {
               "page": "P11",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P11.mp4",
               "audio": "final/the-tortoise-and-the-hare/ZH-TW/standard/P11_v1.mp3",
               "text": "「沒關係，慢慢走，一步一步，不要停。」\n慢慢龜跨過了終點線！\n「耶！慢慢龜贏了！」大家一起歡呼！",
               "timestamps": [
@@ -23708,8 +23708,8 @@
             },
             {
               "page": "P12",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P12.mp4",
               "audio": "final/the-tortoise-and-the-hare/ZH-TW/standard/P12_v2.mp3",
               "text": "跳跳兔跑到終點，喘得說不出話來。\n他對慢慢龜說…… 「你好厲害！我以後不會再偷懶了。」\n慢慢龜笑了…… 「我們一起跑，好不好？」\n後來呀…… 他們變成了最好的朋友。",
               "timestamps": [
@@ -24133,8 +24133,8 @@
           "toddler": [
             {
               "page": "P01",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P01.mp4",
               "audio": "final/the-tortoise-and-the-hare/ZH-TW/toddler/P01_v3.mp3",
               "text": "跳跳兔笑慢慢龜走路慢。\n慢慢龜說…… 「來比賽！」",
               "timestamps": [
@@ -24262,8 +24262,8 @@
             },
             {
               "page": "P02",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P02.mp4",
               "audio": "final/the-tortoise-and-the-hare/ZH-TW/toddler/P02_v1.mp3",
               "text": "預備——跑！\n咻！跳跳兔好快！\n慢慢龜…… 慢慢走。",
               "timestamps": [
@@ -24391,8 +24391,8 @@
             },
             {
               "page": "P03",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P04.mp4",
               "audio": "final/the-tortoise-and-the-hare/ZH-TW/toddler/P03_v1.mp3",
               "text": "慢慢龜一步一步走。\n「慢慢走…… 不要停。」",
               "timestamps": [
@@ -24502,8 +24502,8 @@
             },
             {
               "page": "P04",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P06.mp4",
               "audio": "final/the-tortoise-and-the-hare/ZH-TW/toddler/P04_v3.mp3",
               "text": "跳跳兔玩累了……\n呼嚕呼嚕…… 睡著了。",
               "timestamps": [
@@ -24601,8 +24601,8 @@
             },
             {
               "page": "P05",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P07.mp4",
               "audio": "final/the-tortoise-and-the-hare/ZH-TW/toddler/P05_v1.mp3",
               "text": "慢慢龜經過睡著的兔子。\n「慢慢走…… 不要停。」",
               "timestamps": [
@@ -24730,8 +24730,8 @@
             },
             {
               "page": "P06",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P08.mp4",
               "audio": "final/the-tortoise-and-the-hare/ZH-TW/toddler/P06_v4.mp3",
               "text": "慢慢龜爬呀爬。\n跳跳兔醒來了——  啊！",
               "timestamps": [
@@ -24835,8 +24835,8 @@
             },
             {
               "page": "P07",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P11.mp4",
               "audio": "final/the-tortoise-and-the-hare/ZH-TW/toddler/P07_v1.mp3",
               "text": "慢慢龜到終點了！\n「耶！」",
               "timestamps": [
@@ -24904,8 +24904,8 @@
             },
             {
               "page": "P08",
-              "mediaType": null,
-              "media": null,
+              "mediaType": "video",
+              "media": "final/the-tortoise-and-the-hare/media/P12.mp4",
               "audio": "final/the-tortoise-and-the-hare/ZH-TW/toddler/P08_v2.mp3",
               "text": "跳跳兔說…… 「你好厲害！」\n他們變成…… 好朋友。",
               "timestamps": [
