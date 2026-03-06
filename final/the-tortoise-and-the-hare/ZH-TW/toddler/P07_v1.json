@@ -1,0 +1,70 @@
+{
+  "source_file": "P07_v1.mp3",
+  "language": "ZH-TW",
+  "version": "toddler",
+  "page": "P07",
+  "variant": "v1",
+  "generated_at": "2026-03-06T07:38:13Z",
+  "words": [
+    {
+      "word": "慢",
+      "start": 0.259,
+      "end": 0.459,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 0.459,
+      "end": 0.879,
+      "type": "word"
+    },
+    {
+      "word": "龟",
+      "start": 0.879,
+      "end": 1.72,
+      "type": "word"
+    },
+    {
+      "word": "到",
+      "start": 1.72,
+      "end": 2.079,
+      "type": "word"
+    },
+    {
+      "word": "终",
+      "start": 2.079,
+      "end": 2.539,
+      "type": "word"
+    },
+    {
+      "word": "点",
+      "start": 2.539,
+      "end": 2.759,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 2.759,
+      "end": 3.18,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 3.18,
+      "end": 4.219,
+      "type": "word"
+    },
+    {
+      "word": "耶",
+      "start": 4.219,
+      "end": 4.719,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 4.719,
+      "end": 5.099,
+      "type": "word"
+    }
+  ]
+}

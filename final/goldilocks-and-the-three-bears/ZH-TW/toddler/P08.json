@@ -1,0 +1,94 @@
+{
+  "source_file": "P08.mp3",
+  "language": "ZH-TW",
+  "version": "toddler",
+  "page": "P08",
+  "variant": "v0",
+  "generated_at": "2026-03-06T07:27:28Z",
+  "words": [
+    {
+      "word": "小",
+      "start": 0.239,
+      "end": 0.439,
+      "type": "word"
+    },
+    {
+      "word": "床",
+      "start": 0.439,
+      "end": 1.719,
+      "type": "word"
+    },
+    {
+      "word": "刚",
+      "start": 1.719,
+      "end": 1.959,
+      "type": "word"
+    },
+    {
+      "word": "刚",
+      "start": 1.959,
+      "end": 2.259,
+      "type": "word"
+    },
+    {
+      "word": "好",
+      "start": 2.259,
+      "end": 2.519,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 2.519,
+      "end": 3.799,
+      "type": "word"
+    },
+    {
+      "word": "呼",
+      "start": 3.799,
+      "end": 4.36,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 4.36,
+      "end": 4.859,
+      "type": "word"
+    },
+    {
+      "word": "小",
+      "start": 4.859,
+      "end": 5.119,
+      "type": "word"
+    },
+    {
+      "word": "金",
+      "start": 5.119,
+      "end": 5.5,
+      "type": "word"
+    },
+    {
+      "word": "睡",
+      "start": 5.5,
+      "end": 5.719,
+      "type": "word"
+    },
+    {
+      "word": "着",
+      "start": 5.719,
+      "end": 6.159,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 6.159,
+      "end": 6.219,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 6.219,
+      "end": 6.239,
+      "type": "word"
+    }
+  ]
+}

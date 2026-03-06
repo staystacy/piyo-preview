@@ -1,0 +1,118 @@
+{
+  "source_file": "P08_v2.mp3",
+  "language": "ZH-TW",
+  "version": "toddler",
+  "page": "P08",
+  "variant": "v2",
+  "generated_at": "2026-03-06T07:38:15Z",
+  "words": [
+    {
+      "word": "跳",
+      "start": 0.259,
+      "end": 0.399,
+      "type": "word"
+    },
+    {
+      "word": "跳",
+      "start": 0.399,
+      "end": 0.699,
+      "type": "word"
+    },
+    {
+      "word": "兔",
+      "start": 0.699,
+      "end": 1.059,
+      "type": "word"
+    },
+    {
+      "word": "说",
+      "start": 1.059,
+      "end": 2.179,
+      "type": "word"
+    },
+    {
+      "word": "：“",
+      "start": 2.179,
+      "end": 3.0,
+      "type": "word"
+    },
+    {
+      "word": "你",
+      "start": 3.0,
+      "end": 3.339,
+      "type": "word"
+    },
+    {
+      "word": "好",
+      "start": 3.339,
+      "end": 3.739,
+      "type": "word"
+    },
+    {
+      "word": "厉",
+      "start": 3.74,
+      "end": 4.159,
+      "type": "word"
+    },
+    {
+      "word": "害",
+      "start": 4.159,
+      "end": 4.559,
+      "type": "word"
+    },
+    {
+      "word": "！”",
+      "start": 4.559,
+      "end": 6.059,
+      "type": "word"
+    },
+    {
+      "word": "他",
+      "start": 6.059,
+      "end": 6.119,
+      "type": "word"
+    },
+    {
+      "word": "们",
+      "start": 6.119,
+      "end": 6.48,
+      "type": "word"
+    },
+    {
+      "word": "变",
+      "start": 6.48,
+      "end": 7.059,
+      "type": "word"
+    },
+    {
+      "word": "成",
+      "start": 7.059,
+      "end": 8.199,
+      "type": "word"
+    },
+    {
+      "word": "好",
+      "start": 8.199,
+      "end": 8.42,
+      "type": "word"
+    },
+    {
+      "word": "朋",
+      "start": 8.42,
+      "end": 8.859,
+      "type": "word"
+    },
+    {
+      "word": "友",
+      "start": 8.859,
+      "end": 9.0,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 9.0,
+      "end": 9.019,
+      "type": "word"
+    }
+  ]
+}

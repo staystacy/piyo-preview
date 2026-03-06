@@ -1,0 +1,250 @@
+{
+  "source_file": "P03_v3.mp3",
+  "language": "ZH-TW",
+  "version": "standard",
+  "page": "P03",
+  "variant": "v3",
+  "generated_at": "2026-03-06T07:38:22Z",
+  "words": [
+    {
+      "word": "跳",
+      "start": 0.259,
+      "end": 0.639,
+      "type": "word"
+    },
+    {
+      "word": "跳",
+      "start": 0.639,
+      "end": 0.66,
+      "type": "word"
+    },
+    {
+      "word": "兔",
+      "start": 0.66,
+      "end": 1.399,
+      "type": "word"
+    },
+    {
+      "word": "跑",
+      "start": 1.399,
+      "end": 1.559,
+      "type": "word"
+    },
+    {
+      "word": "好",
+      "start": 1.559,
+      "end": 2.24,
+      "type": "word"
+    },
+    {
+      "word": "远",
+      "start": 2.24,
+      "end": 2.619,
+      "type": "word"
+    },
+    {
+      "word": "好",
+      "start": 2.619,
+      "end": 2.799,
+      "type": "word"
+    },
+    {
+      "word": "远",
+      "start": 2.799,
+      "end": 2.94,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 2.94,
+      "end": 3.859,
+      "type": "word"
+    },
+    {
+      "word": "回",
+      "start": 3.859,
+      "end": 4.099,
+      "type": "word"
+    },
+    {
+      "word": "头",
+      "start": 4.099,
+      "end": 4.239,
+      "type": "word"
+    },
+    {
+      "word": "一",
+      "start": 4.239,
+      "end": 4.639,
+      "type": "word"
+    },
+    {
+      "word": "看",
+      "start": 4.639,
+      "end": 4.799,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 4.799,
+      "end": 5.979,
+      "type": "word"
+    },
+    {
+      "word": "哈",
+      "start": 5.98,
+      "end": 6.26,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 6.26,
+      "end": 6.899,
+      "type": "word"
+    },
+    {
+      "word": "乌",
+      "start": 6.899,
+      "end": 7.159,
+      "type": "word"
+    },
+    {
+      "word": "龟",
+      "start": 7.159,
+      "end": 7.619,
+      "type": "word"
+    },
+    {
+      "word": "只",
+      "start": 7.619,
+      "end": 7.839,
+      "type": "word"
+    },
+    {
+      "word": "有",
+      "start": 7.839,
+      "end": 8.179,
+      "type": "word"
+    },
+    {
+      "word": "一",
+      "start": 8.179,
+      "end": 8.419,
+      "type": "word"
+    },
+    {
+      "word": "个",
+      "start": 8.42,
+      "end": 8.48,
+      "type": "word"
+    },
+    {
+      "word": "小",
+      "start": 8.48,
+      "end": 8.899,
+      "type": "word"
+    },
+    {
+      "word": "点",
+      "start": 8.899,
+      "end": 9.159,
+      "type": "word"
+    },
+    {
+      "word": "点",
+      "start": 9.159,
+      "end": 9.38,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 9.38,
+      "end": 11.319,
+      "type": "word"
+    },
+    {
+      "word": "跳",
+      "start": 11.319,
+      "end": 11.439,
+      "type": "word"
+    },
+    {
+      "word": "跳",
+      "start": 11.439,
+      "end": 11.84,
+      "type": "word"
+    },
+    {
+      "word": "兔",
+      "start": 11.84,
+      "end": 12.579,
+      "type": "word"
+    },
+    {
+      "word": "双",
+      "start": 12.579,
+      "end": 12.8,
+      "type": "word"
+    },
+    {
+      "word": "手",
+      "start": 12.8,
+      "end": 13.179,
+      "type": "word"
+    },
+    {
+      "word": "叉",
+      "start": 13.179,
+      "end": 13.459,
+      "type": "word"
+    },
+    {
+      "word": "腰",
+      "start": 13.46,
+      "end": 13.619,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 13.619,
+      "end": 14.399,
+      "type": "word"
+    },
+    {
+      "word": "得",
+      "start": 14.399,
+      "end": 14.639,
+      "type": "word"
+    },
+    {
+      "word": "意",
+      "start": 14.639,
+      "end": 14.899,
+      "type": "word"
+    },
+    {
+      "word": "地",
+      "start": 14.899,
+      "end": 15.579,
+      "type": "word"
+    },
+    {
+      "word": "笑",
+      "start": 15.579,
+      "end": 15.819,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 15.819,
+      "end": 15.899,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 15.899,
+      "end": 15.9,
+      "type": "word"
+    }
+  ]
+}

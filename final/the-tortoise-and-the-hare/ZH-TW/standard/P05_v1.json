@@ -1,0 +1,298 @@
+{
+  "source_file": "P05_v1.mp3",
+  "language": "ZH-TW",
+  "version": "standard",
+  "page": "P05",
+  "variant": "v1",
+  "generated_at": "2026-03-06T07:38:27Z",
+  "words": [
+    {
+      "word": "跳",
+      "start": 0.199,
+      "end": 0.559,
+      "type": "word"
+    },
+    {
+      "word": "跳",
+      "start": 0.559,
+      "end": 0.599,
+      "type": "word"
+    },
+    {
+      "word": "兔",
+      "start": 0.599,
+      "end": 1.259,
+      "type": "word"
+    },
+    {
+      "word": "跑",
+      "start": 1.259,
+      "end": 1.419,
+      "type": "word"
+    },
+    {
+      "word": "太",
+      "start": 1.419,
+      "end": 1.679,
+      "type": "word"
+    },
+    {
+      "word": "前",
+      "start": 1.679,
+      "end": 2.059,
+      "type": "word"
+    },
+    {
+      "word": "面",
+      "start": 2.059,
+      "end": 2.279,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 2.279,
+      "end": 2.42,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 2.42,
+      "end": 2.979,
+      "type": "word"
+    },
+    {
+      "word": "等",
+      "start": 2.98,
+      "end": 3.259,
+      "type": "word"
+    },
+    {
+      "word": "得",
+      "start": 3.259,
+      "end": 3.619,
+      "type": "word"
+    },
+    {
+      "word": "好",
+      "start": 3.619,
+      "end": 3.959,
+      "type": "word"
+    },
+    {
+      "word": "无",
+      "start": 3.959,
+      "end": 4.199,
+      "type": "word"
+    },
+    {
+      "word": "聊",
+      "start": 4.199,
+      "end": 4.419,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 4.419,
+      "end": 6.14,
+      "type": "word"
+    },
+    {
+      "word": "他",
+      "start": 6.14,
+      "end": 6.359,
+      "type": "word"
+    },
+    {
+      "word": "看",
+      "start": 6.359,
+      "end": 6.619,
+      "type": "word"
+    },
+    {
+      "word": "到",
+      "start": 6.619,
+      "end": 6.859,
+      "type": "word"
+    },
+    {
+      "word": "蝴",
+      "start": 6.859,
+      "end": 7.139,
+      "type": "word"
+    },
+    {
+      "word": "蝶",
+      "start": 7.139,
+      "end": 7.699,
+      "type": "word"
+    },
+    {
+      "word": "就",
+      "start": 7.699,
+      "end": 8.099,
+      "type": "word"
+    },
+    {
+      "word": "追",
+      "start": 8.099,
+      "end": 8.1,
+      "type": "word"
+    },
+    {
+      "word": "蝴",
+      "start": 8.1,
+      "end": 8.579,
+      "type": "word"
+    },
+    {
+      "word": "蝶",
+      "start": 8.579,
+      "end": 8.76,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 8.76,
+      "end": 9.559,
+      "type": "word"
+    },
+    {
+      "word": "看",
+      "start": 9.559,
+      "end": 9.779,
+      "type": "word"
+    },
+    {
+      "word": "到",
+      "start": 9.779,
+      "end": 10.079,
+      "type": "word"
+    },
+    {
+      "word": "花",
+      "start": 10.079,
+      "end": 10.84,
+      "type": "word"
+    },
+    {
+      "word": "就",
+      "start": 10.84,
+      "end": 11.119,
+      "type": "word"
+    },
+    {
+      "word": "摘",
+      "start": 11.119,
+      "end": 11.399,
+      "type": "word"
+    },
+    {
+      "word": "花",
+      "start": 11.399,
+      "end": 11.559,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 11.559,
+      "end": 12.84,
+      "type": "word"
+    },
+    {
+      "word": "反",
+      "start": 12.84,
+      "end": 13.199,
+      "type": "word"
+    },
+    {
+      "word": "正",
+      "start": 13.199,
+      "end": 13.38,
+      "type": "word"
+    },
+    {
+      "word": "乌",
+      "start": 13.38,
+      "end": 13.579,
+      "type": "word"
+    },
+    {
+      "word": "龟",
+      "start": 13.579,
+      "end": 13.819,
+      "type": "word"
+    },
+    {
+      "word": "那",
+      "start": 13.819,
+      "end": 14.0,
+      "type": "word"
+    },
+    {
+      "word": "么",
+      "start": 14.0,
+      "end": 14.239,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 14.239,
+      "end": 14.359,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 14.359,
+      "end": 14.859,
+      "type": "word"
+    },
+    {
+      "word": "玩",
+      "start": 14.859,
+      "end": 14.979,
+      "type": "word"
+    },
+    {
+      "word": "一",
+      "start": 14.979,
+      "end": 15.279,
+      "type": "word"
+    },
+    {
+      "word": "下",
+      "start": 15.279,
+      "end": 15.659,
+      "type": "word"
+    },
+    {
+      "word": "没",
+      "start": 15.659,
+      "end": 16.0,
+      "type": "word"
+    },
+    {
+      "word": "关",
+      "start": 16.0,
+      "end": 16.159,
+      "type": "word"
+    },
+    {
+      "word": "系",
+      "start": 16.159,
+      "end": 16.459,
+      "type": "word"
+    },
+    {
+      "word": "啦",
+      "start": 16.459,
+      "end": 16.579,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 16.579,
+      "end": 16.7,
+      "type": "word"
+    }
+  ]
+}

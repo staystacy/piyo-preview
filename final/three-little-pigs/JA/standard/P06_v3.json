@@ -4,7 +4,7 @@
   "version": "standard",
   "page": "P06",
   "variant": "v3",
-  "generated_at": "2026-03-06T05:33:53Z",
+  "generated_at": "2026-03-06T07:32:34Z",
   "words": [
     {
       "word": "あ",
@@ -243,19 +243,25 @@
     {
       "word": "。「",
       "start": 10.38,
-      "end": 10.56,
+      "end": 10.52,
       "type": "word"
     },
     {
-      "word": "子",
-      "start": 10.56,
-      "end": 10.699,
+      "word": "こ",
+      "start": 10.52,
+      "end": 10.619,
       "type": "word"
     },
     {
-      "word": "豚",
-      "start": 10.699,
-      "end": 10.879,
+      "word": "ぶ",
+      "start": 10.619,
+      "end": 10.739,
+      "type": "word"
+    },
+    {
+      "word": "た",
+      "start": 10.739,
+      "end": 10.88,
       "type": "word"
     },
     {
@@ -279,48 +285,54 @@
     {
       "word": "、",
       "start": 11.199,
-      "end": 11.279,
+      "end": 11.239,
       "type": "word"
     },
     {
-      "word": "子",
-      "start": 11.279,
-      "end": 11.46,
+      "word": "こ",
+      "start": 11.239,
+      "end": 11.38,
       "type": "word"
     },
     {
-      "word": "豚",
-      "start": 11.46,
-      "end": 11.639,
+      "word": "ぶ",
+      "start": 11.38,
+      "end": 11.5,
+      "type": "word"
+    },
+    {
+      "word": "た",
+      "start": 11.5,
+      "end": 11.64,
       "type": "word"
     },
     {
       "word": "ち",
-      "start": 11.639,
+      "start": 11.64,
       "end": 11.719,
       "type": "word"
     },
     {
       "word": "ゃ",
       "start": 11.719,
-      "end": 11.839,
+      "end": 11.819,
       "type": "word"
     },
     {
       "word": "ん",
-      "start": 11.84,
-      "end": 12.02,
+      "start": 11.819,
+      "end": 12.019,
       "type": "word"
     },
     {
       "word": "、",
-      "start": 12.02,
-      "end": 12.699,
+      "start": 12.019,
+      "end": 12.579,
       "type": "word"
     },
     {
       "word": "中",
-      "start": 12.699,
+      "start": 12.579,
       "end": 12.84,
       "type": "word"
     },
@@ -357,24 +369,24 @@
     {
       "word": "。」",
       "start": 13.64,
-      "end": 15.1,
+      "end": 15.14,
       "type": "word"
     },
     {
-      "word": "ブ",
-      "start": 15.1,
+      "word": "ぶ",
+      "start": 15.14,
       "end": 15.219,
       "type": "word"
     },
     {
       "word": "ー",
       "start": 15.219,
-      "end": 15.399,
+      "end": 15.379,
       "type": "word"
     },
     {
-      "word": "太",
-      "start": 15.399,
+      "word": "た",
+      "start": 15.38,
       "end": 15.579,
       "type": "word"
     },
@@ -399,13 +411,13 @@
     {
       "word": "ブ",
       "start": 16.479,
-      "end": 16.619,
+      "end": 16.659,
       "type": "word"
     },
     {
       "word": "ル",
-      "start": 16.619,
-      "end": 16.919,
+      "start": 16.659,
+      "end": 16.92,
       "type": "word"
     },
     {
@@ -441,13 +453,13 @@
     {
       "word": "だ",
       "start": 18.5,
-      "end": 18.94,
+      "end": 18.979,
       "type": "word"
     },
     {
       "word": "、",
-      "start": 18.94,
-      "end": 19.02,
+      "start": 18.979,
+      "end": 19.019,
       "type": "word"
     },
     {

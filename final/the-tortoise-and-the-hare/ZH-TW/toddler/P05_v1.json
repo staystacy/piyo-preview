@@ -1,0 +1,130 @@
+{
+  "source_file": "P05_v1.mp3",
+  "language": "ZH-TW",
+  "version": "toddler",
+  "page": "P05",
+  "variant": "v1",
+  "generated_at": "2026-03-06T07:38:09Z",
+  "words": [
+    {
+      "word": "慢",
+      "start": 0.239,
+      "end": 0.879,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 0.879,
+      "end": 1.099,
+      "type": "word"
+    },
+    {
+      "word": "归",
+      "start": 1.1,
+      "end": 1.259,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 1.259,
+      "end": 2.2,
+      "type": "word"
+    },
+    {
+      "word": "经",
+      "start": 2.2,
+      "end": 2.34,
+      "type": "word"
+    },
+    {
+      "word": "过",
+      "start": 2.34,
+      "end": 2.919,
+      "type": "word"
+    },
+    {
+      "word": "睡",
+      "start": 2.919,
+      "end": 3.099,
+      "type": "word"
+    },
+    {
+      "word": "着",
+      "start": 3.099,
+      "end": 3.719,
+      "type": "word"
+    },
+    {
+      "word": "的",
+      "start": 3.719,
+      "end": 3.779,
+      "type": "word"
+    },
+    {
+      "word": "兔",
+      "start": 3.779,
+      "end": 4.199,
+      "type": "word"
+    },
+    {
+      "word": "子",
+      "start": 4.199,
+      "end": 4.359,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 4.359,
+      "end": 6.099,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 6.099,
+      "end": 6.38,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 6.38,
+      "end": 6.979,
+      "type": "word"
+    },
+    {
+      "word": "走",
+      "start": 6.98,
+      "end": 7.199,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 7.199,
+      "end": 8.34,
+      "type": "word"
+    },
+    {
+      "word": "不",
+      "start": 8.34,
+      "end": 8.84,
+      "type": "word"
+    },
+    {
+      "word": "要",
+      "start": 8.84,
+      "end": 9.36,
+      "type": "word"
+    },
+    {
+      "word": "停",
+      "start": 9.36,
+      "end": 9.539,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 9.539,
+      "end": 9.579,
+      "type": "word"
+    }
+  ]
+}

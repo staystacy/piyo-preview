@@ -4,7 +4,7 @@
   "version": "standard",
   "page": "P01",
   "variant": "v0",
-  "generated_at": "2026-03-06T05:36:30Z",
+  "generated_at": "2026-03-06T07:31:34Z",
   "words": [
     {
       "word": "大",
@@ -163,20 +163,20 @@
       "type": "word"
     },
     {
-      "word": "：“",
+      "word": "：",
       "start": 8.359,
-      "end": 9.659,
+      "end": 9.619,
       "type": "word"
     },
     {
       "word": "你",
-      "start": 9.659,
-      "end": 9.699,
+      "start": 9.619,
+      "end": 9.739,
       "type": "word"
     },
     {
       "word": "们",
-      "start": 9.699,
+      "start": 9.739,
       "end": 9.979,
       "type": "word"
     },
@@ -189,18 +189,18 @@
     {
       "word": "大",
       "start": 10.3,
-      "end": 10.56,
+      "end": 10.48,
       "type": "word"
     },
     {
       "word": "了",
-      "start": 10.56,
-      "end": 10.719,
+      "start": 10.48,
+      "end": 10.739,
       "type": "word"
     },
     {
       "word": "，",
-      "start": 10.719,
+      "start": 10.739,
       "end": 11.259,
       "type": "word"
     },
@@ -219,43 +219,43 @@
     {
       "word": "自",
       "start": 11.779,
-      "end": 11.859,
+      "end": 11.92,
       "type": "word"
     },
     {
       "word": "己",
-      "start": 11.859,
-      "end": 11.979,
+      "start": 11.92,
+      "end": 11.98,
       "type": "word"
     },
     {
       "word": "的",
-      "start": 11.979,
+      "start": 11.98,
       "end": 12.339,
       "type": "word"
     },
     {
       "word": "房",
       "start": 12.34,
-      "end": 12.4,
+      "end": 12.46,
       "type": "word"
     },
     {
       "word": "子",
-      "start": 12.4,
-      "end": 12.599,
+      "start": 12.46,
+      "end": 12.6,
       "type": "word"
     },
     {
       "word": "吧",
-      "start": 12.599,
+      "start": 12.6,
       "end": 12.679,
       "type": "word"
     },
     {
-      "word": "。”",
+      "word": "。",
       "start": 12.679,
-      "end": 12.72,
+      "end": 12.719,
       "type": "word"
     }
   ]

@@ -4,7 +4,7 @@
   "version": "standard",
   "page": "P02",
   "variant": "v1",
-  "generated_at": "2026-03-06T05:33:00Z",
+  "generated_at": "2026-03-06T07:31:36Z",
   "words": [
     {
       "word": "大",
@@ -183,12 +183,12 @@
     {
       "word": "啦",
       "start": 9.159,
-      "end": 9.619,
+      "end": 9.319,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 10.759,
+      "word": "！",
+      "start": 9.319,
       "end": 10.84,
       "type": "word"
     },
@@ -201,12 +201,12 @@
     {
       "word": "毛",
       "start": 11.14,
-      "end": 11.519,
+      "end": 11.439,
       "type": "word"
     },
     {
       "word": "开",
-      "start": 11.519,
+      "start": 11.439,
       "end": 11.759,
       "type": "word"
     },
@@ -243,13 +243,13 @@
     {
       "word": "子",
       "start": 12.679,
-      "end": 13.039,
+      "end": 12.979,
       "type": "word"
     },
     {
       "word": "上",
-      "start": 13.039,
-      "end": 13.96,
+      "start": 12.979,
+      "end": 13.959,
       "type": "word"
     },
     {
@@ -261,12 +261,12 @@
     {
       "word": "午",
       "start": 14.159,
-      "end": 14.519,
+      "end": 14.639,
       "type": "word"
     },
     {
       "word": "觉",
-      "start": 14.519,
+      "start": 14.639,
       "end": 14.839,
       "type": "word"
     },

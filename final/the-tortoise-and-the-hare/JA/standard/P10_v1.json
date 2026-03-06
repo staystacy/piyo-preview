@@ -1,0 +1,214 @@
+{
+  "source_file": "P10_v1.mp3",
+  "language": "JA",
+  "version": "standard",
+  "page": "P10",
+  "variant": "v1",
+  "generated_at": "2026-03-06T07:39:22Z",
+  "words": [
+    {
+      "word": "ぴ",
+      "start": 0.14,
+      "end": 0.239,
+      "type": "word"
+    },
+    {
+      "word": "ょ",
+      "start": 0.239,
+      "end": 0.319,
+      "type": "word"
+    },
+    {
+      "word": "ん",
+      "start": 0.319,
+      "end": 0.5,
+      "type": "word"
+    },
+    {
+      "word": "た",
+      "start": 0.5,
+      "end": 0.599,
+      "type": "word"
+    },
+    {
+      "word": "は",
+      "start": 0.599,
+      "end": 1.2,
+      "type": "word"
+    },
+    {
+      "word": "全",
+      "start": 1.2,
+      "end": 1.319,
+      "type": "word"
+    },
+    {
+      "word": "力",
+      "start": 1.319,
+      "end": 1.579,
+      "type": "word"
+    },
+    {
+      "word": "で",
+      "start": 1.579,
+      "end": 1.959,
+      "type": "word"
+    },
+    {
+      "word": "走",
+      "start": 1.959,
+      "end": 2.099,
+      "type": "word"
+    },
+    {
+      "word": "り",
+      "start": 2.099,
+      "end": 2.259,
+      "type": "word"
+    },
+    {
+      "word": "ま",
+      "start": 2.259,
+      "end": 2.42,
+      "type": "word"
+    },
+    {
+      "word": "す",
+      "start": 2.42,
+      "end": 3.379,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 3.379,
+      "end": 3.439,
+      "type": "word"
+    },
+    {
+      "word": "で",
+      "start": 3.439,
+      "end": 3.759,
+      "type": "word"
+    },
+    {
+      "word": "も",
+      "start": 3.759,
+      "end": 4.36,
+      "type": "word"
+    },
+    {
+      "word": "遠",
+      "start": 4.36,
+      "end": 4.44,
+      "type": "word"
+    },
+    {
+      "word": "く",
+      "start": 4.44,
+      "end": 4.559,
+      "type": "word"
+    },
+    {
+      "word": "に",
+      "start": 4.559,
+      "end": 4.779,
+      "type": "word"
+    },
+    {
+      "word": "見",
+      "start": 4.779,
+      "end": 4.859,
+      "type": "word"
+    },
+    {
+      "word": "え",
+      "start": 4.859,
+      "end": 4.939,
+      "type": "word"
+    },
+    {
+      "word": "る",
+      "start": 4.94,
+      "end": 5.059,
+      "type": "word"
+    },
+    {
+      "word": "の",
+      "start": 5.059,
+      "end": 5.38,
+      "type": "word"
+    },
+    {
+      "word": "は",
+      "start": 5.38,
+      "end": 6.32,
+      "type": "word"
+    },
+    {
+      "word": "ゆ",
+      "start": 6.32,
+      "end": 6.379,
+      "type": "word"
+    },
+    {
+      "word": "っ",
+      "start": 6.379,
+      "end": 6.579,
+      "type": "word"
+    },
+    {
+      "word": "く",
+      "start": 6.579,
+      "end": 6.679,
+      "type": "word"
+    },
+    {
+      "word": "ん",
+      "start": 6.679,
+      "end": 6.879,
+      "type": "word"
+    },
+    {
+      "word": "が",
+      "start": 6.879,
+      "end": 7.359,
+      "type": "word"
+    },
+    {
+      "word": "も",
+      "start": 7.359,
+      "end": 7.419,
+      "type": "word"
+    },
+    {
+      "word": "う",
+      "start": 7.419,
+      "end": 7.739,
+      "type": "word"
+    },
+    {
+      "word": "山",
+      "start": 7.739,
+      "end": 7.979,
+      "type": "word"
+    },
+    {
+      "word": "の",
+      "start": 7.98,
+      "end": 8.239,
+      "type": "word"
+    },
+    {
+      "word": "上",
+      "start": 8.239,
+      "end": 8.3,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 8.3,
+      "end": 8.3,
+      "type": "word"
+    }
+  ]
+}

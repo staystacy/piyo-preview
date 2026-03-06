@@ -1,0 +1,178 @@
+{
+  "source_file": "P10_v1.mp3",
+  "language": "ZH-TW",
+  "version": "standard",
+  "page": "P10",
+  "variant": "v1",
+  "generated_at": "2026-03-06T07:38:39Z",
+  "words": [
+    {
+      "word": "跳",
+      "start": 0.219,
+      "end": 0.579,
+      "type": "word"
+    },
+    {
+      "word": "跳",
+      "start": 0.579,
+      "end": 0.62,
+      "type": "word"
+    },
+    {
+      "word": "兔",
+      "start": 0.62,
+      "end": 1.24,
+      "type": "word"
+    },
+    {
+      "word": "拼",
+      "start": 1.24,
+      "end": 1.519,
+      "type": "word"
+    },
+    {
+      "word": "命",
+      "start": 1.519,
+      "end": 2.44,
+      "type": "word"
+    },
+    {
+      "word": "跑",
+      "start": 2.44,
+      "end": 2.7,
+      "type": "word"
+    },
+    {
+      "word": "呀",
+      "start": 2.7,
+      "end": 3.279,
+      "type": "word"
+    },
+    {
+      "word": "跑",
+      "start": 3.279,
+      "end": 3.579,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 3.579,
+      "end": 5.199,
+      "type": "word"
+    },
+    {
+      "word": "可",
+      "start": 5.199,
+      "end": 5.559,
+      "type": "word"
+    },
+    {
+      "word": "是",
+      "start": 5.559,
+      "end": 6.099,
+      "type": "word"
+    },
+    {
+      "word": "远",
+      "start": 6.099,
+      "end": 6.44,
+      "type": "word"
+    },
+    {
+      "word": "远",
+      "start": 6.44,
+      "end": 6.96,
+      "type": "word"
+    },
+    {
+      "word": "看",
+      "start": 6.96,
+      "end": 7.079,
+      "type": "word"
+    },
+    {
+      "word": "过",
+      "start": 7.079,
+      "end": 7.44,
+      "type": "word"
+    },
+    {
+      "word": "去",
+      "start": 7.44,
+      "end": 7.879,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 7.879,
+      "end": 9.139,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 9.139,
+      "end": 9.619,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 9.619,
+      "end": 9.859,
+      "type": "word"
+    },
+    {
+      "word": "龟",
+      "start": 9.859,
+      "end": 10.699,
+      "type": "word"
+    },
+    {
+      "word": "已",
+      "start": 10.699,
+      "end": 10.92,
+      "type": "word"
+    },
+    {
+      "word": "经",
+      "start": 10.92,
+      "end": 11.079,
+      "type": "word"
+    },
+    {
+      "word": "快",
+      "start": 11.079,
+      "end": 11.3,
+      "type": "word"
+    },
+    {
+      "word": "到",
+      "start": 11.3,
+      "end": 11.84,
+      "type": "word"
+    },
+    {
+      "word": "山",
+      "start": 11.84,
+      "end": 11.9,
+      "type": "word"
+    },
+    {
+      "word": "顶",
+      "start": 11.9,
+      "end": 12.259,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 12.259,
+      "end": 12.559,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 12.559,
+      "end": 12.619,
+      "type": "word"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "source_file": "P05.mp3",
+  "language": "ZH-TW",
+  "version": "toddler",
+  "page": "P05",
+  "variant": "v0",
+  "generated_at": "2026-03-06T07:27:22Z",
+  "words": [
+    {
+      "word": "大",
+      "start": 0.259,
+      "end": 0.439,
+      "type": "word"
+    },
+    {
+      "word": "椅",
+      "start": 0.439,
+      "end": 0.799,
+      "type": "word"
+    },
+    {
+      "word": "子",
+      "start": 0.799,
+      "end": 1.839,
+      "type": "word"
+    },
+    {
+      "word": "太",
+      "start": 1.839,
+      "end": 2.199,
+      "type": "word"
+    },
+    {
+      "word": "硬",
+      "start": 2.2,
+      "end": 2.4,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 2.4,
+      "end": 3.879,
+      "type": "word"
+    },
+    {
+      "word": "中",
+      "start": 3.879,
+      "end": 4.039,
+      "type": "word"
+    },
+    {
+      "word": "椅",
+      "start": 4.039,
+      "end": 4.48,
+      "type": "word"
+    },
+    {
+      "word": "子",
+      "start": 4.48,
+      "end": 5.76,
+      "type": "word"
+    },
+    {
+      "word": "太",
+      "start": 5.76,
+      "end": 6.199,
+      "type": "word"
+    },
+    {
+      "word": "软",
+      "start": 6.199,
+      "end": 6.559,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 6.559,
+      "end": 7.44,
+      "type": "word"
+    }
+  ]
+}

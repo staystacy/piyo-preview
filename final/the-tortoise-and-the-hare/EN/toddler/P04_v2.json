@@ -1,0 +1,46 @@
+{
+  "source_file": "P04_v2.mp3",
+  "language": "EN",
+  "version": "toddler",
+  "page": "P04",
+  "variant": "v2",
+  "generated_at": "2026-03-06T07:37:26Z",
+  "words": [
+    {
+      "word": "Hops",
+      "start": 0.179,
+      "end": 0.939,
+      "type": "word"
+    },
+    {
+      "word": "got",
+      "start": 0.979,
+      "end": 1.459,
+      "type": "word"
+    },
+    {
+      "word": "tired",
+      "start": 1.579,
+      "end": 2.459,
+      "type": "word"
+    },
+    {
+      "word": "and",
+      "start": 3.4,
+      "end": 3.659,
+      "type": "word"
+    },
+    {
+      "word": "fell",
+      "start": 3.919,
+      "end": 4.619,
+      "type": "word"
+    },
+    {
+      "word": "asleep",
+      "start": 4.719,
+      "end": 5.659,
+      "type": "word"
+    }
+  ]
+}

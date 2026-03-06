@@ -1,0 +1,88 @@
+{
+  "source_file": "P07_v1.mp3",
+  "language": "JA",
+  "version": "toddler",
+  "page": "P07",
+  "variant": "v1",
+  "generated_at": "2026-03-06T07:38:57Z",
+  "words": [
+    {
+      "word": "ゆ",
+      "start": 0.179,
+      "end": 0.299,
+      "type": "word"
+    },
+    {
+      "word": "う",
+      "start": 0.299,
+      "end": 0.459,
+      "type": "word"
+    },
+    {
+      "word": "く",
+      "start": 0.459,
+      "end": 0.559,
+      "type": "word"
+    },
+    {
+      "word": "ん",
+      "start": 0.56,
+      "end": 1.039,
+      "type": "word"
+    },
+    {
+      "word": "ゴ",
+      "start": 1.039,
+      "end": 1.139,
+      "type": "word"
+    },
+    {
+      "word": "ー",
+      "start": 1.139,
+      "end": 1.299,
+      "type": "word"
+    },
+    {
+      "word": "ル",
+      "start": 1.299,
+      "end": 2.679,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 2.679,
+      "end": 2.779,
+      "type": "word"
+    },
+    {
+      "word": "や",
+      "start": 2.779,
+      "end": 3.079,
+      "type": "word"
+    },
+    {
+      "word": "っ",
+      "start": 3.079,
+      "end": 3.199,
+      "type": "word"
+    },
+    {
+      "word": "た",
+      "start": 3.199,
+      "end": 3.379,
+      "type": "word"
+    },
+    {
+      "word": "ー",
+      "start": 3.379,
+      "end": 3.679,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 3.679,
+      "end": 4.059,
+      "type": "word"
+    }
+  ]
+}

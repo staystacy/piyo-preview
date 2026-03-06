@@ -1,0 +1,142 @@
+{
+  "source_file": "P08_v1.mp3",
+  "language": "JA",
+  "version": "toddler",
+  "page": "P08",
+  "variant": "v1",
+  "generated_at": "2026-03-06T07:38:59Z",
+  "words": [
+    {
+      "word": "ぴ",
+      "start": 0.199,
+      "end": 0.299,
+      "type": "word"
+    },
+    {
+      "word": "ょ",
+      "start": 0.299,
+      "end": 0.5,
+      "type": "word"
+    },
+    {
+      "word": "ん",
+      "start": 0.5,
+      "end": 0.839,
+      "type": "word"
+    },
+    {
+      "word": "た",
+      "start": 0.839,
+      "end": 1.779,
+      "type": "word"
+    },
+    {
+      "word": "す",
+      "start": 1.779,
+      "end": 2.079,
+      "type": "word"
+    },
+    {
+      "word": "ご",
+      "start": 2.079,
+      "end": 2.339,
+      "type": "word"
+    },
+    {
+      "word": "い",
+      "start": 2.339,
+      "end": 2.679,
+      "type": "word"
+    },
+    {
+      "word": "よ",
+      "start": 2.679,
+      "end": 2.999,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 2.999,
+      "end": 4.199,
+      "type": "word"
+    },
+    {
+      "word": "二",
+      "start": 4.199,
+      "end": 4.379,
+      "type": "word"
+    },
+    {
+      "word": "人",
+      "start": 4.38,
+      "end": 4.7,
+      "type": "word"
+    },
+    {
+      "word": "は",
+      "start": 4.7,
+      "end": 5.759,
+      "type": "word"
+    },
+    {
+      "word": "仲",
+      "start": 5.759,
+      "end": 5.999,
+      "type": "word"
+    },
+    {
+      "word": "良",
+      "start": 6.0,
+      "end": 6.099,
+      "type": "word"
+    },
+    {
+      "word": "し",
+      "start": 6.099,
+      "end": 6.279,
+      "type": "word"
+    },
+    {
+      "word": "に",
+      "start": 6.279,
+      "end": 6.859,
+      "type": "word"
+    },
+    {
+      "word": "な",
+      "start": 6.859,
+      "end": 6.979,
+      "type": "word"
+    },
+    {
+      "word": "り",
+      "start": 6.979,
+      "end": 7.179,
+      "type": "word"
+    },
+    {
+      "word": "ま",
+      "start": 7.179,
+      "end": 7.339,
+      "type": "word"
+    },
+    {
+      "word": "し",
+      "start": 7.339,
+      "end": 7.499,
+      "type": "word"
+    },
+    {
+      "word": "た",
+      "start": 7.5,
+      "end": 7.579,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 7.579,
+      "end": 7.579,
+      "type": "word"
+    }
+  ]
+}

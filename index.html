@@ -8,7 +8,7 @@
 <!-- Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&family=Inter:wght@400;500;600&family=Noto+Serif+TC:wght@400;600&family=Noto+Serif+JP:wght@400;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&family=Inter:wght@400;500;600&family=LXGW+WenKai+TC:wght@400;700&family=Noto+Serif+JP:wght@400;600&display=swap" rel="stylesheet">
 
 <style>
 /* ============================================================
@@ -32,7 +32,7 @@
   --font-title: 'Cormorant Garamond', Georgia, serif;
   --font-ui: 'Inter', -apple-system, sans-serif;
   --font-en: 'Inter', sans-serif;
-  --font-zh: 'Noto Serif TC', serif;
+  --font-zh: 'LXGW WenKai TC', 'BiauKai', 'STKaiti', serif;
   --font-ja: 'Noto Serif JP', serif;
 }
 
@@ -781,6 +781,8 @@ function renderCJKKaraoke(wrapper, page) {
 
     if (isCJKContent(ch) && contentIdx < contentTimings.length) {
       lastTiming = contentTimings[contentIdx++];
+    } else if (!isCJKContent(ch)) {
+      span.dataset.punct = '1';
     }
     if (lastTiming) {
       span.dataset.start = lastTiming.start;
@@ -887,22 +889,78 @@ function startKaraoke() {
   const wordEls = subtitleArea.querySelectorAll('.word');
   if (wordEls.length === 0) return;
 
+  const isCJK = (state.lang === 'ZH-TW' || state.lang === 'JA');
+
+  // CJK: precompute content elements and extended end times to bridge gaps
+  let contentEls, extendedEnds;
+  if (isCJK) {
+    contentEls = Array.from(wordEls).filter(el => !el.dataset.punct);
+    extendedEnds = contentEls.map((el, i) => {
+      const ownEnd = parseFloat(el.dataset.end);
+      if (i + 1 < contentEls.length) {
+        const nextStart = parseFloat(contentEls[i + 1].dataset.start);
+        if (!isNaN(nextStart) && nextStart > ownEnd) return nextStart;
+      }
+      return ownEnd;
+    });
+  }
+
   function update() {
     const t = audioPlayer.currentTime;
-    wordEls.forEach(el => {
-      const s = parseFloat(el.dataset.start);
-      const e = parseFloat(el.dataset.end);
-      if (isNaN(s)) return;
-      if (t >= e) {
-        el.classList.add('spoken');
-        el.classList.remove('active');
-      } else if (t >= s) {
-        el.classList.add('active');
-        el.classList.remove('spoken');
-      } else {
-        el.classList.remove('spoken', 'active');
+
+    if (isCJK) {
+      // Find active content character (with gap bridging)
+      let activeEl = null;
+      for (let i = 0; i < contentEls.length; i++) {
+        const s = parseFloat(contentEls[i].dataset.start);
+        if (isNaN(s)) continue;
+        if (t >= s && t < extendedEnds[i]) {
+          activeEl = contentEls[i];
+          break;
+        }
       }
-    });
+
+      wordEls.forEach(el => {
+        const s = parseFloat(el.dataset.start);
+        const e = parseFloat(el.dataset.end);
+        if (isNaN(s)) return;
+
+        if (el.dataset.punct) {
+          // Punctuation: color transition only, never active background
+          if (t >= e) {
+            el.classList.add('spoken');
+          } else {
+            el.classList.remove('spoken');
+          }
+          el.classList.remove('active');
+        } else if (el === activeEl) {
+          el.classList.add('active');
+          el.classList.remove('spoken');
+        } else if (t >= parseFloat(el.dataset.end)) {
+          el.classList.add('spoken');
+          el.classList.remove('active');
+        } else {
+          el.classList.remove('spoken', 'active');
+        }
+      });
+    } else {
+      // EN: original logic unchanged
+      wordEls.forEach(el => {
+        const s = parseFloat(el.dataset.start);
+        const e = parseFloat(el.dataset.end);
+        if (isNaN(s)) return;
+        if (t >= e) {
+          el.classList.add('spoken');
+          el.classList.remove('active');
+        } else if (t >= s) {
+          el.classList.add('active');
+          el.classList.remove('spoken');
+        } else {
+          el.classList.remove('spoken', 'active');
+        }
+      });
+    }
+
     if (!audioPlayer.paused) {
       state.karaokeRAF = requestAnimationFrame(update);
     }

@@ -4,7 +4,7 @@
   "version": "toddler",
   "page": "P01",
   "variant": "v1",
-  "generated_at": "2026-03-06T05:32:03Z",
+  "generated_at": "2026-03-06T07:30:28Z",
   "words": [
     {
       "word": "Three",
@@ -61,7 +61,7 @@
       "type": "word"
     },
     {
-      "word": "luck!\"",
+      "word": "luck,\"",
       "start": 4.119,
       "end": 4.739,
       "type": "word"

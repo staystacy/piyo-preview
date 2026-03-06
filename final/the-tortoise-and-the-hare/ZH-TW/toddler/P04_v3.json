@@ -1,0 +1,100 @@
+{
+  "source_file": "P04_v3.mp3",
+  "language": "ZH-TW",
+  "version": "toddler",
+  "page": "P04",
+  "variant": "v3",
+  "generated_at": "2026-03-06T07:38:08Z",
+  "words": [
+    {
+      "word": "跳",
+      "start": 0.219,
+      "end": 0.399,
+      "type": "word"
+    },
+    {
+      "word": "跳",
+      "start": 0.399,
+      "end": 0.679,
+      "type": "word"
+    },
+    {
+      "word": "兔",
+      "start": 0.679,
+      "end": 1.739,
+      "type": "word"
+    },
+    {
+      "word": "玩",
+      "start": 1.74,
+      "end": 1.94,
+      "type": "word"
+    },
+    {
+      "word": "累",
+      "start": 1.94,
+      "end": 2.279,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 2.279,
+      "end": 2.46,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 2.46,
+      "end": 3.46,
+      "type": "word"
+    },
+    {
+      "word": "呼",
+      "start": 3.46,
+      "end": 3.98,
+      "type": "word"
+    },
+    {
+      "word": "噜",
+      "start": 3.98,
+      "end": 4.44,
+      "type": "word"
+    },
+    {
+      "word": "呼",
+      "start": 4.44,
+      "end": 4.74,
+      "type": "word"
+    },
+    {
+      "word": "噜",
+      "start": 4.74,
+      "end": 5.799,
+      "type": "word"
+    },
+    {
+      "word": "睡",
+      "start": 5.799,
+      "end": 5.999,
+      "type": "word"
+    },
+    {
+      "word": "着",
+      "start": 5.999,
+      "end": 6.42,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 6.42,
+      "end": 6.519,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 6.519,
+      "end": 6.539,
+      "type": "word"
+    }
+  ]
+}

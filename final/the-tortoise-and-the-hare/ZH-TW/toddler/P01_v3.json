@@ -1,0 +1,130 @@
+{
+  "source_file": "P01_v3.mp3",
+  "language": "ZH-TW",
+  "version": "toddler",
+  "page": "P01",
+  "variant": "v3",
+  "generated_at": "2026-03-06T07:38:02Z",
+  "words": [
+    {
+      "word": "跳",
+      "start": 0.259,
+      "end": 0.659,
+      "type": "word"
+    },
+    {
+      "word": "跳",
+      "start": 0.659,
+      "end": 0.699,
+      "type": "word"
+    },
+    {
+      "word": "兔",
+      "start": 0.699,
+      "end": 1.879,
+      "type": "word"
+    },
+    {
+      "word": "笑",
+      "start": 1.879,
+      "end": 2.22,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 2.22,
+      "end": 2.299,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 2.299,
+      "end": 2.759,
+      "type": "word"
+    },
+    {
+      "word": "龟",
+      "start": 2.759,
+      "end": 3.039,
+      "type": "word"
+    },
+    {
+      "word": "走",
+      "start": 3.039,
+      "end": 4.46,
+      "type": "word"
+    },
+    {
+      "word": "路",
+      "start": 4.46,
+      "end": 4.72,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 4.72,
+      "end": 4.919,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 4.919,
+      "end": 6.46,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 6.46,
+      "end": 6.94,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 6.94,
+      "end": 7.159,
+      "type": "word"
+    },
+    {
+      "word": "龟",
+      "start": 7.159,
+      "end": 7.359,
+      "type": "word"
+    },
+    {
+      "word": "说",
+      "start": 7.359,
+      "end": 8.319,
+      "type": "word"
+    },
+    {
+      "word": "：“",
+      "start": 8.319,
+      "end": 9.059,
+      "type": "word"
+    },
+    {
+      "word": "来",
+      "start": 9.059,
+      "end": 9.439,
+      "type": "word"
+    },
+    {
+      "word": "比",
+      "start": 9.439,
+      "end": 9.719,
+      "type": "word"
+    },
+    {
+      "word": "赛",
+      "start": 9.719,
+      "end": 10.019,
+      "type": "word"
+    },
+    {
+      "word": "！”",
+      "start": 10.019,
+      "end": 10.14,
+      "type": "word"
+    }
+  ]
+}

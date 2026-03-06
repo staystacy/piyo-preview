@@ -1,0 +1,112 @@
+{
+  "source_file": "P03_v1.mp3",
+  "language": "ZH-TW",
+  "version": "toddler",
+  "page": "P03",
+  "variant": "v1",
+  "generated_at": "2026-03-06T07:38:06Z",
+  "words": [
+    {
+      "word": "慢",
+      "start": 0.419,
+      "end": 0.919,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 0.919,
+      "end": 1.199,
+      "type": "word"
+    },
+    {
+      "word": "归",
+      "start": 1.199,
+      "end": 1.339,
+      "type": "word"
+    },
+    {
+      "word": "一",
+      "start": 1.339,
+      "end": 2.519,
+      "type": "word"
+    },
+    {
+      "word": "步",
+      "start": 2.519,
+      "end": 3.159,
+      "type": "word"
+    },
+    {
+      "word": "一",
+      "start": 3.159,
+      "end": 3.539,
+      "type": "word"
+    },
+    {
+      "word": "步",
+      "start": 3.539,
+      "end": 4.119,
+      "type": "word"
+    },
+    {
+      "word": "走",
+      "start": 4.119,
+      "end": 4.539,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 4.539,
+      "end": 5.719,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 5.719,
+      "end": 5.959,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 5.96,
+      "end": 6.28,
+      "type": "word"
+    },
+    {
+      "word": "走",
+      "start": 6.28,
+      "end": 6.439,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 6.439,
+      "end": 7.26,
+      "type": "word"
+    },
+    {
+      "word": "不",
+      "start": 7.26,
+      "end": 7.639,
+      "type": "word"
+    },
+    {
+      "word": "要",
+      "start": 7.639,
+      "end": 7.859,
+      "type": "word"
+    },
+    {
+      "word": "停",
+      "start": 7.859,
+      "end": 8.019,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 8.019,
+      "end": 8.059,
+      "type": "word"
+    }
+  ]
+}

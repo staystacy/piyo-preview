@@ -4,7 +4,7 @@
   "version": "standard",
   "page": "P13",
   "variant": "v4",
-  "generated_at": "2026-03-06T05:32:48Z",
+  "generated_at": "2026-03-06T07:31:14Z",
   "words": [
     {
       "word": "That",
@@ -133,15 +133,15 @@
       "type": "word"
     },
     {
-      "word": "time,",
+      "word": "time",
       "start": 10.719,
-      "end": 11.119,
+      "end": 10.96,
       "type": "word"
     },
     {
       "word": "I'm",
       "start": 11.279,
-      "end": 11.46,
+      "end": 11.42,
       "type": "word"
     },
     {
@@ -195,7 +195,7 @@
     {
       "word": "on,",
       "start": 14.699,
-      "end": 15.139,
+      "end": 15.14,
       "type": "word"
     },
     {

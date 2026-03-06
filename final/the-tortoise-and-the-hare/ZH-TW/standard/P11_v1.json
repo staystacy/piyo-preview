@@ -1,0 +1,262 @@
+{
+  "source_file": "P11_v1.mp3",
+  "language": "ZH-TW",
+  "version": "standard",
+  "page": "P11",
+  "variant": "v1",
+  "generated_at": "2026-03-06T07:38:41Z",
+  "words": [
+    {
+      "word": "没",
+      "start": 0.119,
+      "end": 0.319,
+      "type": "word"
+    },
+    {
+      "word": "关",
+      "start": 0.319,
+      "end": 0.759,
+      "type": "word"
+    },
+    {
+      "word": "系",
+      "start": 0.759,
+      "end": 0.879,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 0.879,
+      "end": 1.339,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 1.339,
+      "end": 1.499,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 1.499,
+      "end": 1.82,
+      "type": "word"
+    },
+    {
+      "word": "走",
+      "start": 1.82,
+      "end": 2.079,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 2.079,
+      "end": 2.559,
+      "type": "word"
+    },
+    {
+      "word": "一",
+      "start": 2.559,
+      "end": 2.819,
+      "type": "word"
+    },
+    {
+      "word": "步",
+      "start": 2.819,
+      "end": 3.199,
+      "type": "word"
+    },
+    {
+      "word": "一",
+      "start": 3.199,
+      "end": 3.379,
+      "type": "word"
+    },
+    {
+      "word": "步",
+      "start": 3.379,
+      "end": 3.519,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 3.519,
+      "end": 4.039,
+      "type": "word"
+    },
+    {
+      "word": "不",
+      "start": 4.039,
+      "end": 4.34,
+      "type": "word"
+    },
+    {
+      "word": "要",
+      "start": 4.34,
+      "end": 4.639,
+      "type": "word"
+    },
+    {
+      "word": "停",
+      "start": 4.639,
+      "end": 4.759,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 4.759,
+      "end": 6.119,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 6.119,
+      "end": 6.599,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 6.599,
+      "end": 6.88,
+      "type": "word"
+    },
+    {
+      "word": "龟",
+      "start": 6.88,
+      "end": 7.799,
+      "type": "word"
+    },
+    {
+      "word": "跨",
+      "start": 7.799,
+      "end": 7.959,
+      "type": "word"
+    },
+    {
+      "word": "过",
+      "start": 7.959,
+      "end": 8.239,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 8.239,
+      "end": 8.82,
+      "type": "word"
+    },
+    {
+      "word": "终",
+      "start": 8.82,
+      "end": 9.319,
+      "type": "word"
+    },
+    {
+      "word": "点",
+      "start": 9.319,
+      "end": 9.5,
+      "type": "word"
+    },
+    {
+      "word": "线",
+      "start": 9.5,
+      "end": 9.64,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 9.64,
+      "end": 11.059,
+      "type": "word"
+    },
+    {
+      "word": "耶",
+      "start": 11.059,
+      "end": 11.439,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 11.439,
+      "end": 12.18,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 12.18,
+      "end": 12.359,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 12.359,
+      "end": 12.779,
+      "type": "word"
+    },
+    {
+      "word": "龟",
+      "start": 12.779,
+      "end": 13.619,
+      "type": "word"
+    },
+    {
+      "word": "赢",
+      "start": 13.619,
+      "end": 14.039,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 14.039,
+      "end": 14.6,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 14.6,
+      "end": 15.979,
+      "type": "word"
+    },
+    {
+      "word": "大",
+      "start": 15.979,
+      "end": 16.219,
+      "type": "word"
+    },
+    {
+      "word": "家",
+      "start": 16.219,
+      "end": 16.479,
+      "type": "word"
+    },
+    {
+      "word": "一",
+      "start": 16.479,
+      "end": 16.579,
+      "type": "word"
+    },
+    {
+      "word": "起",
+      "start": 16.579,
+      "end": 16.92,
+      "type": "word"
+    },
+    {
+      "word": "欢",
+      "start": 16.92,
+      "end": 17.18,
+      "type": "word"
+    },
+    {
+      "word": "呼",
+      "start": 17.18,
+      "end": 17.479,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 17.479,
+      "end": 17.579,
+      "type": "word"
+    }
+  ]
+}

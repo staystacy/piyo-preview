@@ -4,7 +4,7 @@
   "version": "standard",
   "page": "P10",
   "variant": "v3",
-  "generated_at": "2026-03-06T05:33:16Z",
+  "generated_at": "2026-03-06T07:31:54Z",
   "words": [
     {
       "word": "两",
@@ -127,7 +127,7 @@
       "type": "word"
     },
     {
-      "word": "：",
+      "word": "。",
       "start": 6.059,
       "end": 7.059,
       "type": "word"
@@ -171,18 +171,18 @@
     {
       "word": "安",
       "start": 8.22,
-      "end": 8.659,
+      "end": 8.68,
       "type": "word"
     },
     {
       "word": "全",
-      "start": 8.659,
-      "end": 8.84,
+      "start": 8.68,
+      "end": 8.839,
       "type": "word"
     },
     {
       "word": "。",
-      "start": 8.84,
+      "start": 8.839,
       "end": 8.859,
       "type": "word"
     }

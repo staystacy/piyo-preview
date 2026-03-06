@@ -4,17 +4,35 @@
   "version": "toddler",
   "page": "P05",
   "variant": "v2",
-  "generated_at": "2026-03-06T05:33:33Z",
+  "generated_at": "2026-03-06T07:32:12Z",
   "words": [
     {
-      "word": "狼",
+      "word": "オ",
       "start": 0.219,
-      "end": 1.199,
+      "end": 0.379,
+      "type": "word"
+    },
+    {
+      "word": "オ",
+      "start": 0.379,
+      "end": 0.519,
+      "type": "word"
+    },
+    {
+      "word": "カ",
+      "start": 0.519,
+      "end": 0.699,
+      "type": "word"
+    },
+    {
+      "word": "ミ",
+      "start": 0.699,
+      "end": 0.86,
       "type": "word"
     },
     {
       "word": "。",
-      "start": 1.199,
+      "start": 0.86,
       "end": 1.259,
       "type": "word"
     },
@@ -38,25 +56,25 @@
     },
     {
       "word": "入",
-      "start": 2.839,
+      "start": 2.859,
       "end": 3.019,
       "type": "word"
     },
     {
       "word": "れ",
       "start": 3.019,
-      "end": 3.2,
+      "end": 3.18,
       "type": "word"
     },
     {
       "word": "て",
-      "start": 3.2,
-      "end": 3.399,
+      "start": 3.18,
+      "end": 3.419,
       "type": "word"
     },
     {
       "word": "よ",
-      "start": 3.399,
+      "start": 3.419,
       "end": 4.46,
       "type": "word"
     },
@@ -81,12 +99,12 @@
     {
       "word": "。",
       "start": 6.559,
-      "end": 6.619,
+      "end": 6.679,
       "type": "word"
     },
     {
       "word": "ふ",
-      "start": 6.619,
+      "start": 6.679,
       "end": 6.819,
       "type": "word"
     },

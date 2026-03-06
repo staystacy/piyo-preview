@@ -4,7 +4,7 @@
   "version": "toddler",
   "page": "P06",
   "variant": "v0",
-  "generated_at": "2026-03-06T05:36:26Z",
+  "generated_at": "2026-03-06T07:31:26Z",
   "words": [
     {
       "word": "三",
@@ -61,7 +61,7 @@
       "type": "word"
     },
     {
-      "word": "。",
+      "word": "，",
       "start": 2.759,
       "end": 3.72,
       "type": "word"
@@ -75,18 +75,24 @@
     {
       "word": "里",
       "start": 3.9,
-      "end": 4.119,
+      "end": 4.259,
       "type": "word"
     },
     {
       "word": "安",
-      "start": 4.119,
+      "start": 4.259,
       "end": 4.619,
       "type": "word"
     },
     {
       "word": "全",
       "start": 4.619,
+      "end": 4.719,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 4.719,
       "end": 4.799,
       "type": "word"
     }

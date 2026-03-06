@@ -4,7 +4,7 @@
   "version": "standard",
   "page": "P11",
   "variant": "v1",
-  "generated_at": "2026-03-06T05:32:43Z",
+  "generated_at": "2026-03-06T07:31:08Z",
   "words": [
     {
       "word": "Big",
@@ -175,9 +175,9 @@
       "type": "word"
     },
     {
-      "word": "chins.\"",
+      "word": "chins\"",
       "start": 12.099,
-      "end": 12.819,
+      "end": 12.779,
       "type": "word"
     },
     {
@@ -201,13 +201,13 @@
     {
       "word": "took",
       "start": 14.159,
-      "end": 14.379,
+      "end": 14.359,
       "type": "word"
     },
     {
       "word": "the",
       "start": 14.42,
-      "end": 14.64,
+      "end": 14.52,
       "type": "word"
     },
     {

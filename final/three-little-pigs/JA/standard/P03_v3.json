@@ -4,7 +4,7 @@
   "version": "standard",
   "page": "P03",
   "variant": "v3",
-  "generated_at": "2026-03-06T05:33:47Z",
+  "generated_at": "2026-03-06T07:32:27Z",
   "words": [
     {
       "word": "ブ",
@@ -183,48 +183,66 @@
     {
       "word": "。",
       "start": 7.639,
-      "end": 10.039,
+      "end": 8.819,
+      "type": "word"
+    },
+    {
+      "word": "ふ",
+      "start": 8.819,
+      "end": 8.899,
+      "type": "word"
+    },
+    {
+      "word": "ん",
+      "start": 8.899,
+      "end": 9.0,
+      "type": "word"
+    },
+    {
+      "word": "、",
+      "start": 9.0,
+      "end": 9.959,
       "type": "word"
     },
     {
       "word": "僕",
-      "start": 10.039,
+      "start": 9.96,
       "end": 10.18,
       "type": "word"
     },
     {
       "word": "の",
       "start": 10.18,
-      "end": 10.259,
+      "end": 10.279,
       "type": "word"
     },
     {
       "word": "お",
-      "start": 10.26,
-      "end": 10.44,
+      "start": 10.279,
+      "end": 10.519,
       "type": "word"
     },
     {
       "word": "家",
-      "start": 10.44,
-      "end": 10.64,
+      "start": 10.519,
+      "end": 10.639,
       "type": "word"
     },
     {
       "word": "の",
-      "start": 10.64,
-      "end": 10.879,
+      "start": 10.639,
+      "end": 10.819,
       "type": "word"
     },
     {
       "word": "方",
-      "start": 10.88,
-      "end": 11.02,
+      "start": 10.819,
+      "end": 11.019,
       "type": "word"
     },
     {
       "word": "が",
-      "start": 11.02,
+      "start": 11.019,
       "end": 11.459,
       "type": "word"
     },
@@ -249,12 +267,12 @@
     {
       "word": "す",
       "start": 12.119,
-      "end": 12.26,
+      "end": 12.279,
       "type": "word"
     },
     {
       "word": "ご",
-      "start": 12.26,
+      "start": 12.279,
       "end": 12.399,
       "type": "word"
     },
@@ -267,13 +285,13 @@
     {
       "word": "ぞ",
       "start": 12.539,
-      "end": 12.96,
+      "end": 12.72,
       "type": "word"
     },
     {
       "word": "。",
-      "start": 12.96,
-      "end": 13.419,
+      "start": 12.72,
+      "end": 13.42,
       "type": "word"
     }
   ]

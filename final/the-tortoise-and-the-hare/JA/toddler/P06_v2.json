@@ -1,0 +1,130 @@
+{
+  "source_file": "P06_v2.mp3",
+  "language": "JA",
+  "version": "toddler",
+  "page": "P06",
+  "variant": "v2",
+  "generated_at": "2026-03-06T07:38:55Z",
+  "words": [
+    {
+      "word": "ゆ",
+      "start": 0.179,
+      "end": 0.319,
+      "type": "word"
+    },
+    {
+      "word": "っ",
+      "start": 0.319,
+      "end": 0.479,
+      "type": "word"
+    },
+    {
+      "word": "く",
+      "start": 0.479,
+      "end": 0.919,
+      "type": "word"
+    },
+    {
+      "word": "ん",
+      "start": 0.919,
+      "end": 1.019,
+      "type": "word"
+    },
+    {
+      "word": "登",
+      "start": 1.019,
+      "end": 1.139,
+      "type": "word"
+    },
+    {
+      "word": "り",
+      "start": 1.139,
+      "end": 1.299,
+      "type": "word"
+    },
+    {
+      "word": "ま",
+      "start": 1.299,
+      "end": 1.439,
+      "type": "word"
+    },
+    {
+      "word": "す",
+      "start": 1.439,
+      "end": 2.639,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 2.639,
+      "end": 2.719,
+      "type": "word"
+    },
+    {
+      "word": "き",
+      "start": 2.72,
+      "end": 2.819,
+      "type": "word"
+    },
+    {
+      "word": "ょ",
+      "start": 2.819,
+      "end": 3.059,
+      "type": "word"
+    },
+    {
+      "word": "ん",
+      "start": 3.059,
+      "end": 3.519,
+      "type": "word"
+    },
+    {
+      "word": "た",
+      "start": 3.519,
+      "end": 4.599,
+      "type": "word"
+    },
+    {
+      "word": "起",
+      "start": 4.599,
+      "end": 4.779,
+      "type": "word"
+    },
+    {
+      "word": "き",
+      "start": 4.779,
+      "end": 5.219,
+      "type": "word"
+    },
+    {
+      "word": "た",
+      "start": 5.219,
+      "end": 5.979,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 5.979,
+      "end": 6.579,
+      "type": "word"
+    },
+    {
+      "word": "あ",
+      "start": 6.579,
+      "end": 6.639,
+      "type": "word"
+    },
+    {
+      "word": "っ",
+      "start": 6.639,
+      "end": 6.759,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 6.759,
+      "end": 6.939,
+      "type": "word"
+    }
+  ]
+}

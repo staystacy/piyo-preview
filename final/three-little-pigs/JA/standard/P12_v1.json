@@ -4,7 +4,7 @@
   "version": "standard",
   "page": "P12",
   "variant": "v1",
-  "generated_at": "2026-03-06T05:34:08Z",
+  "generated_at": "2026-03-06T07:32:49Z",
   "words": [
     {
       "word": "ふ",
@@ -15,54 +15,78 @@
     {
       "word": "ー",
       "start": 0.86,
-      "end": 3.279,
+      "end": 1.96,
+      "type": "word"
+    },
+    {
+      "word": "、",
+      "start": 1.96,
+      "end": 2.819,
       "type": "word"
     },
     {
       "word": "ふ",
-      "start": 3.279,
-      "end": 3.839,
+      "start": 2.819,
+      "end": 2.96,
       "type": "word"
     },
     {
       "word": "ー",
-      "start": 3.839,
-      "end": 3.839,
+      "start": 2.96,
+      "end": 3.439,
       "type": "word"
     },
     {
       "word": "ふ",
-      "start": 3.839,
-      "end": 5.179,
+      "start": 3.439,
+      "end": 3.919,
       "type": "word"
     },
     {
       "word": "ー",
-      "start": 5.179,
-      "end": 5.179,
+      "start": 3.919,
+      "end": 3.919,
+      "type": "word"
+    },
+    {
+      "word": "、",
+      "start": 3.919,
+      "end": 5.079,
       "type": "word"
     },
     {
       "word": "ふ",
-      "start": 5.179,
-      "end": 5.179,
+      "start": 5.079,
+      "end": 5.219,
       "type": "word"
     },
     {
       "word": "ー",
-      "start": 5.179,
+      "start": 5.219,
+      "end": 5.539,
+      "type": "word"
+    },
+    {
+      "word": "ふ",
+      "start": 5.539,
+      "end": 5.98,
+      "type": "word"
+    },
+    {
+      "word": "ー",
+      "start": 5.98,
       "end": 5.98,
       "type": "word"
     },
     {
       "word": "。",
       "start": 5.98,
-      "end": 7.639,
+      "end": 7.739,
       "type": "word"
     },
     {
       "word": "全",
-      "start": 7.639,
+      "start": 7.739,
       "end": 8.059,
       "type": "word"
     },
@@ -81,30 +105,30 @@
     {
       "word": "れ",
       "start": 8.579,
-      "end": 8.68,
+      "end": 8.76,
       "type": "word"
     },
     {
       "word": "な",
-      "start": 8.68,
-      "end": 8.799,
+      "start": 8.76,
+      "end": 8.94,
       "type": "word"
     },
     {
       "word": "い",
-      "start": 8.799,
-      "end": 10.0,
+      "start": 8.94,
+      "end": 9.059,
       "type": "word"
     },
     {
       "word": "。",
-      "start": 10.0,
-      "end": 10.099,
+      "start": 9.059,
+      "end": 10.1,
       "type": "word"
     },
     {
       "word": "狼",
-      "start": 10.099,
+      "start": 10.1,
       "end": 10.619,
       "type": "word"
     },
@@ -219,12 +243,12 @@
     {
       "word": "き",
       "start": 15.059,
-      "end": 15.219,
+      "end": 15.179,
       "type": "word"
     },
     {
       "word": "ま",
-      "start": 15.219,
+      "start": 15.179,
       "end": 15.319,
       "type": "word"
     },

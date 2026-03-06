@@ -1,0 +1,268 @@
+{
+  "source_file": "P01_v2.mp3",
+  "language": "ZH-TW",
+  "version": "standard",
+  "page": "P01",
+  "variant": "v2",
+  "generated_at": "2026-03-06T07:38:17Z",
+  "words": [
+    {
+      "word": "跳",
+      "start": 0.259,
+      "end": 0.359,
+      "type": "word"
+    },
+    {
+      "word": "跳",
+      "start": 0.359,
+      "end": 0.62,
+      "type": "word"
+    },
+    {
+      "word": "兔",
+      "start": 0.62,
+      "end": 1.299,
+      "type": "word"
+    },
+    {
+      "word": "跑",
+      "start": 1.299,
+      "end": 1.519,
+      "type": "word"
+    },
+    {
+      "word": "得",
+      "start": 1.519,
+      "end": 1.839,
+      "type": "word"
+    },
+    {
+      "word": "好",
+      "start": 1.839,
+      "end": 2.219,
+      "type": "word"
+    },
+    {
+      "word": "快",
+      "start": 2.22,
+      "end": 2.5,
+      "type": "word"
+    },
+    {
+      "word": "好",
+      "start": 2.5,
+      "end": 2.88,
+      "type": "word"
+    },
+    {
+      "word": "快",
+      "start": 2.88,
+      "end": 2.999,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 2.999,
+      "end": 3.839,
+      "type": "word"
+    },
+    {
+      "word": "他",
+      "start": 3.839,
+      "end": 4.219,
+      "type": "word"
+    },
+    {
+      "word": "最",
+      "start": 4.219,
+      "end": 4.519,
+      "type": "word"
+    },
+    {
+      "word": "喜",
+      "start": 4.519,
+      "end": 4.779,
+      "type": "word"
+    },
+    {
+      "word": "欢",
+      "start": 4.779,
+      "end": 5.159,
+      "type": "word"
+    },
+    {
+      "word": "笑",
+      "start": 5.159,
+      "end": 5.579,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 5.579,
+      "end": 5.96,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 5.96,
+      "end": 6.159,
+      "type": "word"
+    },
+    {
+      "word": "龟",
+      "start": 6.159,
+      "end": 6.239,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 6.239,
+      "end": 7.799,
+      "type": "word"
+    },
+    {
+      "word": "你",
+      "start": 7.799,
+      "end": 8.079,
+      "type": "word"
+    },
+    {
+      "word": "走",
+      "start": 8.079,
+      "end": 8.319,
+      "type": "word"
+    },
+    {
+      "word": "路",
+      "start": 8.319,
+      "end": 8.679,
+      "type": "word"
+    },
+    {
+      "word": "好",
+      "start": 8.679,
+      "end": 9.179,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 9.179,
+      "end": 9.479,
+      "type": "word"
+    },
+    {
+      "word": "哦",
+      "start": 9.479,
+      "end": 9.659,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 9.659,
+      "end": 9.979,
+      "type": "word"
+    },
+    {
+      "word": "哈",
+      "start": 9.979,
+      "end": 10.179,
+      "type": "word"
+    },
+    {
+      "word": "哈",
+      "start": 10.179,
+      "end": 10.399,
+      "type": "word"
+    },
+    {
+      "word": "哈",
+      "start": 10.399,
+      "end": 10.5,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 10.5,
+      "end": 11.979,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 11.979,
+      "end": 12.319,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 12.319,
+      "end": 12.559,
+      "type": "word"
+    },
+    {
+      "word": "龟",
+      "start": 12.559,
+      "end": 13.519,
+      "type": "word"
+    },
+    {
+      "word": "说",
+      "start": 13.519,
+      "end": 13.679,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 13.679,
+      "end": 14.639,
+      "type": "word"
+    },
+    {
+      "word": "那",
+      "start": 14.639,
+      "end": 14.779,
+      "type": "word"
+    },
+    {
+      "word": "我",
+      "start": 14.779,
+      "end": 15.039,
+      "type": "word"
+    },
+    {
+      "word": "们",
+      "start": 15.039,
+      "end": 15.279,
+      "type": "word"
+    },
+    {
+      "word": "来",
+      "start": 15.279,
+      "end": 15.619,
+      "type": "word"
+    },
+    {
+      "word": "比",
+      "start": 15.619,
+      "end": 15.819,
+      "type": "word"
+    },
+    {
+      "word": "赛",
+      "start": 15.819,
+      "end": 16.079,
+      "type": "word"
+    },
+    {
+      "word": "吧",
+      "start": 16.079,
+      "end": 16.219,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 16.219,
+      "end": 16.299,
+      "type": "word"
+    }
+  ]
+}
