@@ -753,9 +753,9 @@ function isCJKContent(ch) {
 }
 
 /**
- * CJK karaoke: phrase-based display from page.text, timing from timestamps.
- * Punctuation acts as phrase delimiter and is NOT displayed.
- * Each phrase highlights as a unit (like English words).
+ * CJK karaoke: per-character display from page.text, timing from timestamps.
+ * Aligns CJK content chars 1:1 positionally; punctuation inherits
+ * timing from the preceding content character.
  */
 function renderCJKKaraoke(wrapper, page) {
   // Collect per-content-char timing from timestamps
@@ -769,36 +769,25 @@ function renderCJKKaraoke(wrapper, page) {
   });
 
   let contentIdx = 0;
-  const lines = page.text.split('\n');
+  let lastTiming = null;
 
-  lines.forEach((line, lineIdx) => {
-    if (lineIdx > 0) wrapper.appendChild(document.createElement('br'));
+  for (const ch of page.text) {
+    if (ch === '\n') { wrapper.appendChild(document.createElement('br')); continue; }
+    if (ch === ' ')  { wrapper.appendChild(document.createTextNode(' ')); continue; }
 
-    // Extract phrases: consecutive runs of CJK content chars
-    const chars = [...line];
-    const phrases = [];
-    let buf = '';
-    for (const ch of chars) {
-      if (isCJKContent(ch)) { buf += ch; }
-      else if (buf) { phrases.push(buf); buf = ''; }
+    const span = document.createElement('span');
+    span.className = 'word';
+    span.textContent = ch;
+
+    if (isCJKContent(ch) && contentIdx < contentTimings.length) {
+      lastTiming = contentTimings[contentIdx++];
     }
-    if (buf) phrases.push(buf);
-
-    phrases.forEach((phrase, pi) => {
-      if (pi > 0) wrapper.appendChild(document.createTextNode(' '));
-      const span = document.createElement('span');
-      span.className = 'word';
-      span.textContent = phrase;
-      // Timing: first char start → last char end
-      const len = [...phrase].filter(isCJKContent).length;
-      if (contentIdx < contentTimings.length) {
-        span.dataset.start = contentTimings[contentIdx].start;
-        span.dataset.end = contentTimings[Math.min(contentIdx + len - 1, contentTimings.length - 1)].end;
-        contentIdx += len;
-      }
-      wrapper.appendChild(span);
-    });
-  });
+    if (lastTiming) {
+      span.dataset.start = lastTiming.start;
+      span.dataset.end   = lastTiming.end;
+    }
+    wrapper.appendChild(span);
+  }
 }
 
 /** EN karaoke: timestamps words match page.text directly. */
