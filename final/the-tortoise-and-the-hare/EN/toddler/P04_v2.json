@@ -4,42 +4,42 @@
   "version": "toddler",
   "page": "P04",
   "variant": "v2",
-  "generated_at": "2026-03-06T07:37:26Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "Hops",
-      "start": 0.179,
-      "end": 0.939,
+      "start": 0.212,
+      "end": 0.776,
       "type": "word"
     },
     {
       "word": "got",
-      "start": 0.979,
-      "end": 1.459,
+      "start": 0.876,
+      "end": 1.176,
       "type": "word"
     },
     {
-      "word": "tired",
-      "start": 1.579,
-      "end": 2.459,
+      "word": "tired…",
+      "start": 1.376,
+      "end": 2.376,
       "type": "word"
     },
     {
       "word": "and",
-      "start": 3.4,
-      "end": 3.659,
+      "start": 3.475,
+      "end": 3.49,
       "type": "word"
     },
     {
       "word": "fell",
-      "start": 3.919,
-      "end": 4.619,
+      "start": 3.65,
+      "end": 4.29,
       "type": "word"
     },
     {
-      "word": "asleep",
-      "start": 4.719,
-      "end": 5.659,
+      "word": "asleep.",
+      "start": 4.472,
+      "end": 5.644,
       "type": "word"
     }
   ]

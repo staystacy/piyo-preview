@@ -4,150 +4,150 @@
   "version": "standard",
   "page": "P04",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:37:42Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "Tilly",
-      "start": 0.179,
-      "end": 0.599,
+      "start": 0.143,
+      "end": 0.467,
       "type": "word"
     },
     {
       "word": "kept",
-      "start": 0.639,
-      "end": 0.939,
+      "start": 0.531,
+      "end": 0.787,
       "type": "word"
     },
     {
       "word": "walking,",
-      "start": 1.039,
-      "end": 1.919,
+      "start": 0.867,
+      "end": 1.64,
       "type": "word"
     },
     {
       "word": "one",
-      "start": 1.98,
-      "end": 2.179,
+      "start": 1.906,
+      "end": 2.065,
       "type": "word"
     },
     {
       "word": "little",
-      "start": 2.279,
-      "end": 2.499,
+      "start": 2.11,
+      "end": 2.38,
       "type": "word"
     },
     {
       "word": "step",
-      "start": 2.62,
-      "end": 2.92,
+      "start": 2.46,
+      "end": 2.78,
       "type": "word"
     },
     {
       "word": "at",
-      "start": 2.939,
-      "end": 3.059,
+      "start": 2.833,
+      "end": 2.939,
       "type": "word"
     },
     {
       "word": "a",
-      "start": 3.079,
-      "end": 3.199,
+      "start": 2.979,
+      "end": 3.019,
       "type": "word"
     },
     {
       "word": "time.",
-      "start": 3.22,
-      "end": 3.599,
+      "start": 3.099,
+      "end": 3.739,
       "type": "word"
     },
     {
       "word": "She",
-      "start": 4.179,
-      "end": 4.319,
+      "start": 4.192,
+      "end": 4.201,
       "type": "word"
     },
     {
       "word": "whispered",
-      "start": 4.38,
-      "end": 4.859,
+      "start": 4.249,
+      "end": 4.681,
       "type": "word"
     },
     {
       "word": "to",
-      "start": 4.9,
-      "end": 5.0,
+      "start": 4.734,
+      "end": 4.84,
       "type": "word"
     },
     {
-      "word": "herself,",
-      "start": 5.059,
-      "end": 6.119,
+      "word": "herself…",
+      "start": 4.93,
+      "end": 6.0,
       "type": "word"
     },
     {
-      "word": "\"It's",
-      "start": 6.179,
-      "end": 6.48,
+      "word": "It's",
+      "start": 6.177,
+      "end": 6.345,
       "type": "word"
     },
     {
       "word": "okay,",
-      "start": 6.539,
-      "end": 7.36,
+      "start": 6.457,
+      "end": 7.225,
       "type": "word"
     },
     {
       "word": "nice",
-      "start": 7.48,
-      "end": 7.859,
+      "start": 7.321,
+      "end": 7.705,
       "type": "word"
     },
     {
       "word": "and",
-      "start": 7.899,
-      "end": 8.059,
+      "start": 7.745,
+      "end": 7.865,
       "type": "word"
     },
     {
-      "word": "slow.",
-      "start": 8.199,
-      "end": 8.64,
+      "word": "slow,",
+      "start": 7.977,
+      "end": 8.825,
       "type": "word"
     },
     {
-      "word": "Step",
-      "start": 9.099,
-      "end": 9.48,
+      "word": "step",
+      "start": 8.921,
+      "end": 9.305,
       "type": "word"
     },
     {
       "word": "by",
-      "start": 9.579,
-      "end": 9.799,
+      "start": 9.385,
+      "end": 9.545,
       "type": "word"
     },
     {
       "word": "step,",
-      "start": 9.84,
-      "end": 10.279,
+      "start": 9.657,
+      "end": 10.425,
       "type": "word"
     },
     {
       "word": "here",
-      "start": 10.68,
-      "end": 10.92,
+      "start": 10.489,
+      "end": 10.745,
       "type": "word"
     },
     {
       "word": "I",
-      "start": 10.96,
-      "end": 11.1,
+      "start": 10.825,
+      "end": 10.905,
       "type": "word"
     },
     {
-      "word": "go.\"",
-      "start": 11.119,
-      "end": 11.34,
+      "word": "go.",
+      "start": 11.011,
+      "end": 11.303,
       "type": "word"
     }
   ]

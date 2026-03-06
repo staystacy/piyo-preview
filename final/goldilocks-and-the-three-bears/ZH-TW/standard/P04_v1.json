@@ -4,144 +4,156 @@
   "version": "standard",
   "page": "P04",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:27:40Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "小",
-      "start": 0.299,
-      "end": 0.579,
+      "start": 0.464,
+      "end": 0.474,
       "type": "word"
     },
     {
       "word": "金",
-      "start": 0.579,
-      "end": 0.919,
+      "start": 0.474,
+      "end": 0.714,
       "type": "word"
     },
     {
-      "word": "尝",
-      "start": 0.919,
-      "end": 1.059,
+      "word": "嚐",
+      "start": 0.714,
+      "end": 1.074,
       "type": "word"
     },
     {
       "word": "了",
-      "start": 1.059,
-      "end": 1.099,
+      "start": 1.074,
+      "end": 1.174,
       "type": "word"
     },
     {
       "word": "一",
-      "start": 1.099,
-      "end": 1.579,
+      "start": 1.174,
+      "end": 1.274,
       "type": "word"
     },
     {
       "word": "口",
-      "start": 1.579,
-      "end": 1.759,
+      "start": 1.274,
+      "end": 1.514,
       "type": "word"
     },
     {
       "word": "中",
-      "start": 1.759,
-      "end": 1.939,
+      "start": 1.514,
+      "end": 1.674,
       "type": "word"
     },
     {
       "word": "碗",
-      "start": 1.939,
-      "end": 2.139,
+      "start": 1.674,
+      "end": 1.994,
       "type": "word"
     },
     {
       "word": "的",
-      "start": 2.139,
-      "end": 2.339,
+      "start": 1.994,
+      "end": 2.074,
       "type": "word"
     },
     {
       "word": "粥",
-      "start": 2.339,
-      "end": 2.459,
+      "start": 2.074,
+      "end": 2.714,
       "type": "word"
     },
     {
       "word": "。",
-      "start": 2.459,
-      "end": 3.34,
+      "start": 2.714,
+      "end": 3.034,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 3.054,
+      "end": 3.074,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 3.074,
+      "end": 3.122,
       "type": "word"
     },
     {
       "word": "好",
-      "start": 3.34,
-      "end": 3.639,
+      "start": 3.4,
+      "end": 3.424,
       "type": "word"
     },
     {
       "word": "冰",
-      "start": 3.639,
-      "end": 4.199,
+      "start": 3.424,
+      "end": 3.984,
       "type": "word"
     },
     {
       "word": "好",
-      "start": 4.199,
-      "end": 4.46,
+      "start": 3.984,
+      "end": 4.304,
       "type": "word"
     },
     {
       "word": "冰",
-      "start": 4.46,
-      "end": 4.699,
+      "start": 4.304,
+      "end": 4.544,
       "type": "word"
     },
     {
-      "word": "，",
-      "start": 4.699,
-      "end": 5.179,
+      "word": "！",
+      "start": 4.544,
+      "end": 5.024,
       "type": "word"
     },
     {
-      "word": "这",
-      "start": 5.179,
-      "end": 5.299,
+      "word": "這",
+      "start": 5.024,
+      "end": 5.104,
       "type": "word"
     },
     {
-      "word": "个",
-      "start": 5.299,
-      "end": 5.379,
+      "word": "個",
+      "start": 5.104,
+      "end": 5.264,
       "type": "word"
     },
     {
       "word": "也",
-      "start": 5.379,
-      "end": 5.599,
+      "start": 5.264,
+      "end": 5.504,
       "type": "word"
     },
     {
       "word": "太",
-      "start": 5.599,
-      "end": 6.099,
+      "start": 5.504,
+      "end": 5.824,
       "type": "word"
     },
     {
       "word": "冰",
-      "start": 6.099,
-      "end": 6.259,
+      "start": 5.824,
+      "end": 6.144,
       "type": "word"
     },
     {
       "word": "了",
-      "start": 6.259,
-      "end": 6.5,
+      "start": 6.144,
+      "end": 6.464,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 6.5,
-      "end": 6.539,
+      "word": "！",
+      "start": 6.464,
+      "end": 6.544,
       "type": "word"
     }
   ]

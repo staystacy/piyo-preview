@@ -4,258 +4,270 @@
   "version": "standard",
   "page": "P11",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:38:41Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
-      "word": "没",
-      "start": 0.119,
-      "end": 0.319,
+      "word": "沒",
+      "start": 0.316,
+      "end": 0.436,
       "type": "word"
     },
     {
-      "word": "关",
-      "start": 0.319,
-      "end": 0.759,
+      "word": "關",
+      "start": 0.436,
+      "end": 0.556,
       "type": "word"
     },
     {
-      "word": "系",
-      "start": 0.759,
-      "end": 0.879,
+      "word": "係",
+      "start": 0.556,
+      "end": 0.796,
       "type": "word"
     },
     {
       "word": "，",
-      "start": 0.879,
-      "end": 1.339,
+      "start": 0.796,
+      "end": 1.196,
       "type": "word"
     },
     {
       "word": "慢",
-      "start": 1.339,
-      "end": 1.499,
+      "start": 1.196,
+      "end": 1.356,
       "type": "word"
     },
     {
       "word": "慢",
-      "start": 1.499,
-      "end": 1.82,
+      "start": 1.356,
+      "end": 1.996,
       "type": "word"
     },
     {
       "word": "走",
-      "start": 1.82,
-      "end": 2.079,
+      "start": 1.996,
+      "end": 1.996,
       "type": "word"
     },
     {
       "word": "，",
-      "start": 2.079,
-      "end": 2.559,
+      "start": 1.996,
+      "end": 2.316,
       "type": "word"
     },
     {
       "word": "一",
-      "start": 2.559,
-      "end": 2.819,
+      "start": 2.316,
+      "end": 2.636,
       "type": "word"
     },
     {
       "word": "步",
-      "start": 2.819,
-      "end": 3.199,
+      "start": 2.636,
+      "end": 2.956,
       "type": "word"
     },
     {
       "word": "一",
-      "start": 3.199,
-      "end": 3.379,
+      "start": 2.956,
+      "end": 3.196,
       "type": "word"
     },
     {
       "word": "步",
-      "start": 3.379,
-      "end": 3.519,
+      "start": 3.196,
+      "end": 3.436,
       "type": "word"
     },
     {
       "word": "，",
-      "start": 3.519,
-      "end": 4.039,
+      "start": 3.436,
+      "end": 3.756,
       "type": "word"
     },
     {
       "word": "不",
-      "start": 4.039,
-      "end": 4.34,
+      "start": 3.756,
+      "end": 4.076,
       "type": "word"
     },
     {
       "word": "要",
-      "start": 4.34,
-      "end": 4.639,
+      "start": 4.076,
+      "end": 4.316,
       "type": "word"
     },
     {
       "word": "停",
-      "start": 4.639,
-      "end": 4.759,
+      "start": 4.316,
+      "end": 4.636,
       "type": "word"
     },
     {
       "word": "。",
-      "start": 4.759,
-      "end": 6.119,
+      "start": 4.636,
+      "end": 4.636,
       "type": "word"
     },
     {
       "word": "慢",
-      "start": 6.119,
-      "end": 6.599,
+      "start": 6.379,
+      "end": 6.459,
       "type": "word"
     },
     {
       "word": "慢",
-      "start": 6.599,
-      "end": 6.88,
+      "start": 6.459,
+      "end": 6.539,
       "type": "word"
     },
     {
-      "word": "龟",
-      "start": 6.88,
-      "end": 7.799,
+      "word": "龜",
+      "start": 6.539,
+      "end": 7.219,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 7.219,
+      "end": 7.499,
       "type": "word"
     },
     {
       "word": "跨",
-      "start": 7.799,
-      "end": 7.959,
+      "start": 7.499,
+      "end": 7.899,
       "type": "word"
     },
     {
-      "word": "过",
-      "start": 7.959,
-      "end": 8.239,
+      "word": "過",
+      "start": 7.899,
+      "end": 8.139,
       "type": "word"
     },
     {
       "word": "了",
-      "start": 8.239,
-      "end": 8.82,
+      "start": 8.139,
+      "end": 8.539,
       "type": "word"
     },
     {
-      "word": "终",
-      "start": 8.82,
-      "end": 9.319,
+      "word": "終",
+      "start": 8.539,
+      "end": 8.859,
       "type": "word"
     },
     {
-      "word": "点",
-      "start": 9.319,
-      "end": 9.5,
+      "word": "點",
+      "start": 8.859,
+      "end": 9.259,
       "type": "word"
     },
     {
-      "word": "线",
-      "start": 9.5,
-      "end": 9.64,
-      "type": "word"
-    },
-    {
-      "word": "。",
-      "start": 9.64,
-      "end": 11.059,
-      "type": "word"
-    },
-    {
-      "word": "耶",
-      "start": 11.059,
-      "end": 11.439,
+      "word": "線",
+      "start": 9.259,
+      "end": 9.499,
       "type": "word"
     },
     {
       "word": "！",
-      "start": 11.439,
-      "end": 12.18,
+      "start": 9.499,
+      "end": 9.499,
+      "type": "word"
+    },
+    {
+      "word": "耶",
+      "start": 11.239,
+      "end": 11.599,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 11.599,
+      "end": 11.959,
       "type": "word"
     },
     {
       "word": "慢",
-      "start": 12.18,
-      "end": 12.359,
+      "start": 11.959,
+      "end": 12.119,
       "type": "word"
     },
     {
       "word": "慢",
-      "start": 12.359,
-      "end": 12.779,
+      "start": 12.119,
+      "end": 12.439,
       "type": "word"
     },
     {
-      "word": "龟",
-      "start": 12.779,
-      "end": 13.619,
+      "word": "龜",
+      "start": 12.439,
+      "end": 13.079,
       "type": "word"
     },
     {
-      "word": "赢",
-      "start": 13.619,
-      "end": 14.039,
+      "word": "，",
+      "start": 13.079,
+      "end": 13.319,
+      "type": "word"
+    },
+    {
+      "word": "贏",
+      "start": 13.319,
+      "end": 14.119,
       "type": "word"
     },
     {
       "word": "了",
-      "start": 14.039,
-      "end": 14.6,
+      "start": 14.119,
+      "end": 14.439,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 14.6,
-      "end": 15.979,
+      "word": "！",
+      "start": 14.439,
+      "end": 14.439,
       "type": "word"
     },
     {
       "word": "大",
-      "start": 15.979,
-      "end": 16.219,
+      "start": 15.855,
+      "end": 15.861,
       "type": "word"
     },
     {
       "word": "家",
-      "start": 16.219,
-      "end": 16.479,
+      "start": 15.861,
+      "end": 16.181,
       "type": "word"
     },
     {
       "word": "一",
-      "start": 16.479,
-      "end": 16.579,
+      "start": 16.181,
+      "end": 16.381,
       "type": "word"
     },
     {
       "word": "起",
-      "start": 16.579,
-      "end": 16.92,
+      "start": 16.381,
+      "end": 16.581,
       "type": "word"
     },
     {
-      "word": "欢",
-      "start": 16.92,
-      "end": 17.18,
+      "word": "歡",
+      "start": 16.581,
+      "end": 16.901,
       "type": "word"
     },
     {
       "word": "呼",
-      "start": 17.18,
-      "end": 17.479,
+      "start": 16.901,
+      "end": 17.381,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 17.479,
-      "end": 17.579,
+      "word": "！",
+      "start": 17.381,
+      "end": 17.541,
       "type": "word"
     }
   ]

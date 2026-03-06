@@ -4,204 +4,210 @@
   "version": "standard",
   "page": "P12",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:27:07Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "The",
-      "start": 0.14,
-      "end": 0.259,
+      "start": 0.202,
+      "end": 0.205,
       "type": "word"
     },
     {
       "word": "door",
-      "start": 0.439,
-      "end": 1.039,
+      "start": 0.301,
+      "end": 0.685,
       "type": "word"
     },
     {
       "word": "opened.",
-      "start": 1.159,
-      "end": 2.119,
+      "start": 0.799,
+      "end": 1.563,
       "type": "word"
     },
     {
       "word": "The",
-      "start": 2.159,
-      "end": 2.319,
+      "start": 1.913,
+      "end": 2.123,
       "type": "word"
     },
     {
       "word": "three",
-      "start": 2.339,
-      "end": 2.599,
+      "start": 2.176,
+      "end": 2.441,
       "type": "word"
     },
     {
       "word": "bears",
-      "start": 2.7,
-      "end": 3.039,
+      "start": 2.521,
+      "end": 2.921,
       "type": "word"
     },
     {
       "word": "were",
-      "start": 3.079,
-      "end": 3.299,
+      "start": 2.969,
+      "end": 3.161,
       "type": "word"
     },
     {
-      "word": "home.",
-      "start": 3.359,
-      "end": 4.559,
+      "word": "home!",
+      "start": 3.257,
+      "end": 4.081,
       "type": "word"
     },
     {
       "word": "Papa",
-      "start": 4.599,
-      "end": 4.899,
+      "start": 4.722,
+      "end": 4.734,
       "type": "word"
     },
     {
       "word": "Bear",
-      "start": 4.96,
-      "end": 5.199,
+      "start": 4.798,
+      "end": 5.054,
       "type": "word"
     },
     {
-      "word": "rumbled,",
-      "start": 5.239,
-      "end": 5.98,
+      "word": "rumbled…",
+      "start": 5.094,
+      "end": 5.85,
       "type": "word"
     },
     {
-      "word": "\"Who's",
-      "start": 5.98,
-      "end": 6.439,
+      "word": "Who's",
+      "start": 5.85,
+      "end": 6.25,
       "type": "word"
     },
     {
       "word": "been",
-      "start": 6.48,
-      "end": 6.699,
+      "start": 6.298,
+      "end": 6.49,
       "type": "word"
     },
     {
       "word": "eating",
-      "start": 6.759,
-      "end": 7.239,
+      "start": 6.547,
+      "end": 6.889,
       "type": "word"
     },
     {
-      "word": "my",
-      "start": 7.299,
-      "end": 7.759,
+      "word": "MY",
+      "start": 7.129,
+      "end": 7.609,
       "type": "word"
     },
     {
-      "word": "porridge?\"",
-      "start": 7.919,
-      "end": 9.0,
+      "word": "porridge?",
+      "start": 7.709,
+      "end": 8.729,
       "type": "word"
     },
     {
       "word": "Mama",
-      "start": 9.119,
-      "end": 9.38,
+      "start": 9.187,
+      "end": 9.199,
       "type": "word"
     },
     {
       "word": "Bear",
-      "start": 9.46,
-      "end": 9.739,
+      "start": 9.263,
+      "end": 9.519,
       "type": "word"
     },
     {
-      "word": "gasped,",
-      "start": 9.779,
-      "end": 10.68,
+      "word": "gasped…",
+      "start": 9.639,
+      "end": 10.558,
       "type": "word"
     },
     {
-      "word": "\"Who",
-      "start": 10.68,
-      "end": 10.92,
+      "word": "Who",
+      "start": 10.558,
+      "end": 10.798,
       "type": "word"
     },
     {
       "word": "broke",
-      "start": 11.019,
-      "end": 11.479,
+      "start": 10.851,
+      "end": 11.116,
       "type": "word"
     },
     {
-      "word": "my",
-      "start": 11.539,
-      "end": 11.84,
+      "word": "MY",
+      "start": 11.302,
+      "end": 11.674,
       "type": "word"
     },
     {
-      "word": "chair?\"",
-      "start": 12.019,
-      "end": 12.96,
+      "word": "chair?",
+      "start": 11.78,
+      "end": 12.63,
       "type": "word"
     },
     {
       "word": "Baby",
-      "start": 13.059,
-      "end": 13.38,
+      "start": 13.169,
+      "end": 13.181,
       "type": "word"
     },
     {
       "word": "Bear",
-      "start": 13.439,
-      "end": 13.699,
+      "start": 13.229,
+      "end": 13.421,
       "type": "word"
     },
     {
       "word": "ran",
-      "start": 13.719,
-      "end": 13.979,
+      "start": 13.501,
+      "end": 13.741,
       "type": "word"
     },
     {
       "word": "upstairs",
-      "start": 14.02,
-      "end": 14.56,
+      "start": 13.812,
+      "end": 14.38,
       "type": "word"
     },
     {
       "word": "and",
-      "start": 14.6,
-      "end": 14.779,
+      "start": 14.4,
+      "end": 14.46,
       "type": "word"
     },
     {
-      "word": "squealed,",
-      "start": 14.799,
-      "end": 15.639,
+      "word": "squealed",
+      "start": 14.54,
+      "end": 15.18,
       "type": "word"
     },
     {
-      "word": "\"Someone's",
-      "start": 15.679,
-      "end": 16.379,
+      "word": "—",
+      "start": 15.34,
+      "end": 15.54,
+      "type": "word"
+    },
+    {
+      "word": "Someone's",
+      "start": 15.989,
+      "end": 16.111,
       "type": "word"
     },
     {
       "word": "in",
-      "start": 16.44,
-      "end": 16.659,
+      "start": 16.191,
+      "end": 16.351,
       "type": "word"
     },
     {
-      "word": "my",
-      "start": 16.719,
-      "end": 17.079,
+      "word": "MY",
+      "start": 16.511,
+      "end": 16.831,
       "type": "word"
     },
     {
-      "word": "bed!\"",
-      "start": 17.199,
-      "end": 17.739,
+      "word": "bed!",
+      "start": 16.991,
+      "end": 17.631,
       "type": "word"
     }
   ]

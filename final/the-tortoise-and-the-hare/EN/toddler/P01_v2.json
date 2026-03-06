@@ -4,72 +4,72 @@
   "version": "toddler",
   "page": "P01",
   "variant": "v2",
-  "generated_at": "2026-03-06T07:37:20Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "Hops",
-      "start": 0.219,
-      "end": 0.819,
+      "start": 0.367,
+      "end": 0.687,
       "type": "word"
     },
     {
       "word": "laughed",
-      "start": 0.899,
-      "end": 1.259,
+      "start": 0.737,
+      "end": 1.087,
       "type": "word"
     },
     {
       "word": "at",
-      "start": 1.279,
-      "end": 1.399,
+      "start": 1.14,
+      "end": 1.246,
       "type": "word"
     },
     {
       "word": "Tilly.",
-      "start": 1.439,
-      "end": 1.819,
+      "start": 1.286,
+      "end": 1.886,
       "type": "word"
     },
     {
-      "word": "\"You're",
-      "start": 2.059,
-      "end": 2.519,
+      "word": "You're",
+      "start": 2.023,
+      "end": 2.347,
       "type": "word"
     },
     {
       "word": "so",
-      "start": 2.559,
-      "end": 2.819,
+      "start": 2.453,
+      "end": 2.665,
       "type": "word"
     },
     {
-      "word": "slow,\"",
-      "start": 3.0,
-      "end": 4.039,
+      "word": "slow!",
+      "start": 2.841,
+      "end": 3.785,
       "type": "word"
     },
     {
       "word": "Tilly",
-      "start": 4.079,
-      "end": 4.439,
+      "start": 4.005,
+      "end": 4.249,
       "type": "word"
     },
     {
-      "word": "said.",
-      "start": 4.46,
-      "end": 4.799,
+      "word": "said…",
+      "start": 4.313,
+      "end": 4.569,
       "type": "word"
     },
     {
-      "word": "\"Let's",
+      "word": "Let's",
       "start": 5.019,
-      "end": 5.319,
+      "end": 5.209,
       "type": "word"
     },
     {
-      "word": "race!\"",
-      "start": 5.4,
-      "end": 6.139,
+      "word": "race!",
+      "start": 5.321,
+      "end": 6.089,
       "type": "word"
     }
   ]

@@ -4,48 +4,48 @@
   "version": "toddler",
   "page": "P10",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:26:42Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "Goldie",
-      "start": 0.319,
-      "end": 0.86,
+      "start": 0.519,
+      "end": 0.699,
       "type": "word"
     },
     {
       "word": "said",
-      "start": 0.899,
-      "end": 1.259,
+      "start": 0.763,
+      "end": 1.019,
       "type": "word"
     },
     {
       "word": "sorry.",
-      "start": 1.299,
-      "end": 1.899,
+      "start": 1.139,
+      "end": 2.379,
       "type": "word"
     },
     {
       "word": "They",
-      "start": 2.48,
-      "end": 2.779,
+      "start": 2.587,
+      "end": 2.595,
       "type": "word"
     },
     {
       "word": "all",
-      "start": 2.859,
-      "end": 3.119,
+      "start": 2.675,
+      "end": 2.915,
       "type": "word"
     },
     {
-      "word": "became",
-      "start": 3.139,
-      "end": 3.899,
+      "word": "became…",
+      "start": 3.029,
+      "end": 4.193,
       "type": "word"
     },
     {
-      "word": "friends",
-      "start": 4.4,
-      "end": 5.26,
+      "word": "friends!",
+      "start": 4.293,
+      "end": 5.233,
       "type": "word"
     }
   ]

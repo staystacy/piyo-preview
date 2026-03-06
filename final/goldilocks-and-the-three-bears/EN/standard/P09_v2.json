@@ -4,108 +4,114 @@
   "version": "standard",
   "page": "P09",
   "variant": "v2",
-  "generated_at": "2026-03-06T07:27:01Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "Upstairs,",
-      "start": 0.179,
-      "end": 1.259,
+      "start": 0.342,
+      "end": 1.032,
       "type": "word"
     },
     {
       "word": "Goldie",
-      "start": 1.299,
-      "end": 1.779,
+      "start": 1.464,
+      "end": 1.912,
       "type": "word"
     },
     {
       "word": "found",
-      "start": 1.84,
-      "end": 2.14,
+      "start": 2.005,
+      "end": 2.47,
       "type": "word"
     },
     {
       "word": "three",
-      "start": 2.339,
-      "end": 2.679,
+      "start": 2.55,
+      "end": 2.95,
       "type": "word"
     },
     {
       "word": "beds.",
-      "start": 2.819,
-      "end": 3.379,
+      "start": 3.078,
+      "end": 4.11,
       "type": "word"
     },
     {
       "word": "She",
-      "start": 4.339,
-      "end": 4.539,
+      "start": 4.285,
+      "end": 4.294,
       "type": "word"
     },
     {
-      "word": "climbed",
-      "start": 4.579,
-      "end": 5.019,
+      "word": "lay",
+      "start": 4.354,
+      "end": 4.534,
       "type": "word"
     },
     {
-      "word": "onto",
-      "start": 5.039,
-      "end": 5.319,
+      "word": "down",
+      "start": 4.598,
+      "end": 4.854,
+      "type": "word"
+    },
+    {
+      "word": "on",
+      "start": 4.907,
+      "end": 5.013,
       "type": "word"
     },
     {
       "word": "the",
-      "start": 5.339,
-      "end": 5.42,
+      "start": 5.053,
+      "end": 5.173,
       "type": "word"
     },
     {
       "word": "big",
-      "start": 5.539,
-      "end": 5.739,
+      "start": 5.253,
+      "end": 5.493,
       "type": "word"
     },
     {
       "word": "bed.",
-      "start": 5.819,
-      "end": 6.139,
+      "start": 5.593,
+      "end": 6.306,
       "type": "word"
     },
     {
-      "word": "\"Whew,",
-      "start": 6.44,
-      "end": 7.099,
+      "word": "Ouch!",
+      "start": 6.509,
+      "end": 7.201,
       "type": "word"
     },
     {
-      "word": "this",
-      "start": 7.199,
-      "end": 7.439,
+      "word": "This",
+      "start": 7.257,
+      "end": 7.481,
       "type": "word"
     },
     {
       "word": "one",
-      "start": 7.48,
-      "end": 7.639,
+      "start": 7.521,
+      "end": 7.641,
       "type": "word"
     },
     {
       "word": "is",
-      "start": 7.679,
+      "start": 7.747,
       "end": 7.959,
       "type": "word"
     },
     {
       "word": "too",
-      "start": 8.0,
-      "end": 8.279,
+      "start": 8.079,
+      "end": 8.439,
       "type": "word"
     },
     {
-      "word": "high!\"",
-      "start": 8.42,
-      "end": 9.179,
+      "word": "HARD!",
+      "start": 8.615,
+      "end": 9.639,
       "type": "word"
     }
   ]

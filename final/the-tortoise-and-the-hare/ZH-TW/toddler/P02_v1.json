@@ -4,126 +4,144 @@
   "version": "toddler",
   "page": "P02",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:38:04Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
-      "word": "预",
-      "start": 0.159,
-      "end": 0.539,
+      "word": "預",
+      "start": 0.537,
+      "end": 1.137,
       "type": "word"
     },
     {
-      "word": "备",
-      "start": 0.539,
-      "end": 0.939,
+      "word": "備",
+      "start": 1.137,
+      "end": 1.737,
       "type": "word"
     },
     {
-      "word": "，",
-      "start": 0.939,
-      "end": 2.099,
+      "word": "—",
+      "start": 1.737,
+      "end": 1.777,
+      "type": "word"
+    },
+    {
+      "word": "—",
+      "start": 1.777,
+      "end": 1.817,
       "type": "word"
     },
     {
       "word": "跑",
-      "start": 2.099,
-      "end": 2.399,
-      "type": "word"
-    },
-    {
-      "word": "。",
-      "start": 2.399,
-      "end": 4.019,
-      "type": "word"
-    },
-    {
-      "word": "咻",
-      "start": 4.019,
-      "end": 4.4,
+      "start": 1.817,
+      "end": 2.297,
       "type": "word"
     },
     {
       "word": "！",
-      "start": 4.4,
-      "end": 4.94,
+      "start": 2.297,
+      "end": 2.297,
+      "type": "word"
+    },
+    {
+      "word": "咻",
+      "start": 4.202,
+      "end": 4.482,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 4.482,
+      "end": 4.762,
       "type": "word"
     },
     {
       "word": "跳",
-      "start": 4.94,
-      "end": 5.059,
+      "start": 4.762,
+      "end": 4.922,
       "type": "word"
     },
     {
       "word": "跳",
-      "start": 5.059,
-      "end": 5.3,
+      "start": 4.922,
+      "end": 5.162,
       "type": "word"
     },
     {
       "word": "兔",
-      "start": 5.3,
-      "end": 5.919,
+      "start": 5.162,
+      "end": 5.602,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 5.602,
+      "end": 5.642,
       "type": "word"
     },
     {
       "word": "好",
-      "start": 5.92,
-      "end": 6.36,
+      "start": 5.642,
+      "end": 6.042,
       "type": "word"
     },
     {
       "word": "快",
-      "start": 6.36,
-      "end": 6.579,
+      "start": 6.042,
+      "end": 6.442,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 6.579,
-      "end": 8.199,
-      "type": "word"
-    },
-    {
-      "word": "慢",
-      "start": 8.199,
-      "end": 8.819,
+      "word": "！",
+      "start": 6.442,
+      "end": 6.442,
       "type": "word"
     },
     {
       "word": "慢",
-      "start": 8.819,
-      "end": 9.1,
-      "type": "word"
-    },
-    {
-      "word": "龟",
-      "start": 9.1,
-      "end": 10.039,
+      "start": 10.24,
+      "end": 10.426,
       "type": "word"
     },
     {
       "word": "慢",
-      "start": 10.039,
-      "end": 10.479,
+      "start": 10.426,
+      "end": 10.566,
+      "type": "word"
+    },
+    {
+      "word": "龜",
+      "start": 10.566,
+      "end": 10.706,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 10.706,
+      "end": 10.846,
       "type": "word"
     },
     {
       "word": "慢",
-      "start": 10.479,
-      "end": 11.42,
+      "start": 11.226,
+      "end": 11.226,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 11.226,
+      "end": 11.252,
       "type": "word"
     },
     {
       "word": "走",
-      "start": 11.42,
-      "end": 11.539,
+      "start": 11.252,
+      "end": 11.278,
       "type": "word"
     },
     {
       "word": "。",
-      "start": 11.539,
-      "end": 11.579,
+      "start": 11.278,
+      "end": 11.304,
       "type": "word"
     }
   ]

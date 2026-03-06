@@ -4,66 +4,90 @@
   "version": "toddler",
   "page": "P07",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:27:26Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "大",
-      "start": 0.379,
-      "end": 0.839,
+      "start": 0.695,
+      "end": 0.695,
       "type": "word"
     },
     {
       "word": "床",
-      "start": 0.839,
-      "end": 2.159,
+      "start": 0.695,
+      "end": 2.535,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 2.535,
+      "end": 2.555,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 2.555,
+      "end": 2.575,
       "type": "word"
     },
     {
       "word": "太",
-      "start": 2.159,
-      "end": 2.439,
+      "start": 2.649,
+      "end": 2.654,
       "type": "word"
     },
     {
-      "word": "高",
-      "start": 2.44,
-      "end": 3.18,
+      "word": "硬",
+      "start": 2.654,
+      "end": 2.665,
       "type": "word"
     },
     {
-      "word": "，",
-      "start": 3.18,
-      "end": 4.259,
+      "word": "！",
+      "start": 2.665,
+      "end": 2.681,
       "type": "word"
     },
     {
       "word": "中",
-      "start": 4.259,
-      "end": 4.759,
+      "start": 3.253,
+      "end": 3.319,
       "type": "word"
     },
     {
       "word": "床",
-      "start": 4.759,
-      "end": 6.059,
+      "start": 3.319,
+      "end": 4.919,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 4.919,
+      "end": 4.939,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 4.939,
+      "end": 4.959,
       "type": "word"
     },
     {
       "word": "太",
-      "start": 6.059,
-      "end": 6.599,
+      "start": 5.699,
+      "end": 5.799,
       "type": "word"
     },
     {
-      "word": "小",
-      "start": 6.599,
-      "end": 7.079,
+      "word": "軟",
+      "start": 5.799,
+      "end": 6.199,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 7.079,
-      "end": 8.139,
+      "word": "！",
+      "start": 6.199,
+      "end": 6.199,
       "type": "word"
     }
   ]

@@ -4,126 +4,126 @@
   "version": "standard",
   "page": "P01",
   "variant": "v2",
-  "generated_at": "2026-03-06T07:26:44Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "Goldie",
-      "start": 0.28,
-      "end": 0.899,
+      "start": 0.455,
+      "end": 0.631,
       "type": "word"
     },
     {
       "word": "loved",
-      "start": 1.039,
-      "end": 1.519,
+      "start": 0.737,
+      "end": 1.267,
       "type": "word"
     },
     {
       "word": "walking",
-      "start": 1.539,
-      "end": 1.959,
+      "start": 1.337,
+      "end": 1.827,
       "type": "word"
     },
     {
       "word": "in",
-      "start": 1.959,
-      "end": 2.079,
+      "start": 1.853,
+      "end": 1.905,
       "type": "word"
     },
     {
       "word": "the",
-      "start": 2.079,
-      "end": 2.24,
+      "start": 1.925,
+      "end": 1.985,
       "type": "word"
     },
     {
       "word": "forest.",
-      "start": 2.259,
-      "end": 3.159,
+      "start": 2.099,
+      "end": 3.103,
       "type": "word"
     },
     {
       "word": "Today,",
-      "start": 3.199,
-      "end": 4.039,
+      "start": 3.442,
+      "end": 3.577,
       "type": "word"
     },
     {
       "word": "she",
-      "start": 4.059,
-      "end": 4.279,
+      "start": 3.927,
+      "end": 4.137,
       "type": "word"
     },
     {
       "word": "found",
-      "start": 4.299,
-      "end": 4.519,
+      "start": 4.177,
+      "end": 4.377,
       "type": "word"
     },
     {
       "word": "a",
-      "start": 4.619,
-      "end": 4.639,
+      "start": 4.457,
+      "end": 4.537,
       "type": "word"
     },
     {
       "word": "path",
-      "start": 4.659,
-      "end": 5.039,
+      "start": 4.601,
+      "end": 4.857,
       "type": "word"
     },
     {
       "word": "she'd",
-      "start": 5.039,
-      "end": 5.279,
+      "start": 4.897,
+      "end": 5.177,
       "type": "word"
     },
     {
       "word": "never",
-      "start": 5.319,
-      "end": 5.619,
+      "start": 5.203,
+      "end": 5.333,
       "type": "word"
     },
     {
       "word": "seen",
-      "start": 5.659,
-      "end": 5.899,
+      "start": 5.413,
+      "end": 5.733,
       "type": "word"
     },
     {
       "word": "before.",
-      "start": 5.92,
-      "end": 6.839,
+      "start": 5.813,
+      "end": 6.653,
       "type": "word"
     },
     {
-      "word": "\"Hmm?",
-      "start": 6.859,
-      "end": 7.5,
+      "word": "Hmm?",
+      "start": 7.063,
+      "end": 7.333,
       "type": "word"
     },
     {
       "word": "Where",
-      "start": 7.519,
-      "end": 7.719,
+      "start": 7.373,
+      "end": 7.573,
       "type": "word"
     },
     {
       "word": "does",
-      "start": 7.739,
-      "end": 7.96,
+      "start": 7.621,
+      "end": 7.813,
       "type": "word"
     },
     {
       "word": "this",
-      "start": 8.02,
-      "end": 8.26,
+      "start": 7.877,
+      "end": 8.133,
       "type": "word"
     },
     {
-      "word": "lead?\"",
-      "start": 8.359,
-      "end": 8.619,
+      "word": "lead?",
+      "start": 8.229,
+      "end": 8.613,
       "type": "word"
     }
   ]

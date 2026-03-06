@@ -4,96 +4,96 @@
   "version": "toddler",
   "page": "P09",
   "variant": "v2",
-  "generated_at": "2026-03-06T07:27:30Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "三",
-      "start": 0.34,
-      "end": 0.819,
+      "start": 0.633,
+      "end": 0.689,
       "type": "word"
     },
     {
-      "word": "只",
-      "start": 0.819,
-      "end": 1.339,
+      "word": "隻",
+      "start": 0.689,
+      "end": 1.649,
       "type": "word"
     },
     {
       "word": "熊",
-      "start": 1.339,
-      "end": 2.46,
+      "start": 1.649,
+      "end": 2.209,
       "type": "word"
     },
     {
       "word": "回",
-      "start": 2.46,
-      "end": 2.7,
+      "start": 2.209,
+      "end": 3.089,
       "type": "word"
     },
     {
-      "word": "来",
-      "start": 2.7,
-      "end": 3.199,
+      "word": "來",
+      "start": 3.089,
+      "end": 3.649,
       "type": "word"
     },
     {
       "word": "了",
-      "start": 3.199,
-      "end": 3.699,
+      "start": 3.649,
+      "end": 3.649,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 3.699,
-      "end": 5.099,
+      "word": "！",
+      "start": 3.649,
+      "end": 3.649,
       "type": "word"
     },
     {
       "word": "有",
-      "start": 5.099,
-      "end": 5.299,
+      "start": 5.136,
+      "end": 5.142,
       "type": "word"
     },
     {
       "word": "人",
-      "start": 5.299,
-      "end": 5.499,
+      "start": 5.142,
+      "end": 5.382,
       "type": "word"
     },
     {
       "word": "在",
-      "start": 5.5,
-      "end": 5.739,
+      "start": 5.382,
+      "end": 5.622,
       "type": "word"
     },
     {
       "word": "我",
-      "start": 5.739,
-      "end": 5.919,
+      "start": 5.622,
+      "end": 5.822,
       "type": "word"
     },
     {
       "word": "的",
-      "start": 5.92,
-      "end": 6.119,
+      "start": 5.822,
+      "end": 6.022,
       "type": "word"
     },
     {
       "word": "床",
-      "start": 6.119,
-      "end": 6.759,
+      "start": 6.022,
+      "end": 6.502,
       "type": "word"
     },
     {
       "word": "上",
-      "start": 6.759,
-      "end": 7.099,
+      "start": 6.502,
+      "end": 7.062,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 7.099,
-      "end": 7.259,
+      "word": "！",
+      "start": 7.062,
+      "end": 7.222,
       "type": "word"
     }
   ]

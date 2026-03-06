@@ -4,114 +4,120 @@
   "version": "standard",
   "page": "P10",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:27:03Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "She",
-      "start": 0.239,
-      "end": 0.459,
+      "start": 0.144,
+      "end": 0.15,
       "type": "word"
     },
     {
       "word": "tried",
-      "start": 0.479,
-      "end": 0.859,
+      "start": 0.203,
+      "end": 0.468,
       "type": "word"
     },
     {
       "word": "the",
-      "start": 0.879,
-      "end": 0.92,
+      "start": 0.508,
+      "end": 0.628,
       "type": "word"
     },
     {
       "word": "medium",
-      "start": 1.019,
-      "end": 1.459,
+      "start": 0.685,
+      "end": 1.027,
       "type": "word"
     },
     {
       "word": "bed.",
-      "start": 1.48,
-      "end": 2.319,
+      "start": 1.127,
+      "end": 1.427,
       "type": "word"
     },
     {
-      "word": "\"Ugh,",
-      "start": 2.319,
-      "end": 2.98,
+      "word": "Ugh!",
+      "start": 1.977,
+      "end": 2.467,
       "type": "word"
     },
     {
-      "word": "this",
-      "start": 3.019,
-      "end": 3.199,
+      "word": "This",
+      "start": 2.515,
+      "end": 2.707,
       "type": "word"
     },
     {
       "word": "one",
-      "start": 3.24,
-      "end": 3.399,
+      "start": 2.747,
+      "end": 2.867,
       "type": "word"
     },
     {
       "word": "is",
-      "start": 3.439,
-      "end": 3.68,
+      "start": 2.947,
+      "end": 3.107,
       "type": "word"
     },
     {
       "word": "too",
-      "start": 3.72,
-      "end": 3.959,
+      "start": 3.187,
+      "end": 3.427,
       "type": "word"
     },
     {
-      "word": "small.\"",
-      "start": 4.139,
-      "end": 5.0,
+      "word": "SOFT!",
+      "start": 3.667,
+      "end": 4.547,
       "type": "word"
     },
     {
-      "word": "Her",
-      "start": 5.36,
-      "end": 5.579,
+      "word": "She",
+      "start": 4.921,
+      "end": 4.927,
       "type": "word"
     },
     {
-      "word": "feet",
-      "start": 5.599,
-      "end": 5.879,
-      "type": "word"
-    },
-    {
-      "word": "stuck",
-      "start": 5.9,
-      "end": 6.299,
+      "word": "sank",
+      "start": 4.991,
+      "end": 5.247,
       "type": "word"
     },
     {
       "word": "right",
-      "start": 6.339,
-      "end": 6.579,
+      "start": 5.3,
+      "end": 5.565,
       "type": "word"
     },
     {
-      "word": "out",
-      "start": 6.619,
-      "end": 6.799,
+      "word": "in",
+      "start": 5.645,
+      "end": 5.805,
       "type": "word"
     },
     {
-      "word": "the",
-      "start": 6.819,
-      "end": 6.94,
+      "word": "and",
+      "start": 5.845,
+      "end": 5.965,
       "type": "word"
     },
     {
-      "word": "end",
-      "start": 7.019,
-      "end": 7.42,
+      "word": "couldn't",
+      "start": 6.01,
+      "end": 6.36,
+      "type": "word"
+    },
+    {
+      "word": "get",
+      "start": 6.4,
+      "end": 6.52,
+      "type": "word"
+    },
+    {
+      "word": "comfortable!",
+      "start": 6.58,
+      "end": 7.48,
       "type": "word"
     }
   ]

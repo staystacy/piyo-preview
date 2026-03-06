@@ -4,66 +4,72 @@
   "version": "toddler",
   "page": "P07",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:38:13Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "慢",
-      "start": 0.259,
-      "end": 0.459,
+      "start": 0.297,
+      "end": 0.497,
       "type": "word"
     },
     {
       "word": "慢",
-      "start": 0.459,
-      "end": 0.879,
+      "start": 0.497,
+      "end": 0.697,
       "type": "word"
     },
     {
-      "word": "龟",
-      "start": 0.879,
-      "end": 1.72,
+      "word": "龜",
+      "start": 0.697,
+      "end": 1.377,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 1.377,
+      "end": 1.657,
       "type": "word"
     },
     {
       "word": "到",
-      "start": 1.72,
-      "end": 2.079,
+      "start": 1.657,
+      "end": 1.977,
       "type": "word"
     },
     {
-      "word": "终",
-      "start": 2.079,
-      "end": 2.539,
+      "word": "終",
+      "start": 1.977,
+      "end": 2.297,
       "type": "word"
     },
     {
-      "word": "点",
-      "start": 2.539,
-      "end": 2.759,
+      "word": "點",
+      "start": 2.297,
+      "end": 3.017,
       "type": "word"
     },
     {
       "word": "了",
-      "start": 2.759,
-      "end": 3.18,
-      "type": "word"
-    },
-    {
-      "word": "。",
-      "start": 3.18,
-      "end": 4.219,
-      "type": "word"
-    },
-    {
-      "word": "耶",
-      "start": 4.219,
-      "end": 4.719,
+      "start": 3.017,
+      "end": 3.017,
       "type": "word"
     },
     {
       "word": "！",
-      "start": 4.719,
-      "end": 5.099,
+      "start": 3.017,
+      "end": 3.017,
+      "type": "word"
+    },
+    {
+      "word": "耶",
+      "start": 4.599,
+      "end": 4.639,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 4.639,
+      "end": 4.999,
       "type": "word"
     }
   ]

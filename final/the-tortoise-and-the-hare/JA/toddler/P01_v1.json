@@ -4,186 +4,228 @@
   "version": "toddler",
   "page": "P01",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:38:46Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
-      "word": "ぴ",
-      "start": 0.14,
-      "end": 0.219,
+      "word": "ピ",
+      "start": 0.192,
+      "end": 0.195,
       "type": "word"
     },
     {
-      "word": "ょ",
-      "start": 0.219,
-      "end": 0.339,
+      "word": "ョ",
+      "start": 0.195,
+      "end": 0.202,
       "type": "word"
     },
     {
-      "word": "ん",
-      "start": 0.339,
-      "end": 0.6,
+      "word": "ン",
+      "start": 0.202,
+      "end": 0.402,
       "type": "word"
     },
     {
-      "word": "た",
-      "start": 0.6,
-      "end": 0.839,
+      "word": "タ",
+      "start": 0.402,
+      "end": 0.602,
       "type": "word"
     },
     {
       "word": "が",
-      "start": 0.839,
-      "end": 1.419,
+      "start": 0.602,
+      "end": 1.242,
       "type": "word"
     },
     {
       "word": "ゆ",
-      "start": 1.419,
-      "end": 1.5,
+      "start": 1.482,
+      "end": 1.522,
       "type": "word"
     },
     {
       "word": "っ",
-      "start": 1.5,
-      "end": 1.74,
+      "start": 1.522,
+      "end": 1.562,
       "type": "word"
     },
     {
       "word": "く",
-      "start": 1.74,
-      "end": 1.859,
+      "start": 1.562,
+      "end": 1.722,
       "type": "word"
     },
     {
       "word": "ん",
-      "start": 1.86,
-      "end": 2.079,
+      "start": 1.722,
+      "end": 1.882,
       "type": "word"
     },
     {
       "word": "を",
-      "start": 2.079,
-      "end": 2.559,
+      "start": 1.882,
+      "end": 2.362,
       "type": "word"
     },
     {
-      "word": "笑",
-      "start": 2.559,
-      "end": 2.759,
+      "word": "わ",
+      "start": 2.522,
+      "end": 2.602,
+      "type": "word"
+    },
+    {
+      "word": "ら",
+      "start": 2.602,
+      "end": 2.682,
       "type": "word"
     },
     {
       "word": "っ",
-      "start": 2.759,
-      "end": 3.039,
+      "start": 2.682,
+      "end": 2.882,
       "type": "word"
     },
     {
       "word": "た",
-      "start": 3.039,
-      "end": 3.24,
-      "type": "word"
-    },
-    {
-      "word": "。「",
-      "start": 3.24,
-      "end": 4.48,
-      "type": "word"
-    },
-    {
-      "word": "お",
-      "start": 4.48,
-      "end": 4.639,
-      "type": "word"
-    },
-    {
-      "word": "そ",
-      "start": 4.639,
-      "end": 4.839,
-      "type": "word"
-    },
-    {
-      "word": "ー",
-      "start": 4.839,
-      "end": 5.059,
-      "type": "word"
-    },
-    {
-      "word": "い",
-      "start": 5.059,
-      "end": 5.299,
+      "start": 2.882,
+      "end": 3.082,
       "type": "word"
     },
     {
       "word": "。",
-      "start": 5.299,
-      "end": 5.859,
+      "start": 3.082,
+      "end": 4.282,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 4.322,
+      "end": 4.362,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 4.362,
+      "end": 4.422,
+      "type": "word"
+    },
+    {
+      "word": "お",
+      "start": 4.575,
+      "end": 4.583,
+      "type": "word"
+    },
+    {
+      "word": "そ",
+      "start": 4.583,
+      "end": 4.599,
+      "type": "word"
+    },
+    {
+      "word": "ー",
+      "start": 4.599,
+      "end": 4.919,
+      "type": "word"
+    },
+    {
+      "word": "い",
+      "start": 4.919,
+      "end": 5.079,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 5.079,
+      "end": 5.679,
       "type": "word"
     },
     {
       "word": "ゆ",
-      "start": 5.859,
-      "end": 5.959,
+      "start": 5.783,
+      "end": 5.863,
       "type": "word"
     },
     {
       "word": "っ",
-      "start": 5.959,
-      "end": 6.119,
+      "start": 5.863,
+      "end": 5.943,
       "type": "word"
     },
     {
       "word": "く",
-      "start": 6.119,
-      "end": 6.259,
+      "start": 5.943,
+      "end": 6.103,
       "type": "word"
     },
     {
       "word": "ん",
-      "start": 6.259,
-      "end": 6.939,
+      "start": 6.103,
+      "end": 6.263,
       "type": "word"
     },
     {
-      "word": "、",
-      "start": 6.939,
-      "end": 7.119,
+      "word": "…",
+      "start": 6.263,
+      "end": 6.543,
       "type": "word"
     },
     {
-      "word": "競",
-      "start": 7.119,
-      "end": 7.319,
+      "word": "…",
+      "start": 6.543,
+      "end": 6.863,
       "type": "word"
     },
     {
-      "word": "争",
-      "start": 7.319,
-      "end": 7.459,
+      "word": "き",
+      "start": 7.013,
+      "end": 7.029,
       "type": "word"
     },
     {
-      "word": "し",
-      "start": 7.459,
-      "end": 7.619,
-      "type": "word"
-    },
-    {
-      "word": "よ",
-      "start": 7.619,
-      "end": 7.719,
+      "word": "ょ",
+      "start": 7.029,
+      "end": 7.045,
       "type": "word"
     },
     {
       "word": "う",
-      "start": 7.719,
-      "end": 7.739,
+      "start": 7.045,
+      "end": 7.061,
       "type": "word"
     },
     {
-      "word": "」",
-      "start": 7.739,
-      "end": 8.699,
+      "word": "そ",
+      "start": 7.061,
+      "end": 7.141,
+      "type": "word"
+    },
+    {
+      "word": "う",
+      "start": 7.141,
+      "end": 7.221,
+      "type": "word"
+    },
+    {
+      "word": "し",
+      "start": 7.341,
+      "end": 7.461,
+      "type": "word"
+    },
+    {
+      "word": "よ",
+      "start": 7.461,
+      "end": 7.541,
+      "type": "word"
+    },
+    {
+      "word": "う",
+      "start": 7.541,
+      "end": 7.621,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 7.621,
+      "end": 8.581,
       "type": "word"
     }
   ]

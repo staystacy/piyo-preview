@@ -4,216 +4,252 @@
   "version": "standard",
   "page": "P05",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:27:43Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "小",
-      "start": 0.299,
-      "end": 0.579,
+      "start": 0.464,
+      "end": 0.474,
       "type": "word"
     },
     {
       "word": "金",
-      "start": 0.579,
-      "end": 0.919,
+      "start": 0.474,
+      "end": 0.714,
       "type": "word"
     },
     {
-      "word": "尝",
-      "start": 0.919,
-      "end": 1.059,
+      "word": "嚐",
+      "start": 0.714,
+      "end": 1.074,
       "type": "word"
     },
     {
       "word": "了",
-      "start": 1.059,
-      "end": 1.279,
+      "start": 1.074,
+      "end": 1.174,
       "type": "word"
     },
     {
       "word": "一",
-      "start": 1.279,
-      "end": 1.48,
+      "start": 1.174,
+      "end": 1.274,
       "type": "word"
     },
     {
       "word": "口",
-      "start": 1.48,
-      "end": 1.879,
+      "start": 1.274,
+      "end": 1.594,
       "type": "word"
     },
     {
       "word": "小",
-      "start": 1.879,
-      "end": 2.019,
+      "start": 1.594,
+      "end": 1.754,
       "type": "word"
     },
     {
       "word": "碗",
-      "start": 2.019,
-      "end": 2.24,
+      "start": 1.754,
+      "end": 2.114,
       "type": "word"
     },
     {
       "word": "的",
-      "start": 2.24,
-      "end": 2.44,
+      "start": 2.114,
+      "end": 2.154,
       "type": "word"
     },
     {
       "word": "粥",
-      "start": 2.44,
-      "end": 2.5,
+      "start": 2.154,
+      "end": 2.874,
       "type": "word"
     },
     {
       "word": "。",
-      "start": 2.5,
-      "end": 3.659,
+      "start": 2.874,
+      "end": 3.354,
       "type": "word"
     },
     {
-      "word": "这",
-      "start": 3.659,
-      "end": 4.48,
+      "word": "…",
+      "start": 3.394,
+      "end": 3.434,
       "type": "word"
     },
     {
-      "word": "个",
-      "start": 4.48,
-      "end": 5.68,
+      "word": "…",
+      "start": 3.434,
+      "end": 3.494,
       "type": "word"
     },
     {
-      "word": "刚",
-      "start": 5.68,
-      "end": 6.039,
+      "word": "這",
+      "start": 4.074,
+      "end": 4.274,
       "type": "word"
     },
     {
-      "word": "刚",
-      "start": 6.039,
-      "end": 6.779,
+      "word": "個",
+      "start": 4.274,
+      "end": 4.474,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 4.474,
+      "end": 4.954,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 4.954,
+      "end": 5.434,
+      "type": "word"
+    },
+    {
+      "word": "剛",
+      "start": 5.992,
+      "end": 6.072,
+      "type": "word"
+    },
+    {
+      "word": "～",
+      "start": 6.072,
+      "end": 6.152,
+      "type": "word"
+    },
+    {
+      "word": "剛",
+      "start": 6.152,
+      "end": 6.632,
+      "type": "word"
+    },
+    {
+      "word": "～",
+      "start": 6.632,
+      "end": 6.712,
       "type": "word"
     },
     {
       "word": "好",
-      "start": 6.779,
-      "end": 7.219,
+      "start": 6.712,
+      "end": 7.032,
       "type": "word"
     },
     {
-      "word": "，",
-      "start": 7.219,
-      "end": 7.819,
-      "type": "word"
-    },
-    {
-      "word": "好",
-      "start": 7.819,
-      "end": 8.039,
+      "word": "！",
+      "start": 7.032,
+      "end": 7.592,
       "type": "word"
     },
     {
       "word": "好",
-      "start": 8.039,
-      "end": 8.539,
+      "start": 7.592,
+      "end": 7.912,
+      "type": "word"
+    },
+    {
+      "word": "好",
+      "start": 7.912,
+      "end": 8.312,
       "type": "word"
     },
     {
       "word": "吃",
-      "start": 8.539,
-      "end": 8.899,
+      "start": 8.312,
+      "end": 8.792,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 8.899,
-      "end": 9.98,
+      "word": "！",
+      "start": 8.792,
+      "end": 8.792,
       "type": "word"
     },
     {
       "word": "小",
-      "start": 9.98,
-      "end": 10.279,
+      "start": 9.963,
+      "end": 9.97,
       "type": "word"
     },
     {
       "word": "金",
-      "start": 10.279,
-      "end": 10.579,
+      "start": 9.97,
+      "end": 10.37,
       "type": "word"
     },
     {
       "word": "把",
-      "start": 10.579,
-      "end": 10.72,
+      "start": 10.37,
+      "end": 10.53,
       "type": "word"
     },
     {
       "word": "小",
-      "start": 10.72,
-      "end": 11.079,
+      "start": 10.53,
+      "end": 10.69,
       "type": "word"
     },
     {
       "word": "碗",
-      "start": 11.079,
-      "end": 11.259,
+      "start": 10.69,
+      "end": 11.17,
       "type": "word"
     },
     {
       "word": "粥",
-      "start": 11.259,
-      "end": 11.679,
+      "start": 11.17,
+      "end": 11.49,
       "type": "word"
     },
     {
       "word": "吃",
-      "start": 11.679,
-      "end": 11.819,
+      "start": 11.49,
+      "end": 11.57,
       "type": "word"
     },
     {
       "word": "得",
-      "start": 11.819,
-      "end": 12.079,
+      "start": 11.57,
+      "end": 11.89,
       "type": "word"
     },
     {
       "word": "一",
-      "start": 12.079,
-      "end": 12.359,
+      "start": 11.89,
+      "end": 12.13,
       "type": "word"
     },
     {
       "word": "口",
-      "start": 12.359,
-      "end": 12.539,
+      "start": 12.13,
+      "end": 12.37,
       "type": "word"
     },
     {
       "word": "都",
-      "start": 12.539,
-      "end": 12.84,
+      "start": 12.37,
+      "end": 12.57,
       "type": "word"
     },
     {
       "word": "不",
-      "start": 12.84,
-      "end": 12.96,
+      "start": 12.57,
+      "end": 12.77,
       "type": "word"
     },
     {
       "word": "剩",
-      "start": 12.96,
-      "end": 13.1,
+      "start": 12.77,
+      "end": 13.01,
       "type": "word"
     },
     {
       "word": "。",
-      "start": 13.1,
-      "end": 13.1,
+      "start": 13.01,
+      "end": 13.09,
       "type": "word"
     }
   ]

@@ -4,60 +4,66 @@
   "version": "toddler",
   "page": "P02",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:27:17Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "大",
-      "start": 0.199,
-      "end": 0.679,
+      "start": 0.522,
+      "end": 0.536,
       "type": "word"
     },
     {
       "word": "碗",
-      "start": 0.679,
-      "end": 1.119,
+      "start": 0.536,
+      "end": 1.176,
       "type": "word"
     },
     {
       "word": "的",
-      "start": 1.12,
-      "end": 1.539,
+      "start": 1.176,
+      "end": 1.416,
       "type": "word"
     },
     {
       "word": "粥",
-      "start": 1.539,
-      "end": 1.819,
+      "start": 1.416,
+      "end": 2.216,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 1.819,
-      "end": 3.179,
+      "word": "—",
+      "start": 2.216,
+      "end": 2.456,
+      "type": "word"
+    },
+    {
+      "word": "—",
+      "start": 2.456,
+      "end": 2.856,
       "type": "word"
     },
     {
       "word": "太",
-      "start": 3.179,
-      "end": 3.399,
+      "start": 4.108,
+      "end": 4.248,
       "type": "word"
     },
     {
-      "word": "烫",
-      "start": 3.399,
-      "end": 3.919,
+      "word": "燙",
+      "start": 4.248,
+      "end": 5.208,
       "type": "word"
     },
     {
       "word": "了",
-      "start": 3.919,
-      "end": 4.359,
+      "start": 5.208,
+      "end": 5.208,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 4.359,
-      "end": 5.339,
+      "word": "！",
+      "start": 5.208,
+      "end": 5.208,
       "type": "word"
     }
   ]

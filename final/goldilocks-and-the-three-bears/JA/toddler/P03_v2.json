@@ -4,72 +4,102 @@
   "version": "toddler",
   "page": "P03",
   "variant": "v2",
-  "generated_at": "2026-03-06T07:28:09Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
-      "word": "中",
-      "start": 0.159,
-      "end": 0.539,
+      "word": "ち",
+      "start": 0.11,
+      "end": 0.113,
+      "type": "word"
+    },
+    {
+      "word": "ゅ",
+      "start": 0.113,
+      "end": 0.193,
+      "type": "word"
+    },
+    {
+      "word": "う",
+      "start": 0.193,
+      "end": 0.353,
       "type": "word"
     },
     {
       "word": "く",
-      "start": 0.539,
-      "end": 0.719,
+      "start": 0.353,
+      "end": 0.513,
       "type": "word"
     },
     {
       "word": "ら",
-      "start": 0.719,
-      "end": 0.779,
+      "start": 0.513,
+      "end": 0.673,
       "type": "word"
     },
     {
       "word": "い",
-      "start": 0.779,
-      "end": 0.959,
+      "start": 0.673,
+      "end": 0.833,
       "type": "word"
     },
     {
       "word": "の",
-      "start": 0.959,
-      "end": 2.519,
+      "start": 0.833,
+      "end": 2.113,
       "type": "word"
     },
     {
-      "word": "冷",
-      "start": 2.519,
-      "end": 2.74,
+      "word": "—",
+      "start": 2.113,
+      "end": 2.153,
+      "type": "word"
+    },
+    {
+      "word": "—",
+      "start": 2.153,
+      "end": 2.196,
+      "type": "word"
+    },
+    {
+      "word": "つ",
+      "start": 2.385,
+      "end": 2.411,
+      "type": "word"
+    },
+    {
+      "word": "め",
+      "start": 2.411,
+      "end": 2.571,
       "type": "word"
     },
     {
       "word": "た",
-      "start": 2.74,
-      "end": 2.98,
+      "start": 2.571,
+      "end": 2.731,
       "type": "word"
     },
     {
       "word": "す",
-      "start": 2.98,
-      "end": 3.099,
+      "start": 2.731,
+      "end": 2.891,
       "type": "word"
     },
     {
       "word": "ぎ",
-      "start": 3.099,
-      "end": 3.24,
+      "start": 2.891,
+      "end": 3.051,
       "type": "word"
     },
     {
       "word": "る",
-      "start": 3.24,
-      "end": 3.319,
+      "start": 3.051,
+      "end": 3.211,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 3.319,
-      "end": 3.339,
+      "word": "！",
+      "start": 3.211,
+      "end": 3.291,
       "type": "word"
     }
   ]

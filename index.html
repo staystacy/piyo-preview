@@ -8,7 +8,7 @@
 <!-- Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&family=Inter:wght@400;500;600&family=LXGW+WenKai+TC:wght@400;700&family=Noto+Serif+JP:wght@400;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&family=Inter:wght@400;500;600&family=LXGW+WenKai+TC:wght@400;700&family=Lora:ital,wght@0,400;0,600;1,400&family=Noto+Serif+JP:wght@400;600&display=swap" rel="stylesheet">
 
 <style>
 /* ============================================================
@@ -31,7 +31,7 @@
   --max-media: 860px;
   --font-title: 'Cormorant Garamond', Georgia, serif;
   --font-ui: 'Inter', -apple-system, sans-serif;
-  --font-en: 'Inter', sans-serif;
+  --font-en: 'Lora', Georgia, serif;
   --font-zh: 'LXGW WenKai TC', 'BiauKai', 'STKaiti', serif;
   --font-ja: 'Noto Serif JP', serif;
 }
@@ -753,32 +753,119 @@ function isCJKContent(ch) {
 }
 
 /**
+ * Normalize kana: katakana → hiragana for comparison.
+ * Katakana range 0x30A0-30FF maps to hiragana 0x3040-309F (offset -0x60).
+ */
+function normalizeKana(ch) {
+  const c = ch.codePointAt(0);
+  if (c >= 0x30A1 && c <= 0x30F6) return String.fromCodePoint(c - 0x60);
+  return ch;
+}
+
+/**
+ * Build anchor-based mapping for JA when M ≠ N (STT timestamps).
+ * Finds matching characters between ts and text CJK arrays using dual pointers,
+ * then proportionally distributes timing between anchors.
+ *
+ * Returns: array of length N where map[textIdx] = tsIdx
+ */
+function buildAnchorMapping(tsChars, textChars) {
+  const M = tsChars.length;
+  const N = textChars.length;
+  const anchors = []; // [{ti, ni}]
+
+  // Dual-pointer: find matching kana/kanji anchors
+  let ti = 0, ni = 0;
+  while (ti < M && ni < N) {
+    if (normalizeKana(tsChars[ti]) === normalizeKana(textChars[ni])) {
+      anchors.push({ ti, ni });
+      ti++; ni++;
+    } else {
+      // Try advancing ts pointer (ts may have extra chars from different reading)
+      let foundInTs = false;
+      for (let look = ti + 1; look < Math.min(ti + 4, M); look++) {
+        if (normalizeKana(tsChars[look]) === normalizeKana(textChars[ni])) {
+          anchors.push({ ti: look, ni });
+          ti = look + 1; ni++;
+          foundInTs = true;
+          break;
+        }
+      }
+      if (!foundInTs) {
+        // Try advancing text pointer
+        let foundInText = false;
+        for (let look = ni + 1; look < Math.min(ni + 4, N); look++) {
+          if (normalizeKana(tsChars[ti]) === normalizeKana(textChars[look])) {
+            anchors.push({ ti, ni: look });
+            ti++; ni = look + 1;
+            foundInText = true;
+            break;
+          }
+        }
+        if (!foundInText) {
+          ti++; ni++; // skip both
+        }
+      }
+    }
+  }
+
+  // Build mapping: interpolate between anchors
+  const map = new Array(N);
+
+  // Add boundary anchors
+  const fullAnchors = [{ ti: 0, ni: 0 }, ...anchors, { ti: M - 1, ni: N - 1 }];
+
+  for (let a = 0; a < fullAnchors.length - 1; a++) {
+    const from = fullAnchors[a];
+    const to = fullAnchors[a + 1];
+    const nSpan = to.ni - from.ni;
+    const tSpan = to.ti - from.ti;
+    for (let i = from.ni; i <= to.ni && i < N; i++) {
+      if (nSpan === 0) {
+        map[i] = from.ti;
+      } else {
+        map[i] = Math.min(Math.round(from.ti + (i - from.ni) * tSpan / nSpan), M - 1);
+      }
+    }
+  }
+
+  return map;
+}
+
+/**
  * CJK karaoke: per-character display from page.text, timing from timestamps.
- * Aligns CJK content chars 1:1 positionally; punctuation inherits
- * timing from the preceding content character.
+ * Aligns CJK content chars; punctuation inherits timing from preceding char.
+ * Uses anchor-based mapping for JA when M ≠ N (STT fallback),
+ * otherwise proportional mapping (perfect 1:1 when M = N).
  */
 function renderCJKKaraoke(wrapper, page) {
   // Collect per-content-char timing from timestamps
   const contentTimings = [];
+  const tsContentChars = [];
   page.timestamps.forEach(ts => {
     for (const ch of ts.word) {
       if (isCJKContent(ch)) {
         contentTimings.push({ start: ts.start, end: ts.end });
+        tsContentChars.push(ch);
       }
     }
   });
 
-  // Count CJK content chars in page.text
-  let textCJKCount = 0;
+  // Collect CJK content chars from page.text
+  const textContentChars = [];
   for (const ch of page.text) {
-    if (ch !== '\n' && ch !== ' ' && isCJKContent(ch)) textCJKCount++;
+    if (ch !== '\n' && ch !== ' ' && isCJKContent(ch)) textContentChars.push(ch);
   }
 
-  // Proportional mapping: handles kanji↔hiragana count mismatches
-  // (e.g. TS "母" = 1 char vs text "かあ" = 2 chars)
-  // When counts match, round(i*(M-1)/(N-1)) = i → identical to 1:1
   const M = contentTimings.length;
-  const N = textCJKCount;
+  const N = textContentChars.length;
+
+  // Choose mapping strategy
+  let tsIdxMap = null;
+  if (M !== N && state.lang === 'JA' && M > 0 && N > 0) {
+    // Anchor-based mapping for JA with mismatched counts (STT timestamps)
+    tsIdxMap = buildAnchorMapping(tsContentChars, textContentChars);
+  }
 
   let contentIdx = 0;
   let lastTiming = null;
@@ -793,7 +880,13 @@ function renderCJKKaraoke(wrapper, page) {
 
     if (isCJKContent(ch)) {
       if (M > 0 && contentIdx < N) {
-        const tsIdx = Math.min(Math.round(contentIdx * (M - 1) / Math.max(N - 1, 1)), M - 1);
+        let tsIdx;
+        if (tsIdxMap) {
+          tsIdx = Math.min(tsIdxMap[contentIdx] || 0, M - 1);
+        } else {
+          // Proportional mapping (1:1 when M = N)
+          tsIdx = Math.min(Math.round(contentIdx * (M - 1) / Math.max(N - 1, 1)), M - 1);
+        }
         lastTiming = contentTimings[tsIdx];
       }
       contentIdx++;
@@ -808,28 +901,73 @@ function renderCJKKaraoke(wrapper, page) {
   }
 }
 
-/** EN karaoke: timestamps words match page.text directly. */
+/**
+ * EN karaoke: always displays page.text, matches timing from timestamps.
+ * Handles exact match (alignment-converted) and fuzzy match (STT fallback).
+ */
 function renderENKaraoke(wrapper, page) {
-  const text = page.text;
-  let cursor = 0;
-  page.timestamps.forEach((ts, i) => {
-    const word = ts.word;
-    const foundAt = text.indexOf(word, cursor);
-    if (foundAt >= 0) {
-      const gap = text.substring(cursor, foundAt);
-      const newlines = (gap.match(/\n/g) || []).length;
-      for (let n = 0; n < newlines; n++) wrapper.appendChild(document.createElement('br'));
-      if (newlines === 0 && i > 0) wrapper.appendChild(document.createTextNode(' '));
-      cursor = foundAt + word.length;
-    } else if (i > 0) {
-      wrapper.appendChild(document.createTextNode(' '));
-    }
-    const span = document.createElement('span');
-    span.className = 'word';
-    span.textContent = word;
-    span.dataset.start = ts.start;
-    span.dataset.end   = ts.end;
-    wrapper.appendChild(span);
+  const ts = page.timestamps || [];
+  if (!ts.length) { wrapper.textContent = page.text; return; }
+
+  // Normalize: strip all non-alphanumeric, lowercase
+  function norm(s) { return s.replace(/[^\p{L}\p{N}]/gu, '').toLowerCase(); }
+
+  const lines = page.text.split('\n');
+  let tsPtr = 0;
+
+  lines.forEach((line, li) => {
+    if (li > 0) wrapper.appendChild(document.createElement('br'));
+    const words = line.split(/\s+/).filter(w => w);
+
+    words.forEach((w, wi) => {
+      if (wi > 0) wrapper.appendChild(document.createTextNode(' '));
+
+      const span = document.createElement('span');
+      span.className = 'word';
+      span.textContent = w;
+
+      const wNorm = norm(w);
+
+      if (!wNorm) {
+        // Pure punctuation (e.g., "——", "……")
+        span.dataset.punct = '1';
+        if (tsPtr > 0) {
+          span.dataset.start = ts[tsPtr - 1].start;
+          span.dataset.end   = ts[tsPtr - 1].end;
+        }
+      } else if (tsPtr < ts.length) {
+        const tsNorm = norm(ts[tsPtr].word);
+
+        // Exact or prefix match (handles case + spelling differences)
+        if (tsNorm === wNorm ||
+            (tsNorm.length > 2 && wNorm.length > 2 &&
+             (tsNorm.startsWith(wNorm.slice(0, 3)) || wNorm.startsWith(tsNorm.slice(0, 3))))) {
+          span.dataset.start = ts[tsPtr].start;
+          span.dataset.end   = ts[tsPtr].end;
+          tsPtr++;
+        } else {
+          // Lookahead: one display word may map to multiple ts words
+          // e.g., page.text "AAAH!" ← ts ["Ah,", "ah,", "ah!"]
+          let startTime = ts[tsPtr].start;
+          let endTime   = ts[tsPtr].end;
+          let combined  = tsNorm;
+          let consumed  = 1;
+
+          while (tsPtr + consumed < ts.length && combined.length < wNorm.length + 4) {
+            const next = ts[tsPtr + consumed];
+            combined += norm(next.word);
+            endTime = next.end;
+            consumed++;
+          }
+
+          span.dataset.start = startTime;
+          span.dataset.end   = endTime;
+          tsPtr += consumed;
+        }
+      }
+
+      wrapper.appendChild(span);
+    });
   });
 }
 
@@ -905,77 +1043,57 @@ function startKaraoke() {
   const wordEls = subtitleArea.querySelectorAll('.word');
   if (wordEls.length === 0) return;
 
-  const isCJK = (state.lang === 'ZH-TW' || state.lang === 'JA');
-
-  // CJK: precompute content elements and extended end times to bridge gaps
-  let contentEls, extendedEnds;
-  if (isCJK) {
-    contentEls = Array.from(wordEls).filter(el => !el.dataset.punct);
-    extendedEnds = contentEls.map((el, i) => {
-      const ownEnd = parseFloat(el.dataset.end);
-      if (i + 1 < contentEls.length) {
-        const nextStart = parseFloat(contentEls[i + 1].dataset.start);
-        if (!isNaN(nextStart) && nextStart > ownEnd) return nextStart;
-      }
-      return ownEnd;
-    });
-  }
+  // Unified logic for ALL languages:
+  // - contentEls = non-punctuation elements (get active highlight)
+  // - extendedEnds = bridge gaps to prevent flickering
+  // - Punctuation only gets 'spoken' (color change), never 'active' (background)
+  const contentEls = Array.from(wordEls).filter(el => !el.dataset.punct);
+  const extendedEnds = contentEls.map((el, i) => {
+    const ownEnd = parseFloat(el.dataset.end);
+    if (i + 1 < contentEls.length) {
+      const nextStart = parseFloat(contentEls[i + 1].dataset.start);
+      if (!isNaN(nextStart) && nextStart > ownEnd) return nextStart;
+    }
+    return ownEnd;
+  });
 
   function update() {
     const t = audioPlayer.currentTime;
 
-    if (isCJK) {
-      // Find active content character (with gap bridging)
-      let activeEl = null;
-      for (let i = 0; i < contentEls.length; i++) {
-        const s = parseFloat(contentEls[i].dataset.start);
-        if (isNaN(s)) continue;
-        if (t >= s && t < extendedEnds[i]) {
-          activeEl = contentEls[i];
-          break;
-        }
+    // Find active content element (with gap bridging)
+    let activeEl = null;
+    for (let i = 0; i < contentEls.length; i++) {
+      const s = parseFloat(contentEls[i].dataset.start);
+      if (isNaN(s)) continue;
+      if (t >= s && t < extendedEnds[i]) {
+        activeEl = contentEls[i];
+        break;
       }
+    }
 
-      wordEls.forEach(el => {
-        const s = parseFloat(el.dataset.start);
-        const e = parseFloat(el.dataset.end);
-        if (isNaN(s)) return;
+    wordEls.forEach(el => {
+      const s = parseFloat(el.dataset.start);
+      const e = parseFloat(el.dataset.end);
+      if (isNaN(s)) return;
 
-        if (el.dataset.punct) {
-          // Punctuation: color transition only, never active background
-          if (t >= e) {
-            el.classList.add('spoken');
-          } else {
-            el.classList.remove('spoken');
-          }
-          el.classList.remove('active');
-        } else if (el === activeEl) {
-          el.classList.add('active');
-          el.classList.remove('spoken');
-        } else if (t >= parseFloat(el.dataset.end)) {
-          el.classList.add('spoken');
-          el.classList.remove('active');
-        } else {
-          el.classList.remove('spoken', 'active');
-        }
-      });
-    } else {
-      // EN: original logic unchanged
-      wordEls.forEach(el => {
-        const s = parseFloat(el.dataset.start);
-        const e = parseFloat(el.dataset.end);
-        if (isNaN(s)) return;
+      if (el.dataset.punct) {
+        // Punctuation: color transition only, never active background
         if (t >= e) {
           el.classList.add('spoken');
-          el.classList.remove('active');
-        } else if (t >= s) {
-          el.classList.add('active');
-          el.classList.remove('spoken');
         } else {
-          el.classList.remove('spoken', 'active');
+          el.classList.remove('spoken');
         }
-      });
-    }
+        el.classList.remove('active');
+      } else if (el === activeEl) {
+        el.classList.add('active');
+        el.classList.remove('spoken');
+      } else if (t >= parseFloat(el.dataset.end)) {
+        el.classList.add('spoken');
+        el.classList.remove('active');
+      } else {
+        el.classList.remove('spoken', 'active');
+      }
+    });
 
     if (!audioPlayer.paused) {
       state.karaokeRAF = requestAnimationFrame(update);

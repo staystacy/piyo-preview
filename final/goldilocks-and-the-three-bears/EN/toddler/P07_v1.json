@@ -4,54 +4,66 @@
   "version": "toddler",
   "page": "P07",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:26:37Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "Big",
-      "start": 0.219,
-      "end": 0.699,
+      "start": 0.69,
+      "end": 0.702,
       "type": "word"
     },
     {
       "word": "bed",
-      "start": 0.86,
-      "end": 1.299,
+      "start": 0.882,
+      "end": 1.422,
+      "type": "word"
+    },
+    {
+      "word": "—",
+      "start": 1.702,
+      "end": 1.982,
       "type": "word"
     },
     {
       "word": "too",
-      "start": 1.839,
-      "end": 2.199,
+      "start": 2.254,
+      "end": 2.302,
       "type": "word"
     },
     {
-      "word": "high.",
-      "start": 2.24,
-      "end": 2.879,
+      "word": "HARD!",
+      "start": 2.462,
+      "end": 3.102,
       "type": "word"
     },
     {
       "word": "Medium",
-      "start": 3.399,
-      "end": 3.819,
+      "start": 4.246,
+      "end": 4.366,
       "type": "word"
     },
     {
       "word": "bed",
-      "start": 3.899,
-      "end": 4.259,
+      "start": 4.526,
+      "end": 5.006,
+      "type": "word"
+    },
+    {
+      "word": "—",
+      "start": 5.446,
+      "end": 5.886,
       "type": "word"
     },
     {
       "word": "too",
-      "start": 4.819,
-      "end": 5.0,
+      "start": 6.226,
+      "end": 6.286,
       "type": "word"
     },
     {
-      "word": "small",
-      "start": 5.179,
-      "end": 6.059,
+      "word": "SOFT!",
+      "start": 6.526,
+      "end": 7.566,
       "type": "word"
     }
   ]

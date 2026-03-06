@@ -4,126 +4,144 @@
   "version": "toddler",
   "page": "P05",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:38:09Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "慢",
-      "start": 0.239,
-      "end": 0.879,
+      "start": 0.474,
+      "end": 0.634,
       "type": "word"
     },
     {
       "word": "慢",
-      "start": 0.879,
-      "end": 1.099,
+      "start": 0.634,
+      "end": 0.794,
       "type": "word"
     },
     {
-      "word": "归",
-      "start": 1.1,
-      "end": 1.259,
+      "word": "龜",
+      "start": 0.794,
+      "end": 1.554,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 1.259,
-      "end": 2.2,
+      "word": "，",
+      "start": 1.554,
+      "end": 1.994,
       "type": "word"
     },
     {
-      "word": "经",
-      "start": 2.2,
-      "end": 2.34,
+      "word": "經",
+      "start": 1.994,
+      "end": 2.234,
       "type": "word"
     },
     {
-      "word": "过",
-      "start": 2.34,
-      "end": 2.919,
+      "word": "過",
+      "start": 2.234,
+      "end": 3.034,
       "type": "word"
     },
     {
       "word": "睡",
-      "start": 2.919,
-      "end": 3.099,
+      "start": 3.034,
+      "end": 3.034,
       "type": "word"
     },
     {
-      "word": "着",
-      "start": 3.099,
-      "end": 3.719,
+      "word": "著",
+      "start": 3.034,
+      "end": 3.594,
       "type": "word"
     },
     {
       "word": "的",
-      "start": 3.719,
-      "end": 3.779,
+      "start": 3.594,
+      "end": 3.674,
       "type": "word"
     },
     {
       "word": "兔",
-      "start": 3.779,
-      "end": 4.199,
+      "start": 3.674,
+      "end": 4.114,
       "type": "word"
     },
     {
       "word": "子",
-      "start": 4.199,
-      "end": 4.359,
-      "type": "word"
-    },
-    {
-      "word": "，",
-      "start": 4.359,
-      "end": 6.099,
-      "type": "word"
-    },
-    {
-      "word": "慢",
-      "start": 6.099,
-      "end": 6.38,
-      "type": "word"
-    },
-    {
-      "word": "慢",
-      "start": 6.38,
-      "end": 6.979,
-      "type": "word"
-    },
-    {
-      "word": "走",
-      "start": 6.98,
-      "end": 7.199,
-      "type": "word"
-    },
-    {
-      "word": "，",
-      "start": 7.199,
-      "end": 8.34,
-      "type": "word"
-    },
-    {
-      "word": "不",
-      "start": 8.34,
-      "end": 8.84,
-      "type": "word"
-    },
-    {
-      "word": "要",
-      "start": 8.84,
-      "end": 9.36,
-      "type": "word"
-    },
-    {
-      "word": "停",
-      "start": 9.36,
-      "end": 9.539,
+      "start": 4.114,
+      "end": 4.234,
       "type": "word"
     },
     {
       "word": "。",
-      "start": 9.539,
-      "end": 9.579,
+      "start": 4.234,
+      "end": 5.754,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 5.764,
+      "end": 5.774,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 5.774,
+      "end": 5.804,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 6.358,
+      "end": 6.998,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 6.998,
+      "end": 6.998,
+      "type": "word"
+    },
+    {
+      "word": "走",
+      "start": 6.998,
+      "end": 6.998,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 6.998,
+      "end": 7.558,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 7.558,
+      "end": 8.118,
+      "type": "word"
+    },
+    {
+      "word": "不",
+      "start": 8.318,
+      "end": 8.518,
+      "type": "word"
+    },
+    {
+      "word": "要",
+      "start": 8.518,
+      "end": 8.998,
+      "type": "word"
+    },
+    {
+      "word": "停",
+      "start": 8.998,
+      "end": 9.478,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 9.478,
+      "end": 9.558,
       "type": "word"
     }
   ]

@@ -4,252 +4,288 @@
   "version": "standard",
   "page": "P02",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:27:36Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "小",
-      "start": 0.219,
-      "end": 0.519,
+      "start": 0.306,
+      "end": 0.314,
       "type": "word"
     },
     {
       "word": "路",
-      "start": 0.519,
-      "end": 0.719,
+      "start": 0.314,
+      "end": 0.554,
       "type": "word"
     },
     {
       "word": "的",
-      "start": 0.719,
-      "end": 0.739,
+      "start": 0.554,
+      "end": 0.634,
       "type": "word"
     },
     {
-      "word": "尽",
-      "start": 0.739,
-      "end": 1.24,
+      "word": "盡",
+      "start": 0.634,
+      "end": 1.194,
       "type": "word"
     },
     {
-      "word": "头",
-      "start": 1.24,
-      "end": 2.019,
+      "word": "頭",
+      "start": 1.194,
+      "end": 1.354,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 1.354,
+      "end": 1.567,
       "type": "word"
     },
     {
       "word": "是",
-      "start": 2.019,
-      "end": 2.079,
+      "start": 1.886,
+      "end": 1.992,
       "type": "word"
     },
     {
       "word": "一",
-      "start": 2.079,
-      "end": 2.519,
+      "start": 1.992,
+      "end": 2.232,
       "type": "word"
     },
     {
-      "word": "间",
-      "start": 2.519,
-      "end": 3.139,
+      "word": "間",
+      "start": 2.232,
+      "end": 2.872,
       "type": "word"
     },
     {
       "word": "好",
-      "start": 3.139,
-      "end": 3.499,
+      "start": 2.872,
+      "end": 3.192,
       "type": "word"
     },
     {
       "word": "可",
-      "start": 3.5,
-      "end": 3.68,
+      "start": 3.192,
+      "end": 3.432,
       "type": "word"
     },
     {
-      "word": "爱",
-      "start": 3.68,
-      "end": 3.859,
+      "word": "愛",
+      "start": 3.432,
+      "end": 3.592,
       "type": "word"
     },
     {
       "word": "的",
-      "start": 3.859,
-      "end": 4.199,
+      "start": 3.592,
+      "end": 3.872,
       "type": "word"
     },
     {
       "word": "小",
-      "start": 4.199,
-      "end": 4.359,
+      "start": 3.872,
+      "end": 4.152,
       "type": "word"
     },
     {
       "word": "屋",
-      "start": 4.36,
-      "end": 4.519,
+      "start": 4.152,
+      "end": 4.392,
       "type": "word"
     },
     {
-      "word": "，",
-      "start": 4.519,
-      "end": 5.84,
+      "word": "！",
+      "start": 4.392,
+      "end": 4.472,
       "type": "word"
     },
     {
       "word": "门",
-      "start": 5.84,
-      "end": 6.119,
+      "start": 5.929,
+      "end": 5.982,
       "type": "word"
     },
     {
-      "word": "开",
-      "start": 6.119,
-      "end": 6.299,
+      "word": "開",
+      "start": 5.982,
+      "end": 6.222,
       "type": "word"
     },
     {
-      "word": "开",
-      "start": 6.299,
-      "end": 6.579,
+      "word": "開",
+      "start": 6.222,
+      "end": 6.302,
       "type": "word"
     },
     {
       "word": "的",
-      "start": 6.579,
-      "end": 6.659,
+      "start": 6.302,
+      "end": 6.622,
       "type": "word"
     },
     {
       "word": "，",
-      "start": 6.659,
-      "end": 7.319,
+      "start": 6.622,
+      "end": 6.942,
       "type": "word"
     },
     {
-      "word": "里",
-      "start": 7.319,
-      "end": 7.939,
+      "word": "裡",
+      "start": 7.582,
+      "end": 7.742,
       "type": "word"
     },
     {
       "word": "面",
-      "start": 7.94,
-      "end": 8.18,
+      "start": 7.742,
+      "end": 7.902,
       "type": "word"
     },
     {
-      "word": "飘",
-      "start": 8.18,
-      "end": 8.499,
+      "word": "飄",
+      "start": 7.902,
+      "end": 8.462,
       "type": "word"
     },
     {
       "word": "出",
-      "start": 8.5,
-      "end": 8.979,
+      "start": 8.462,
+      "end": 8.702,
       "type": "word"
     },
     {
       "word": "好",
-      "start": 8.979,
-      "end": 9.359,
+      "start": 8.702,
+      "end": 9.182,
       "type": "word"
     },
     {
       "word": "香",
-      "start": 9.359,
-      "end": 9.839,
+      "start": 9.182,
+      "end": 9.582,
       "type": "word"
     },
     {
       "word": "好",
-      "start": 9.84,
-      "end": 10.0,
+      "start": 9.582,
+      "end": 9.822,
       "type": "word"
     },
     {
       "word": "香",
-      "start": 10.0,
-      "end": 10.14,
+      "start": 9.822,
+      "end": 9.982,
       "type": "word"
     },
     {
       "word": "的",
-      "start": 10.14,
-      "end": 10.459,
+      "start": 9.982,
+      "end": 10.142,
       "type": "word"
     },
     {
       "word": "味",
-      "start": 10.46,
-      "end": 10.699,
+      "start": 10.142,
+      "end": 10.462,
       "type": "word"
     },
     {
       "word": "道",
-      "start": 10.699,
-      "end": 10.779,
+      "start": 10.462,
+      "end": 10.702,
       "type": "word"
     },
     {
       "word": "。",
-      "start": 10.779,
-      "end": 12.26,
+      "start": 10.702,
+      "end": 11.902,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 11.915,
+      "end": 11.928,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 11.928,
+      "end": 11.967,
       "type": "word"
     },
     {
       "word": "小",
-      "start": 12.26,
-      "end": 12.659,
+      "start": 12.427,
+      "end": 12.44,
       "type": "word"
     },
     {
       "word": "金",
-      "start": 12.659,
-      "end": 13.18,
+      "start": 12.44,
+      "end": 12.92,
       "type": "word"
     },
     {
       "word": "忍",
-      "start": 13.18,
-      "end": 13.339,
+      "start": 12.92,
+      "end": 13.16,
       "type": "word"
     },
     {
       "word": "不",
-      "start": 13.34,
-      "end": 13.619,
+      "start": 13.16,
+      "end": 13.4,
       "type": "word"
     },
     {
       "word": "住",
-      "start": 13.619,
-      "end": 14.439,
+      "start": 13.4,
+      "end": 13.64,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 13.64,
+      "end": 13.92,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 13.92,
+      "end": 14.2,
       "type": "word"
     },
     {
       "word": "走",
-      "start": 14.439,
-      "end": 14.639,
+      "start": 14.44,
+      "end": 14.56,
       "type": "word"
     },
     {
       "word": "了",
-      "start": 14.639,
-      "end": 14.899,
+      "start": 14.56,
+      "end": 14.68,
       "type": "word"
     },
     {
-      "word": "进",
-      "start": 14.899,
-      "end": 15.259,
+      "word": "進",
+      "start": 14.68,
+      "end": 15.0,
       "type": "word"
     },
     {
       "word": "去",
-      "start": 15.259,
-      "end": 15.339,
+      "start": 15.0,
+      "end": 15.24,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 15.24,
+      "end": 15.32,
       "type": "word"
     }
   ]

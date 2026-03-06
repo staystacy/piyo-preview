@@ -4,210 +4,228 @@
   "version": "standard",
   "page": "P10",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:27:54Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
-      "word": "他",
-      "start": 0.34,
-      "end": 0.4,
+      "word": "她",
+      "start": 0.392,
+      "end": 0.552,
       "type": "word"
     },
     {
       "word": "躺",
-      "start": 0.4,
-      "end": 0.759,
+      "start": 0.552,
+      "end": 0.992,
       "type": "word"
     },
     {
       "word": "了",
-      "start": 0.759,
-      "end": 1.379,
+      "start": 0.992,
+      "end": 1.272,
       "type": "word"
     },
     {
       "word": "中",
-      "start": 1.379,
-      "end": 1.74,
+      "start": 1.272,
+      "end": 1.432,
       "type": "word"
     },
     {
       "word": "床",
-      "start": 1.74,
-      "end": 1.899,
+      "start": 1.432,
+      "end": 1.912,
       "type": "word"
     },
     {
       "word": "。",
-      "start": 1.899,
-      "end": 3.339,
+      "start": 1.912,
+      "end": 2.872,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 2.912,
+      "end": 2.952,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 2.952,
+      "end": 2.968,
       "type": "word"
     },
     {
       "word": "好",
-      "start": 3.339,
-      "end": 3.739,
+      "start": 3.353,
+      "end": 3.419,
       "type": "word"
     },
     {
-      "word": "小",
-      "start": 3.74,
-      "end": 4.26,
+      "word": "軟",
+      "start": 3.419,
+      "end": 3.899,
       "type": "word"
     },
     {
       "word": "好",
-      "start": 4.26,
-      "end": 4.559,
+      "start": 3.899,
+      "end": 4.219,
       "type": "word"
     },
     {
-      "word": "小",
-      "start": 4.559,
-      "end": 4.719,
+      "word": "軟",
+      "start": 4.219,
+      "end": 4.459,
       "type": "word"
     },
     {
-      "word": "，",
-      "start": 4.719,
-      "end": 5.279,
+      "word": "！",
+      "start": 4.459,
+      "end": 5.019,
       "type": "word"
     },
     {
-      "word": "这",
-      "start": 5.279,
-      "end": 5.479,
+      "word": "這",
+      "start": 5.019,
+      "end": 5.179,
       "type": "word"
     },
     {
-      "word": "个",
-      "start": 5.479,
-      "end": 5.679,
+      "word": "個",
+      "start": 5.179,
+      "end": 5.339,
       "type": "word"
     },
     {
       "word": "也",
-      "start": 5.679,
-      "end": 5.98,
+      "start": 5.339,
+      "end": 5.659,
       "type": "word"
     },
     {
       "word": "太",
-      "start": 5.98,
-      "end": 6.5,
+      "start": 5.659,
+      "end": 6.219,
       "type": "word"
     },
     {
-      "word": "小",
-      "start": 6.5,
-      "end": 6.92,
+      "word": "軟",
+      "start": 6.219,
+      "end": 6.619,
       "type": "word"
     },
     {
       "word": "了",
-      "start": 6.92,
-      "end": 7.479,
+      "start": 6.619,
+      "end": 7.099,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 7.479,
-      "end": 8.72,
+      "word": "！",
+      "start": 7.099,
+      "end": 7.099,
       "type": "word"
     },
     {
-      "word": "脚",
-      "start": 8.72,
-      "end": 9.239,
+      "word": "整",
+      "start": 8.441,
+      "end": 8.801,
+      "type": "word"
+    },
+    {
+      "word": "個",
+      "start": 8.801,
+      "end": 8.981,
+      "type": "word"
+    },
+    {
+      "word": "人",
+      "start": 8.981,
+      "end": 9.161,
       "type": "word"
     },
     {
       "word": "都",
-      "start": 9.239,
-      "end": 9.3,
+      "start": 9.161,
+      "end": 9.321,
       "type": "word"
     },
     {
-      "word": "伸",
-      "start": 9.3,
-      "end": 9.619,
+      "word": "陷",
+      "start": 9.321,
+      "end": 9.641,
       "type": "word"
     },
     {
-      "word": "出",
-      "start": 9.619,
-      "end": 9.88,
+      "word": "進",
+      "start": 9.641,
+      "end": 9.961,
+      "type": "word"
+    },
+    {
+      "word": "去",
+      "start": 9.961,
+      "end": 10.201,
       "type": "word"
     },
     {
       "word": "了",
-      "start": 9.88,
-      "end": 10.099,
-      "type": "word"
-    },
-    {
-      "word": "床",
-      "start": 10.099,
-      "end": 10.359,
-      "type": "word"
-    },
-    {
-      "word": "位",
-      "start": 10.359,
-      "end": 10.519,
+      "start": 10.201,
+      "end": 10.441,
       "type": "word"
     },
     {
       "word": "，",
-      "start": 10.519,
-      "end": 11.0,
+      "start": 10.441,
+      "end": 10.654,
       "type": "word"
     },
     {
       "word": "怎",
-      "start": 11.0,
-      "end": 11.3,
+      "start": 11.08,
+      "end": 11.16,
       "type": "word"
     },
     {
-      "word": "么",
-      "start": 11.3,
-      "end": 11.319,
+      "word": "麼",
+      "start": 11.16,
+      "end": 11.24,
       "type": "word"
     },
     {
       "word": "躺",
-      "start": 11.319,
-      "end": 11.659,
+      "start": 11.24,
+      "end": 11.84,
       "type": "word"
     },
     {
       "word": "都",
-      "start": 11.659,
-      "end": 11.8,
+      "start": 11.84,
+      "end": 11.94,
       "type": "word"
     },
     {
       "word": "不",
-      "start": 11.8,
-      "end": 12.14,
+      "start": 11.94,
+      "end": 12.04,
       "type": "word"
     },
     {
       "word": "舒",
-      "start": 12.14,
-      "end": 12.459,
+      "start": 12.04,
+      "end": 12.36,
       "type": "word"
     },
     {
       "word": "服",
-      "start": 12.46,
-      "end": 12.579,
+      "start": 12.36,
+      "end": 12.6,
       "type": "word"
     },
     {
       "word": "。",
-      "start": 12.579,
-      "end": 12.619,
+      "start": 12.6,
+      "end": 12.68,
       "type": "word"
     }
   ]

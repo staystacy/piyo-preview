@@ -4,282 +4,282 @@
   "version": "standard",
   "page": "P14",
   "variant": "v2",
-  "generated_at": "2026-03-06T07:27:13Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "Mama",
-      "start": 0.28,
-      "end": 0.56,
+      "start": 0.439,
+      "end": 0.459,
       "type": "word"
     },
     {
       "word": "Bear",
-      "start": 0.62,
-      "end": 0.819,
+      "start": 0.507,
+      "end": 0.699,
       "type": "word"
     },
     {
-      "word": "smiled.",
-      "start": 0.919,
-      "end": 1.479,
+      "word": "smiled…",
+      "start": 0.79,
+      "end": 1.496,
       "type": "word"
     },
     {
-      "word": "\"It's",
-      "start": 1.659,
-      "end": 1.879,
+      "word": "It's",
+      "start": 1.643,
+      "end": 1.733,
       "type": "word"
     },
     {
       "word": "okay,",
-      "start": 1.919,
-      "end": 2.259,
+      "start": 1.813,
+      "end": 2.333,
       "type": "word"
     },
     {
       "word": "dear.",
-      "start": 2.339,
-      "end": 2.699,
+      "start": 2.373,
+      "end": 2.733,
       "type": "word"
     },
     {
       "word": "Just",
-      "start": 2.919,
-      "end": 3.099,
+      "start": 2.773,
+      "end": 2.933,
       "type": "word"
     },
     {
       "word": "knock",
-      "start": 3.159,
-      "end": 3.44,
+      "start": 2.986,
+      "end": 3.251,
       "type": "word"
     },
     {
       "word": "next",
-      "start": 3.5,
-      "end": 3.739,
+      "start": 3.315,
+      "end": 3.571,
       "type": "word"
     },
     {
-      "word": "time.\"",
-      "start": 3.819,
-      "end": 4.239,
+      "word": "time!",
+      "start": 3.667,
+      "end": 4.291,
       "type": "word"
     },
     {
       "word": "Baby",
-      "start": 4.559,
-      "end": 4.819,
+      "start": 4.664,
+      "end": 4.672,
       "type": "word"
     },
     {
       "word": "Bear",
-      "start": 4.88,
-      "end": 5.059,
+      "start": 4.736,
+      "end": 4.992,
       "type": "word"
     },
     {
       "word": "tugged",
-      "start": 5.179,
-      "end": 5.539,
+      "start": 5.072,
+      "end": 5.392,
       "type": "word"
     },
     {
       "word": "on",
-      "start": 5.559,
-      "end": 5.679,
+      "start": 5.445,
+      "end": 5.551,
       "type": "word"
     },
     {
-      "word": "Goldi's",
-      "start": 5.759,
-      "end": 6.199,
+      "word": "Goldie's",
+      "start": 5.615,
+      "end": 6.031,
       "type": "word"
     },
     {
-      "word": "dress.",
-      "start": 6.259,
-      "end": 6.719,
+      "word": "dress…",
+      "start": 6.111,
+      "end": 6.763,
       "type": "word"
     },
     {
-      "word": "\"Come",
-      "start": 6.919,
-      "end": 7.159,
+      "word": "Come",
+      "start": 6.949,
+      "end": 6.965,
       "type": "word"
     },
     {
       "word": "play",
-      "start": 7.239,
-      "end": 7.459,
+      "start": 7.029,
+      "end": 7.285,
       "type": "word"
     },
     {
       "word": "with",
-      "start": 7.519,
-      "end": 7.659,
+      "start": 7.317,
+      "end": 7.445,
       "type": "word"
     },
     {
       "word": "me",
-      "start": 7.719,
-      "end": 7.839,
+      "start": 7.525,
+      "end": 7.685,
       "type": "word"
     },
     {
-      "word": "again.\"",
-      "start": 7.899,
-      "end": 8.88,
+      "word": "again!",
+      "start": 7.791,
+      "end": 8.601,
       "type": "word"
     },
     {
-      "word": "Goldi",
-      "start": 8.98,
-      "end": 9.32,
+      "word": "Goldie",
+      "start": 9.007,
+      "end": 9.175,
       "type": "word"
     },
     {
       "word": "waved",
-      "start": 9.38,
-      "end": 9.659,
+      "start": 9.215,
+      "end": 9.415,
       "type": "word"
     },
     {
-      "word": "goodbye.",
-      "start": 9.719,
-      "end": 10.299,
+      "word": "goodbye…",
+      "start": 9.495,
+      "end": 10.355,
       "type": "word"
     },
     {
-      "word": "\"I",
-      "start": 10.599,
-      "end": 10.739,
+      "word": "I",
+      "start": 10.525,
+      "end": 10.535,
       "type": "word"
     },
     {
-      "word": "will,",
-      "start": 10.88,
-      "end": 11.259,
-      "type": "word"
-    },
-    {
-      "word": "and",
-      "start": 11.46,
-      "end": 11.579,
-      "type": "word"
-    },
-    {
-      "word": "I'll",
-      "start": 11.639,
-      "end": 11.799,
-      "type": "word"
-    },
-    {
-      "word": "bring",
-      "start": 11.819,
-      "end": 12.06,
-      "type": "word"
-    },
-    {
-      "word": "yummy",
-      "start": 12.199,
-      "end": 12.479,
-      "type": "word"
-    },
-    {
-      "word": "porridge.\"",
-      "start": 12.659,
-      "end": 13.739,
+      "word": "will!",
+      "start": 10.631,
+      "end": 11.255,
       "type": "word"
     },
     {
       "word": "And",
-      "start": 13.759,
-      "end": 13.88,
+      "start": 11.275,
+      "end": 11.335,
+      "type": "word"
+    },
+    {
+      "word": "I'll",
+      "start": 11.415,
+      "end": 11.573,
+      "type": "word"
+    },
+    {
+      "word": "bring",
+      "start": 11.613,
+      "end": 11.813,
+      "type": "word"
+    },
+    {
+      "word": "yummy",
+      "start": 11.893,
+      "end": 12.293,
+      "type": "word"
+    },
+    {
+      "word": "porridge!",
+      "start": 12.393,
+      "end": 13.373,
+      "type": "word"
+    },
+    {
+      "word": "And",
+      "start": 13.634,
+      "end": 13.637,
       "type": "word"
     },
     {
       "word": "from",
-      "start": 13.979,
-      "end": 14.199,
+      "start": 13.701,
+      "end": 13.957,
       "type": "word"
     },
     {
       "word": "that",
-      "start": 14.219,
-      "end": 14.46,
+      "start": 14.005,
+      "end": 14.197,
       "type": "word"
     },
     {
       "word": "day",
-      "start": 14.52,
-      "end": 14.72,
+      "start": 14.277,
+      "end": 14.517,
       "type": "word"
     },
     {
-      "word": "on,",
-      "start": 14.819,
-      "end": 15.26,
+      "word": "on…",
+      "start": 14.623,
+      "end": 15.075,
       "type": "word"
     },
     {
-      "word": "Goldi",
-      "start": 15.339,
-      "end": 15.719,
+      "word": "Goldie",
+      "start": 15.139,
+      "end": 15.475,
       "type": "word"
     },
     {
       "word": "and",
-      "start": 15.759,
-      "end": 15.84,
+      "start": 15.515,
+      "end": 15.635,
       "type": "word"
     },
     {
       "word": "the",
-      "start": 15.899,
-      "end": 15.96,
+      "start": 15.655,
+      "end": 15.715,
       "type": "word"
     },
     {
       "word": "three",
-      "start": 16.079,
-      "end": 16.34,
+      "start": 15.768,
+      "end": 16.033,
       "type": "word"
     },
     {
       "word": "bears",
-      "start": 16.399,
-      "end": 16.779,
+      "start": 16.126,
+      "end": 16.591,
       "type": "word"
     },
     {
       "word": "became",
-      "start": 16.84,
-      "end": 17.18,
+      "start": 16.636,
+      "end": 16.906,
       "type": "word"
     },
     {
       "word": "the",
-      "start": 17.22,
-      "end": 17.28,
+      "start": 16.986,
+      "end": 17.226,
       "type": "word"
     },
     {
       "word": "best",
-      "start": 17.5,
-      "end": 17.84,
+      "start": 17.306,
+      "end": 17.626,
       "type": "word"
     },
     {
       "word": "of",
-      "start": 17.88,
-      "end": 18.02,
+      "start": 17.679,
+      "end": 17.785,
       "type": "word"
     },
     {
-      "word": "friends",
-      "start": 18.1,
-      "end": 18.779,
+      "word": "friends.",
+      "start": 17.855,
+      "end": 18.665,
       "type": "word"
     }
   ]

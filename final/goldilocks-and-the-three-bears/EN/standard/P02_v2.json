@@ -4,168 +4,168 @@
   "version": "standard",
   "page": "P02",
   "variant": "v2",
-  "generated_at": "2026-03-06T07:26:46Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "At",
-      "start": 0.28,
-      "end": 0.459,
+      "start": 0.293,
+      "end": 0.301,
       "type": "word"
     },
     {
       "word": "the",
-      "start": 0.5,
-      "end": 0.579,
+      "start": 0.341,
+      "end": 0.461,
       "type": "word"
     },
     {
       "word": "end",
-      "start": 0.72,
-      "end": 0.919,
+      "start": 0.541,
+      "end": 0.781,
       "type": "word"
     },
     {
       "word": "of",
-      "start": 0.919,
-      "end": 1.039,
+      "start": 0.807,
+      "end": 0.859,
       "type": "word"
     },
     {
       "word": "the",
-      "start": 1.059,
-      "end": 1.119,
+      "start": 0.899,
+      "end": 1.019,
       "type": "word"
     },
     {
       "word": "path",
-      "start": 1.24,
-      "end": 1.599,
+      "start": 1.115,
+      "end": 1.499,
       "type": "word"
     },
     {
       "word": "was",
-      "start": 1.679,
-      "end": 1.859,
+      "start": 1.559,
+      "end": 1.739,
       "type": "word"
     },
     {
       "word": "the",
-      "start": 1.879,
-      "end": 2.039,
+      "start": 1.759,
+      "end": 1.819,
       "type": "word"
     },
     {
       "word": "cutest",
-      "start": 2.16,
-      "end": 2.619,
+      "start": 1.939,
+      "end": 2.458,
       "type": "word"
     },
     {
       "word": "little",
-      "start": 2.659,
-      "end": 2.839,
+      "start": 2.492,
+      "end": 2.696,
       "type": "word"
     },
     {
-      "word": "cottage.",
-      "start": 2.98,
-      "end": 3.879,
+      "word": "cottage!",
+      "start": 2.786,
+      "end": 3.656,
       "type": "word"
     },
     {
       "word": "The",
-      "start": 3.879,
-      "end": 4.059,
+      "start": 4.049,
+      "end": 4.082,
       "type": "word"
     },
     {
       "word": "door",
-      "start": 4.079,
-      "end": 4.319,
+      "start": 4.091,
+      "end": 4.127,
       "type": "word"
     },
     {
       "word": "was",
-      "start": 4.36,
-      "end": 4.519,
+      "start": 4.187,
+      "end": 4.367,
       "type": "word"
     },
     {
-      "word": "open",
-      "start": 4.599,
-      "end": 4.999,
+      "word": "open,",
+      "start": 4.463,
+      "end": 4.98,
       "type": "word"
     },
     {
       "word": "and",
-      "start": 5.28,
-      "end": 5.539,
+      "start": 5.146,
+      "end": 5.245,
       "type": "word"
     },
     {
       "word": "something",
-      "start": 5.579,
-      "end": 6.079,
+      "start": 5.309,
+      "end": 5.885,
       "type": "word"
     },
     {
       "word": "smelled",
-      "start": 6.119,
-      "end": 6.419,
+      "start": 5.935,
+      "end": 6.285,
       "type": "word"
     },
     {
       "word": "delicious",
-      "start": 6.48,
-      "end": 7.119,
+      "start": 6.349,
+      "end": 6.925,
       "type": "word"
     },
     {
       "word": "inside.",
-      "start": 7.159,
-      "end": 7.739,
+      "start": 7.016,
+      "end": 7.802,
       "type": "word"
     },
     {
       "word": "Goldie",
-      "start": 8.019,
-      "end": 8.399,
+      "start": 8.093,
+      "end": 8.185,
       "type": "word"
     },
     {
       "word": "couldn't",
-      "start": 8.42,
-      "end": 8.699,
+      "start": 8.219,
+      "end": 8.503,
       "type": "word"
     },
     {
       "word": "help",
-      "start": 8.72,
-      "end": 8.92,
+      "start": 8.551,
+      "end": 8.743,
       "type": "word"
     },
     {
       "word": "herself.",
-      "start": 8.939,
-      "end": 9.72,
+      "start": 8.813,
+      "end": 9.463,
       "type": "word"
     },
     {
       "word": "She",
-      "start": 9.76,
-      "end": 9.96,
+      "start": 9.663,
+      "end": 9.783,
       "type": "word"
     },
     {
       "word": "tiptoed",
-      "start": 10.02,
-      "end": 10.779,
+      "start": 9.863,
+      "end": 10.582,
       "type": "word"
     },
     {
-      "word": "in",
-      "start": 10.84,
-      "end": 11.179,
+      "word": "in.",
+      "start": 10.688,
+      "end": 11.14,
       "type": "word"
     }
   ]

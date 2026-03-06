@@ -4,132 +4,132 @@
   "version": "standard",
   "page": "P07",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:26:57Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "She",
-      "start": 0.259,
-      "end": 0.539,
+      "start": 0.286,
+      "end": 0.292,
       "type": "word"
     },
     {
       "word": "sat",
-      "start": 0.579,
-      "end": 0.939,
+      "start": 0.392,
+      "end": 0.692,
       "type": "word"
     },
     {
       "word": "in",
-      "start": 0.979,
-      "end": 1.099,
+      "start": 0.772,
+      "end": 0.932,
       "type": "word"
     },
     {
       "word": "the",
-      "start": 1.1,
-      "end": 1.159,
+      "start": 0.952,
+      "end": 1.012,
       "type": "word"
     },
     {
       "word": "medium",
-      "start": 1.259,
-      "end": 1.72,
+      "start": 1.08,
+      "end": 1.488,
       "type": "word"
     },
     {
       "word": "chair.",
-      "start": 1.759,
-      "end": 2.659,
+      "start": 1.568,
+      "end": 1.968,
       "type": "word"
     },
     {
-      "word": "\"Whoa,",
-      "start": 2.799,
-      "end": 3.679,
+      "word": "Whoa!",
+      "start": 2.974,
+      "end": 3.392,
       "type": "word"
     },
     {
-      "word": "this",
-      "start": 3.74,
-      "end": 3.979,
+      "word": "This",
+      "start": 3.488,
+      "end": 3.872,
       "type": "word"
     },
     {
       "word": "one",
-      "start": 4.059,
-      "end": 4.239,
+      "start": 3.932,
+      "end": 4.112,
       "type": "word"
     },
     {
       "word": "is",
-      "start": 4.279,
-      "end": 4.659,
+      "start": 4.192,
+      "end": 4.352,
       "type": "word"
     },
     {
       "word": "too",
-      "start": 4.699,
-      "end": 5.359,
+      "start": 4.512,
+      "end": 4.992,
       "type": "word"
     },
     {
-      "word": "soft.\"",
-      "start": 5.44,
-      "end": 6.619,
+      "word": "SOFT!",
+      "start": 5.205,
+      "end": 6.311,
       "type": "word"
     },
     {
       "word": "She",
-      "start": 6.719,
-      "end": 6.919,
+      "start": 6.724,
+      "end": 6.733,
       "type": "word"
     },
     {
       "word": "sank",
-      "start": 6.94,
-      "end": 7.339,
+      "start": 6.797,
+      "end": 7.053,
       "type": "word"
     },
     {
       "word": "right",
-      "start": 7.379,
-      "end": 7.639,
+      "start": 7.119,
+      "end": 7.449,
       "type": "word"
     },
     {
       "word": "in",
-      "start": 7.719,
-      "end": 7.979,
+      "start": 7.529,
+      "end": 7.689,
       "type": "word"
     },
     {
       "word": "and",
-      "start": 8.0,
-      "end": 8.159,
+      "start": 7.749,
+      "end": 7.929,
       "type": "word"
     },
     {
       "word": "could",
-      "start": 8.179,
-      "end": 8.4,
+      "start": 7.982,
+      "end": 8.247,
       "type": "word"
     },
     {
       "word": "barely",
-      "start": 8.42,
-      "end": 8.84,
+      "start": 8.292,
+      "end": 8.562,
       "type": "word"
     },
     {
       "word": "get",
-      "start": 8.88,
-      "end": 9.039,
+      "start": 8.622,
+      "end": 8.802,
       "type": "word"
     },
     {
-      "word": "out",
-      "start": 9.119,
-      "end": 9.42,
+      "word": "out!",
+      "start": 8.922,
+      "end": 9.362,
       "type": "word"
     }
   ]

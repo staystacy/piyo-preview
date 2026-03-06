@@ -4,54 +4,54 @@
   "version": "toddler",
   "page": "P08",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:37:33Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
-      "word": "Hop",
-      "start": 0.34,
-      "end": 0.779,
+      "word": "Hops",
+      "start": 0.29,
+      "end": 0.692,
       "type": "word"
     },
     {
-      "word": "said",
-      "start": 0.819,
-      "end": 1.199,
+      "word": "said…",
+      "start": 0.772,
+      "end": 1.492,
       "type": "word"
     },
     {
-      "word": "\"You're",
-      "start": 1.619,
-      "end": 2.039,
+      "word": "You're",
+      "start": 1.622,
+      "end": 1.892,
       "type": "word"
     },
     {
-      "word": "amazing.\"",
-      "start": 2.119,
-      "end": 3.599,
+      "word": "amazing!",
+      "start": 2.052,
+      "end": 3.172,
       "type": "word"
     },
     {
       "word": "They",
-      "start": 3.639,
-      "end": 3.799,
+      "start": 3.705,
+      "end": 3.713,
       "type": "word"
     },
     {
-      "word": "became",
-      "start": 3.879,
-      "end": 4.46,
+      "word": "became…",
+      "start": 3.804,
+      "end": 4.71,
       "type": "word"
     },
     {
       "word": "best",
-      "start": 4.8,
-      "end": 5.199,
+      "start": 4.782,
+      "end": 5.07,
       "type": "word"
     },
     {
-      "word": "friends",
-      "start": 5.319,
-      "end": 5.98,
+      "word": "friends.",
+      "start": 5.15,
+      "end": 5.79,
       "type": "word"
     }
   ]

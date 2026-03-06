@@ -4,84 +4,90 @@
   "version": "toddler",
   "page": "P04",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:27:20Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "小",
-      "start": 0.419,
-      "end": 0.62,
+      "start": 0.534,
+      "end": 0.544,
       "type": "word"
     },
     {
       "word": "碗",
-      "start": 0.62,
-      "end": 1.299,
+      "start": 0.544,
+      "end": 1.104,
       "type": "word"
     },
     {
       "word": "的",
-      "start": 1.299,
-      "end": 1.519,
+      "start": 1.104,
+      "end": 1.264,
       "type": "word"
     },
     {
       "word": "粥",
-      "start": 1.519,
-      "end": 1.86,
+      "start": 1.264,
+      "end": 2.224,
       "type": "word"
     },
     {
-      "word": "，",
-      "start": 1.86,
-      "end": 3.019,
+      "word": "—",
+      "start": 2.224,
+      "end": 2.464,
       "type": "word"
     },
     {
-      "word": "香",
-      "start": 3.019,
-      "end": 3.18,
+      "word": "—",
+      "start": 2.464,
+      "end": 2.784,
       "type": "word"
     },
     {
-      "word": "刚",
-      "start": 3.18,
-      "end": 3.539,
+      "word": "剛",
+      "start": 3.086,
+      "end": 3.286,
+      "type": "word"
+    },
+    {
+      "word": "剛",
+      "start": 3.286,
+      "end": 3.486,
       "type": "word"
     },
     {
       "word": "好",
-      "start": 3.539,
-      "end": 4.019,
+      "start": 3.486,
+      "end": 3.886,
       "type": "word"
     },
     {
-      "word": "，",
-      "start": 4.019,
-      "end": 4.88,
+      "word": "！",
+      "start": 3.886,
+      "end": 4.686,
       "type": "word"
     },
     {
       "word": "吃",
-      "start": 4.88,
-      "end": 5.28,
+      "start": 4.984,
+      "end": 5.144,
       "type": "word"
     },
     {
       "word": "光",
-      "start": 5.28,
-      "end": 5.659,
+      "start": 5.144,
+      "end": 5.304,
       "type": "word"
     },
     {
       "word": "光",
-      "start": 5.659,
-      "end": 5.839,
+      "start": 5.304,
+      "end": 5.704,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 5.839,
-      "end": 6.619,
+      "word": "！",
+      "start": 5.704,
+      "end": 6.504,
       "type": "word"
     }
   ]

@@ -4,246 +4,264 @@
   "version": "standard",
   "page": "P03",
   "variant": "v3",
-  "generated_at": "2026-03-06T07:38:22Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "跳",
-      "start": 0.259,
-      "end": 0.639,
+      "start": 0.21,
+      "end": 0.37,
       "type": "word"
     },
     {
       "word": "跳",
-      "start": 0.639,
-      "end": 0.66,
+      "start": 0.37,
+      "end": 0.53,
       "type": "word"
     },
     {
       "word": "兔",
-      "start": 0.66,
-      "end": 1.399,
+      "start": 0.53,
+      "end": 1.25,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 1.25,
+      "end": 1.33,
       "type": "word"
     },
     {
       "word": "跑",
-      "start": 1.399,
-      "end": 1.559,
+      "start": 1.33,
+      "end": 1.41,
       "type": "word"
     },
     {
       "word": "好",
-      "start": 1.559,
-      "end": 2.24,
+      "start": 1.41,
+      "end": 2.29,
       "type": "word"
     },
     {
-      "word": "远",
-      "start": 2.24,
-      "end": 2.619,
+      "word": "遠",
+      "start": 2.29,
+      "end": 2.29,
       "type": "word"
     },
     {
       "word": "好",
-      "start": 2.619,
-      "end": 2.799,
+      "start": 2.29,
+      "end": 2.61,
       "type": "word"
     },
     {
-      "word": "远",
-      "start": 2.799,
-      "end": 2.94,
+      "word": "遠",
+      "start": 2.61,
+      "end": 2.77,
       "type": "word"
     },
     {
       "word": "，",
-      "start": 2.94,
-      "end": 3.859,
+      "start": 2.77,
+      "end": 2.85,
       "type": "word"
     },
     {
       "word": "回",
-      "start": 3.859,
-      "end": 4.099,
+      "start": 3.57,
+      "end": 3.81,
       "type": "word"
     },
     {
-      "word": "头",
-      "start": 4.099,
-      "end": 4.239,
+      "word": "頭",
+      "start": 3.81,
+      "end": 4.05,
       "type": "word"
     },
     {
       "word": "一",
-      "start": 4.239,
-      "end": 4.639,
+      "start": 4.05,
+      "end": 4.29,
       "type": "word"
     },
     {
       "word": "看",
-      "start": 4.639,
-      "end": 4.799,
+      "start": 4.29,
+      "end": 4.61,
       "type": "word"
     },
     {
-      "word": "，",
-      "start": 4.799,
-      "end": 5.979,
+      "word": "—",
+      "start": 4.61,
+      "end": 4.61,
+      "type": "word"
+    },
+    {
+      "word": "—",
+      "start": 4.61,
+      "end": 4.61,
       "type": "word"
     },
     {
       "word": "哈",
-      "start": 5.98,
-      "end": 6.26,
+      "start": 5.96,
+      "end": 6.28,
       "type": "word"
     },
     {
-      "word": "，",
-      "start": 6.26,
-      "end": 6.899,
+      "word": "！",
+      "start": 6.28,
+      "end": 6.6,
       "type": "word"
     },
     {
-      "word": "乌",
-      "start": 6.899,
-      "end": 7.159,
+      "word": "烏",
+      "start": 6.6,
+      "end": 7.12,
       "type": "word"
     },
     {
-      "word": "龟",
-      "start": 7.159,
-      "end": 7.619,
+      "word": "龜",
+      "start": 7.12,
+      "end": 7.48,
       "type": "word"
     },
     {
       "word": "只",
-      "start": 7.619,
-      "end": 7.839,
+      "start": 7.48,
+      "end": 7.56,
       "type": "word"
     },
     {
       "word": "有",
-      "start": 7.839,
-      "end": 8.179,
+      "start": 7.56,
+      "end": 7.84,
       "type": "word"
     },
     {
       "word": "一",
-      "start": 8.179,
-      "end": 8.419,
+      "start": 7.84,
+      "end": 8.12,
       "type": "word"
     },
     {
-      "word": "个",
-      "start": 8.42,
-      "end": 8.48,
+      "word": "個",
+      "start": 8.12,
+      "end": 8.36,
       "type": "word"
     },
     {
       "word": "小",
-      "start": 8.48,
-      "end": 8.899,
+      "start": 8.36,
+      "end": 8.6,
       "type": "word"
     },
     {
-      "word": "点",
-      "start": 8.899,
-      "end": 9.159,
+      "word": "點",
+      "start": 8.6,
+      "end": 8.84,
       "type": "word"
     },
     {
-      "word": "点",
-      "start": 9.159,
-      "end": 9.38,
+      "word": "點",
+      "start": 8.84,
+      "end": 9.16,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 9.38,
-      "end": 11.319,
-      "type": "word"
-    },
-    {
-      "word": "跳",
-      "start": 11.319,
-      "end": 11.439,
+      "word": "！",
+      "start": 9.16,
+      "end": 9.24,
       "type": "word"
     },
     {
       "word": "跳",
-      "start": 11.439,
-      "end": 11.84,
+      "start": 11.216,
+      "end": 11.376,
+      "type": "word"
+    },
+    {
+      "word": "跳",
+      "start": 11.376,
+      "end": 11.536,
       "type": "word"
     },
     {
       "word": "兔",
-      "start": 11.84,
-      "end": 12.579,
-      "type": "word"
-    },
-    {
-      "word": "双",
-      "start": 12.579,
-      "end": 12.8,
-      "type": "word"
-    },
-    {
-      "word": "手",
-      "start": 12.8,
-      "end": 13.179,
-      "type": "word"
-    },
-    {
-      "word": "叉",
-      "start": 13.179,
-      "end": 13.459,
-      "type": "word"
-    },
-    {
-      "word": "腰",
-      "start": 13.46,
-      "end": 13.619,
+      "start": 11.536,
+      "end": 12.056,
       "type": "word"
     },
     {
       "word": "，",
-      "start": 13.619,
-      "end": 14.399,
+      "start": 12.056,
+      "end": 12.256,
+      "type": "word"
+    },
+    {
+      "word": "雙",
+      "start": 12.256,
+      "end": 12.576,
+      "type": "word"
+    },
+    {
+      "word": "手",
+      "start": 12.576,
+      "end": 12.896,
+      "type": "word"
+    },
+    {
+      "word": "叉",
+      "start": 12.896,
+      "end": 13.336,
+      "type": "word"
+    },
+    {
+      "word": "腰",
+      "start": 13.336,
+      "end": 13.456,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 13.456,
+      "end": 13.536,
       "type": "word"
     },
     {
       "word": "得",
-      "start": 14.399,
-      "end": 14.639,
+      "start": 14.196,
+      "end": 14.416,
       "type": "word"
     },
     {
       "word": "意",
-      "start": 14.639,
-      "end": 14.899,
+      "start": 14.416,
+      "end": 14.656,
       "type": "word"
     },
     {
       "word": "地",
-      "start": 14.899,
-      "end": 15.579,
+      "start": 14.656,
+      "end": 15.296,
       "type": "word"
     },
     {
       "word": "笑",
-      "start": 15.579,
-      "end": 15.819,
+      "start": 15.296,
+      "end": 15.696,
       "type": "word"
     },
     {
       "word": "了",
-      "start": 15.819,
-      "end": 15.899,
+      "start": 15.696,
+      "end": 15.776,
       "type": "word"
     },
     {
       "word": "。",
-      "start": 15.899,
-      "end": 15.9,
+      "start": 15.776,
+      "end": 15.856,
       "type": "word"
     }
   ]

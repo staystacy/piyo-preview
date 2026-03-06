@@ -4,96 +4,114 @@
   "version": "toddler",
   "page": "P04",
   "variant": "v3",
-  "generated_at": "2026-03-06T07:38:08Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "跳",
-      "start": 0.219,
-      "end": 0.399,
+      "start": 0.371,
+      "end": 0.451,
       "type": "word"
     },
     {
       "word": "跳",
-      "start": 0.399,
-      "end": 0.679,
+      "start": 0.451,
+      "end": 0.531,
       "type": "word"
     },
     {
       "word": "兔",
-      "start": 0.679,
-      "end": 1.739,
-      "type": "word"
-    },
-    {
-      "word": "玩",
-      "start": 1.74,
-      "end": 1.94,
-      "type": "word"
-    },
-    {
-      "word": "累",
-      "start": 1.94,
-      "end": 2.279,
-      "type": "word"
-    },
-    {
-      "word": "了",
-      "start": 2.279,
-      "end": 2.46,
+      "start": 0.531,
+      "end": 1.131,
       "type": "word"
     },
     {
       "word": "，",
-      "start": 2.46,
-      "end": 3.46,
+      "start": 1.131,
+      "end": 1.331,
       "type": "word"
     },
     {
-      "word": "呼",
-      "start": 3.46,
-      "end": 3.98,
+      "word": "玩",
+      "start": 1.331,
+      "end": 1.651,
       "type": "word"
     },
     {
-      "word": "噜",
-      "start": 3.98,
-      "end": 4.44,
-      "type": "word"
-    },
-    {
-      "word": "呼",
-      "start": 4.44,
-      "end": 4.74,
-      "type": "word"
-    },
-    {
-      "word": "噜",
-      "start": 4.74,
-      "end": 5.799,
-      "type": "word"
-    },
-    {
-      "word": "睡",
-      "start": 5.799,
-      "end": 5.999,
-      "type": "word"
-    },
-    {
-      "word": "着",
-      "start": 5.999,
-      "end": 6.42,
+      "word": "累",
+      "start": 1.651,
+      "end": 1.971,
       "type": "word"
     },
     {
       "word": "了",
-      "start": 6.42,
-      "end": 6.519,
+      "start": 1.971,
+      "end": 2.291,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 2.291,
+      "end": 3.091,
+      "type": "word"
+    },
+    {
+      "word": "呼",
+      "start": 3.545,
+      "end": 3.745,
+      "type": "word"
+    },
+    {
+      "word": "嚕",
+      "start": 3.745,
+      "end": 4.185,
+      "type": "word"
+    },
+    {
+      "word": "呼",
+      "start": 4.185,
+      "end": 4.425,
+      "type": "word"
+    },
+    {
+      "word": "嚕",
+      "start": 4.425,
+      "end": 5.105,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 5.105,
+      "end": 5.285,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 5.285,
+      "end": 5.465,
+      "type": "word"
+    },
+    {
+      "word": "睡",
+      "start": 5.865,
+      "end": 6.025,
+      "type": "word"
+    },
+    {
+      "word": "著",
+      "start": 6.025,
+      "end": 6.185,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 6.185,
+      "end": 6.425,
       "type": "word"
     },
     {
       "word": "。",
-      "start": 6.519,
-      "end": 6.539,
+      "start": 6.425,
+      "end": 6.505,
       "type": "word"
     }
   ]

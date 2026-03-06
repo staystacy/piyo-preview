@@ -4,114 +4,114 @@
   "version": "standard",
   "page": "P05",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:26:53Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "She",
-      "start": 0.159,
-      "end": 0.519,
+      "start": 0.284,
+      "end": 0.299,
       "type": "word"
     },
     {
       "word": "tasted",
-      "start": 0.579,
-      "end": 1.12,
+      "start": 0.401,
+      "end": 1.013,
       "type": "word"
     },
     {
       "word": "the",
-      "start": 1.159,
-      "end": 1.319,
+      "start": 1.053,
+      "end": 1.173,
       "type": "word"
     },
     {
       "word": "tiny",
-      "start": 1.36,
-      "end": 1.819,
+      "start": 1.269,
+      "end": 1.653,
       "type": "word"
     },
     {
       "word": "bowl.",
-      "start": 1.86,
-      "end": 2.639,
+      "start": 1.749,
+      "end": 2.133,
       "type": "word"
     },
     {
-      "word": "\"This",
-      "start": 2.639,
-      "end": 2.899,
+      "word": "This",
+      "start": 2.733,
+      "end": 2.757,
       "type": "word"
     },
     {
       "word": "one",
-      "start": 2.98,
-      "end": 3.159,
+      "start": 2.817,
+      "end": 2.997,
       "type": "word"
     },
     {
-      "word": "is",
-      "start": 3.24,
-      "end": 3.679,
+      "word": "is…",
+      "start": 3.183,
+      "end": 3.995,
       "type": "word"
     },
     {
       "word": "just",
-      "start": 4.539,
-      "end": 4.96,
+      "start": 4.787,
+      "end": 4.827,
       "type": "word"
     },
     {
-      "word": "right.\"",
-      "start": 5.26,
-      "end": 6.139,
+      "word": "right!",
+      "start": 4.96,
+      "end": 5.925,
       "type": "word"
     },
     {
       "word": "Goldie",
-      "start": 6.179,
-      "end": 6.699,
+      "start": 6.231,
+      "end": 6.479,
       "type": "word"
     },
     {
       "word": "ate",
-      "start": 6.759,
-      "end": 6.959,
+      "start": 6.539,
+      "end": 6.719,
       "type": "word"
     },
     {
       "word": "it",
-      "start": 6.96,
-      "end": 7.199,
+      "start": 6.825,
+      "end": 7.037,
       "type": "word"
     },
     {
       "word": "all",
-      "start": 7.299,
-      "end": 7.739,
+      "start": 7.157,
+      "end": 7.517,
       "type": "word"
     },
     {
-      "word": "up,",
-      "start": 7.819,
-      "end": 8.26,
+      "word": "up.",
+      "start": 7.623,
+      "end": 8.075,
       "type": "word"
     },
     {
-      "word": "every",
-      "start": 8.38,
-      "end": 8.819,
+      "word": "Every",
+      "start": 8.355,
+      "end": 8.555,
       "type": "word"
     },
     {
       "word": "last",
-      "start": 8.84,
-      "end": 9.279,
+      "start": 8.651,
+      "end": 9.035,
       "type": "word"
     },
     {
-      "word": "drop",
-      "start": 9.3,
-      "end": 9.739,
+      "word": "drop!",
+      "start": 9.147,
+      "end": 9.675,
       "type": "word"
     }
   ]

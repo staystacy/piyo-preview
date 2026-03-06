@@ -4,126 +4,126 @@
   "version": "standard",
   "page": "P06",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:26:55Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "In",
-      "start": 0.219,
-      "end": 0.42,
+      "start": 0.284,
+      "end": 0.29,
       "type": "word"
     },
     {
       "word": "the",
-      "start": 0.439,
-      "end": 0.519,
+      "start": 0.33,
+      "end": 0.45,
       "type": "word"
     },
     {
       "word": "living",
-      "start": 0.62,
-      "end": 0.939,
+      "start": 0.495,
+      "end": 0.765,
       "type": "word"
     },
     {
       "word": "room,",
-      "start": 0.979,
-      "end": 1.679,
+      "start": 0.845,
+      "end": 1.405,
       "type": "word"
     },
     {
       "word": "Goldie",
-      "start": 1.719,
-      "end": 2.2,
+      "start": 1.693,
+      "end": 2.045,
       "type": "word"
     },
     {
       "word": "found",
-      "start": 2.22,
-      "end": 2.659,
+      "start": 2.125,
+      "end": 2.525,
       "type": "word"
     },
     {
       "word": "three",
-      "start": 2.679,
-      "end": 3.019,
+      "start": 2.578,
+      "end": 2.843,
       "type": "word"
     },
     {
-      "word": "chairs",
-      "start": 3.18,
-      "end": 3.72,
+      "word": "chairs.",
+      "start": 2.945,
+      "end": 3.837,
       "type": "word"
     },
     {
-      "word": "she",
-      "start": 4.239,
-      "end": 4.439,
+      "word": "She",
+      "start": 4.243,
+      "end": 4.273,
       "type": "word"
     },
     {
       "word": "sat",
-      "start": 4.5,
-      "end": 4.799,
+      "start": 4.373,
+      "end": 4.673,
       "type": "word"
     },
     {
       "word": "in",
-      "start": 4.819,
-      "end": 4.959,
+      "start": 4.726,
+      "end": 4.832,
       "type": "word"
     },
     {
       "word": "the",
-      "start": 4.98,
-      "end": 5.199,
+      "start": 4.892,
+      "end": 5.072,
       "type": "word"
     },
     {
       "word": "big",
-      "start": 5.239,
-      "end": 5.46,
+      "start": 5.132,
+      "end": 5.312,
       "type": "word"
     },
     {
-      "word": "chair",
-      "start": 5.579,
-      "end": 5.879,
+      "word": "chair.",
+      "start": 5.378,
+      "end": 6.008,
       "type": "word"
     },
     {
       "word": "Ouch!",
-      "start": 6.339,
-      "end": 7.0,
+      "start": 6.329,
+      "end": 6.823,
       "type": "word"
     },
     {
       "word": "This",
-      "start": 7.3,
-      "end": 7.519,
+      "start": 6.935,
+      "end": 7.383,
       "type": "word"
     },
     {
       "word": "one",
-      "start": 7.559,
-      "end": 7.719,
+      "start": 7.423,
+      "end": 7.543,
       "type": "word"
     },
     {
       "word": "is",
-      "start": 7.759,
-      "end": 8.019,
+      "start": 7.649,
+      "end": 7.861,
       "type": "word"
     },
     {
       "word": "too",
-      "start": 8.06,
-      "end": 8.34,
+      "start": 7.941,
+      "end": 8.181,
       "type": "word"
     },
     {
-      "word": "hard.",
-      "start": 8.679,
-      "end": 9.579,
+      "word": "HARD!",
+      "start": 8.405,
+      "end": 9.541,
       "type": "word"
     }
   ]

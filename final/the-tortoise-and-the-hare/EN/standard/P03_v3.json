@@ -4,174 +4,174 @@
   "version": "standard",
   "page": "P03",
   "variant": "v3",
-  "generated_at": "2026-03-06T07:37:40Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "Hops",
-      "start": 0.239,
-      "end": 0.659,
+      "start": 0.213,
+      "end": 0.533,
       "type": "word"
     },
     {
       "word": "ran",
-      "start": 0.719,
-      "end": 0.979,
+      "start": 0.613,
+      "end": 0.853,
       "type": "word"
     },
     {
       "word": "so",
-      "start": 1.179,
-      "end": 1.48,
+      "start": 1.013,
+      "end": 1.333,
       "type": "word"
     },
     {
       "word": "far",
-      "start": 1.639,
-      "end": 1.86,
+      "start": 1.433,
+      "end": 1.733,
       "type": "word"
     },
     {
       "word": "ahead,",
-      "start": 1.979,
-      "end": 2.559,
+      "start": 1.813,
+      "end": 2.373,
       "type": "word"
     },
     {
       "word": "he",
-      "start": 2.599,
-      "end": 2.799,
+      "start": 2.586,
+      "end": 2.692,
       "type": "word"
     },
     {
       "word": "turned",
-      "start": 2.839,
-      "end": 3.119,
+      "start": 2.726,
+      "end": 2.93,
       "type": "word"
     },
     {
       "word": "around",
-      "start": 3.159,
-      "end": 3.579,
+      "start": 2.998,
+      "end": 3.406,
       "type": "word"
     },
     {
       "word": "and",
-      "start": 3.619,
-      "end": 3.719,
+      "start": 3.446,
+      "end": 3.566,
       "type": "word"
     },
     {
       "word": "laughed.",
-      "start": 3.799,
-      "end": 4.339,
+      "start": 3.636,
+      "end": 4.406,
       "type": "word"
     },
     {
-      "word": "\"Ha!",
-      "start": 4.739,
-      "end": 5.279,
+      "word": "Ha!",
+      "start": 4.827,
+      "end": 4.997,
       "type": "word"
     },
     {
       "word": "The",
-      "start": 5.299,
-      "end": 5.459,
+      "start": 5.077,
+      "end": 5.317,
       "type": "word"
     },
     {
       "word": "tortoise",
-      "start": 5.5,
-      "end": 5.98,
+      "start": 5.381,
+      "end": 5.797,
       "type": "word"
     },
     {
       "word": "is",
-      "start": 6.019,
-      "end": 6.179,
+      "start": 5.85,
+      "end": 5.956,
       "type": "word"
     },
     {
       "word": "just",
-      "start": 6.219,
-      "end": 6.439,
+      "start": 6.02,
+      "end": 6.276,
       "type": "word"
     },
     {
       "word": "a",
-      "start": 6.48,
-      "end": 6.659,
+      "start": 6.316,
+      "end": 6.356,
       "type": "word"
     },
     {
       "word": "tiny",
-      "start": 6.719,
-      "end": 7.139,
+      "start": 6.484,
+      "end": 6.996,
       "type": "word"
     },
     {
       "word": "little",
-      "start": 7.239,
-      "end": 7.439,
+      "start": 7.041,
+      "end": 7.311,
       "type": "word"
     },
     {
-      "word": "dot.\"",
-      "start": 7.579,
-      "end": 8.759,
+      "word": "dot!",
+      "start": 7.471,
+      "end": 8.311,
       "type": "word"
     },
     {
       "word": "He",
-      "start": 8.84,
-      "end": 9.02,
+      "start": 8.726,
+      "end": 8.732,
       "type": "word"
     },
     {
       "word": "put",
-      "start": 9.06,
-      "end": 9.219,
+      "start": 8.812,
+      "end": 9.052,
       "type": "word"
     },
     {
       "word": "his",
-      "start": 9.26,
-      "end": 9.44,
+      "start": 9.092,
+      "end": 9.212,
       "type": "word"
     },
     {
       "word": "hands",
-      "start": 9.46,
-      "end": 9.8,
+      "start": 9.278,
+      "end": 9.608,
       "type": "word"
     },
     {
       "word": "on",
-      "start": 9.84,
-      "end": 9.94,
+      "start": 9.661,
+      "end": 9.767,
       "type": "word"
     },
     {
       "word": "his",
-      "start": 9.98,
-      "end": 10.139,
+      "start": 9.807,
+      "end": 9.927,
       "type": "word"
     },
     {
       "word": "hips",
-      "start": 10.18,
-      "end": 10.539,
+      "start": 10.007,
+      "end": 10.327,
       "type": "word"
     },
     {
       "word": "and",
-      "start": 10.659,
-      "end": 10.86,
+      "start": 10.407,
+      "end": 10.647,
       "type": "word"
     },
     {
       "word": "grinned.",
-      "start": 10.9,
-      "end": 11.42,
+      "start": 10.707,
+      "end": 11.367,
       "type": "word"
     }
   ]

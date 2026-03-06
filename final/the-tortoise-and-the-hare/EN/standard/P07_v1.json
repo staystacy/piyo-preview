@@ -4,192 +4,192 @@
   "version": "standard",
   "page": "P07",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:37:49Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "Tilly",
-      "start": 0.179,
-      "end": 0.699,
+      "start": 0.143,
+      "end": 0.467,
       "type": "word"
     },
     {
       "word": "walked",
-      "start": 0.74,
-      "end": 1.259,
+      "start": 0.558,
+      "end": 1.104,
       "type": "word"
     },
     {
       "word": "and",
-      "start": 1.44,
-      "end": 1.619,
+      "start": 1.204,
+      "end": 1.504,
       "type": "word"
     },
     {
-      "word": "walked",
-      "start": 1.74,
-      "end": 2.259,
+      "word": "walked…",
+      "start": 1.595,
+      "end": 2.541,
       "type": "word"
     },
     {
       "word": "and",
-      "start": 2.72,
-      "end": 2.939,
+      "start": 2.601,
+      "end": 2.781,
       "type": "word"
     },
     {
       "word": "walked.",
-      "start": 3.079,
-      "end": 3.599,
+      "start": 2.872,
+      "end": 3.778,
       "type": "word"
     },
     {
       "word": "She",
-      "start": 4.159,
-      "end": 4.359,
+      "start": 4.121,
+      "end": 4.124,
       "type": "word"
     },
     {
       "word": "passed",
-      "start": 4.4,
-      "end": 4.779,
+      "start": 4.192,
+      "end": 4.6,
       "type": "word"
     },
     {
       "word": "right",
-      "start": 4.9,
-      "end": 5.119,
+      "start": 4.653,
+      "end": 4.918,
       "type": "word"
     },
     {
       "word": "by",
-      "start": 5.239,
-      "end": 5.459,
+      "start": 5.051,
+      "end": 5.317,
       "type": "word"
     },
     {
       "word": "the",
-      "start": 5.519,
-      "end": 5.659,
+      "start": 5.357,
+      "end": 5.477,
       "type": "word"
     },
     {
       "word": "snoring",
-      "start": 5.679,
-      "end": 6.099,
+      "start": 5.557,
+      "end": 5.957,
       "type": "word"
     },
     {
       "word": "hare.",
-      "start": 6.179,
-      "end": 6.84,
+      "start": 6.037,
+      "end": 6.657,
       "type": "word"
     },
     {
       "word": "She",
-      "start": 6.899,
-      "end": 7.079,
+      "start": 6.818,
+      "end": 6.827,
       "type": "word"
     },
     {
       "word": "glanced",
-      "start": 7.099,
-      "end": 7.559,
+      "start": 6.897,
+      "end": 7.387,
       "type": "word"
     },
     {
       "word": "at",
-      "start": 7.579,
-      "end": 7.699,
+      "start": 7.44,
+      "end": 7.546,
       "type": "word"
     },
     {
-      "word": "him,",
-      "start": 7.719,
-      "end": 8.239,
+      "word": "him…",
+      "start": 7.606,
+      "end": 8.106,
       "type": "word"
     },
     {
       "word": "but",
-      "start": 8.26,
-      "end": 8.42,
+      "start": 8.146,
+      "end": 8.266,
       "type": "word"
     },
     {
       "word": "didn't",
-      "start": 8.46,
-      "end": 8.739,
+      "start": 8.298,
+      "end": 8.506,
       "type": "word"
     },
     {
       "word": "stop.",
-      "start": 8.78,
-      "end": 9.199,
+      "start": 8.602,
+      "end": 9.266,
       "type": "word"
     },
     {
-      "word": "\"It's",
-      "start": 9.579,
-      "end": 9.82,
+      "word": "It's",
+      "start": 9.527,
+      "end": 9.611,
       "type": "word"
     },
     {
-      "word": "okay.",
-      "start": 9.86,
-      "end": 10.34,
+      "word": "okay,",
+      "start": 9.707,
+      "end": 10.411,
       "type": "word"
     },
     {
-      "word": "Nice",
-      "start": 10.639,
-      "end": 10.88,
+      "word": "nice",
+      "start": 10.475,
+      "end": 10.731,
       "type": "word"
     },
     {
       "word": "and",
-      "start": 10.899,
-      "end": 11.019,
+      "start": 10.751,
+      "end": 10.811,
       "type": "word"
     },
     {
       "word": "slow,",
-      "start": 11.14,
-      "end": 11.779,
+      "start": 10.923,
+      "end": 11.611,
       "type": "word"
     },
     {
       "word": "step",
-      "start": 11.92,
-      "end": 12.219,
+      "start": 11.691,
+      "end": 12.011,
       "type": "word"
     },
     {
       "word": "by",
-      "start": 12.239,
-      "end": 12.38,
+      "start": 12.091,
+      "end": 12.251,
       "type": "word"
     },
     {
-      "word": "step.",
-      "start": 12.5,
-      "end": 12.899,
+      "word": "step,",
+      "start": 12.331,
+      "end": 12.971,
       "type": "word"
     },
     {
-      "word": "Here",
-      "start": 13.239,
-      "end": 13.439,
+      "word": "here",
+      "start": 13.035,
+      "end": 13.291,
       "type": "word"
     },
     {
       "word": "I",
-      "start": 13.5,
-      "end": 13.619,
+      "start": 13.371,
+      "end": 13.451,
       "type": "word"
     },
     {
-      "word": "go.\"",
-      "start": 13.659,
-      "end": 13.899,
+      "word": "go.",
+      "start": 13.557,
+      "end": 13.849,
       "type": "word"
     }
   ]

@@ -4,168 +4,168 @@
   "version": "standard",
   "page": "P02",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:37:37Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "Judge",
-      "start": 0.14,
-      "end": 0.379,
+      "start": 0.27,
+      "end": 0.305,
       "type": "word"
     },
     {
       "word": "Owl",
-      "start": 0.479,
-      "end": 0.8,
+      "start": 0.385,
+      "end": 0.625,
       "type": "word"
     },
     {
       "word": "raised",
-      "start": 0.839,
-      "end": 1.159,
+      "start": 0.682,
+      "end": 1.024,
       "type": "word"
     },
     {
       "word": "his",
-      "start": 1.199,
-      "end": 1.319,
+      "start": 1.064,
+      "end": 1.184,
       "type": "word"
     },
     {
       "word": "flag.",
-      "start": 1.399,
-      "end": 1.839,
+      "start": 1.28,
+      "end": 1.864,
       "type": "word"
     },
     {
-      "word": "\"Ready,",
-      "start": 2.039,
-      "end": 3.039,
+      "word": "Ready…",
+      "start": 2.507,
+      "end": 3.182,
       "type": "word"
     },
     {
-      "word": "set,",
-      "start": 3.359,
-      "end": 4.48,
+      "word": "set…",
+      "start": 3.342,
+      "end": 4.382,
       "type": "word"
     },
     {
-      "word": "go!\"",
-      "start": 4.559,
-      "end": 5.179,
+      "word": "GO!",
+      "start": 4.848,
+      "end": 5.26,
       "type": "word"
     },
     {
-      "word": "Zoom!",
-      "start": 5.659,
-      "end": 6.239,
+      "word": "ZOOM!",
+      "start": 5.647,
+      "end": 6.131,
       "type": "word"
     },
     {
       "word": "Hops",
-      "start": 6.44,
-      "end": 6.819,
+      "start": 6.251,
+      "end": 6.689,
       "type": "word"
     },
     {
       "word": "shot",
-      "start": 6.939,
-      "end": 7.179,
+      "start": 6.753,
+      "end": 7.009,
       "type": "word"
     },
     {
       "word": "off",
-      "start": 7.219,
-      "end": 7.419,
+      "start": 7.069,
+      "end": 7.249,
       "type": "word"
     },
     {
       "word": "like",
-      "start": 7.46,
-      "end": 7.619,
+      "start": 7.297,
+      "end": 7.489,
       "type": "word"
     },
     {
       "word": "a",
-      "start": 7.659,
-      "end": 7.759,
+      "start": 7.529,
+      "end": 7.569,
       "type": "word"
     },
     {
-      "word": "rocket.",
-      "start": 7.799,
-      "end": 8.279,
+      "word": "rocket!",
+      "start": 7.637,
+      "end": 8.205,
       "type": "word"
     },
     {
       "word": "Tilly",
-      "start": 8.4,
-      "end": 8.779,
+      "start": 8.354,
+      "end": 8.597,
       "type": "word"
     },
     {
       "word": "took",
-      "start": 8.8,
-      "end": 8.979,
+      "start": 8.645,
+      "end": 8.837,
       "type": "word"
     },
     {
       "word": "her",
-      "start": 9.02,
-      "end": 9.119,
+      "start": 8.897,
+      "end": 9.077,
       "type": "word"
     },
     {
       "word": "first",
-      "start": 9.26,
-      "end": 9.5,
+      "start": 9.117,
+      "end": 9.317,
       "type": "word"
     },
     {
       "word": "step.",
-      "start": 9.519,
-      "end": 9.96,
+      "start": 9.413,
+      "end": 10.037,
       "type": "word"
     },
     {
       "word": "One",
-      "start": 10.42,
-      "end": 10.64,
+      "start": 10.337,
+      "end": 10.517,
       "type": "word"
     },
     {
-      "word": "step,",
-      "start": 10.76,
-      "end": 11.499,
+      "word": "step…",
+      "start": 10.613,
+      "end": 11.397,
       "type": "word"
     },
     {
       "word": "two",
-      "start": 11.579,
-      "end": 11.84,
+      "start": 11.477,
+      "end": 11.717,
       "type": "word"
     },
     {
-      "word": "steps,",
-      "start": 11.96,
-      "end": 12.5,
+      "word": "steps…",
+      "start": 11.823,
+      "end": 12.753,
       "type": "word"
     },
     {
       "word": "nice",
-      "start": 12.819,
-      "end": 13.3,
+      "start": 12.833,
+      "end": 13.153,
       "type": "word"
     },
     {
       "word": "and",
-      "start": 13.34,
-      "end": 13.48,
+      "start": 13.193,
+      "end": 13.313,
       "type": "word"
     },
     {
-      "word": "slow",
-      "start": 13.619,
-      "end": 14.059,
+      "word": "slow.",
+      "start": 13.425,
+      "end": 14.033,
       "type": "word"
     }
   ]

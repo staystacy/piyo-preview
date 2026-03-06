@@ -4,66 +4,66 @@
   "version": "toddler",
   "page": "P02",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:37:22Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "Ready,",
-      "start": 0.28,
-      "end": 1.039,
+      "start": 0.549,
+      "end": 0.549,
       "type": "word"
     },
     {
       "word": "set,",
-      "start": 2.099,
-      "end": 2.759,
+      "start": 0.549,
+      "end": 0.549,
       "type": "word"
     },
     {
-      "word": "go!",
-      "start": 3.42,
-      "end": 3.9,
+      "word": "GO!",
+      "start": 0.549,
+      "end": 0.549,
       "type": "word"
     },
     {
-      "word": "Zoom!",
-      "start": 4.679,
-      "end": 5.219,
+      "word": "ZOOM!",
+      "start": 2.623,
+      "end": 2.623,
       "type": "word"
     },
     {
       "word": "Hops",
-      "start": 5.42,
-      "end": 5.799,
+      "start": 2.623,
+      "end": 2.623,
       "type": "word"
     },
     {
       "word": "was",
-      "start": 5.839,
-      "end": 6.059,
+      "start": 2.623,
+      "end": 2.623,
       "type": "word"
     },
     {
-      "word": "fast.",
-      "start": 6.239,
-      "end": 6.859,
+      "word": "fast!",
+      "start": 2.623,
+      "end": 2.623,
       "type": "word"
     },
     {
-      "word": "Tilly",
-      "start": 7.179,
-      "end": 7.699,
+      "word": "Tilly…",
+      "start": 4.605,
+      "end": 4.605,
       "type": "word"
     },
     {
       "word": "walked",
-      "start": 8.139,
-      "end": 8.539,
+      "start": 5.704,
+      "end": 8.354,
       "type": "word"
     },
     {
-      "word": "slowly",
-      "start": 8.659,
-      "end": 9.419,
+      "word": "slowly.",
+      "start": 8.468,
+      "end": 9.392,
       "type": "word"
     }
   ]

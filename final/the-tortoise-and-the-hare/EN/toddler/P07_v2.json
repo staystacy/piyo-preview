@@ -4,36 +4,36 @@
   "version": "toddler",
   "page": "P07",
   "variant": "v2",
-  "generated_at": "2026-03-06T07:37:31Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "Tilly",
-      "start": 0.14,
-      "end": 0.679,
+      "start": 0.138,
+      "end": 0.54,
       "type": "word"
     },
     {
       "word": "crossed",
-      "start": 0.759,
-      "end": 1.259,
+      "start": 0.61,
+      "end": 1.1,
       "type": "word"
     },
     {
       "word": "the",
-      "start": 1.299,
-      "end": 1.339,
+      "start": 1.14,
+      "end": 1.26,
       "type": "word"
     },
     {
-      "word": "finish.",
-      "start": 1.5,
-      "end": 2.719,
+      "word": "finish!",
+      "start": 1.362,
+      "end": 2.054,
       "type": "word"
     },
     {
       "word": "Hooray!",
-      "start": 2.74,
-      "end": 4.139,
+      "start": 2.644,
+      "end": 4.084,
       "type": "word"
     }
   ]

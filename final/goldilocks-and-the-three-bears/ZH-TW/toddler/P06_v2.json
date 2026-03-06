@@ -4,102 +4,120 @@
   "version": "toddler",
   "page": "P06",
   "variant": "v2",
-  "generated_at": "2026-03-06T07:27:24Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "小",
-      "start": 0.299,
-      "end": 0.599,
+      "start": 0.454,
+      "end": 0.459,
       "type": "word"
     },
     {
       "word": "椅",
-      "start": 0.599,
-      "end": 1.139,
+      "start": 0.459,
+      "end": 0.939,
       "type": "word"
     },
     {
       "word": "子",
-      "start": 1.139,
-      "end": 2.699,
+      "start": 0.939,
+      "end": 2.619,
       "type": "word"
     },
     {
-      "word": "刚",
-      "start": 2.699,
-      "end": 3.299,
+      "word": "—",
+      "start": 2.619,
+      "end": 2.639,
       "type": "word"
     },
     {
-      "word": "刚",
-      "start": 3.299,
-      "end": 3.659,
+      "word": "—",
+      "start": 2.639,
+      "end": 2.679,
+      "type": "word"
+    },
+    {
+      "word": "剛",
+      "start": 3.078,
+      "end": 3.278,
+      "type": "word"
+    },
+    {
+      "word": "剛",
+      "start": 3.278,
+      "end": 3.478,
       "type": "word"
     },
     {
       "word": "好",
-      "start": 3.659,
-      "end": 4.119,
+      "start": 3.478,
+      "end": 3.878,
       "type": "word"
     },
     {
-      "word": "，",
-      "start": 4.119,
-      "end": 5.5,
+      "word": "！",
+      "start": 3.878,
+      "end": 3.878,
       "type": "word"
     },
     {
       "word": "可",
-      "start": 5.5,
-      "end": 6.059,
+      "start": 5.759,
+      "end": 5.777,
       "type": "word"
     },
     {
       "word": "是",
-      "start": 6.059,
-      "end": 6.36,
+      "start": 5.777,
+      "end": 6.097,
       "type": "word"
     },
     {
-      "word": "，",
-      "start": 6.36,
-      "end": 6.939,
+      "word": "…",
+      "start": 6.097,
+      "end": 6.417,
       "type": "word"
     },
     {
-      "word": "咔",
-      "start": 6.94,
-      "end": 7.28,
+      "word": "…",
+      "start": 6.417,
+      "end": 6.737,
+      "type": "word"
+    },
+    {
+      "word": "喀",
+      "start": 6.897,
+      "end": 7.017,
       "type": "word"
     },
     {
       "word": "啦",
-      "start": 7.28,
-      "end": 7.359,
+      "start": 7.017,
+      "end": 7.137,
       "type": "word"
     },
     {
-      "word": "，",
-      "start": 7.359,
-      "end": 7.839,
+      "word": "！",
+      "start": 7.137,
+      "end": 7.697,
       "type": "word"
     },
     {
-      "word": "坏",
-      "start": 7.839,
-      "end": 8.299,
+      "word": "壞",
+      "start": 7.697,
+      "end": 8.337,
       "type": "word"
     },
     {
       "word": "了",
-      "start": 8.299,
-      "end": 8.719,
+      "start": 8.337,
+      "end": 8.577,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 8.719,
-      "end": 10.779,
+      "word": "！",
+      "start": 8.577,
+      "end": 10.737,
       "type": "word"
     }
   ]

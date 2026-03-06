@@ -4,144 +4,180 @@
   "version": "toddler",
   "page": "P08",
   "variant": "v3",
-  "generated_at": "2026-03-06T07:28:18Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
-      "word": "小",
-      "start": 0.179,
-      "end": 0.599,
+      "word": "ち",
+      "start": 0.201,
+      "end": 0.217,
+      "type": "word"
+    },
+    {
+      "word": "い",
+      "start": 0.217,
+      "end": 0.537,
       "type": "word"
     },
     {
       "word": "さ",
-      "start": 0.599,
-      "end": 0.839,
+      "start": 0.537,
+      "end": 0.857,
       "type": "word"
     },
     {
       "word": "い",
-      "start": 0.839,
-      "end": 1.359,
+      "start": 0.857,
+      "end": 1.177,
       "type": "word"
     },
     {
       "word": "ベ",
-      "start": 1.36,
-      "end": 1.5,
+      "start": 1.257,
+      "end": 1.337,
       "type": "word"
     },
     {
       "word": "ッ",
-      "start": 1.5,
-      "end": 1.72,
+      "start": 1.337,
+      "end": 1.737,
       "type": "word"
     },
     {
       "word": "ド",
-      "start": 1.72,
-      "end": 1.859,
+      "start": 1.737,
+      "end": 1.737,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 1.859,
-      "end": 2.919,
+      "word": "—",
+      "start": 1.737,
+      "end": 1.737,
+      "type": "word"
+    },
+    {
+      "word": "—",
+      "start": 1.737,
+      "end": 1.737,
       "type": "word"
     },
     {
       "word": "ち",
-      "start": 2.919,
-      "end": 2.999,
+      "start": 3.02,
+      "end": 3.046,
       "type": "word"
     },
     {
       "word": "ょ",
-      "start": 2.999,
-      "end": 3.14,
+      "start": 3.046,
+      "end": 3.059,
       "type": "word"
     },
     {
       "word": "う",
-      "start": 3.14,
-      "end": 3.259,
+      "start": 3.059,
+      "end": 3.072,
       "type": "word"
     },
     {
       "word": "ど",
-      "start": 3.259,
-      "end": 3.48,
+      "start": 3.072,
+      "end": 3.312,
       "type": "word"
     },
     {
       "word": "い",
-      "start": 3.48,
-      "end": 3.7,
+      "start": 3.392,
+      "end": 3.552,
       "type": "word"
     },
     {
       "word": "い",
-      "start": 3.7,
-      "end": 5.299,
+      "start": 3.552,
+      "end": 3.712,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 5.299,
-      "end": 5.439,
+      "word": "…",
+      "start": 3.712,
+      "end": 3.712,
       "type": "word"
     },
     {
-      "word": "ツ",
-      "start": 5.44,
-      "end": 5.619,
+      "word": "…",
+      "start": 3.712,
+      "end": 3.712,
       "type": "word"
     },
     {
-      "word": "ー",
-      "start": 5.619,
-      "end": 5.859,
+      "word": "す",
+      "start": 5.42,
+      "end": 5.446,
       "type": "word"
     },
     {
-      "word": "ス",
-      "start": 5.859,
-      "end": 6.939,
+      "word": "う",
+      "start": 5.446,
+      "end": 5.766,
       "type": "word"
     },
     {
-      "word": "見",
-      "start": 6.94,
-      "end": 7.079,
+      "word": "す",
+      "start": 5.766,
+      "end": 5.846,
+      "type": "word"
+    },
+    {
+      "word": "う",
+      "start": 5.846,
+      "end": 5.926,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 5.926,
+      "end": 6.326,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 6.326,
+      "end": 6.726,
+      "type": "word"
+    },
+    {
+      "word": "ね",
+      "start": 6.806,
+      "end": 6.886,
       "type": "word"
     },
     {
       "word": "ち",
-      "start": 7.079,
-      "end": 7.159,
+      "start": 6.886,
+      "end": 7.006,
       "type": "word"
     },
     {
       "word": "ゃ",
-      "start": 7.159,
-      "end": 7.339,
+      "start": 7.006,
+      "end": 7.126,
       "type": "word"
     },
     {
       "word": "っ",
-      "start": 7.339,
-      "end": 7.479,
+      "start": 7.126,
+      "end": 7.286,
       "type": "word"
     },
     {
       "word": "た",
-      "start": 7.48,
-      "end": 7.719,
+      "start": 7.286,
+      "end": 7.446,
       "type": "word"
     },
     {
       "word": "。",
-      "start": 7.719,
-      "end": 9.739,
+      "start": 7.446,
+      "end": 9.686,
       "type": "word"
     }
   ]

@@ -4,192 +4,198 @@
   "version": "standard",
   "page": "P03",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:26:49Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "On",
-      "start": 0.159,
-      "end": 0.339,
+      "start": 0.206,
+      "end": 0.232,
       "type": "word"
     },
     {
       "word": "the",
-      "start": 0.359,
-      "end": 0.419,
+      "start": 0.252,
+      "end": 0.312,
       "type": "word"
     },
     {
       "word": "table",
-      "start": 0.5,
-      "end": 0.819,
+      "start": 0.378,
+      "end": 0.708,
       "type": "word"
     },
     {
       "word": "sat",
-      "start": 0.899,
-      "end": 1.179,
+      "start": 0.788,
+      "end": 1.028,
       "type": "word"
     },
     {
       "word": "three",
-      "start": 1.219,
-      "end": 1.48,
+      "start": 1.081,
+      "end": 1.346,
       "type": "word"
     },
     {
       "word": "bowls",
-      "start": 1.579,
-      "end": 1.86,
+      "start": 1.412,
+      "end": 1.742,
       "type": "word"
     },
     {
       "word": "of",
-      "start": 1.879,
-      "end": 1.959,
+      "start": 1.795,
+      "end": 1.901,
       "type": "word"
     },
     {
-      "word": "porridge,",
-      "start": 2.079,
-      "end": 2.599,
+      "word": "porridge",
+      "start": 1.961,
+      "end": 2.461,
+      "type": "word"
+    },
+    {
+      "word": "—",
+      "start": 2.581,
+      "end": 2.701,
       "type": "word"
     },
     {
       "word": "a",
-      "start": 2.839,
-      "end": 2.919,
+      "start": 2.741,
+      "end": 2.781,
       "type": "word"
     },
     {
       "word": "big",
-      "start": 3.0,
-      "end": 3.199,
+      "start": 2.861,
+      "end": 3.101,
       "type": "word"
     },
     {
       "word": "one,",
-      "start": 3.259,
-      "end": 3.88,
+      "start": 3.161,
+      "end": 3.421,
       "type": "word"
     },
     {
       "word": "a",
-      "start": 3.919,
-      "end": 3.959,
+      "start": 3.721,
+      "end": 3.821,
       "type": "word"
     },
     {
       "word": "medium",
-      "start": 4.059,
-      "end": 4.48,
+      "start": 3.889,
+      "end": 4.297,
       "type": "word"
     },
     {
       "word": "one,",
-      "start": 4.539,
-      "end": 4.799,
+      "start": 4.377,
+      "end": 4.777,
       "type": "word"
     },
     {
       "word": "and",
-      "start": 5.219,
-      "end": 5.379,
+      "start": 5.017,
+      "end": 5.257,
       "type": "word"
     },
     {
       "word": "a",
-      "start": 5.42,
-      "end": 5.539,
+      "start": 5.297,
+      "end": 5.337,
       "type": "word"
     },
     {
       "word": "tiny",
-      "start": 5.599,
-      "end": 5.979,
+      "start": 5.433,
+      "end": 5.817,
       "type": "word"
     },
     {
       "word": "one.",
-      "start": 6.039,
-      "end": 6.259,
+      "start": 5.877,
+      "end": 6.417,
       "type": "word"
     },
     {
       "word": "Goldie",
-      "start": 6.839,
-      "end": 7.219,
+      "start": 6.995,
+      "end": 7.087,
       "type": "word"
     },
     {
       "word": "tasted",
-      "start": 7.279,
-      "end": 7.759,
+      "start": 7.155,
+      "end": 7.563,
       "type": "word"
     },
     {
       "word": "the",
-      "start": 7.779,
-      "end": 7.879,
+      "start": 7.603,
+      "end": 7.723,
       "type": "word"
     },
     {
       "word": "big",
-      "start": 7.94,
-      "end": 8.159,
+      "start": 7.783,
+      "end": 7.963,
       "type": "word"
     },
     {
       "word": "bowl.",
-      "start": 8.179,
-      "end": 8.46,
+      "start": 8.027,
+      "end": 8.583,
       "type": "word"
     },
     {
-      "word": "\"Ow,",
-      "start": 8.779,
-      "end": 9.059,
+      "word": "Ow",
+      "start": 8.826,
+      "end": 8.836,
       "type": "word"
     },
     {
-      "word": "ow,",
-      "start": 9.1,
-      "end": 9.319,
+      "word": "ow",
+      "start": 8.942,
+      "end": 9.154,
       "type": "word"
     },
     {
       "word": "ow!",
-      "start": 9.36,
-      "end": 9.879,
+      "start": 9.26,
+      "end": 9.712,
       "type": "word"
     },
     {
       "word": "This",
-      "start": 9.899,
-      "end": 10.099,
+      "start": 9.76,
+      "end": 9.952,
       "type": "word"
     },
     {
       "word": "one",
-      "start": 10.14,
-      "end": 10.279,
+      "start": 9.992,
+      "end": 10.112,
       "type": "word"
     },
     {
       "word": "is",
-      "start": 10.3,
-      "end": 10.56,
+      "start": 10.192,
+      "end": 10.352,
       "type": "word"
     },
     {
       "word": "too",
-      "start": 10.619,
-      "end": 10.939,
+      "start": 10.452,
+      "end": 10.752,
       "type": "word"
     },
     {
-      "word": "hot!\"",
-      "start": 11.119,
-      "end": 11.899,
+      "word": "HOT!",
+      "start": 10.952,
+      "end": 11.552,
       "type": "word"
     }
   ]

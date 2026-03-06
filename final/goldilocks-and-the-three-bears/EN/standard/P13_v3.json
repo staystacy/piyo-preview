@@ -4,180 +4,168 @@
   "version": "standard",
   "page": "P13",
   "variant": "v3",
-  "generated_at": "2026-03-06T07:27:10Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "Goldie",
-      "start": 0.62,
-      "end": 1.159,
+      "start": 0.817,
+      "end": 0.949,
       "type": "word"
     },
     {
       "word": "woke",
-      "start": 1.199,
-      "end": 1.459,
+      "start": 1.029,
+      "end": 1.349,
       "type": "word"
     },
     {
       "word": "up",
-      "start": 1.519,
-      "end": 1.819,
+      "start": 1.429,
+      "end": 1.589,
       "type": "word"
     },
     {
       "word": "and",
-      "start": 1.859,
-      "end": 2.059,
+      "start": 1.649,
+      "end": 1.829,
       "type": "word"
     },
     {
       "word": "saw",
-      "start": 2.099,
-      "end": 2.299,
+      "start": 1.929,
+      "end": 2.229,
       "type": "word"
     },
     {
       "word": "three",
-      "start": 2.519,
-      "end": 2.94,
+      "start": 2.322,
+      "end": 2.787,
       "type": "word"
     },
     {
       "word": "bears",
-      "start": 3.059,
-      "end": 3.519,
+      "start": 2.893,
+      "end": 3.423,
       "type": "word"
     },
     {
       "word": "staring",
-      "start": 3.579,
-      "end": 4.079,
+      "start": 3.493,
+      "end": 3.983,
       "type": "word"
     },
     {
       "word": "at",
-      "start": 4.119,
-      "end": 4.279,
+      "start": 4.036,
+      "end": 4.142,
       "type": "word"
     },
     {
       "word": "her.",
-      "start": 4.299,
-      "end": 5.059,
+      "start": 4.202,
+      "end": 4.462,
       "type": "word"
     },
     {
-      "word": "Ah,",
-      "start": 5.259,
-      "end": 5.86,
-      "type": "word"
-    },
-    {
-      "word": "ah,",
-      "start": 5.879,
-      "end": 6.019,
-      "type": "word"
-    },
-    {
-      "word": "ah!",
-      "start": 6.36,
-      "end": 7.019,
+      "word": "AAAH!",
+      "start": 6.333,
+      "end": 6.613,
       "type": "word"
     },
     {
       "word": "I'm",
-      "start": 7.079,
-      "end": 7.239,
+      "start": 6.813,
+      "end": 7.093,
       "type": "word"
     },
     {
       "word": "so",
-      "start": 7.359,
-      "end": 7.639,
+      "start": 7.199,
+      "end": 7.411,
       "type": "word"
     },
     {
-      "word": "sorry.",
-      "start": 7.679,
-      "end": 8.159,
+      "word": "sorry!",
+      "start": 7.504,
+      "end": 8.209,
       "type": "word"
     },
     {
       "word": "I'm",
-      "start": 8.34,
-      "end": 8.599,
-      "type": "word"
-    },
-    {
-      "word": "so,",
-      "start": 8.64,
-      "end": 9.0,
+      "start": 8.249,
+      "end": 8.369,
       "type": "word"
     },
     {
       "word": "so",
-      "start": 9.039,
-      "end": 9.259,
+      "start": 8.475,
+      "end": 8.687,
       "type": "word"
     },
     {
-      "word": "sorry.",
-      "start": 9.44,
-      "end": 10.119,
+      "word": "so",
+      "start": 8.82,
+      "end": 9.086,
+      "type": "word"
+    },
+    {
+      "word": "sorry!",
+      "start": 9.219,
+      "end": 10.004,
       "type": "word"
     },
     {
       "word": "I",
-      "start": 10.819,
-      "end": 10.88,
+      "start": 10.734,
+      "end": 10.738,
       "type": "word"
     },
     {
       "word": "shouldn't",
-      "start": 11.019,
-      "end": 11.299,
+      "start": 10.778,
+      "end": 11.138,
       "type": "word"
     },
     {
       "word": "have",
-      "start": 11.359,
-      "end": 11.539,
+      "start": 11.186,
+      "end": 11.378,
       "type": "word"
     },
     {
       "word": "come",
-      "start": 11.579,
-      "end": 11.739,
+      "start": 11.41,
+      "end": 11.538,
       "type": "word"
     },
     {
       "word": "into",
-      "start": 11.759,
-      "end": 11.98,
+      "start": 11.586,
+      "end": 11.778,
       "type": "word"
     },
     {
       "word": "your",
-      "start": 12.02,
-      "end": 12.199,
+      "start": 11.81,
+      "end": 11.938,
       "type": "word"
     },
     {
       "word": "house",
-      "start": 12.219,
-      "end": 12.5,
+      "start": 12.004,
+      "end": 12.334,
       "type": "word"
     },
     {
       "word": "without",
-      "start": 12.559,
-      "end": 12.899,
+      "start": 12.384,
+      "end": 12.734,
       "type": "word"
     },
     {
-      "word": "asking",
-      "start": 12.98,
-      "end": 13.739,
+      "word": "asking!",
+      "start": 12.825,
+      "end": 13.691,
       "type": "word"
     }
   ]

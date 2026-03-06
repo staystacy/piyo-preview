@@ -4,174 +4,174 @@
   "version": "standard",
   "page": "P08",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:37:51Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "The",
-      "start": 0.099,
-      "end": 0.319,
+      "start": 0.143,
+      "end": 0.155,
       "type": "word"
     },
     {
       "word": "hill",
-      "start": 0.359,
-      "end": 0.659,
+      "start": 0.235,
+      "end": 0.555,
       "type": "word"
     },
     {
       "word": "was",
-      "start": 0.74,
-      "end": 1.0,
+      "start": 0.635,
+      "end": 0.875,
       "type": "word"
     },
     {
       "word": "steep.",
-      "start": 1.039,
-      "end": 1.519,
+      "start": 0.955,
+      "end": 1.435,
       "type": "word"
     },
     {
       "word": "Tilly",
-      "start": 1.96,
-      "end": 2.4,
+      "start": 1.795,
+      "end": 2.235,
       "type": "word"
     },
     {
       "word": "was",
-      "start": 2.419,
-      "end": 2.779,
+      "start": 2.335,
+      "end": 2.635,
       "type": "word"
     },
     {
       "word": "so",
-      "start": 2.819,
-      "end": 3.099,
+      "start": 2.741,
+      "end": 2.953,
       "type": "word"
     },
     {
       "word": "tired,",
-      "start": 3.22,
-      "end": 4.019,
+      "start": 3.073,
+      "end": 3.753,
       "type": "word"
     },
     {
       "word": "sweat",
-      "start": 4.179,
-      "end": 4.74,
+      "start": 3.939,
+      "end": 4.469,
       "type": "word"
     },
     {
       "word": "dripping",
-      "start": 4.779,
-      "end": 5.239,
+      "start": 4.54,
+      "end": 5.108,
       "type": "word"
     },
     {
       "word": "from",
-      "start": 5.319,
-      "end": 5.5,
+      "start": 5.156,
+      "end": 5.348,
       "type": "word"
     },
     {
       "word": "her",
-      "start": 5.559,
-      "end": 5.719,
+      "start": 5.388,
+      "end": 5.508,
       "type": "word"
     },
     {
-      "word": "head,",
-      "start": 5.739,
-      "end": 6.38,
+      "word": "head.",
+      "start": 5.588,
+      "end": 6.208,
       "type": "word"
     },
     {
-      "word": "but",
-      "start": 6.42,
-      "end": 6.619,
+      "word": "But",
+      "start": 6.518,
+      "end": 6.527,
       "type": "word"
     },
     {
       "word": "she",
-      "start": 6.659,
-      "end": 6.999,
+      "start": 6.607,
+      "end": 6.847,
       "type": "word"
     },
     {
       "word": "didn't",
-      "start": 7.039,
-      "end": 7.439,
+      "start": 6.911,
+      "end": 7.407,
       "type": "word"
     },
     {
       "word": "stop.",
-      "start": 7.719,
-      "end": 8.159,
+      "start": 7.519,
+      "end": 8.247,
       "type": "word"
     },
     {
-      "word": "\"It's",
-      "start": 8.499,
-      "end": 8.8,
+      "word": "It's",
+      "start": 8.509,
+      "end": 8.673,
       "type": "word"
     },
     {
-      "word": "okay.",
-      "start": 8.859,
-      "end": 9.38,
+      "word": "okay…",
+      "start": 8.801,
+      "end": 9.553,
       "type": "word"
     },
     {
-      "word": "Nice",
-      "start": 9.8,
-      "end": 10.3,
+      "word": "nice",
+      "start": 9.665,
+      "end": 10.113,
       "type": "word"
     },
     {
       "word": "and",
-      "start": 10.34,
-      "end": 10.479,
+      "start": 10.193,
+      "end": 10.433,
       "type": "word"
     },
     {
-      "word": "slow,",
-      "start": 10.6,
-      "end": 11.38,
+      "word": "slow…",
+      "start": 10.529,
+      "end": 11.313,
       "type": "word"
     },
     {
       "word": "step",
-      "start": 11.559,
-      "end": 12.039,
+      "start": 11.425,
+      "end": 11.873,
       "type": "word"
     },
     {
       "word": "by",
-      "start": 12.119,
-      "end": 12.3,
+      "start": 11.979,
+      "end": 12.191,
       "type": "word"
     },
     {
-      "word": "step.",
-      "start": 12.399,
-      "end": 12.9,
+      "word": "step…",
+      "start": 12.303,
+      "end": 13.071,
       "type": "word"
     },
     {
-      "word": "Here",
-      "start": 13.3,
-      "end": 13.579,
+      "word": "here",
+      "start": 13.135,
+      "end": 13.391,
       "type": "word"
     },
     {
       "word": "I",
-      "start": 13.639,
-      "end": 13.719,
+      "start": 13.511,
+      "end": 13.631,
       "type": "word"
     },
     {
-      "word": "go.\"",
-      "start": 13.819,
-      "end": 14.299,
+      "word": "go.",
+      "start": 13.791,
+      "end": 14.271,
       "type": "word"
     }
   ]

@@ -4,78 +4,78 @@
   "version": "toddler",
   "page": "P05",
   "variant": "v2",
-  "generated_at": "2026-03-06T07:37:27Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "Tilly",
-      "start": 0.14,
-      "end": 0.519,
+      "start": 0.144,
+      "end": 0.39,
       "type": "word"
     },
     {
       "word": "walked",
-      "start": 0.56,
-      "end": 0.879,
+      "start": 0.435,
+      "end": 0.705,
       "type": "word"
     },
     {
       "word": "past",
-      "start": 0.919,
-      "end": 1.24,
+      "start": 0.785,
+      "end": 1.105,
       "type": "word"
     },
     {
       "word": "the",
-      "start": 1.279,
-      "end": 1.319,
+      "start": 1.125,
+      "end": 1.185,
       "type": "word"
     },
     {
       "word": "sleeping",
-      "start": 1.419,
-      "end": 1.779,
+      "start": 1.238,
+      "end": 1.662,
       "type": "word"
     },
     {
       "word": "hare.",
-      "start": 1.84,
-      "end": 2.179,
+      "start": 1.726,
+      "end": 2.062,
       "type": "word"
     },
     {
-      "word": "\"Nice",
-      "start": 2.839,
-      "end": 3.579,
+      "word": "Nice",
+      "start": 3.344,
+      "end": 3.4,
       "type": "word"
     },
     {
       "word": "and",
-      "start": 3.599,
-      "end": 3.719,
+      "start": 3.44,
+      "end": 3.56,
       "type": "word"
     },
     {
-      "word": "slow.",
-      "start": 3.879,
-      "end": 4.599,
+      "word": "slow…",
+      "start": 3.72,
+      "end": 5.0,
       "type": "word"
     },
     {
-      "word": "Here",
-      "start": 5.46,
-      "end": 5.779,
+      "word": "here",
+      "start": 5.128,
+      "end": 5.64,
       "type": "word"
     },
     {
       "word": "I",
-      "start": 5.859,
-      "end": 6.019,
+      "start": 5.76,
+      "end": 5.88,
       "type": "word"
     },
     {
-      "word": "go.\"",
-      "start": 6.059,
-      "end": 6.859,
+      "word": "go.",
+      "start": 6.093,
+      "end": 6.839,
       "type": "word"
     }
   ]

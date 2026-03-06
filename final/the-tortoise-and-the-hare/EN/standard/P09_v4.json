@@ -4,114 +4,120 @@
   "version": "standard",
   "page": "P09",
   "variant": "v4",
-  "generated_at": "2026-03-06T07:37:53Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "Hops'",
-      "start": 0.119,
-      "end": 0.599,
+      "start": 0.142,
+      "end": 0.624,
       "type": "word"
     },
     {
       "word": "eyes",
-      "start": 0.879,
-      "end": 1.299,
+      "start": 0.736,
+      "end": 1.184,
       "type": "word"
     },
     {
       "word": "popped",
-      "start": 1.379,
-      "end": 1.719,
+      "start": 1.241,
+      "end": 1.583,
       "type": "word"
     },
     {
-      "word": "open.",
-      "start": 1.799,
-      "end": 2.24,
+      "word": "open!",
+      "start": 1.679,
+      "end": 2.143,
       "type": "word"
     },
     {
-      "word": "\"Oh,",
-      "start": 3.119,
-      "end": 3.299,
+      "word": "Oh",
+      "start": 3.074,
+      "end": 3.076,
       "type": "word"
     },
     {
-      "word": "no.",
-      "start": 3.339,
-      "end": 3.98,
+      "word": "no!",
+      "start": 3.209,
+      "end": 3.755,
       "type": "word"
     },
     {
       "word": "How",
-      "start": 4.0,
-      "end": 4.199,
+      "start": 3.825,
+      "end": 4.035,
       "type": "word"
     },
     {
       "word": "long",
-      "start": 4.219,
-      "end": 4.44,
+      "start": 4.083,
+      "end": 4.275,
       "type": "word"
     },
     {
       "word": "was",
-      "start": 4.48,
-      "end": 4.619,
+      "start": 4.315,
+      "end": 4.435,
       "type": "word"
     },
     {
       "word": "I",
-      "start": 4.739,
-      "end": 4.759,
+      "start": 4.515,
+      "end": 4.595,
       "type": "word"
     },
     {
-      "word": "asleep?\"",
-      "start": 4.96,
-      "end": 5.94,
+      "word": "asleep?!",
+      "start": 4.709,
+      "end": 5.753,
       "type": "word"
     },
     {
       "word": "He",
-      "start": 5.98,
-      "end": 6.139,
+      "start": 5.937,
+      "end": 5.939,
       "type": "word"
     },
     {
       "word": "looked",
-      "start": 6.159,
-      "end": 6.359,
+      "start": 5.973,
+      "end": 6.177,
       "type": "word"
     },
     {
-      "word": "around.",
-      "start": 6.44,
-      "end": 7.299,
+      "word": "around",
+      "start": 6.245,
+      "end": 6.653,
       "type": "word"
     },
     {
-      "word": "The",
-      "start": 7.319,
-      "end": 7.459,
+      "word": "—",
+      "start": 6.693,
+      "end": 6.733,
+      "type": "word"
+    },
+    {
+      "word": "the",
+      "start": 7.152,
+      "end": 7.212,
       "type": "word"
     },
     {
       "word": "tortoise",
-      "start": 7.48,
-      "end": 7.919,
+      "start": 7.292,
+      "end": 7.772,
       "type": "word"
     },
     {
       "word": "was",
-      "start": 7.96,
-      "end": 8.199,
+      "start": 7.832,
+      "end": 8.012,
       "type": "word"
     },
     {
-      "word": "gone",
-      "start": 8.26,
-      "end": 8.859,
+      "word": "GONE!",
+      "start": 8.092,
+      "end": 8.812,
       "type": "word"
     }
   ]

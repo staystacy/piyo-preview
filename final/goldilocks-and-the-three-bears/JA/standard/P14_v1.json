@@ -4,726 +4,768 @@
   "version": "standard",
   "page": "P14",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:28:55Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "マ",
-      "start": 0.179,
-      "end": 0.359,
+      "start": 0.225,
+      "end": 0.23,
       "type": "word"
     },
     {
       "word": "マ",
-      "start": 0.359,
-      "end": 0.579,
+      "start": 0.23,
+      "end": 0.47,
       "type": "word"
     },
     {
-      "word": "ク",
-      "start": 0.579,
-      "end": 0.759,
+      "word": "く",
+      "start": 0.47,
+      "end": 0.63,
       "type": "word"
     },
     {
-      "word": "マ",
-      "start": 0.759,
-      "end": 0.98,
+      "word": "ま",
+      "start": 0.63,
+      "end": 0.79,
       "type": "word"
     },
     {
       "word": "が",
-      "start": 0.98,
-      "end": 1.099,
+      "start": 0.79,
+      "end": 0.95,
       "type": "word"
     },
     {
       "word": "に",
-      "start": 1.099,
-      "end": 1.259,
+      "start": 1.03,
+      "end": 1.11,
       "type": "word"
     },
     {
       "word": "っ",
-      "start": 1.259,
-      "end": 1.419,
+      "start": 1.11,
+      "end": 1.35,
       "type": "word"
     },
     {
       "word": "こ",
-      "start": 1.419,
-      "end": 1.539,
+      "start": 1.35,
+      "end": 1.43,
       "type": "word"
     },
     {
       "word": "り",
-      "start": 1.539,
-      "end": 1.72,
+      "start": 1.43,
+      "end": 1.59,
       "type": "word"
     },
     {
-      "word": "。「",
-      "start": 1.72,
-      "end": 2.919,
+      "word": "…",
+      "start": 1.59,
+      "end": 1.59,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 1.59,
+      "end": 1.59,
       "type": "word"
     },
     {
       "word": "い",
-      "start": 2.919,
-      "end": 3.099,
+      "start": 3.058,
+      "end": 3.082,
       "type": "word"
     },
     {
       "word": "い",
-      "start": 3.099,
-      "end": 3.24,
+      "start": 3.082,
+      "end": 3.106,
       "type": "word"
     },
     {
       "word": "の",
-      "start": 3.24,
-      "end": 3.4,
+      "start": 3.106,
+      "end": 3.266,
       "type": "word"
     },
     {
       "word": "よ",
-      "start": 3.4,
-      "end": 3.579,
+      "start": 3.266,
+      "end": 3.426,
       "type": "word"
     },
     {
       "word": "。",
-      "start": 3.579,
-      "end": 4.38,
+      "start": 3.426,
+      "end": 4.066,
       "type": "word"
     },
     {
-      "word": "今",
-      "start": 4.38,
-      "end": 4.5,
+      "word": "こ",
+      "start": 4.066,
+      "end": 4.186,
       "type": "word"
     },
     {
-      "word": "度",
-      "start": 4.5,
-      "end": 4.659,
+      "word": "ん",
+      "start": 4.186,
+      "end": 4.306,
+      "type": "word"
+    },
+    {
+      "word": "ど",
+      "start": 4.306,
+      "end": 4.466,
       "type": "word"
     },
     {
       "word": "は",
-      "start": 4.659,
-      "end": 5.119,
+      "start": 4.466,
+      "end": 4.946,
       "type": "word"
     },
     {
       "word": "ノ",
-      "start": 5.119,
-      "end": 5.239,
+      "start": 5.026,
+      "end": 5.106,
       "type": "word"
     },
     {
       "word": "ッ",
-      "start": 5.239,
-      "end": 5.399,
+      "start": 5.106,
+      "end": 5.266,
       "type": "word"
     },
     {
       "word": "ク",
-      "start": 5.4,
-      "end": 5.579,
+      "start": 5.266,
+      "end": 5.426,
       "type": "word"
     },
     {
       "word": "し",
-      "start": 5.579,
-      "end": 5.699,
+      "start": 5.426,
+      "end": 5.546,
       "type": "word"
     },
     {
       "word": "て",
-      "start": 5.699,
-      "end": 5.799,
+      "start": 5.546,
+      "end": 5.666,
       "type": "word"
     },
     {
       "word": "ね",
-      "start": 5.799,
-      "end": 5.979,
+      "start": 5.666,
+      "end": 5.826,
       "type": "word"
     },
     {
-      "word": "。」",
-      "start": 5.979,
-      "end": 7.279,
+      "word": "！",
+      "start": 5.826,
+      "end": 7.109,
       "type": "word"
     },
     {
       "word": "ベ",
-      "start": 7.279,
-      "end": 7.419,
+      "start": 7.22,
+      "end": 7.223,
       "type": "word"
     },
     {
       "word": "ア",
-      "start": 7.419,
-      "end": 7.579,
+      "start": 7.223,
+      "end": 7.383,
       "type": "word"
     },
     {
       "word": "く",
-      "start": 7.579,
-      "end": 7.699,
+      "start": 7.383,
+      "end": 7.543,
       "type": "word"
     },
     {
       "word": "ん",
-      "start": 7.699,
-      "end": 7.879,
+      "start": 7.543,
+      "end": 7.703,
       "type": "word"
     },
     {
       "word": "が",
-      "start": 7.879,
-      "end": 8.379,
+      "start": 7.703,
+      "end": 8.183,
       "type": "word"
     },
     {
       "word": "ゴ",
-      "start": 8.38,
-      "end": 8.5,
+      "start": 8.343,
+      "end": 8.383,
       "type": "word"
     },
     {
       "word": "ル",
-      "start": 8.5,
-      "end": 8.64,
+      "start": 8.383,
+      "end": 8.423,
       "type": "word"
     },
     {
       "word": "デ",
-      "start": 8.64,
-      "end": 8.719,
+      "start": 8.423,
+      "end": 8.583,
       "type": "word"
     },
     {
       "word": "ィ",
-      "start": 8.719,
-      "end": 8.88,
-      "type": "word"
-    },
-    {
-      "word": "ー",
-      "start": 8.88,
-      "end": 8.96,
+      "start": 8.583,
+      "end": 8.743,
       "type": "word"
     },
     {
       "word": "の",
-      "start": 8.96,
-      "end": 9.079,
+      "start": 8.743,
+      "end": 8.903,
       "type": "word"
     },
     {
       "word": "ス",
-      "start": 9.079,
-      "end": 9.239,
+      "start": 8.983,
+      "end": 9.063,
       "type": "word"
     },
     {
       "word": "カ",
-      "start": 9.239,
-      "end": 9.319,
+      "start": 9.063,
+      "end": 9.143,
       "type": "word"
     },
     {
       "word": "ー",
-      "start": 9.319,
-      "end": 9.539,
+      "start": 9.143,
+      "end": 9.343,
       "type": "word"
     },
     {
       "word": "ト",
-      "start": 9.539,
-      "end": 9.68,
+      "start": 9.343,
+      "end": 9.543,
       "type": "word"
     },
     {
       "word": "を",
-      "start": 9.68,
-      "end": 10.099,
+      "start": 9.543,
+      "end": 9.863,
       "type": "word"
     },
     {
-      "word": "引",
-      "start": 10.099,
-      "end": 10.299,
+      "word": "ひ",
+      "start": 9.943,
+      "end": 10.023,
       "type": "word"
     },
     {
       "word": "っ",
-      "start": 10.299,
-      "end": 10.38,
+      "start": 10.023,
+      "end": 10.143,
       "type": "word"
     },
     {
-      "word": "張",
-      "start": 10.38,
-      "end": 10.48,
+      "word": "ぱ",
+      "start": 10.143,
+      "end": 10.263,
       "type": "word"
     },
     {
       "word": "り",
-      "start": 10.48,
-      "end": 10.639,
+      "start": 10.263,
+      "end": 10.423,
       "type": "word"
     },
     {
       "word": "ま",
-      "start": 10.639,
-      "end": 10.779,
+      "start": 10.423,
+      "end": 10.543,
       "type": "word"
     },
     {
       "word": "す",
-      "start": 10.779,
-      "end": 10.979,
+      "start": 10.543,
+      "end": 10.663,
       "type": "word"
     },
     {
-      "word": "。「",
-      "start": 10.979,
-      "end": 11.98,
+      "word": "…",
+      "start": 10.663,
+      "end": 11.223,
       "type": "word"
     },
     {
-      "word": "ま",
-      "start": 11.98,
-      "end": 12.239,
-      "type": "word"
-    },
-    {
-      "word": "た",
-      "start": 12.239,
-      "end": 12.88,
-      "type": "word"
-    },
-    {
-      "word": "遊",
-      "start": 12.88,
-      "end": 12.98,
-      "type": "word"
-    },
-    {
-      "word": "び",
-      "start": 12.98,
-      "end": 13.099,
-      "type": "word"
-    },
-    {
-      "word": "に",
-      "start": 13.099,
-      "end": 13.199,
-      "type": "word"
-    },
-    {
-      "word": "来",
-      "start": 13.199,
-      "end": 13.359,
-      "type": "word"
-    },
-    {
-      "word": "て",
-      "start": 13.359,
-      "end": 13.46,
-      "type": "word"
-    },
-    {
-      "word": "ね",
-      "start": 13.46,
-      "end": 13.64,
-      "type": "word"
-    },
-    {
-      "word": "。」",
-      "start": 13.64,
-      "end": 15.039,
-      "type": "word"
-    },
-    {
-      "word": "ゴ",
-      "start": 15.039,
-      "end": 15.18,
-      "type": "word"
-    },
-    {
-      "word": "ル",
-      "start": 15.18,
-      "end": 15.299,
-      "type": "word"
-    },
-    {
-      "word": "デ",
-      "start": 15.299,
-      "end": 15.339,
-      "type": "word"
-    },
-    {
-      "word": "ィ",
-      "start": 15.339,
-      "end": 15.519,
-      "type": "word"
-    },
-    {
-      "word": "ー",
-      "start": 15.519,
-      "end": 15.64,
-      "type": "word"
-    },
-    {
-      "word": "は",
-      "start": 15.64,
-      "end": 16.26,
-      "type": "word"
-    },
-    {
-      "word": "手",
-      "start": 16.26,
-      "end": 16.579,
-      "type": "word"
-    },
-    {
-      "word": "を",
-      "start": 16.579,
-      "end": 16.7,
-      "type": "word"
-    },
-    {
-      "word": "振",
-      "start": 16.7,
-      "end": 16.779,
-      "type": "word"
-    },
-    {
-      "word": "り",
-      "start": 16.779,
-      "end": 16.939,
+      "word": "…",
+      "start": 11.223,
+      "end": 11.796,
       "type": "word"
     },
     {
       "word": "ま",
-      "start": 16.94,
-      "end": 17.04,
-      "type": "word"
-    },
-    {
-      "word": "し",
-      "start": 17.04,
-      "end": 17.179,
+      "start": 12.413,
+      "end": 12.453,
       "type": "word"
     },
     {
       "word": "た",
-      "start": 17.18,
-      "end": 18.54,
+      "start": 12.453,
+      "end": 12.493,
       "type": "word"
     },
     {
-      "word": "。「",
-      "start": 18.54,
-      "end": 18.659,
-      "type": "word"
-    },
-    {
-      "word": "う",
-      "start": 18.659,
-      "end": 18.76,
-      "type": "word"
-    },
-    {
-      "word": "ん",
-      "start": 18.76,
-      "end": 18.899,
-      "type": "word"
-    },
-    {
-      "word": "。",
-      "start": 18.899,
-      "end": 19.679,
-      "type": "word"
-    },
-    {
-      "word": "今",
-      "start": 19.68,
-      "end": 19.8,
-      "type": "word"
-    },
-    {
-      "word": "度",
-      "start": 19.8,
-      "end": 19.959,
-      "type": "word"
-    },
-    {
-      "word": "は",
-      "start": 19.959,
-      "end": 20.519,
-      "type": "word"
-    },
-    {
-      "word": "美",
-      "start": 20.52,
-      "end": 20.76,
-      "type": "word"
-    },
-    {
-      "word": "味",
-      "start": 20.76,
-      "end": 20.84,
-      "type": "word"
-    },
-    {
-      "word": "し",
-      "start": 20.84,
-      "end": 20.96,
-      "type": "word"
-    },
-    {
-      "word": "い",
-      "start": 20.96,
-      "end": 21.139,
-      "type": "word"
-    },
-    {
-      "word": "お",
-      "start": 21.139,
-      "end": 21.319,
-      "type": "word"
-    },
-    {
-      "word": "か",
-      "start": 21.319,
-      "end": 21.459,
-      "type": "word"
-    },
-    {
-      "word": "ゆ",
-      "start": 21.459,
-      "end": 21.899,
-      "type": "word"
-    },
-    {
-      "word": "持",
-      "start": 21.899,
-      "end": 22.02,
-      "type": "word"
-    },
-    {
-      "word": "っ",
-      "start": 22.02,
-      "end": 22.12,
-      "type": "word"
-    },
-    {
-      "word": "て",
-      "start": 22.12,
-      "end": 22.199,
-      "type": "word"
-    },
-    {
-      "word": "く",
-      "start": 22.199,
-      "end": 22.339,
-      "type": "word"
-    },
-    {
-      "word": "る",
-      "start": 22.34,
-      "end": 22.44,
-      "type": "word"
-    },
-    {
-      "word": "ね",
-      "start": 22.44,
-      "end": 22.599,
-      "type": "word"
-    },
-    {
-      "word": "。」",
-      "start": 22.6,
-      "end": 24.039,
+      "word": "あ",
+      "start": 12.573,
+      "end": 12.653,
       "type": "word"
     },
     {
       "word": "そ",
-      "start": 24.039,
-      "end": 24.159,
+      "start": 12.653,
+      "end": 12.733,
       "type": "word"
     },
     {
-      "word": "れ",
-      "start": 24.159,
-      "end": 24.319,
-      "type": "word"
-    },
-    {
-      "word": "か",
-      "start": 24.319,
-      "end": 24.44,
-      "type": "word"
-    },
-    {
-      "word": "ら",
-      "start": 24.44,
-      "end": 24.699,
-      "type": "word"
-    },
-    {
-      "word": "ず",
-      "start": 24.699,
-      "end": 24.979,
-      "type": "word"
-    },
-    {
-      "word": "っ",
-      "start": 24.979,
-      "end": 25.119,
-      "type": "word"
-    },
-    {
-      "word": "と",
-      "start": 25.119,
-      "end": 25.819,
-      "type": "word"
-    },
-    {
-      "word": "ゴ",
-      "start": 25.819,
-      "end": 25.94,
-      "type": "word"
-    },
-    {
-      "word": "ル",
-      "start": 25.94,
-      "end": 26.079,
-      "type": "word"
-    },
-    {
-      "word": "デ",
-      "start": 26.079,
-      "end": 26.12,
-      "type": "word"
-    },
-    {
-      "word": "ィ",
-      "start": 26.12,
-      "end": 26.319,
-      "type": "word"
-    },
-    {
-      "word": "ー",
-      "start": 26.319,
-      "end": 26.42,
-      "type": "word"
-    },
-    {
-      "word": "と",
-      "start": 26.42,
-      "end": 26.92,
-      "type": "word"
-    },
-    {
-      "word": "三",
-      "start": 26.92,
-      "end": 27.0,
-      "type": "word"
-    },
-    {
-      "word": "匹",
-      "start": 27.0,
-      "end": 27.319,
-      "type": "word"
-    },
-    {
-      "word": "の",
-      "start": 27.319,
-      "end": 27.379,
-      "type": "word"
-    },
-    {
-      "word": "ク",
-      "start": 27.379,
-      "end": 27.5,
-      "type": "word"
-    },
-    {
-      "word": "マ",
-      "start": 27.5,
-      "end": 27.719,
-      "type": "word"
-    },
-    {
-      "word": "は",
-      "start": 27.719,
-      "end": 28.5,
-      "type": "word"
-    },
-    {
-      "word": "仲",
-      "start": 28.5,
-      "end": 28.68,
-      "type": "word"
-    },
-    {
-      "word": "良",
-      "start": 28.68,
-      "end": 28.78,
-      "type": "word"
-    },
-    {
-      "word": "し",
-      "start": 28.78,
-      "end": 29.099,
+      "word": "び",
+      "start": 12.733,
+      "end": 12.893,
       "type": "word"
     },
     {
       "word": "に",
-      "start": 29.099,
-      "end": 29.179,
+      "start": 12.893,
+      "end": 13.053,
       "type": "word"
     },
     {
-      "word": "な",
-      "start": 29.179,
-      "end": 29.279,
+      "word": "き",
+      "start": 13.053,
+      "end": 13.133,
+      "type": "word"
+    },
+    {
+      "word": "て",
+      "start": 13.133,
+      "end": 13.293,
+      "type": "word"
+    },
+    {
+      "word": "ね",
+      "start": 13.293,
+      "end": 13.453,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 13.453,
+      "end": 13.453,
+      "type": "word"
+    },
+    {
+      "word": "ゴ",
+      "start": 14.868,
+      "end": 14.948,
+      "type": "word"
+    },
+    {
+      "word": "ル",
+      "start": 14.948,
+      "end": 15.028,
+      "type": "word"
+    },
+    {
+      "word": "デ",
+      "start": 15.028,
+      "end": 15.188,
+      "type": "word"
+    },
+    {
+      "word": "ィ",
+      "start": 15.188,
+      "end": 15.348,
+      "type": "word"
+    },
+    {
+      "word": "は",
+      "start": 15.348,
+      "end": 15.908,
+      "type": "word"
+    },
+    {
+      "word": "て",
+      "start": 16.028,
+      "end": 16.148,
+      "type": "word"
+    },
+    {
+      "word": "を",
+      "start": 16.148,
+      "end": 16.388,
+      "type": "word"
+    },
+    {
+      "word": "ふ",
+      "start": 16.468,
+      "end": 16.548,
       "type": "word"
     },
     {
       "word": "り",
-      "start": 29.279,
-      "end": 29.399,
+      "start": 16.548,
+      "end": 16.708,
       "type": "word"
     },
     {
       "word": "ま",
-      "start": 29.399,
-      "end": 29.52,
+      "start": 16.708,
+      "end": 16.868,
       "type": "word"
     },
     {
       "word": "し",
-      "start": 29.52,
-      "end": 29.619,
+      "start": 16.868,
+      "end": 17.028,
       "type": "word"
     },
     {
       "word": "た",
-      "start": 29.619,
-      "end": 29.659,
+      "start": 17.028,
+      "end": 17.188,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 17.188,
+      "end": 17.788,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 17.788,
+      "end": 19.348,
+      "type": "word"
+    },
+    {
+      "word": "う",
+      "start": 19.478,
+      "end": 19.495,
+      "type": "word"
+    },
+    {
+      "word": "ん",
+      "start": 19.495,
+      "end": 19.512,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 19.512,
+      "end": 19.546,
+      "type": "word"
+    },
+    {
+      "word": "こ",
+      "start": 19.546,
+      "end": 19.563,
+      "type": "word"
+    },
+    {
+      "word": "ん",
+      "start": 19.563,
+      "end": 19.58,
+      "type": "word"
+    },
+    {
+      "word": "ど",
+      "start": 19.58,
+      "end": 19.66,
+      "type": "word"
+    },
+    {
+      "word": "は",
+      "start": 19.66,
+      "end": 20.22,
+      "type": "word"
+    },
+    {
+      "word": "お",
+      "start": 20.3,
+      "end": 20.38,
+      "type": "word"
+    },
+    {
+      "word": "い",
+      "start": 20.38,
+      "end": 20.62,
+      "type": "word"
+    },
+    {
+      "word": "し",
+      "start": 20.62,
+      "end": 20.78,
+      "type": "word"
+    },
+    {
+      "word": "い",
+      "start": 20.78,
+      "end": 20.94,
+      "type": "word"
+    },
+    {
+      "word": "お",
+      "start": 20.98,
+      "end": 21.02,
+      "type": "word"
+    },
+    {
+      "word": "か",
+      "start": 21.02,
+      "end": 21.26,
+      "type": "word"
+    },
+    {
+      "word": "ゆ",
+      "start": 21.26,
+      "end": 21.5,
+      "type": "word"
+    },
+    {
+      "word": "も",
+      "start": 21.62,
+      "end": 21.74,
+      "type": "word"
+    },
+    {
+      "word": "っ",
+      "start": 21.74,
+      "end": 21.86,
+      "type": "word"
+    },
+    {
+      "word": "て",
+      "start": 21.86,
+      "end": 21.98,
+      "type": "word"
+    },
+    {
+      "word": "く",
+      "start": 21.98,
+      "end": 22.1,
+      "type": "word"
+    },
+    {
+      "word": "る",
+      "start": 22.1,
+      "end": 22.22,
+      "type": "word"
+    },
+    {
+      "word": "ね",
+      "start": 22.22,
+      "end": 22.38,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 22.38,
+      "end": 23.76,
+      "type": "word"
+    },
+    {
+      "word": "そ",
+      "start": 24.038,
+      "end": 24.044,
+      "type": "word"
+    },
+    {
+      "word": "れ",
+      "start": 24.044,
+      "end": 24.05,
+      "type": "word"
+    },
+    {
+      "word": "か",
+      "start": 24.05,
+      "end": 24.21,
+      "type": "word"
+    },
+    {
+      "word": "ら",
+      "start": 24.21,
+      "end": 24.37,
+      "type": "word"
+    },
+    {
+      "word": "ず",
+      "start": 24.37,
+      "end": 24.61,
+      "type": "word"
+    },
+    {
+      "word": "っ",
+      "start": 24.61,
+      "end": 24.81,
+      "type": "word"
+    },
+    {
+      "word": "と",
+      "start": 24.81,
+      "end": 25.01,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 25.01,
+      "end": 25.29,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 25.29,
+      "end": 25.57,
+      "type": "word"
+    },
+    {
+      "word": "ゴ",
+      "start": 25.73,
+      "end": 25.77,
+      "type": "word"
+    },
+    {
+      "word": "ル",
+      "start": 25.77,
+      "end": 25.81,
+      "type": "word"
+    },
+    {
+      "word": "デ",
+      "start": 25.81,
+      "end": 25.97,
+      "type": "word"
+    },
+    {
+      "word": "ィ",
+      "start": 25.97,
+      "end": 26.13,
+      "type": "word"
+    },
+    {
+      "word": "と",
+      "start": 26.13,
+      "end": 26.45,
+      "type": "word"
+    },
+    {
+      "word": "3",
+      "start": 26.53,
+      "end": 26.77,
+      "type": "word"
+    },
+    {
+      "word": "び",
+      "start": 26.77,
+      "end": 26.85,
+      "type": "word"
+    },
+    {
+      "word": "き",
+      "start": 26.85,
+      "end": 27.09,
+      "type": "word"
+    },
+    {
+      "word": "の",
+      "start": 27.09,
+      "end": 27.17,
+      "type": "word"
+    },
+    {
+      "word": "く",
+      "start": 27.17,
+      "end": 27.25,
+      "type": "word"
+    },
+    {
+      "word": "ま",
+      "start": 27.25,
+      "end": 27.41,
+      "type": "word"
+    },
+    {
+      "word": "は",
+      "start": 27.41,
+      "end": 28.05,
+      "type": "word"
+    },
+    {
+      "word": "な",
+      "start": 28.13,
+      "end": 28.21,
+      "type": "word"
+    },
+    {
+      "word": "か",
+      "start": 28.21,
+      "end": 28.37,
+      "type": "word"
+    },
+    {
+      "word": "よ",
+      "start": 28.37,
+      "end": 28.53,
+      "type": "word"
+    },
+    {
+      "word": "し",
+      "start": 28.53,
+      "end": 28.69,
+      "type": "word"
+    },
+    {
+      "word": "に",
+      "start": 28.69,
+      "end": 28.93,
+      "type": "word"
+    },
+    {
+      "word": "な",
+      "start": 28.97,
+      "end": 29.01,
+      "type": "word"
+    },
+    {
+      "word": "り",
+      "start": 29.01,
+      "end": 29.17,
+      "type": "word"
+    },
+    {
+      "word": "ま",
+      "start": 29.17,
+      "end": 29.276,
+      "type": "word"
+    },
+    {
+      "word": "し",
+      "start": 29.276,
+      "end": 29.382,
+      "type": "word"
+    },
+    {
+      "word": "た",
+      "start": 29.382,
+      "end": 29.488,
       "type": "word"
     },
     {
       "word": "。",
-      "start": 29.659,
-      "end": 29.659,
+      "start": 29.488,
+      "end": 29.568,
       "type": "word"
     }
   ]

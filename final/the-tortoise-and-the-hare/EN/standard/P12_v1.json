@@ -4,210 +4,216 @@
   "version": "standard",
   "page": "P12",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:38:00Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "Hops",
-      "start": 0.079,
-      "end": 0.459,
+      "start": 0.064,
+      "end": 0.309,
       "type": "word"
     },
     {
-      "word": "arrived",
-      "start": 0.5,
-      "end": 1.059,
+      "word": "arrived,",
+      "start": 0.389,
+      "end": 1.189,
       "type": "word"
     },
     {
       "word": "panting",
-      "start": 1.359,
-      "end": 1.979,
+      "start": 1.477,
+      "end": 1.909,
       "type": "word"
     },
     {
       "word": "and",
-      "start": 2.019,
-      "end": 2.259,
+      "start": 1.929,
+      "end": 1.989,
       "type": "word"
     },
     {
       "word": "puffing.",
-      "start": 2.339,
-      "end": 2.839,
+      "start": 2.101,
+      "end": 3.028,
       "type": "word"
     },
     {
-      "word": "\"You",
-      "start": 3.139,
-      "end": 3.419,
+      "word": "You",
+      "start": 3.232,
+      "end": 3.244,
       "type": "word"
     },
     {
       "word": "were",
-      "start": 3.439,
-      "end": 3.619,
+      "start": 3.292,
+      "end": 3.484,
       "type": "word"
     },
     {
-      "word": "amazing,\"",
-      "start": 3.679,
-      "end": 5.179,
+      "word": "amazing!",
+      "start": 3.654,
+      "end": 4.883,
       "type": "word"
     },
     {
       "word": "he",
-      "start": 5.279,
-      "end": 5.459,
+      "start": 5.143,
+      "end": 5.303,
       "type": "word"
     },
     {
       "word": "said.",
-      "start": 5.519,
-      "end": 5.819,
+      "start": 5.367,
+      "end": 5.863,
       "type": "word"
     },
     {
-      "word": "\"I'll",
-      "start": 6.079,
-      "end": 6.419,
+      "word": "I'll",
+      "start": 6.013,
+      "end": 6.182,
       "type": "word"
     },
     {
       "word": "never",
-      "start": 6.46,
-      "end": 6.819,
+      "start": 6.248,
+      "end": 6.578,
       "type": "word"
     },
     {
       "word": "be",
-      "start": 6.859,
-      "end": 7.059,
+      "start": 6.658,
+      "end": 6.818,
       "type": "word"
     },
     {
       "word": "lazy",
-      "start": 7.119,
-      "end": 7.559,
+      "start": 6.93,
+      "end": 7.378,
       "type": "word"
     },
     {
-      "word": "again.\"",
-      "start": 7.739,
-      "end": 8.659,
+      "word": "again.",
+      "start": 7.524,
+      "end": 8.494,
       "type": "word"
     },
     {
       "word": "Tilly",
-      "start": 8.8,
-      "end": 9.14,
+      "start": 8.631,
+      "end": 8.953,
       "type": "word"
     },
     {
-      "word": "smiled.",
-      "start": 9.18,
-      "end": 9.739,
+      "word": "smiled…",
+      "start": 9.033,
+      "end": 9.513,
       "type": "word"
     },
     {
-      "word": "\"Wanna",
-      "start": 10.139,
-      "end": 10.399,
+      "word": "Want",
+      "start": 10.041,
+      "end": 10.073,
+      "type": "word"
+    },
+    {
+      "word": "to",
+      "start": 10.126,
+      "end": 10.232,
       "type": "word"
     },
     {
       "word": "run",
-      "start": 10.44,
-      "end": 10.619,
+      "start": 10.272,
+      "end": 10.392,
       "type": "word"
     },
     {
       "word": "together",
-      "start": 10.639,
-      "end": 10.96,
+      "start": 10.436,
+      "end": 10.788,
       "type": "word"
     },
     {
       "word": "next",
-      "start": 11.039,
-      "end": 11.3,
+      "start": 10.836,
+      "end": 11.028,
       "type": "word"
     },
     {
-      "word": "time?\"",
-      "start": 11.34,
-      "end": 11.68,
+      "word": "time?",
+      "start": 11.108,
+      "end": 11.788,
       "type": "word"
     },
     {
       "word": "And",
-      "start": 12.099,
-      "end": 12.259,
+      "start": 11.969,
+      "end": 11.972,
       "type": "word"
     },
     {
       "word": "from",
-      "start": 12.3,
-      "end": 12.5,
+      "start": 12.036,
+      "end": 12.292,
       "type": "word"
     },
     {
       "word": "that",
-      "start": 12.519,
-      "end": 12.739,
+      "start": 12.324,
+      "end": 12.452,
       "type": "word"
     },
     {
       "word": "day",
-      "start": 12.8,
-      "end": 12.979,
+      "start": 12.532,
+      "end": 12.772,
       "type": "word"
     },
     {
-      "word": "on,",
-      "start": 13.099,
-      "end": 13.619,
+      "word": "on…",
+      "start": 12.905,
+      "end": 13.411,
       "type": "word"
     },
     {
       "word": "they",
-      "start": 13.679,
-      "end": 13.84,
+      "start": 13.443,
+      "end": 13.571,
       "type": "word"
     },
     {
       "word": "became",
-      "start": 13.88,
-      "end": 14.479,
+      "start": 13.651,
+      "end": 14.131,
       "type": "word"
     },
     {
       "word": "the",
-      "start": 14.56,
-      "end": 14.699,
+      "start": 14.191,
+      "end": 14.371,
       "type": "word"
     },
     {
       "word": "very",
-      "start": 14.779,
-      "end": 15.079,
+      "start": 14.467,
+      "end": 14.851,
       "type": "word"
     },
     {
       "word": "best",
-      "start": 15.259,
-      "end": 15.659,
+      "start": 14.963,
+      "end": 15.411,
       "type": "word"
     },
     {
       "word": "of",
-      "start": 15.739,
-      "end": 15.88,
+      "start": 15.491,
+      "end": 15.651,
       "type": "word"
     },
     {
       "word": "friends.",
-      "start": 15.96,
-      "end": 16.459,
+      "start": 15.731,
+      "end": 16.371,
       "type": "word"
     }
   ]

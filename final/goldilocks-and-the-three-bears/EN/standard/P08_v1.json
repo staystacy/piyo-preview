@@ -4,132 +4,132 @@
   "version": "standard",
   "page": "P08",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:26:59Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "She",
-      "start": 0.179,
-      "end": 0.379,
+      "start": 0.284,
+      "end": 0.299,
       "type": "word"
     },
     {
       "word": "sat",
-      "start": 0.539,
-      "end": 0.839,
+      "start": 0.419,
+      "end": 0.779,
       "type": "word"
     },
     {
       "word": "in",
-      "start": 0.939,
-      "end": 1.059,
+      "start": 0.832,
+      "end": 0.938,
       "type": "word"
     },
     {
       "word": "the",
-      "start": 1.099,
-      "end": 1.159,
+      "start": 0.978,
+      "end": 1.098,
       "type": "word"
     },
     {
       "word": "tiny",
-      "start": 1.279,
-      "end": 1.639,
+      "start": 1.178,
+      "end": 1.498,
       "type": "word"
     },
     {
       "word": "chair.",
-      "start": 1.74,
-      "end": 2.159,
+      "start": 1.578,
+      "end": 2.058,
       "type": "word"
     },
     {
-      "word": "\"This",
-      "start": 2.619,
-      "end": 2.94,
+      "word": "This",
+      "start": 2.738,
+      "end": 2.762,
       "type": "word"
     },
     {
       "word": "one",
-      "start": 3.039,
-      "end": 3.319,
+      "start": 2.842,
+      "end": 3.082,
       "type": "word"
     },
     {
-      "word": "is",
-      "start": 3.399,
-      "end": 3.819,
+      "word": "is…",
+      "start": 3.295,
+      "end": 3.961,
       "type": "word"
     },
     {
       "word": "just",
-      "start": 4.38,
-      "end": 4.739,
+      "start": 4.553,
+      "end": 4.593,
       "type": "word"
     },
     {
-      "word": "right.\"",
-      "start": 4.859,
-      "end": 5.739,
+      "word": "right!",
+      "start": 4.686,
+      "end": 5.511,
       "type": "word"
     },
     {
       "word": "But",
-      "start": 5.759,
-      "end": 5.919,
+      "start": 5.77,
+      "end": 5.776,
       "type": "word"
     },
     {
       "word": "she",
-      "start": 6.019,
-      "end": 6.239,
+      "start": 5.876,
+      "end": 6.176,
       "type": "word"
     },
     {
       "word": "wiggled",
-      "start": 6.379,
-      "end": 6.979,
+      "start": 6.216,
+      "end": 6.814,
       "type": "word"
     },
     {
       "word": "and",
-      "start": 7.019,
-      "end": 7.179,
+      "start": 6.854,
+      "end": 6.974,
       "type": "word"
     },
     {
       "word": "wobbled",
-      "start": 7.379,
-      "end": 8.139,
+      "start": 7.134,
+      "end": 7.93,
       "type": "word"
     },
     {
-      "word": "and",
-      "start": 8.18,
-      "end": 8.34,
+      "word": "and—",
+      "start": 7.99,
+      "end": 8.497,
       "type": "word"
     },
     {
-      "word": "crack,",
-      "start": 8.72,
-      "end": 9.379,
+      "word": "CRACK!",
+      "start": 8.702,
+      "end": 9.148,
       "type": "word"
     },
     {
-      "word": "the",
-      "start": 9.979,
-      "end": 10.14,
+      "word": "The",
+      "start": 9.725,
+      "end": 9.824,
       "type": "word"
     },
     {
       "word": "chair",
-      "start": 10.239,
-      "end": 10.559,
+      "start": 9.917,
+      "end": 10.382,
       "type": "word"
     },
     {
-      "word": "broke",
-      "start": 10.719,
-      "end": 11.42,
+      "word": "broke!",
+      "start": 10.502,
+      "end": 11.342,
       "type": "word"
     }
   ]

@@ -4,264 +4,276 @@
   "version": "standard",
   "page": "P01",
   "variant": "v2",
-  "generated_at": "2026-03-06T07:38:17Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "跳",
-      "start": 0.259,
-      "end": 0.359,
+      "start": 0.212,
+      "end": 0.372,
       "type": "word"
     },
     {
       "word": "跳",
-      "start": 0.359,
-      "end": 0.62,
+      "start": 0.372,
+      "end": 0.532,
       "type": "word"
     },
     {
       "word": "兔",
-      "start": 0.62,
-      "end": 1.299,
+      "start": 0.532,
+      "end": 1.052,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 1.052,
+      "end": 1.092,
       "type": "word"
     },
     {
       "word": "跑",
-      "start": 1.299,
-      "end": 1.519,
+      "start": 1.092,
+      "end": 1.332,
       "type": "word"
     },
     {
       "word": "得",
-      "start": 1.519,
-      "end": 1.839,
+      "start": 1.332,
+      "end": 1.572,
       "type": "word"
     },
     {
       "word": "好",
-      "start": 1.839,
-      "end": 2.219,
+      "start": 1.572,
+      "end": 1.892,
       "type": "word"
     },
     {
       "word": "快",
-      "start": 2.22,
-      "end": 2.5,
+      "start": 1.892,
+      "end": 2.292,
       "type": "word"
     },
     {
       "word": "好",
-      "start": 2.5,
-      "end": 2.88,
+      "start": 2.292,
+      "end": 2.852,
       "type": "word"
     },
     {
       "word": "快",
-      "start": 2.88,
-      "end": 2.999,
+      "start": 2.852,
+      "end": 2.852,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 2.999,
-      "end": 3.839,
+      "word": "，",
+      "start": 2.852,
+      "end": 3.198,
       "type": "word"
     },
     {
       "word": "他",
-      "start": 3.839,
-      "end": 4.219,
+      "start": 3.717,
+      "end": 3.89,
       "type": "word"
     },
     {
       "word": "最",
-      "start": 4.219,
-      "end": 4.519,
+      "start": 3.89,
+      "end": 4.21,
       "type": "word"
     },
     {
       "word": "喜",
-      "start": 4.519,
-      "end": 4.779,
+      "start": 4.21,
+      "end": 4.45,
       "type": "word"
     },
     {
-      "word": "欢",
-      "start": 4.779,
-      "end": 5.159,
+      "word": "歡",
+      "start": 4.45,
+      "end": 5.01,
       "type": "word"
     },
     {
       "word": "笑",
-      "start": 5.159,
-      "end": 5.579,
+      "start": 5.01,
+      "end": 5.33,
       "type": "word"
     },
     {
       "word": "慢",
-      "start": 5.579,
-      "end": 5.96,
+      "start": 5.33,
+      "end": 5.81,
       "type": "word"
     },
     {
       "word": "慢",
-      "start": 5.96,
-      "end": 6.159,
+      "start": 5.81,
+      "end": 5.97,
       "type": "word"
     },
     {
-      "word": "龟",
-      "start": 6.159,
-      "end": 6.239,
+      "word": "龜",
+      "start": 5.97,
+      "end": 6.81,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 6.239,
-      "end": 7.799,
+      "word": "，",
+      "start": 6.81,
+      "end": 7.53,
       "type": "word"
     },
     {
       "word": "你",
-      "start": 7.799,
-      "end": 8.079,
+      "start": 7.78,
+      "end": 7.789,
       "type": "word"
     },
     {
       "word": "走",
-      "start": 8.079,
-      "end": 8.319,
+      "start": 7.789,
+      "end": 8.029,
       "type": "word"
     },
     {
       "word": "路",
-      "start": 8.319,
-      "end": 8.679,
+      "start": 8.029,
+      "end": 8.349,
       "type": "word"
     },
     {
       "word": "好",
-      "start": 8.679,
-      "end": 9.179,
+      "start": 8.349,
+      "end": 8.749,
       "type": "word"
     },
     {
       "word": "慢",
-      "start": 9.179,
-      "end": 9.479,
+      "start": 8.749,
+      "end": 9.149,
       "type": "word"
     },
     {
-      "word": "哦",
-      "start": 9.479,
-      "end": 9.659,
+      "word": "喔",
+      "start": 9.149,
+      "end": 9.469,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 9.469,
+      "end": 9.789,
+      "type": "word"
+    },
+    {
+      "word": "哈",
+      "start": 9.789,
+      "end": 10.029,
+      "type": "word"
+    },
+    {
+      "word": "哈",
+      "start": 10.029,
+      "end": 10.109,
+      "type": "word"
+    },
+    {
+      "word": "哈",
+      "start": 10.109,
+      "end": 10.349,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 10.349,
+      "end": 11.669,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 11.849,
+      "end": 12.009,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 12.009,
+      "end": 12.169,
+      "type": "word"
+    },
+    {
+      "word": "龜",
+      "start": 12.169,
+      "end": 12.809,
       "type": "word"
     },
     {
       "word": "，",
-      "start": 9.659,
-      "end": 9.979,
+      "start": 12.809,
+      "end": 13.129,
       "type": "word"
     },
     {
-      "word": "哈",
-      "start": 9.979,
-      "end": 10.179,
-      "type": "word"
-    },
-    {
-      "word": "哈",
-      "start": 10.179,
-      "end": 10.399,
-      "type": "word"
-    },
-    {
-      "word": "哈",
-      "start": 10.399,
-      "end": 10.5,
-      "type": "word"
-    },
-    {
-      "word": "。",
-      "start": 10.5,
-      "end": 11.979,
-      "type": "word"
-    },
-    {
-      "word": "慢",
-      "start": 11.979,
-      "end": 12.319,
-      "type": "word"
-    },
-    {
-      "word": "慢",
-      "start": 12.319,
-      "end": 12.559,
-      "type": "word"
-    },
-    {
-      "word": "龟",
-      "start": 12.559,
-      "end": 13.519,
-      "type": "word"
-    },
-    {
-      "word": "说",
-      "start": 13.519,
-      "end": 13.679,
+      "word": "說",
+      "start": 13.129,
+      "end": 13.449,
       "type": "word"
     },
     {
       "word": "，",
-      "start": 13.679,
-      "end": 14.639,
+      "start": 13.449,
+      "end": 14.329,
       "type": "word"
     },
     {
       "word": "那",
-      "start": 14.639,
-      "end": 14.779,
+      "start": 14.617,
+      "end": 14.634,
       "type": "word"
     },
     {
       "word": "我",
-      "start": 14.779,
-      "end": 15.039,
+      "start": 14.634,
+      "end": 14.834,
       "type": "word"
     },
     {
-      "word": "们",
-      "start": 15.039,
-      "end": 15.279,
+      "word": "們",
+      "start": 14.834,
+      "end": 15.034,
       "type": "word"
     },
     {
-      "word": "来",
-      "start": 15.279,
-      "end": 15.619,
+      "word": "來",
+      "start": 15.034,
+      "end": 15.274,
       "type": "word"
     },
     {
       "word": "比",
-      "start": 15.619,
-      "end": 15.819,
+      "start": 15.274,
+      "end": 15.514,
       "type": "word"
     },
     {
-      "word": "赛",
-      "start": 15.819,
-      "end": 16.079,
+      "word": "賽",
+      "start": 15.514,
+      "end": 15.754,
       "type": "word"
     },
     {
       "word": "吧",
-      "start": 16.079,
-      "end": 16.219,
+      "start": 15.754,
+      "end": 16.074,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 16.219,
-      "end": 16.299,
+      "word": "！",
+      "start": 16.074,
+      "end": 16.234,
       "type": "word"
     }
   ]

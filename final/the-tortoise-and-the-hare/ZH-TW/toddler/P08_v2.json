@@ -4,114 +4,132 @@
   "version": "toddler",
   "page": "P08",
   "variant": "v2",
-  "generated_at": "2026-03-06T07:38:15Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "跳",
-      "start": 0.259,
-      "end": 0.399,
+      "start": 0.309,
+      "end": 0.429,
       "type": "word"
     },
     {
       "word": "跳",
-      "start": 0.399,
-      "end": 0.699,
+      "start": 0.429,
+      "end": 0.549,
       "type": "word"
     },
     {
       "word": "兔",
-      "start": 0.699,
-      "end": 1.059,
+      "start": 0.549,
+      "end": 1.309,
       "type": "word"
     },
     {
-      "word": "说",
-      "start": 1.059,
-      "end": 2.179,
+      "word": "，",
+      "start": 1.309,
+      "end": 1.669,
       "type": "word"
     },
     {
-      "word": "：“",
-      "start": 2.179,
-      "end": 3.0,
+      "word": "說",
+      "start": 1.669,
+      "end": 2.069,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 2.069,
+      "end": 2.789,
       "type": "word"
     },
     {
       "word": "你",
-      "start": 3.0,
-      "end": 3.339,
+      "start": 3.139,
+      "end": 3.189,
       "type": "word"
     },
     {
       "word": "好",
-      "start": 3.339,
-      "end": 3.739,
+      "start": 3.189,
+      "end": 3.509,
       "type": "word"
     },
     {
-      "word": "厉",
-      "start": 3.74,
-      "end": 4.159,
+      "word": "厲",
+      "start": 3.509,
+      "end": 4.269,
       "type": "word"
     },
     {
       "word": "害",
-      "start": 4.159,
-      "end": 4.559,
+      "start": 4.269,
+      "end": 4.469,
       "type": "word"
     },
     {
-      "word": "！”",
-      "start": 4.559,
-      "end": 6.059,
+      "word": "！",
+      "start": 4.469,
+      "end": 4.469,
       "type": "word"
     },
     {
       "word": "他",
-      "start": 6.059,
-      "end": 6.119,
+      "start": 5.973,
+      "end": 5.977,
       "type": "word"
     },
     {
-      "word": "们",
-      "start": 6.119,
-      "end": 6.48,
+      "word": "們",
+      "start": 5.977,
+      "end": 6.217,
       "type": "word"
     },
     {
-      "word": "变",
-      "start": 6.48,
-      "end": 7.059,
+      "word": "變",
+      "start": 6.217,
+      "end": 6.617,
       "type": "word"
     },
     {
       "word": "成",
-      "start": 7.059,
-      "end": 8.199,
+      "start": 6.617,
+      "end": 7.177,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 7.177,
+      "end": 7.617,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 7.617,
+      "end": 8.057,
       "type": "word"
     },
     {
       "word": "好",
-      "start": 8.199,
-      "end": 8.42,
+      "start": 8.177,
+      "end": 8.297,
       "type": "word"
     },
     {
       "word": "朋",
-      "start": 8.42,
-      "end": 8.859,
+      "start": 8.297,
+      "end": 8.617,
       "type": "word"
     },
     {
       "word": "友",
-      "start": 8.859,
-      "end": 9.0,
+      "start": 8.617,
+      "end": 8.937,
       "type": "word"
     },
     {
       "word": "。",
-      "start": 9.0,
-      "end": 9.019,
+      "start": 8.937,
+      "end": 9.017,
       "type": "word"
     }
   ]

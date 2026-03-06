@@ -4,84 +4,84 @@
   "version": "toddler",
   "page": "P07",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:38:57Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "ゆ",
-      "start": 0.179,
-      "end": 0.299,
-      "type": "word"
-    },
-    {
-      "word": "う",
-      "start": 0.299,
-      "end": 0.459,
-      "type": "word"
-    },
-    {
-      "word": "く",
-      "start": 0.459,
-      "end": 0.559,
-      "type": "word"
-    },
-    {
-      "word": "ん",
-      "start": 0.56,
-      "end": 1.039,
-      "type": "word"
-    },
-    {
-      "word": "ゴ",
-      "start": 1.039,
-      "end": 1.139,
-      "type": "word"
-    },
-    {
-      "word": "ー",
-      "start": 1.139,
-      "end": 1.299,
-      "type": "word"
-    },
-    {
-      "word": "ル",
-      "start": 1.299,
-      "end": 2.679,
-      "type": "word"
-    },
-    {
-      "word": "。",
-      "start": 2.679,
-      "end": 2.779,
-      "type": "word"
-    },
-    {
-      "word": "や",
-      "start": 2.779,
-      "end": 3.079,
+      "start": 0.3,
+      "end": 0.34,
       "type": "word"
     },
     {
       "word": "っ",
-      "start": 3.079,
-      "end": 3.199,
+      "start": 0.34,
+      "end": 0.38,
       "type": "word"
     },
     {
-      "word": "た",
-      "start": 3.199,
-      "end": 3.379,
+      "word": "く",
+      "start": 0.38,
+      "end": 0.5,
+      "type": "word"
+    },
+    {
+      "word": "ん",
+      "start": 0.5,
+      "end": 0.62,
+      "type": "word"
+    },
+    {
+      "word": "ゴ",
+      "start": 1.1,
+      "end": 1.26,
       "type": "word"
     },
     {
       "word": "ー",
-      "start": 3.379,
-      "end": 3.679,
+      "start": 1.26,
+      "end": 1.34,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 3.679,
-      "end": 4.059,
+      "word": "ル",
+      "start": 1.34,
+      "end": 1.42,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 1.42,
+      "end": 1.42,
+      "type": "word"
+    },
+    {
+      "word": "や",
+      "start": 2.749,
+      "end": 2.753,
+      "type": "word"
+    },
+    {
+      "word": "っ",
+      "start": 2.753,
+      "end": 2.993,
+      "type": "word"
+    },
+    {
+      "word": "た",
+      "start": 2.993,
+      "end": 3.233,
+      "type": "word"
+    },
+    {
+      "word": "ー",
+      "start": 3.233,
+      "end": 3.553,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 3.553,
+      "end": 4.033,
       "type": "word"
     }
   ]

@@ -4,48 +4,54 @@
   "version": "toddler",
   "page": "P08",
   "variant": "v2",
-  "generated_at": "2026-03-06T07:26:39Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "Tiny",
-      "start": 0.099,
-      "end": 0.86,
+      "start": 0.67,
+      "end": 0.702,
       "type": "word"
     },
     {
-      "word": "bed.",
-      "start": 1.019,
-      "end": 2.699,
+      "word": "bed",
+      "start": 0.862,
+      "end": 1.342,
       "type": "word"
     },
     {
-      "word": "Just",
-      "start": 2.759,
-      "end": 3.319,
+      "word": "—",
+      "start": 1.342,
+      "end": 1.342,
       "type": "word"
     },
     {
-      "word": "right.",
-      "start": 3.519,
-      "end": 4.099,
+      "word": "just",
+      "start": 3.154,
+      "end": 3.154,
+      "type": "word"
+    },
+    {
+      "word": "right…",
+      "start": 3.154,
+      "end": 3.79,
       "type": "word"
     },
     {
       "word": "Goldie",
-      "start": 5.079,
-      "end": 5.459,
+      "start": 5.12,
+      "end": 5.292,
       "type": "word"
     },
     {
       "word": "fell",
-      "start": 5.5,
-      "end": 5.659,
+      "start": 5.324,
+      "end": 5.452,
       "type": "word"
     },
     {
-      "word": "asleep",
-      "start": 5.699,
-      "end": 6.38,
+      "word": "asleep.",
+      "start": 5.532,
+      "end": 6.092,
       "type": "word"
     }
   ]

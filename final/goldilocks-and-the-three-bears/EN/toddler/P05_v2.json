@@ -4,54 +4,66 @@
   "version": "toddler",
   "page": "P05",
   "variant": "v2",
-  "generated_at": "2026-03-06T07:26:33Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "Big",
-      "start": 0.439,
-      "end": 1.019,
+      "start": 0.839,
+      "end": 0.869,
       "type": "word"
     },
     {
-      "word": "chair,",
-      "start": 1.259,
-      "end": 2.259,
+      "word": "chair",
+      "start": 1.015,
+      "end": 1.745,
+      "type": "word"
+    },
+    {
+      "word": "—",
+      "start": 1.945,
+      "end": 2.145,
       "type": "word"
     },
     {
       "word": "too",
-      "start": 2.319,
-      "end": 2.7,
+      "start": 2.485,
+      "end": 2.545,
       "type": "word"
     },
     {
-      "word": "hard.",
-      "start": 2.859,
-      "end": 3.459,
+      "word": "HARD!",
+      "start": 2.689,
+      "end": 3.665,
       "type": "word"
     },
     {
       "word": "Medium",
-      "start": 4.099,
-      "end": 4.539,
+      "start": 4.351,
+      "end": 4.369,
       "type": "word"
     },
     {
-      "word": "chair,",
-      "start": 4.619,
-      "end": 5.44,
+      "word": "chair",
+      "start": 4.449,
+      "end": 4.849,
+      "type": "word"
+    },
+    {
+      "word": "—",
+      "start": 5.089,
+      "end": 5.329,
       "type": "word"
     },
     {
       "word": "too",
-      "start": 5.539,
-      "end": 6.039,
+      "start": 5.817,
+      "end": 5.889,
       "type": "word"
     },
     {
-      "word": "soft",
-      "start": 6.42,
-      "end": 7.659,
+      "word": "SOFT!",
+      "start": 6.182,
+      "end": 7.248,
       "type": "word"
     }
   ]

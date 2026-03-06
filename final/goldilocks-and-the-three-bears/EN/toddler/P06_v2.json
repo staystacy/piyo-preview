@@ -4,54 +4,60 @@
   "version": "toddler",
   "page": "P06",
   "variant": "v2",
-  "generated_at": "2026-03-06T07:26:35Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "Tiny",
-      "start": 0.199,
-      "end": 1.0,
+      "start": 0.837,
+      "end": 0.869,
       "type": "word"
     },
     {
-      "word": "chair.",
-      "start": 1.159,
-      "end": 2.5,
+      "word": "chair",
+      "start": 1.015,
+      "end": 1.745,
       "type": "word"
     },
     {
-      "word": "Just",
-      "start": 2.64,
-      "end": 3.039,
+      "word": "—",
+      "start": 1.745,
+      "end": 1.745,
       "type": "word"
     },
     {
-      "word": "right.",
-      "start": 3.2,
-      "end": 3.619,
+      "word": "just",
+      "start": 2.861,
+      "end": 2.925,
       "type": "word"
     },
     {
-      "word": "But",
-      "start": 4.059,
-      "end": 4.359,
+      "word": "right!",
+      "start": 3.018,
+      "end": 3.783,
       "type": "word"
     },
     {
-      "word": "crack,",
-      "start": 4.759,
-      "end": 5.399,
+      "word": "But…",
+      "start": 4.239,
+      "end": 4.417,
       "type": "word"
     },
     {
-      "word": "it",
-      "start": 5.46,
-      "end": 5.639,
+      "word": "CRACK!",
+      "start": 4.71,
+      "end": 5.254,
       "type": "word"
     },
     {
-      "word": "broke",
-      "start": 5.679,
-      "end": 6.22,
+      "word": "It",
+      "start": 5.32,
+      "end": 5.452,
+      "type": "word"
+    },
+    {
+      "word": "broke!",
+      "start": 5.545,
+      "end": 6.17,
       "type": "word"
     }
   ]

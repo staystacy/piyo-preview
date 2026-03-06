@@ -4,30 +4,36 @@
   "version": "toddler",
   "page": "P03",
   "variant": "v2",
-  "generated_at": "2026-03-06T07:26:29Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "Medium",
-      "start": 0.299,
-      "end": 0.879,
+      "start": 0.667,
+      "end": 0.697,
       "type": "word"
     },
     {
       "word": "bowl",
-      "start": 0.999,
-      "end": 1.559,
+      "start": 0.825,
+      "end": 1.337,
       "type": "word"
     },
     {
-      "word": "Too",
-      "start": 2.759,
-      "end": 3.079,
+      "word": "—",
+      "start": 1.337,
+      "end": 1.337,
       "type": "word"
     },
     {
-      "word": "cold",
-      "start": 3.359,
-      "end": 4.299,
+      "word": "too",
+      "start": 2.895,
+      "end": 2.907,
+      "type": "word"
+    },
+    {
+      "word": "COLD!",
+      "start": 3.107,
+      "end": 3.945,
       "type": "word"
     }
   ]

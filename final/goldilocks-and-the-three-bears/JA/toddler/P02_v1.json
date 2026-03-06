@@ -4,66 +4,84 @@
   "version": "toddler",
   "page": "P02",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:28:07Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
-      "word": "大",
-      "start": 0.28,
-      "end": 0.72,
+      "word": "お",
+      "start": 0.22,
+      "end": 0.224,
+      "type": "word"
+    },
+    {
+      "word": "お",
+      "start": 0.224,
+      "end": 0.624,
       "type": "word"
     },
     {
       "word": "き",
-      "start": 0.72,
-      "end": 0.959,
+      "start": 0.624,
+      "end": 0.784,
       "type": "word"
     },
     {
       "word": "い",
-      "start": 0.959,
-      "end": 1.139,
+      "start": 0.784,
+      "end": 1.064,
       "type": "word"
     },
     {
       "word": "の",
-      "start": 1.139,
-      "end": 1.48,
+      "start": 1.064,
+      "end": 1.344,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 1.48,
-      "end": 2.98,
+      "word": "—",
+      "start": 1.344,
+      "end": 1.344,
       "type": "word"
     },
     {
-      "word": "熱",
-      "start": 2.98,
-      "end": 3.519,
+      "word": "—",
+      "start": 1.344,
+      "end": 1.344,
+      "type": "word"
+    },
+    {
+      "word": "あ",
+      "start": 3.079,
+      "end": 3.086,
+      "type": "word"
+    },
+    {
+      "word": "つ",
+      "start": 3.086,
+      "end": 3.486,
       "type": "word"
     },
     {
       "word": "す",
-      "start": 3.519,
-      "end": 3.72,
+      "start": 3.486,
+      "end": 3.606,
       "type": "word"
     },
     {
       "word": "ぎ",
-      "start": 3.72,
-      "end": 3.879,
+      "start": 3.606,
+      "end": 3.726,
       "type": "word"
     },
     {
       "word": "る",
-      "start": 3.879,
-      "end": 4.119,
+      "start": 3.726,
+      "end": 3.966,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 4.119,
-      "end": 5.019,
+      "word": "！",
+      "start": 3.966,
+      "end": 5.006,
       "type": "word"
     }
   ]

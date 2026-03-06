@@ -4,60 +4,66 @@
   "version": "toddler",
   "page": "P06",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:37:29Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "Tilly",
-      "start": 0.119,
-      "end": 0.56,
+      "start": 0.31,
+      "end": 0.388,
       "type": "word"
     },
     {
       "word": "climbed",
-      "start": 0.599,
-      "end": 1.099,
+      "start": 0.458,
+      "end": 0.948,
       "type": "word"
     },
     {
       "word": "the",
-      "start": 1.12,
-      "end": 1.259,
+      "start": 0.968,
+      "end": 1.028,
       "type": "word"
     },
     {
       "word": "hill.",
-      "start": 1.279,
-      "end": 1.659,
+      "start": 1.124,
+      "end": 2.388,
       "type": "word"
     },
     {
       "word": "Hops",
-      "start": 2.5,
-      "end": 3.019,
+      "start": 2.446,
+      "end": 2.847,
       "type": "word"
     },
     {
       "word": "woke",
-      "start": 3.039,
-      "end": 3.319,
+      "start": 2.911,
+      "end": 3.167,
       "type": "word"
     },
     {
-      "word": "up.",
-      "start": 3.419,
-      "end": 3.659,
+      "word": "up",
+      "start": 3.273,
+      "end": 3.485,
       "type": "word"
     },
     {
-      "word": "Oh,",
-      "start": 4.4,
-      "end": 4.659,
+      "word": "—",
+      "start": 3.605,
+      "end": 3.725,
+      "type": "word"
+    },
+    {
+      "word": "oh",
+      "start": 4.336,
+      "end": 4.442,
       "type": "word"
     },
     {
       "word": "no!",
-      "start": 4.699,
-      "end": 5.34,
+      "start": 4.628,
+      "end": 5.08,
       "type": "word"
     }
   ]

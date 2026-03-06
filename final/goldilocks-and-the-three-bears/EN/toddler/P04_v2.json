@@ -4,42 +4,48 @@
   "version": "toddler",
   "page": "P04",
   "variant": "v2",
-  "generated_at": "2026-03-06T07:26:32Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "Tiny",
-      "start": 0.299,
-      "end": 0.859,
+      "start": 0.67,
+      "end": 0.702,
       "type": "word"
     },
     {
-      "word": "bowl.",
-      "start": 1.0,
-      "end": 1.519,
+      "word": "bowl",
+      "start": 0.83,
+      "end": 1.342,
       "type": "word"
     },
     {
-      "word": "Just",
-      "start": 2.839,
-      "end": 3.299,
+      "word": "—",
+      "start": 1.342,
+      "end": 1.342,
       "type": "word"
     },
     {
-      "word": "right.",
-      "start": 3.519,
-      "end": 4.019,
+      "word": "just",
+      "start": 3.065,
+      "end": 3.161,
+      "type": "word"
+    },
+    {
+      "word": "right!",
+      "start": 3.267,
+      "end": 4.157,
       "type": "word"
     },
     {
       "word": "All",
-      "start": 4.579,
-      "end": 4.739,
+      "start": 4.568,
+      "end": 4.574,
       "type": "word"
     },
     {
-      "word": "gone",
-      "start": 4.819,
-      "end": 5.42,
+      "word": "gone!",
+      "start": 4.67,
+      "end": 5.054,
       "type": "word"
     }
   ]

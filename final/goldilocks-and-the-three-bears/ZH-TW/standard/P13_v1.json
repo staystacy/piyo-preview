@@ -4,234 +4,228 @@
   "version": "standard",
   "page": "P13",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:28:00Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "小",
-      "start": 0.299,
-      "end": 0.519,
+      "start": 0.374,
+      "end": 0.386,
       "type": "word"
     },
     {
       "word": "金",
-      "start": 0.519,
-      "end": 0.679,
+      "start": 0.386,
+      "end": 0.546,
       "type": "word"
     },
     {
       "word": "醒",
-      "start": 0.679,
-      "end": 0.939,
+      "start": 0.546,
+      "end": 0.866,
       "type": "word"
     },
     {
-      "word": "来",
-      "start": 0.939,
-      "end": 1.259,
+      "word": "來",
+      "start": 0.866,
+      "end": 1.186,
       "type": "word"
     },
     {
       "word": "，",
-      "start": 1.259,
-      "end": 1.799,
+      "start": 1.186,
+      "end": 1.426,
       "type": "word"
     },
     {
       "word": "看",
-      "start": 1.799,
-      "end": 1.979,
+      "start": 1.786,
+      "end": 1.906,
       "type": "word"
     },
     {
       "word": "到",
-      "start": 1.979,
-      "end": 2.48,
+      "start": 1.906,
+      "end": 2.306,
       "type": "word"
     },
     {
       "word": "三",
-      "start": 2.48,
-      "end": 2.799,
+      "start": 2.306,
+      "end": 2.626,
       "type": "word"
     },
     {
-      "word": "只",
-      "start": 2.799,
-      "end": 3.22,
+      "word": "隻",
+      "start": 2.626,
+      "end": 3.106,
       "type": "word"
     },
     {
       "word": "熊",
-      "start": 3.22,
-      "end": 3.36,
+      "start": 3.106,
+      "end": 3.266,
       "type": "word"
     },
     {
       "word": "，",
-      "start": 3.36,
-      "end": 4.159,
+      "start": 3.266,
+      "end": 3.306,
       "type": "word"
     },
     {
-      "word": "吓",
-      "start": 4.159,
-      "end": 4.339,
+      "word": "嚇",
+      "start": 4.226,
+      "end": 4.439,
       "type": "word"
     },
     {
       "word": "了",
-      "start": 4.339,
-      "end": 4.499,
+      "start": 4.439,
+      "end": 4.492,
       "type": "word"
     },
     {
       "word": "一",
-      "start": 4.5,
-      "end": 4.739,
+      "start": 4.492,
+      "end": 4.545,
       "type": "word"
     },
     {
       "word": "大",
-      "start": 4.739,
-      "end": 5.099,
+      "start": 4.545,
+      "end": 4.865,
       "type": "word"
     },
     {
       "word": "跳",
-      "start": 5.099,
-      "end": 5.279,
+      "start": 4.865,
+      "end": 5.185,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 5.279,
-      "end": 6.519,
+      "word": "！",
+      "start": 5.185,
+      "end": 6.265,
       "type": "word"
     },
     {
       "word": "啊",
-      "start": 6.519,
-      "end": 6.659,
+      "start": 6.592,
+      "end": 6.832,
       "type": "word"
     },
     {
-      "word": "，",
-      "start": 6.659,
-      "end": 7.299,
+      "word": "！",
+      "start": 6.832,
+      "end": 7.072,
       "type": "word"
     },
     {
-      "word": "对",
-      "start": 7.299,
-      "end": 7.519,
-      "type": "word"
-    },
-    {
-      "word": "不",
-      "start": 7.519,
-      "end": 7.699,
-      "type": "word"
-    },
-    {
-      "word": "起",
-      "start": 7.699,
-      "end": 8.039,
-      "type": "word"
-    },
-    {
-      "word": "，",
-      "start": 8.039,
-      "end": 8.219,
-      "type": "word"
-    },
-    {
-      "word": "对",
-      "start": 8.22,
-      "end": 8.52,
+      "word": "對",
+      "start": 7.072,
+      "end": 7.232,
       "type": "word"
     },
     {
       "word": "不",
-      "start": 8.52,
-      "end": 8.839,
+      "start": 7.232,
+      "end": 7.552,
       "type": "word"
     },
     {
       "word": "起",
-      "start": 8.84,
-      "end": 8.96,
+      "start": 7.552,
+      "end": 7.952,
       "type": "word"
     },
     {
-      "word": "，",
-      "start": 8.96,
-      "end": 9.539,
+      "word": "對",
+      "start": 7.952,
+      "end": 8.112,
+      "type": "word"
+    },
+    {
+      "word": "不",
+      "start": 8.112,
+      "end": 8.512,
+      "type": "word"
+    },
+    {
+      "word": "起",
+      "start": 8.512,
+      "end": 8.832,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 8.832,
+      "end": 9.352,
       "type": "word"
     },
     {
       "word": "我",
-      "start": 9.539,
-      "end": 9.739,
+      "start": 9.537,
+      "end": 9.541,
       "type": "word"
     },
     {
       "word": "不",
-      "start": 9.739,
-      "end": 9.959,
+      "start": 9.541,
+      "end": 9.701,
       "type": "word"
     },
     {
-      "word": "应",
-      "start": 9.96,
-      "end": 10.6,
+      "word": "應",
+      "start": 9.701,
+      "end": 10.101,
       "type": "word"
     },
     {
-      "word": "该",
-      "start": 10.6,
-      "end": 10.84,
+      "word": "該",
+      "start": 10.101,
+      "end": 10.501,
       "type": "word"
     },
     {
-      "word": "乱",
-      "start": 10.84,
-      "end": 10.98,
+      "word": "亂",
+      "start": 10.501,
+      "end": 10.901,
       "type": "word"
     },
     {
-      "word": "进",
-      "start": 10.98,
-      "end": 11.399,
+      "word": "進",
+      "start": 10.901,
+      "end": 11.061,
       "type": "word"
     },
     {
-      "word": "别",
-      "start": 11.399,
-      "end": 11.519,
+      "word": "別",
+      "start": 11.061,
+      "end": 11.301,
       "type": "word"
     },
     {
       "word": "人",
-      "start": 11.519,
-      "end": 11.939,
+      "start": 11.301,
+      "end": 11.581,
       "type": "word"
     },
     {
       "word": "的",
-      "start": 11.939,
-      "end": 12.239,
+      "start": 11.581,
+      "end": 11.861,
       "type": "word"
     },
     {
       "word": "家",
-      "start": 12.239,
-      "end": 12.42,
+      "start": 11.861,
+      "end": 12.261,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 12.42,
-      "end": 12.46,
+      "word": "！",
+      "start": 12.261,
+      "end": 12.421,
       "type": "word"
     }
   ]

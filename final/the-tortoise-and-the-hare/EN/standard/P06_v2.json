@@ -4,144 +4,144 @@
   "version": "standard",
   "page": "P06",
   "variant": "v2",
-  "generated_at": "2026-03-06T07:37:46Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "Hops",
-      "start": 0.119,
-      "end": 0.579,
+      "start": 0.063,
+      "end": 0.465,
       "type": "word"
     },
     {
       "word": "yawned",
-      "start": 0.639,
-      "end": 1.019,
+      "start": 0.545,
+      "end": 0.864,
       "type": "word"
     },
     {
       "word": "a",
-      "start": 1.039,
-      "end": 1.099,
+      "start": 0.904,
+      "end": 0.944,
       "type": "word"
     },
     {
-      "word": "big",
-      "start": 1.36,
-      "end": 2.359,
+      "word": "biiiiig",
+      "start": 1.184,
+      "end": 2.224,
       "type": "word"
     },
     {
       "word": "yawn.",
-      "start": 2.419,
-      "end": 3.019,
+      "start": 2.304,
+      "end": 3.184,
       "type": "word"
     },
     {
       "word": "She's",
-      "start": 3.339,
-      "end": 3.819,
+      "start": 3.392,
+      "end": 3.644,
       "type": "word"
     },
     {
       "word": "so",
-      "start": 3.879,
-      "end": 4.339,
+      "start": 3.83,
+      "end": 4.202,
       "type": "word"
     },
     {
-      "word": "slow.",
-      "start": 4.559,
-      "end": 5.239,
+      "word": "slow…",
+      "start": 4.378,
+      "end": 5.322,
       "type": "word"
     },
     {
       "word": "I'll",
-      "start": 5.539,
-      "end": 5.739,
+      "start": 5.402,
+      "end": 5.56,
       "type": "word"
     },
     {
       "word": "just",
-      "start": 5.819,
-      "end": 6.0,
+      "start": 5.608,
+      "end": 5.8,
       "type": "word"
     },
     {
-      "word": "rest",
-      "start": 6.099,
-      "end": 6.539,
+      "word": "rest…",
+      "start": 5.912,
+      "end": 6.68,
       "type": "word"
     },
     {
       "word": "my",
-      "start": 6.88,
-      "end": 7.079,
+      "start": 6.76,
+      "end": 6.92,
       "type": "word"
     },
     {
-      "word": "eyes",
-      "start": 7.159,
-      "end": 7.679,
+      "word": "eyes…",
+      "start": 7.048,
+      "end": 7.88,
       "type": "word"
     },
     {
       "word": "for",
-      "start": 8.059,
-      "end": 8.199,
+      "start": 7.92,
+      "end": 8.04,
       "type": "word"
     },
     {
       "word": "a",
-      "start": 8.26,
-      "end": 8.38,
+      "start": 8.08,
+      "end": 8.12,
       "type": "word"
     },
     {
-      "word": "second.",
-      "start": 8.42,
-      "end": 9.0,
+      "word": "second…",
+      "start": 8.211,
+      "end": 9.037,
       "type": "word"
     },
     {
       "word": "And",
-      "start": 9.399,
-      "end": 9.579,
+      "start": 9.305,
+      "end": 9.311,
       "type": "word"
     },
     {
       "word": "just",
-      "start": 9.639,
-      "end": 9.86,
+      "start": 9.391,
+      "end": 9.711,
       "type": "word"
     },
     {
       "word": "like",
-      "start": 9.92,
-      "end": 10.119,
+      "start": 9.759,
+      "end": 9.951,
       "type": "word"
     },
     {
-      "word": "that,",
-      "start": 10.179,
-      "end": 10.639,
+      "word": "that…",
+      "start": 10.015,
+      "end": 10.511,
       "type": "word"
     },
     {
       "word": "Hops",
-      "start": 10.659,
-      "end": 11.06,
+      "start": 10.551,
+      "end": 10.909,
       "type": "word"
     },
     {
       "word": "was",
-      "start": 11.1,
-      "end": 11.279,
+      "start": 10.949,
+      "end": 11.069,
       "type": "word"
     },
     {
-      "word": "snoring",
-      "start": 11.319,
-      "end": 11.979,
+      "word": "snoring.",
+      "start": 11.149,
+      "end": 11.949,
       "type": "word"
     }
   ]

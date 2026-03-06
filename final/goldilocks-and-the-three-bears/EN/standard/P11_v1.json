@@ -4,126 +4,126 @@
   "version": "standard",
   "page": "P11",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:27:05Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "She",
-      "start": 0.099,
-      "end": 0.319,
+      "start": 0.143,
+      "end": 0.155,
       "type": "word"
     },
     {
       "word": "lay",
-      "start": 0.34,
-      "end": 0.56,
+      "start": 0.215,
+      "end": 0.395,
       "type": "word"
     },
     {
       "word": "down",
-      "start": 0.559,
-      "end": 0.8,
+      "start": 0.459,
+      "end": 0.715,
       "type": "word"
     },
     {
       "word": "in",
-      "start": 0.839,
-      "end": 0.919,
+      "start": 0.741,
+      "end": 0.793,
       "type": "word"
     },
     {
       "word": "the",
-      "start": 0.919,
-      "end": 1.059,
+      "start": 0.833,
+      "end": 0.953,
       "type": "word"
     },
     {
       "word": "tiny",
-      "start": 1.1,
-      "end": 1.48,
+      "start": 1.017,
+      "end": 1.273,
       "type": "word"
     },
     {
       "word": "bed.",
-      "start": 1.5,
-      "end": 1.819,
+      "start": 1.373,
+      "end": 2.313,
       "type": "word"
     },
     {
-      "word": "\"This",
-      "start": 2.42,
-      "end": 2.839,
+      "word": "This",
+      "start": 2.686,
+      "end": 2.706,
       "type": "word"
     },
     {
       "word": "one",
-      "start": 2.879,
-      "end": 3.299,
+      "start": 2.786,
+      "end": 3.026,
       "type": "word"
     },
     {
-      "word": "is",
-      "start": 3.44,
-      "end": 3.919,
+      "word": "is…",
+      "start": 3.292,
+      "end": 4.464,
       "type": "word"
     },
     {
-      "word": "just",
-      "start": 4.48,
-      "end": 5.179,
+      "word": "just…",
+      "start": 4.592,
+      "end": 5.584,
       "type": "word"
     },
     {
-      "word": "right.\"",
-      "start": 5.659,
-      "end": 6.819,
+      "word": "right…",
+      "start": 5.664,
+      "end": 6.424,
       "type": "word"
     },
     {
       "word": "And",
-      "start": 6.859,
-      "end": 7.0,
+      "start": 7.005,
+      "end": 7.02,
       "type": "word"
     },
     {
       "word": "just",
-      "start": 7.26,
-      "end": 7.559,
+      "start": 7.1,
+      "end": 7.42,
       "type": "word"
     },
     {
       "word": "like",
-      "start": 7.619,
-      "end": 7.839,
+      "start": 7.484,
+      "end": 7.74,
       "type": "word"
     },
     {
       "word": "that,",
-      "start": 7.899,
-      "end": 8.639,
+      "start": 7.804,
+      "end": 8.1,
       "type": "word"
     },
     {
       "word": "Goldie",
-      "start": 8.68,
-      "end": 9.22,
+      "start": 8.284,
+      "end": 9.02,
       "type": "word"
     },
     {
       "word": "fell",
-      "start": 9.239,
-      "end": 9.44,
+      "start": 9.084,
+      "end": 9.34,
       "type": "word"
     },
     {
       "word": "fast",
-      "start": 9.64,
-      "end": 10.22,
+      "start": 9.468,
+      "end": 9.98,
       "type": "word"
     },
     {
-      "word": "asleep",
-      "start": 10.26,
-      "end": 10.859,
+      "word": "asleep.",
+      "start": 10.082,
+      "end": 10.854,
       "type": "word"
     }
   ]

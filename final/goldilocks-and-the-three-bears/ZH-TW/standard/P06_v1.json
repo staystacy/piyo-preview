@@ -4,198 +4,222 @@
   "version": "standard",
   "page": "P06",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:27:45Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "小",
-      "start": 0.299,
-      "end": 0.579,
+      "start": 0.524,
+      "end": 0.54,
       "type": "word"
     },
     {
       "word": "金",
-      "start": 0.579,
-      "end": 1.099,
+      "start": 0.54,
+      "end": 0.86,
       "type": "word"
     },
     {
       "word": "走",
-      "start": 1.1,
-      "end": 1.22,
+      "start": 0.86,
+      "end": 1.1,
       "type": "word"
     },
     {
       "word": "到",
-      "start": 1.22,
-      "end": 1.48,
+      "start": 1.1,
+      "end": 1.26,
       "type": "word"
     },
     {
       "word": "客",
-      "start": 1.48,
-      "end": 1.639,
+      "start": 1.26,
+      "end": 1.5,
       "type": "word"
     },
     {
-      "word": "厅",
-      "start": 1.639,
-      "end": 1.94,
+      "word": "廳",
+      "start": 1.5,
+      "end": 1.9,
       "type": "word"
     },
     {
       "word": "，",
-      "start": 1.94,
-      "end": 2.579,
+      "start": 1.9,
+      "end": 1.9,
       "type": "word"
     },
     {
       "word": "看",
-      "start": 2.579,
-      "end": 2.899,
+      "start": 2.5,
+      "end": 2.7,
       "type": "word"
     },
     {
       "word": "到",
-      "start": 2.899,
-      "end": 3.239,
+      "start": 2.7,
+      "end": 3.02,
       "type": "word"
     },
     {
       "word": "三",
-      "start": 3.24,
-      "end": 3.5,
+      "start": 3.02,
+      "end": 3.26,
       "type": "word"
     },
     {
       "word": "把",
-      "start": 3.5,
-      "end": 3.66,
+      "start": 3.26,
+      "end": 3.58,
       "type": "word"
     },
     {
       "word": "椅",
-      "start": 3.66,
-      "end": 4.079,
+      "start": 3.58,
+      "end": 3.82,
       "type": "word"
     },
     {
       "word": "子",
-      "start": 4.079,
-      "end": 4.099,
+      "start": 3.82,
+      "end": 3.98,
       "type": "word"
     },
     {
       "word": "。",
-      "start": 4.099,
-      "end": 5.48,
+      "start": 3.98,
+      "end": 5.1,
       "type": "word"
     },
     {
-      "word": "他",
-      "start": 5.48,
-      "end": 5.639,
+      "word": "…",
+      "start": 5.153,
+      "end": 5.206,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 5.206,
+      "end": 5.365,
+      "type": "word"
+    },
+    {
+      "word": "她",
+      "start": 5.489,
+      "end": 5.569,
       "type": "word"
     },
     {
       "word": "坐",
-      "start": 5.639,
-      "end": 5.899,
+      "start": 5.569,
+      "end": 5.649,
       "type": "word"
     },
     {
       "word": "了",
-      "start": 5.9,
-      "end": 6.34,
+      "start": 5.649,
+      "end": 6.129,
       "type": "word"
     },
     {
       "word": "大",
-      "start": 6.34,
-      "end": 6.759,
+      "start": 6.129,
+      "end": 6.449,
       "type": "word"
     },
     {
       "word": "椅",
-      "start": 6.759,
-      "end": 6.919,
+      "start": 6.449,
+      "end": 6.689,
       "type": "word"
     },
     {
       "word": "子",
-      "start": 6.919,
-      "end": 7.019,
+      "start": 6.689,
+      "end": 6.849,
       "type": "word"
     },
     {
       "word": "。",
-      "start": 7.019,
-      "end": 8.14,
+      "start": 6.849,
+      "end": 7.809,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 7.822,
+      "end": 7.835,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 7.835,
+      "end": 7.874,
       "type": "word"
     },
     {
       "word": "好",
-      "start": 8.14,
-      "end": 8.479,
+      "start": 8.258,
+      "end": 8.283,
       "type": "word"
     },
     {
       "word": "硬",
-      "start": 8.479,
-      "end": 8.799,
+      "start": 8.283,
+      "end": 8.603,
       "type": "word"
     },
     {
       "word": "好",
-      "start": 8.8,
-      "end": 9.119,
+      "start": 8.603,
+      "end": 8.843,
       "type": "word"
     },
     {
       "word": "硬",
-      "start": 9.119,
-      "end": 9.519,
+      "start": 8.843,
+      "end": 9.083,
       "type": "word"
     },
     {
-      "word": "，",
-      "start": 9.519,
-      "end": 9.659,
+      "word": "！",
+      "start": 9.083,
+      "end": 9.483,
       "type": "word"
     },
     {
-      "word": "这",
-      "start": 9.659,
-      "end": 9.739,
+      "word": "這",
+      "start": 9.483,
+      "end": 9.563,
       "type": "word"
     },
     {
-      "word": "个",
-      "start": 9.739,
-      "end": 10.099,
+      "word": "個",
+      "start": 9.563,
+      "end": 9.803,
       "type": "word"
     },
     {
       "word": "太",
-      "start": 10.099,
-      "end": 10.399,
+      "start": 9.803,
+      "end": 10.203,
       "type": "word"
     },
     {
       "word": "硬",
-      "start": 10.399,
-      "end": 10.679,
+      "start": 10.203,
+      "end": 10.523,
       "type": "word"
     },
     {
       "word": "了",
-      "start": 10.679,
-      "end": 11.139,
+      "start": 10.523,
+      "end": 11.003,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 11.139,
-      "end": 11.26,
+      "word": "！",
+      "start": 11.003,
+      "end": 11.243,
       "type": "word"
     }
   ]

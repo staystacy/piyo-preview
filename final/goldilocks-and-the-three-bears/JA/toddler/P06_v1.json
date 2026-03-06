@@ -4,138 +4,174 @@
   "version": "toddler",
   "page": "P06",
   "variant": "v1",
-  "generated_at": "2026-03-06T07:28:14Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
-      "word": "小",
-      "start": 0.28,
-      "end": 0.62,
+      "word": "ち",
+      "start": 0.201,
+      "end": 0.217,
+      "type": "word"
+    },
+    {
+      "word": "い",
+      "start": 0.217,
+      "end": 0.457,
       "type": "word"
     },
     {
       "word": "さ",
-      "start": 0.62,
-      "end": 0.8,
+      "start": 0.457,
+      "end": 0.697,
       "type": "word"
     },
     {
       "word": "い",
-      "start": 0.8,
-      "end": 1.059,
+      "start": 0.697,
+      "end": 0.937,
       "type": "word"
     },
     {
-      "word": "椅",
-      "start": 1.059,
-      "end": 1.279,
+      "word": "い",
+      "start": 1.057,
+      "end": 1.177,
       "type": "word"
     },
     {
-      "word": "子",
-      "start": 1.279,
-      "end": 1.579,
+      "word": "す",
+      "start": 1.177,
+      "end": 2.697,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 1.579,
-      "end": 2.92,
+      "word": "—",
+      "start": 2.697,
+      "end": 2.737,
+      "type": "word"
+    },
+    {
+      "word": "—",
+      "start": 2.737,
+      "end": 2.779,
       "type": "word"
     },
     {
       "word": "ち",
-      "start": 2.92,
-      "end": 3.039,
+      "start": 2.988,
+      "end": 3.028,
       "type": "word"
     },
     {
       "word": "ょ",
-      "start": 3.039,
-      "end": 3.119,
+      "start": 3.028,
+      "end": 3.048,
       "type": "word"
     },
     {
       "word": "う",
-      "start": 3.119,
-      "end": 3.339,
+      "start": 3.048,
+      "end": 3.068,
       "type": "word"
     },
     {
       "word": "ど",
-      "start": 3.339,
-      "end": 3.619,
+      "start": 3.068,
+      "end": 3.308,
       "type": "word"
     },
     {
       "word": "い",
-      "start": 3.619,
-      "end": 3.819,
+      "start": 3.468,
+      "end": 3.668,
       "type": "word"
     },
     {
       "word": "い",
-      "start": 3.819,
-      "end": 4.099,
+      "start": 3.668,
+      "end": 3.868,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 4.099,
-      "end": 5.34,
+      "word": "！",
+      "start": 3.868,
+      "end": 4.028,
       "type": "word"
     },
     {
       "word": "で",
-      "start": 5.34,
-      "end": 5.579,
+      "start": 5.511,
+      "end": 5.521,
       "type": "word"
     },
     {
       "word": "も",
-      "start": 5.579,
-      "end": 6.44,
+      "start": 5.521,
+      "end": 5.531,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 5.531,
+      "end": 5.891,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 5.891,
+      "end": 6.251,
       "type": "word"
     },
     {
       "word": "パ",
-      "start": 6.44,
-      "end": 6.639,
+      "start": 6.467,
+      "end": 6.491,
       "type": "word"
     },
     {
       "word": "キ",
-      "start": 6.639,
-      "end": 6.92,
+      "start": 6.491,
+      "end": 6.651,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 6.92,
-      "end": 7.659,
+      "word": "ッ",
+      "start": 6.651,
+      "end": 7.051,
       "type": "word"
     },
     {
-      "word": "壊",
-      "start": 7.659,
-      "end": 7.859,
+      "word": "！",
+      "start": 7.051,
+      "end": 7.451,
+      "type": "word"
+    },
+    {
+      "word": "こ",
+      "start": 7.451,
+      "end": 7.531,
+      "type": "word"
+    },
+    {
+      "word": "わ",
+      "start": 7.531,
+      "end": 7.691,
       "type": "word"
     },
     {
       "word": "れ",
-      "start": 7.859,
-      "end": 7.999,
+      "start": 7.691,
+      "end": 7.851,
       "type": "word"
     },
     {
       "word": "た",
-      "start": 8.0,
-      "end": 8.119,
+      "start": 7.851,
+      "end": 8.011,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 8.119,
-      "end": 8.139,
+      "word": "！",
+      "start": 8.011,
+      "end": 8.091,
       "type": "word"
     }
   ]

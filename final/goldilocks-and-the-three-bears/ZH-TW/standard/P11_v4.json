@@ -4,156 +4,216 @@
   "version": "standard",
   "page": "P11",
   "variant": "v4",
-  "generated_at": "2026-03-06T07:27:56Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
-      "word": "他",
-      "start": 0.34,
-      "end": 0.46,
+      "word": "她",
+      "start": 0.311,
+      "end": 0.431,
       "type": "word"
     },
     {
       "word": "躺",
-      "start": 0.46,
-      "end": 0.659,
+      "start": 0.431,
+      "end": 0.711,
       "type": "word"
     },
     {
       "word": "了",
-      "start": 0.659,
-      "end": 1.22,
+      "start": 0.711,
+      "end": 0.871,
       "type": "word"
     },
     {
       "word": "小",
-      "start": 1.22,
-      "end": 1.519,
+      "start": 0.871,
+      "end": 1.191,
       "type": "word"
     },
     {
       "word": "床",
-      "start": 1.519,
-      "end": 1.699,
+      "start": 1.191,
+      "end": 1.671,
       "type": "word"
     },
     {
       "word": "。",
-      "start": 1.699,
-      "end": 3.159,
+      "start": 1.671,
+      "end": 1.671,
       "type": "word"
     },
     {
-      "word": "这",
-      "start": 3.159,
-      "end": 3.459,
+      "word": "…",
+      "start": 2.311,
+      "end": 2.951,
       "type": "word"
     },
     {
-      "word": "个",
-      "start": 3.459,
-      "end": 5.0,
+      "word": "…",
+      "start": 2.951,
+      "end": 2.958,
       "type": "word"
     },
     {
-      "word": "刚",
-      "start": 5.0,
-      "end": 5.519,
+      "word": "這",
+      "start": 3.494,
+      "end": 3.694,
       "type": "word"
     },
     {
-      "word": "刚",
-      "start": 5.519,
-      "end": 6.739,
+      "word": "個",
+      "start": 3.694,
+      "end": 3.894,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 3.894,
+      "end": 4.534,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 4.534,
+      "end": 5.174,
+      "type": "word"
+    },
+    {
+      "word": "剛",
+      "start": 5.734,
+      "end": 5.814,
+      "type": "word"
+    },
+    {
+      "word": "～",
+      "start": 5.814,
+      "end": 5.894,
+      "type": "word"
+    },
+    {
+      "word": "剛",
+      "start": 5.894,
+      "end": 6.694,
+      "type": "word"
+    },
+    {
+      "word": "～",
+      "start": 6.694,
+      "end": 6.774,
       "type": "word"
     },
     {
       "word": "好",
-      "start": 6.739,
-      "end": 7.519,
+      "start": 6.774,
+      "end": 7.174,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 7.519,
-      "end": 8.699,
+      "word": "…",
+      "start": 7.174,
+      "end": 7.174,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 7.174,
+      "end": 7.174,
       "type": "word"
     },
     {
       "word": "小",
-      "start": 8.699,
-      "end": 8.899,
+      "start": 8.748,
+      "end": 8.755,
       "type": "word"
     },
     {
       "word": "金",
-      "start": 8.899,
-      "end": 9.179,
+      "start": 8.755,
+      "end": 8.995,
       "type": "word"
     },
     {
       "word": "一",
-      "start": 9.179,
-      "end": 9.419,
+      "start": 8.995,
+      "end": 9.275,
       "type": "word"
     },
     {
       "word": "下",
-      "start": 9.42,
-      "end": 9.659,
+      "start": 9.275,
+      "end": 9.555,
       "type": "word"
     },
     {
       "word": "子",
-      "start": 9.659,
-      "end": 9.979,
+      "start": 9.555,
+      "end": 9.875,
       "type": "word"
     },
     {
       "word": "就",
-      "start": 9.979,
-      "end": 10.239,
+      "start": 9.875,
+      "end": 10.035,
       "type": "word"
     },
     {
       "word": "睡",
-      "start": 10.239,
-      "end": 10.38,
+      "start": 10.035,
+      "end": 10.275,
       "type": "word"
     },
     {
-      "word": "着",
-      "start": 10.38,
-      "end": 10.779,
+      "word": "著",
+      "start": 10.275,
+      "end": 10.675,
       "type": "word"
     },
     {
       "word": "了",
-      "start": 10.779,
-      "end": 10.88,
+      "start": 10.675,
+      "end": 11.435,
       "type": "word"
     },
     {
       "word": "。",
-      "start": 10.88,
-      "end": 12.599,
+      "start": 11.435,
+      "end": 12.195,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 12.235,
+      "end": 12.275,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 12.275,
+      "end": 12.435,
       "type": "word"
     },
     {
       "word": "呼",
-      "start": 12.599,
-      "end": 15.019,
+      "start": 12.435,
+      "end": 12.915,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 12.915,
+      "end": 13.795,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 13.795,
+      "end": 14.675,
       "type": "word"
     },
     {
       "word": "呼",
-      "start": 15.019,
-      "end": 15.22,
-      "type": "word"
-    },
-    {
-      "word": "。",
-      "start": 15.22,
-      "end": 15.34,
+      "start": 15.155,
+      "end": 15.315,
       "type": "word"
     }
   ]

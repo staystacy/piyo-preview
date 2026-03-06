@@ -4,60 +4,66 @@
   "version": "toddler",
   "page": "P03",
   "variant": "v2",
-  "generated_at": "2026-03-06T07:27:18Z",
+  "generated_at": "2026-03-06T13:17:00Z",
   "words": [
     {
       "word": "中",
-      "start": 0.359,
-      "end": 0.659,
+      "start": 0.437,
+      "end": 0.448,
       "type": "word"
     },
     {
       "word": "碗",
-      "start": 0.659,
-      "end": 1.039,
+      "start": 0.448,
+      "end": 1.048,
       "type": "word"
     },
     {
       "word": "的",
-      "start": 1.039,
-      "end": 1.48,
+      "start": 1.048,
+      "end": 1.248,
       "type": "word"
     },
     {
       "word": "粥",
-      "start": 1.48,
-      "end": 1.72,
+      "start": 1.248,
+      "end": 2.208,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 1.72,
-      "end": 3.279,
+      "word": "—",
+      "start": 2.208,
+      "end": 2.528,
+      "type": "word"
+    },
+    {
+      "word": "—",
+      "start": 2.528,
+      "end": 2.888,
       "type": "word"
     },
     {
       "word": "太",
-      "start": 3.279,
-      "end": 3.619,
+      "start": 3.377,
+      "end": 3.393,
       "type": "word"
     },
     {
       "word": "冰",
-      "start": 3.619,
-      "end": 3.959,
+      "start": 3.393,
+      "end": 3.793,
       "type": "word"
     },
     {
       "word": "了",
-      "start": 3.959,
-      "end": 4.399,
+      "start": 3.793,
+      "end": 4.273,
       "type": "word"
     },
     {
-      "word": "。",
-      "start": 4.399,
-      "end": 5.019,
+      "word": "！",
+      "start": 4.273,
+      "end": 4.913,
       "type": "word"
     }
   ]
