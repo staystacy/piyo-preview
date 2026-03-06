@@ -1,0 +1,142 @@
+{
+  "source_file": "P04_v4.mp3",
+  "language": "JA",
+  "version": "toddler",
+  "page": "P04",
+  "variant": "v4",
+  "generated_at": "2026-03-06T05:33:31Z",
+  "words": [
+    {
+      "word": "狼",
+      "start": 0.219,
+      "end": 0.96,
+      "type": "word"
+    },
+    {
+      "word": "だ",
+      "start": 0.96,
+      "end": 1.139,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 1.139,
+      "end": 2.319,
+      "type": "word"
+    },
+    {
+      "word": "入",
+      "start": 2.319,
+      "end": 2.46,
+      "type": "word"
+    },
+    {
+      "word": "れ",
+      "start": 2.46,
+      "end": 2.66,
+      "type": "word"
+    },
+    {
+      "word": "て",
+      "start": 2.66,
+      "end": 2.819,
+      "type": "word"
+    },
+    {
+      "word": "よ",
+      "start": 2.819,
+      "end": 2.98,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 2.98,
+      "end": 4.119,
+      "type": "word"
+    },
+    {
+      "word": "や",
+      "start": 4.279,
+      "end": 4.459,
+      "type": "word"
+    },
+    {
+      "word": "だ",
+      "start": 4.459,
+      "end": 4.82,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 4.82,
+      "end": 5.799,
+      "type": "word"
+    },
+    {
+      "word": "ふ",
+      "start": 5.799,
+      "end": 5.959,
+      "type": "word"
+    },
+    {
+      "word": "ぅ",
+      "start": 5.959,
+      "end": 6.32,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 6.32,
+      "end": 7.339,
+      "type": "word"
+    },
+    {
+      "word": "藁",
+      "start": 7.339,
+      "end": 7.559,
+      "type": "word"
+    },
+    {
+      "word": "の",
+      "start": 7.559,
+      "end": 7.679,
+      "type": "word"
+    },
+    {
+      "word": "う",
+      "start": 7.679,
+      "end": 7.859,
+      "type": "word"
+    },
+    {
+      "word": "ち",
+      "start": 7.859,
+      "end": 8.359,
+      "type": "word"
+    },
+    {
+      "word": "倒",
+      "start": 8.359,
+      "end": 8.539,
+      "type": "word"
+    },
+    {
+      "word": "れ",
+      "start": 8.539,
+      "end": 8.68,
+      "type": "word"
+    },
+    {
+      "word": "た",
+      "start": 8.68,
+      "end": 8.759,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 8.759,
+      "end": 8.939,
+      "type": "word"
+    }
+  ]
+}

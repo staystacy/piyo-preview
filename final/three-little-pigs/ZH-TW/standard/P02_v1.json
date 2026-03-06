@@ -1,0 +1,292 @@
+{
+  "source_file": "P02_v1.mp3",
+  "language": "ZH-TW",
+  "version": "standard",
+  "page": "P02",
+  "variant": "v1",
+  "generated_at": "2026-03-06T05:33:00Z",
+  "words": [
+    {
+      "word": "大",
+      "start": 0.379,
+      "end": 0.759,
+      "type": "word"
+    },
+    {
+      "word": "毛",
+      "start": 0.759,
+      "end": 1.139,
+      "type": "word"
+    },
+    {
+      "word": "找",
+      "start": 1.139,
+      "end": 1.299,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 1.299,
+      "end": 1.519,
+      "type": "word"
+    },
+    {
+      "word": "一",
+      "start": 1.519,
+      "end": 1.759,
+      "type": "word"
+    },
+    {
+      "word": "堆",
+      "start": 1.759,
+      "end": 1.799,
+      "type": "word"
+    },
+    {
+      "word": "稻",
+      "start": 1.799,
+      "end": 2.299,
+      "type": "word"
+    },
+    {
+      "word": "草",
+      "start": 2.299,
+      "end": 2.379,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 2.379,
+      "end": 3.239,
+      "type": "word"
+    },
+    {
+      "word": "两",
+      "start": 3.24,
+      "end": 3.599,
+      "type": "word"
+    },
+    {
+      "word": "三",
+      "start": 3.599,
+      "end": 3.879,
+      "type": "word"
+    },
+    {
+      "word": "下",
+      "start": 3.879,
+      "end": 4.399,
+      "type": "word"
+    },
+    {
+      "word": "就",
+      "start": 4.4,
+      "end": 4.659,
+      "type": "word"
+    },
+    {
+      "word": "盖",
+      "start": 4.659,
+      "end": 4.899,
+      "type": "word"
+    },
+    {
+      "word": "好",
+      "start": 4.9,
+      "end": 5.139,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 5.139,
+      "end": 5.199,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 5.199,
+      "end": 6.439,
+      "type": "word"
+    },
+    {
+      "word": "好",
+      "start": 6.44,
+      "end": 6.539,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 6.539,
+      "end": 6.84,
+      "type": "word"
+    },
+    {
+      "word": "好",
+      "start": 6.84,
+      "end": 6.979,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 6.98,
+      "end": 7.42,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 7.42,
+      "end": 7.539,
+      "type": "word"
+    },
+    {
+      "word": "我",
+      "start": 7.539,
+      "end": 7.739,
+      "type": "word"
+    },
+    {
+      "word": "的",
+      "start": 7.739,
+      "end": 7.739,
+      "type": "word"
+    },
+    {
+      "word": "稻",
+      "start": 7.739,
+      "end": 8.139,
+      "type": "word"
+    },
+    {
+      "word": "草",
+      "start": 8.139,
+      "end": 8.239,
+      "type": "word"
+    },
+    {
+      "word": "屋",
+      "start": 8.239,
+      "end": 8.599,
+      "type": "word"
+    },
+    {
+      "word": "盖",
+      "start": 8.599,
+      "end": 8.759,
+      "type": "word"
+    },
+    {
+      "word": "好",
+      "start": 8.76,
+      "end": 9.159,
+      "type": "word"
+    },
+    {
+      "word": "啦",
+      "start": 9.159,
+      "end": 9.619,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 10.759,
+      "end": 10.84,
+      "type": "word"
+    },
+    {
+      "word": "大",
+      "start": 10.84,
+      "end": 11.14,
+      "type": "word"
+    },
+    {
+      "word": "毛",
+      "start": 11.14,
+      "end": 11.519,
+      "type": "word"
+    },
+    {
+      "word": "开",
+      "start": 11.519,
+      "end": 11.759,
+      "type": "word"
+    },
+    {
+      "word": "心",
+      "start": 11.759,
+      "end": 11.859,
+      "type": "word"
+    },
+    {
+      "word": "地",
+      "start": 11.859,
+      "end": 12.179,
+      "type": "word"
+    },
+    {
+      "word": "躺",
+      "start": 12.179,
+      "end": 12.439,
+      "type": "word"
+    },
+    {
+      "word": "在",
+      "start": 12.439,
+      "end": 12.599,
+      "type": "word"
+    },
+    {
+      "word": "椅",
+      "start": 12.599,
+      "end": 12.679,
+      "type": "word"
+    },
+    {
+      "word": "子",
+      "start": 12.679,
+      "end": 13.039,
+      "type": "word"
+    },
+    {
+      "word": "上",
+      "start": 13.039,
+      "end": 13.96,
+      "type": "word"
+    },
+    {
+      "word": "睡",
+      "start": 13.96,
+      "end": 14.159,
+      "type": "word"
+    },
+    {
+      "word": "午",
+      "start": 14.159,
+      "end": 14.519,
+      "type": "word"
+    },
+    {
+      "word": "觉",
+      "start": 14.519,
+      "end": 14.839,
+      "type": "word"
+    },
+    {
+      "word": "去",
+      "start": 14.839,
+      "end": 15.019,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 15.019,
+      "end": 15.099,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 15.099,
+      "end": 15.1,
+      "type": "word"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "source_file": "P07_v1.mp3",
+  "language": "JA",
+  "version": "toddler",
+  "page": "P07",
+  "variant": "v1",
+  "generated_at": "2026-03-06T05:33:36Z",
+  "words": [
+    {
+      "word": "入",
+      "start": 0.219,
+      "end": 0.379,
+      "type": "word"
+    },
+    {
+      "word": "れ",
+      "start": 0.379,
+      "end": 0.6,
+      "type": "word"
+    },
+    {
+      "word": "て",
+      "start": 0.6,
+      "end": 0.799,
+      "type": "word"
+    },
+    {
+      "word": "よ",
+      "start": 0.799,
+      "end": 1.179,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 1.179,
+      "end": 2.0,
+      "type": "word"
+    },
+    {
+      "word": "絶",
+      "start": 2.0,
+      "end": 2.4,
+      "type": "word"
+    },
+    {
+      "word": "対",
+      "start": 2.4,
+      "end": 2.559,
+      "type": "word"
+    },
+    {
+      "word": "嫌",
+      "start": 2.559,
+      "end": 2.839,
+      "type": "word"
+    },
+    {
+      "word": "だ",
+      "start": 2.839,
+      "end": 3.179,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 3.179,
+      "end": 3.259,
+      "type": "word"
+    }
+  ]
+}

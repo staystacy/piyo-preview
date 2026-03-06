@@ -1,0 +1,88 @@
+{
+  "source_file": "P05_v3.mp3",
+  "language": "EN",
+  "version": "toddler",
+  "page": "P05",
+  "variant": "v3",
+  "generated_at": "2026-03-06T05:32:11Z",
+  "words": [
+    {
+      "word": "Wolf",
+      "start": 0.34,
+      "end": 0.719,
+      "type": "word"
+    },
+    {
+      "word": "came",
+      "start": 0.779,
+      "end": 1.019,
+      "type": "word"
+    },
+    {
+      "word": "again.",
+      "start": 1.039,
+      "end": 1.659,
+      "type": "word"
+    },
+    {
+      "word": "\"Let",
+      "start": 2.179,
+      "end": 2.439,
+      "type": "word"
+    },
+    {
+      "word": "me",
+      "start": 2.5,
+      "end": 2.7,
+      "type": "word"
+    },
+    {
+      "word": "in!\"",
+      "start": 2.819,
+      "end": 3.299,
+      "type": "word"
+    },
+    {
+      "word": "\"No!\"",
+      "start": 3.619,
+      "end": 4.259,
+      "type": "word"
+    },
+    {
+      "word": "Crash.",
+      "start": 4.659,
+      "end": 5.359,
+      "type": "word"
+    },
+    {
+      "word": "The",
+      "start": 5.619,
+      "end": 5.679,
+      "type": "word"
+    },
+    {
+      "word": "stick",
+      "start": 5.799,
+      "end": 6.079,
+      "type": "word"
+    },
+    {
+      "word": "house",
+      "start": 6.119,
+      "end": 6.399,
+      "type": "word"
+    },
+    {
+      "word": "fell",
+      "start": 6.46,
+      "end": 6.639,
+      "type": "word"
+    },
+    {
+      "word": "too",
+      "start": 6.759,
+      "end": 7.26,
+      "type": "word"
+    }
+  ]
+}

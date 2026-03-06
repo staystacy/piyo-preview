@@ -1,0 +1,124 @@
+{
+  "source_file": "P10_v2.mp3",
+  "language": "EN",
+  "version": "standard",
+  "page": "P10",
+  "variant": "v2",
+  "generated_at": "2026-03-06T05:32:41Z",
+  "words": [
+    {
+      "word": "The",
+      "start": 0.14,
+      "end": 0.379,
+      "type": "word"
+    },
+    {
+      "word": "two",
+      "start": 0.419,
+      "end": 0.679,
+      "type": "word"
+    },
+    {
+      "word": "brothers",
+      "start": 0.779,
+      "end": 1.219,
+      "type": "word"
+    },
+    {
+      "word": "ran",
+      "start": 1.419,
+      "end": 1.819,
+      "type": "word"
+    },
+    {
+      "word": "to",
+      "start": 1.839,
+      "end": 1.919,
+      "type": "word"
+    },
+    {
+      "word": "Bricky's",
+      "start": 2.0,
+      "end": 2.479,
+      "type": "word"
+    },
+    {
+      "word": "brick",
+      "start": 2.5,
+      "end": 2.759,
+      "type": "word"
+    },
+    {
+      "word": "house.",
+      "start": 2.799,
+      "end": 3.519,
+      "type": "word"
+    },
+    {
+      "word": "Bricky",
+      "start": 3.539,
+      "end": 3.899,
+      "type": "word"
+    },
+    {
+      "word": "opened",
+      "start": 3.959,
+      "end": 4.199,
+      "type": "word"
+    },
+    {
+      "word": "the",
+      "start": 4.219,
+      "end": 4.319,
+      "type": "word"
+    },
+    {
+      "word": "door",
+      "start": 4.339,
+      "end": 4.679,
+      "type": "word"
+    },
+    {
+      "word": "wide.",
+      "start": 4.719,
+      "end": 5.139,
+      "type": "word"
+    },
+    {
+      "word": "\"Quick,",
+      "start": 5.339,
+      "end": 5.799,
+      "type": "word"
+    },
+    {
+      "word": "come",
+      "start": 5.839,
+      "end": 6.019,
+      "type": "word"
+    },
+    {
+      "word": "in.",
+      "start": 6.059,
+      "end": 6.479,
+      "type": "word"
+    },
+    {
+      "word": "You're",
+      "start": 6.519,
+      "end": 6.739,
+      "type": "word"
+    },
+    {
+      "word": "safe",
+      "start": 6.779,
+      "end": 7.079,
+      "type": "word"
+    },
+    {
+      "word": "here.\"",
+      "start": 7.159,
+      "end": 7.659,
+      "type": "word"
+    }
+  ]
+}

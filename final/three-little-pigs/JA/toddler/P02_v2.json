@@ -1,0 +1,100 @@
+{
+  "source_file": "P02_v2.mp3",
+  "language": "JA",
+  "version": "toddler",
+  "page": "P02",
+  "variant": "v2",
+  "generated_at": "2026-03-06T05:33:27Z",
+  "words": [
+    {
+      "word": "プ",
+      "start": 0.159,
+      "end": 0.28,
+      "type": "word"
+    },
+    {
+      "word": "ー",
+      "start": 0.28,
+      "end": 0.5,
+      "type": "word"
+    },
+    {
+      "word": "タ",
+      "start": 0.5,
+      "end": 0.779,
+      "type": "word"
+    },
+    {
+      "word": "は",
+      "start": 0.779,
+      "end": 1.319,
+      "type": "word"
+    },
+    {
+      "word": "わ",
+      "start": 1.319,
+      "end": 1.459,
+      "type": "word"
+    },
+    {
+      "word": "ら",
+      "start": 1.459,
+      "end": 1.659,
+      "type": "word"
+    },
+    {
+      "word": "の",
+      "start": 1.659,
+      "end": 1.919,
+      "type": "word"
+    },
+    {
+      "word": "お",
+      "start": 1.919,
+      "end": 2.259,
+      "type": "word"
+    },
+    {
+      "word": "家",
+      "start": 2.259,
+      "end": 3.539,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 3.539,
+      "end": 4.159,
+      "type": "word"
+    },
+    {
+      "word": "早",
+      "start": 4.159,
+      "end": 4.399,
+      "type": "word"
+    },
+    {
+      "word": "い",
+      "start": 4.4,
+      "end": 4.5,
+      "type": "word"
+    },
+    {
+      "word": "早",
+      "start": 4.5,
+      "end": 4.5,
+      "type": "word"
+    },
+    {
+      "word": "い",
+      "start": 4.5,
+      "end": 4.5,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 4.5,
+      "end": 5.34,
+      "type": "word"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "source_file": "P08_v1.mp3",
+  "language": "EN",
+  "version": "toddler",
+  "page": "P08",
+  "variant": "v1",
+  "generated_at": "2026-03-06T05:32:16Z",
+  "words": [
+    {
+      "word": "Huff,",
+      "start": 0.399,
+      "end": 1.379,
+      "type": "word"
+    },
+    {
+      "word": "puff,",
+      "start": 2.4,
+      "end": 3.399,
+      "type": "word"
+    },
+    {
+      "word": "can't",
+      "start": 4.139,
+      "end": 4.639,
+      "type": "word"
+    },
+    {
+      "word": "blow",
+      "start": 4.739,
+      "end": 5.0,
+      "type": "word"
+    },
+    {
+      "word": "it",
+      "start": 5.019,
+      "end": 5.179,
+      "type": "word"
+    },
+    {
+      "word": "down.",
+      "start": 5.219,
+      "end": 5.759,
+      "type": "word"
+    },
+    {
+      "word": "Wolf",
+      "start": 6.159,
+      "end": 6.459,
+      "type": "word"
+    },
+    {
+      "word": "ran",
+      "start": 6.5,
+      "end": 6.699,
+      "type": "word"
+    },
+    {
+      "word": "away",
+      "start": 6.739,
+      "end": 7.5,
+      "type": "word"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "source_file": "P09_v1.mp3",
+  "language": "JA",
+  "version": "toddler",
+  "page": "P09",
+  "variant": "v1",
+  "generated_at": "2026-03-06T05:33:40Z",
+  "words": [
+    {
+      "word": "三",
+      "start": 0.299,
+      "end": 0.519,
+      "type": "word"
+    },
+    {
+      "word": "匹",
+      "start": 0.519,
+      "end": 0.919,
+      "type": "word"
+    },
+    {
+      "word": "の",
+      "start": 0.919,
+      "end": 1.039,
+      "type": "word"
+    },
+    {
+      "word": "子",
+      "start": 1.039,
+      "end": 1.259,
+      "type": "word"
+    },
+    {
+      "word": "豚",
+      "start": 1.259,
+      "end": 1.5,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 1.5,
+      "end": 2.559,
+      "type": "word"
+    },
+    {
+      "word": "仲",
+      "start": 2.559,
+      "end": 2.819,
+      "type": "word"
+    },
+    {
+      "word": "良",
+      "start": 2.819,
+      "end": 2.899,
+      "type": "word"
+    },
+    {
+      "word": "く",
+      "start": 2.899,
+      "end": 3.319,
+      "type": "word"
+    },
+    {
+      "word": "ご",
+      "start": 3.319,
+      "end": 3.599,
+      "type": "word"
+    },
+    {
+      "word": "飯",
+      "start": 3.599,
+      "end": 3.699,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 3.699,
+      "end": 3.899,
+      "type": "word"
+    }
+  ]
+}

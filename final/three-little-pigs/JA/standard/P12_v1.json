@@ -1,0 +1,250 @@
+{
+  "source_file": "P12_v1.mp3",
+  "language": "JA",
+  "version": "standard",
+  "page": "P12",
+  "variant": "v1",
+  "generated_at": "2026-03-06T05:34:08Z",
+  "words": [
+    {
+      "word": "ふ",
+      "start": 0.299,
+      "end": 0.86,
+      "type": "word"
+    },
+    {
+      "word": "ー",
+      "start": 0.86,
+      "end": 3.279,
+      "type": "word"
+    },
+    {
+      "word": "ふ",
+      "start": 3.279,
+      "end": 3.839,
+      "type": "word"
+    },
+    {
+      "word": "ー",
+      "start": 3.839,
+      "end": 3.839,
+      "type": "word"
+    },
+    {
+      "word": "ふ",
+      "start": 3.839,
+      "end": 5.179,
+      "type": "word"
+    },
+    {
+      "word": "ー",
+      "start": 5.179,
+      "end": 5.179,
+      "type": "word"
+    },
+    {
+      "word": "ふ",
+      "start": 5.179,
+      "end": 5.179,
+      "type": "word"
+    },
+    {
+      "word": "ー",
+      "start": 5.179,
+      "end": 5.98,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 5.98,
+      "end": 7.639,
+      "type": "word"
+    },
+    {
+      "word": "全",
+      "start": 7.639,
+      "end": 8.059,
+      "type": "word"
+    },
+    {
+      "word": "然",
+      "start": 8.059,
+      "end": 8.339,
+      "type": "word"
+    },
+    {
+      "word": "倒",
+      "start": 8.34,
+      "end": 8.579,
+      "type": "word"
+    },
+    {
+      "word": "れ",
+      "start": 8.579,
+      "end": 8.68,
+      "type": "word"
+    },
+    {
+      "word": "な",
+      "start": 8.68,
+      "end": 8.799,
+      "type": "word"
+    },
+    {
+      "word": "い",
+      "start": 8.799,
+      "end": 10.0,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 10.0,
+      "end": 10.099,
+      "type": "word"
+    },
+    {
+      "word": "狼",
+      "start": 10.099,
+      "end": 10.619,
+      "type": "word"
+    },
+    {
+      "word": "は",
+      "start": 10.619,
+      "end": 11.18,
+      "type": "word"
+    },
+    {
+      "word": "ベ",
+      "start": 11.18,
+      "end": 11.379,
+      "type": "word"
+    },
+    {
+      "word": "タ",
+      "start": 11.38,
+      "end": 11.5,
+      "type": "word"
+    },
+    {
+      "word": "ッ",
+      "start": 11.5,
+      "end": 11.819,
+      "type": "word"
+    },
+    {
+      "word": "と",
+      "start": 11.819,
+      "end": 12.119,
+      "type": "word"
+    },
+    {
+      "word": "倒",
+      "start": 12.119,
+      "end": 12.34,
+      "type": "word"
+    },
+    {
+      "word": "れ",
+      "start": 12.34,
+      "end": 12.42,
+      "type": "word"
+    },
+    {
+      "word": "て",
+      "start": 12.42,
+      "end": 13.359,
+      "type": "word"
+    },
+    {
+      "word": "尻",
+      "start": 13.359,
+      "end": 13.699,
+      "type": "word"
+    },
+    {
+      "word": "尾",
+      "start": 13.699,
+      "end": 13.899,
+      "type": "word"
+    },
+    {
+      "word": "を",
+      "start": 13.899,
+      "end": 13.92,
+      "type": "word"
+    },
+    {
+      "word": "巻",
+      "start": 13.92,
+      "end": 14.039,
+      "type": "word"
+    },
+    {
+      "word": "い",
+      "start": 14.039,
+      "end": 14.26,
+      "type": "word"
+    },
+    {
+      "word": "て",
+      "start": 14.26,
+      "end": 14.639,
+      "type": "word"
+    },
+    {
+      "word": "逃",
+      "start": 14.639,
+      "end": 14.719,
+      "type": "word"
+    },
+    {
+      "word": "げ",
+      "start": 14.719,
+      "end": 14.839,
+      "type": "word"
+    },
+    {
+      "word": "て",
+      "start": 14.839,
+      "end": 14.919,
+      "type": "word"
+    },
+    {
+      "word": "い",
+      "start": 14.919,
+      "end": 15.059,
+      "type": "word"
+    },
+    {
+      "word": "き",
+      "start": 15.059,
+      "end": 15.219,
+      "type": "word"
+    },
+    {
+      "word": "ま",
+      "start": 15.219,
+      "end": 15.319,
+      "type": "word"
+    },
+    {
+      "word": "し",
+      "start": 15.319,
+      "end": 15.419,
+      "type": "word"
+    },
+    {
+      "word": "た",
+      "start": 15.42,
+      "end": 15.5,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 15.5,
+      "end": 15.5,
+      "type": "word"
+    }
+  ]
+}

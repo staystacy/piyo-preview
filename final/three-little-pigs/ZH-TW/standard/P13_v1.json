@@ -1,0 +1,406 @@
+{
+  "source_file": "P13_v1.mp3",
+  "language": "ZH-TW",
+  "version": "standard",
+  "page": "P13",
+  "variant": "v1",
+  "generated_at": "2026-03-06T05:33:24Z",
+  "words": [
+    {
+      "word": "三",
+      "start": 0.199,
+      "end": 0.339,
+      "type": "word"
+    },
+    {
+      "word": "兄",
+      "start": 0.339,
+      "end": 0.6,
+      "type": "word"
+    },
+    {
+      "word": "弟",
+      "start": 0.6,
+      "end": 0.959,
+      "type": "word"
+    },
+    {
+      "word": "在",
+      "start": 0.959,
+      "end": 1.439,
+      "type": "word"
+    },
+    {
+      "word": "小",
+      "start": 1.439,
+      "end": 1.659,
+      "type": "word"
+    },
+    {
+      "word": "毛",
+      "start": 1.659,
+      "end": 1.879,
+      "type": "word"
+    },
+    {
+      "word": "的",
+      "start": 1.879,
+      "end": 1.899,
+      "type": "word"
+    },
+    {
+      "word": "砖",
+      "start": 1.899,
+      "end": 2.339,
+      "type": "word"
+    },
+    {
+      "word": "头",
+      "start": 2.339,
+      "end": 2.519,
+      "type": "word"
+    },
+    {
+      "word": "屋",
+      "start": 2.519,
+      "end": 2.619,
+      "type": "word"
+    },
+    {
+      "word": "里",
+      "start": 2.619,
+      "end": 3.359,
+      "type": "word"
+    },
+    {
+      "word": "一",
+      "start": 3.359,
+      "end": 3.5,
+      "type": "word"
+    },
+    {
+      "word": "起",
+      "start": 3.5,
+      "end": 3.619,
+      "type": "word"
+    },
+    {
+      "word": "吃",
+      "start": 3.619,
+      "end": 4.0,
+      "type": "word"
+    },
+    {
+      "word": "晚",
+      "start": 4.0,
+      "end": 4.3,
+      "type": "word"
+    },
+    {
+      "word": "餐",
+      "start": 4.3,
+      "end": 4.459,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 4.459,
+      "end": 4.92,
+      "type": "word"
+    },
+    {
+      "word": "一",
+      "start": 4.92,
+      "end": 5.039,
+      "type": "word"
+    },
+    {
+      "word": "起",
+      "start": 5.039,
+      "end": 5.42,
+      "type": "word"
+    },
+    {
+      "word": "聊",
+      "start": 5.42,
+      "end": 5.68,
+      "type": "word"
+    },
+    {
+      "word": "天",
+      "start": 5.68,
+      "end": 5.799,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 5.799,
+      "end": 7.279,
+      "type": "word"
+    },
+    {
+      "word": "大",
+      "start": 7.279,
+      "end": 7.559,
+      "type": "word"
+    },
+    {
+      "word": "毛",
+      "start": 7.559,
+      "end": 7.9,
+      "type": "word"
+    },
+    {
+      "word": "说",
+      "start": 7.9,
+      "end": 8.039,
+      "type": "word"
+    },
+    {
+      "word": "：“",
+      "start": 8.039,
+      "end": 9.0,
+      "type": "word"
+    },
+    {
+      "word": "小",
+      "start": 9.0,
+      "end": 9.34,
+      "type": "word"
+    },
+    {
+      "word": "毛",
+      "start": 9.34,
+      "end": 9.42,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 9.42,
+      "end": 10.0,
+      "type": "word"
+    },
+    {
+      "word": "谢",
+      "start": 10.0,
+      "end": 10.119,
+      "type": "word"
+    },
+    {
+      "word": "谢",
+      "start": 10.119,
+      "end": 10.539,
+      "type": "word"
+    },
+    {
+      "word": "你",
+      "start": 10.539,
+      "end": 10.72,
+      "type": "word"
+    },
+    {
+      "word": "。”",
+      "start": 10.72,
+      "end": 11.959,
+      "type": "word"
+    },
+    {
+      "word": "二",
+      "start": 11.96,
+      "end": 12.399,
+      "type": "word"
+    },
+    {
+      "word": "毛",
+      "start": 12.399,
+      "end": 12.619,
+      "type": "word"
+    },
+    {
+      "word": "说",
+      "start": 12.619,
+      "end": 12.779,
+      "type": "word"
+    },
+    {
+      "word": "：“",
+      "start": 12.779,
+      "end": 13.699,
+      "type": "word"
+    },
+    {
+      "word": "下",
+      "start": 13.699,
+      "end": 13.939,
+      "type": "word"
+    },
+    {
+      "word": "次",
+      "start": 13.939,
+      "end": 14.379,
+      "type": "word"
+    },
+    {
+      "word": "我",
+      "start": 14.38,
+      "end": 14.579,
+      "type": "word"
+    },
+    {
+      "word": "也",
+      "start": 14.579,
+      "end": 14.64,
+      "type": "word"
+    },
+    {
+      "word": "要",
+      "start": 14.64,
+      "end": 15.079,
+      "type": "word"
+    },
+    {
+      "word": "盖",
+      "start": 15.079,
+      "end": 15.3,
+      "type": "word"
+    },
+    {
+      "word": "砖",
+      "start": 15.3,
+      "end": 15.499,
+      "type": "word"
+    },
+    {
+      "word": "头",
+      "start": 15.5,
+      "end": 15.859,
+      "type": "word"
+    },
+    {
+      "word": "屋",
+      "start": 15.859,
+      "end": 16.0,
+      "type": "word"
+    },
+    {
+      "word": "。”",
+      "start": 16.0,
+      "end": 17.479,
+      "type": "word"
+    },
+    {
+      "word": "后",
+      "start": 17.479,
+      "end": 17.659,
+      "type": "word"
+    },
+    {
+      "word": "来",
+      "start": 17.659,
+      "end": 18.0,
+      "type": "word"
+    },
+    {
+      "word": "呀",
+      "start": 18.0,
+      "end": 18.1,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 18.1,
+      "end": 18.7,
+      "type": "word"
+    },
+    {
+      "word": "三",
+      "start": 18.7,
+      "end": 18.899,
+      "type": "word"
+    },
+    {
+      "word": "只",
+      "start": 18.899,
+      "end": 19.319,
+      "type": "word"
+    },
+    {
+      "word": "小",
+      "start": 19.319,
+      "end": 19.52,
+      "type": "word"
+    },
+    {
+      "word": "猪",
+      "start": 19.52,
+      "end": 20.06,
+      "type": "word"
+    },
+    {
+      "word": "就",
+      "start": 20.06,
+      "end": 20.319,
+      "type": "word"
+    },
+    {
+      "word": "快",
+      "start": 20.319,
+      "end": 20.539,
+      "type": "word"
+    },
+    {
+      "word": "快",
+      "start": 20.539,
+      "end": 20.859,
+      "type": "word"
+    },
+    {
+      "word": "乐",
+      "start": 20.859,
+      "end": 20.939,
+      "type": "word"
+    },
+    {
+      "word": "乐",
+      "start": 20.939,
+      "end": 21.559,
+      "type": "word"
+    },
+    {
+      "word": "住",
+      "start": 21.559,
+      "end": 21.699,
+      "type": "word"
+    },
+    {
+      "word": "在",
+      "start": 21.699,
+      "end": 21.959,
+      "type": "word"
+    },
+    {
+      "word": "一",
+      "start": 21.959,
+      "end": 22.119,
+      "type": "word"
+    },
+    {
+      "word": "起",
+      "start": 22.119,
+      "end": 22.319,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 22.319,
+      "end": 22.36,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 22.36,
+      "end": 22.379,
+      "type": "word"
+    }
+  ]
+}

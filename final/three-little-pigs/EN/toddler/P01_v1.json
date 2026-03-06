@@ -1,0 +1,82 @@
+{
+  "source_file": "P01_v1.mp3",
+  "language": "EN",
+  "version": "toddler",
+  "page": "P01",
+  "variant": "v1",
+  "generated_at": "2026-03-06T05:32:03Z",
+  "words": [
+    {
+      "word": "Three",
+      "start": 0.319,
+      "end": 0.679,
+      "type": "word"
+    },
+    {
+      "word": "little",
+      "start": 0.819,
+      "end": 1.1,
+      "type": "word"
+    },
+    {
+      "word": "pigs",
+      "start": 1.159,
+      "end": 1.879,
+      "type": "word"
+    },
+    {
+      "word": "set",
+      "start": 1.879,
+      "end": 2.16,
+      "type": "word"
+    },
+    {
+      "word": "off",
+      "start": 2.24,
+      "end": 2.5,
+      "type": "word"
+    },
+    {
+      "word": "to",
+      "start": 2.5,
+      "end": 2.68,
+      "type": "word"
+    },
+    {
+      "word": "build",
+      "start": 2.7,
+      "end": 3.0,
+      "type": "word"
+    },
+    {
+      "word": "houses.",
+      "start": 3.079,
+      "end": 3.859,
+      "type": "word"
+    },
+    {
+      "word": "\"Good",
+      "start": 3.859,
+      "end": 4.079,
+      "type": "word"
+    },
+    {
+      "word": "luck!\"",
+      "start": 4.119,
+      "end": 4.739,
+      "type": "word"
+    },
+    {
+      "word": "said",
+      "start": 4.839,
+      "end": 5.019,
+      "type": "word"
+    },
+    {
+      "word": "Mama.",
+      "start": 5.079,
+      "end": 5.499,
+      "type": "word"
+    }
+  ]
+}

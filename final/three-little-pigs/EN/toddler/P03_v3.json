@@ -1,0 +1,82 @@
+{
+  "source_file": "P03_v3.mp3",
+  "language": "EN",
+  "version": "toddler",
+  "page": "P03",
+  "variant": "v3",
+  "generated_at": "2026-03-06T05:32:07Z",
+  "words": [
+    {
+      "word": "Woody",
+      "start": 0.34,
+      "end": 0.759,
+      "type": "word"
+    },
+    {
+      "word": "built",
+      "start": 0.899,
+      "end": 1.32,
+      "type": "word"
+    },
+    {
+      "word": "a",
+      "start": 1.539,
+      "end": 1.599,
+      "type": "word"
+    },
+    {
+      "word": "stick",
+      "start": 1.74,
+      "end": 2.099,
+      "type": "word"
+    },
+    {
+      "word": "house",
+      "start": 2.139,
+      "end": 2.679,
+      "type": "word"
+    },
+    {
+      "word": "bricky",
+      "start": 3.139,
+      "end": 3.6,
+      "type": "word"
+    },
+    {
+      "word": "built",
+      "start": 3.659,
+      "end": 4.039,
+      "type": "word"
+    },
+    {
+      "word": "a",
+      "start": 4.3,
+      "end": 4.339,
+      "type": "word"
+    },
+    {
+      "word": "brick",
+      "start": 4.46,
+      "end": 4.759,
+      "type": "word"
+    },
+    {
+      "word": "house",
+      "start": 4.779,
+      "end": 5.259,
+      "type": "word"
+    },
+    {
+      "word": "so",
+      "start": 5.779,
+      "end": 6.039,
+      "type": "word"
+    },
+    {
+      "word": "strong",
+      "start": 6.199,
+      "end": 7.34,
+      "type": "word"
+    }
+  ]
+}

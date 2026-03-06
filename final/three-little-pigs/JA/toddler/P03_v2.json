@@ -1,0 +1,154 @@
+{
+  "source_file": "P03_v2.mp3",
+  "language": "JA",
+  "version": "toddler",
+  "page": "P03",
+  "variant": "v2",
+  "generated_at": "2026-03-06T05:33:29Z",
+  "words": [
+    {
+      "word": "ふ",
+      "start": 0.159,
+      "end": 0.319,
+      "type": "word"
+    },
+    {
+      "word": "う",
+      "start": 0.319,
+      "end": 0.499,
+      "type": "word"
+    },
+    {
+      "word": "す",
+      "start": 0.499,
+      "end": 0.639,
+      "type": "word"
+    },
+    {
+      "word": "け",
+      "start": 0.639,
+      "end": 0.779,
+      "type": "word"
+    },
+    {
+      "word": "は",
+      "start": 0.779,
+      "end": 1.359,
+      "type": "word"
+    },
+    {
+      "word": "木",
+      "start": 1.36,
+      "end": 1.559,
+      "type": "word"
+    },
+    {
+      "word": "の",
+      "start": 1.559,
+      "end": 1.799,
+      "type": "word"
+    },
+    {
+      "word": "お",
+      "start": 1.799,
+      "end": 2.019,
+      "type": "word"
+    },
+    {
+      "word": "家",
+      "start": 2.019,
+      "end": 2.319,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 2.319,
+      "end": 3.519,
+      "type": "word"
+    },
+    {
+      "word": "ぶ",
+      "start": 3.519,
+      "end": 3.639,
+      "type": "word"
+    },
+    {
+      "word": "ー",
+      "start": 3.639,
+      "end": 3.859,
+      "type": "word"
+    },
+    {
+      "word": "こ",
+      "start": 3.859,
+      "end": 4.0,
+      "type": "word"
+    },
+    {
+      "word": "は",
+      "start": 4.0,
+      "end": 4.639,
+      "type": "word"
+    },
+    {
+      "word": "レ",
+      "start": 4.639,
+      "end": 4.759,
+      "type": "word"
+    },
+    {
+      "word": "ン",
+      "start": 4.759,
+      "end": 4.959,
+      "type": "word"
+    },
+    {
+      "word": "ガ",
+      "start": 4.96,
+      "end": 5.179,
+      "type": "word"
+    },
+    {
+      "word": "の",
+      "start": 5.179,
+      "end": 5.359,
+      "type": "word"
+    },
+    {
+      "word": "お",
+      "start": 5.359,
+      "end": 5.679,
+      "type": "word"
+    },
+    {
+      "word": "家",
+      "start": 5.679,
+      "end": 6.0,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 6.0,
+      "end": 7.4,
+      "type": "word"
+    },
+    {
+      "word": "丈",
+      "start": 7.4,
+      "end": 7.559,
+      "type": "word"
+    },
+    {
+      "word": "夫",
+      "start": 7.559,
+      "end": 7.659,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 7.659,
+      "end": 7.739,
+      "type": "word"
+    }
+  ]
+}

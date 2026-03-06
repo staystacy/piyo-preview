@@ -1,0 +1,142 @@
+{
+  "source_file": "P04_v2.mp3",
+  "language": "ZH-TW",
+  "version": "toddler",
+  "page": "P04",
+  "variant": "v2",
+  "generated_at": "2026-03-06T05:32:52Z",
+  "words": [
+    {
+      "word": "大",
+      "start": 0.34,
+      "end": 0.74,
+      "type": "word"
+    },
+    {
+      "word": "野",
+      "start": 0.74,
+      "end": 1.139,
+      "type": "word"
+    },
+    {
+      "word": "狼",
+      "start": 1.139,
+      "end": 1.48,
+      "type": "word"
+    },
+    {
+      "word": "来",
+      "start": 1.48,
+      "end": 1.72,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 1.72,
+      "end": 2.099,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 2.099,
+      "end": 3.039,
+      "type": "word"
+    },
+    {
+      "word": "让",
+      "start": 3.22,
+      "end": 3.38,
+      "type": "word"
+    },
+    {
+      "word": "我",
+      "start": 3.38,
+      "end": 3.719,
+      "type": "word"
+    },
+    {
+      "word": "进",
+      "start": 3.72,
+      "end": 4.019,
+      "type": "word"
+    },
+    {
+      "word": "去",
+      "start": 4.019,
+      "end": 4.159,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 4.159,
+      "end": 5.019,
+      "type": "word"
+    },
+    {
+      "word": "不",
+      "start": 5.199,
+      "end": 5.619,
+      "type": "word"
+    },
+    {
+      "word": "要",
+      "start": 5.619,
+      "end": 5.839,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 5.839,
+      "end": 7.259,
+      "type": "word"
+    },
+    {
+      "word": "呼",
+      "start": 7.259,
+      "end": 7.879,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 7.879,
+      "end": 8.639,
+      "type": "word"
+    },
+    {
+      "word": "稻",
+      "start": 8.639,
+      "end": 8.999,
+      "type": "word"
+    },
+    {
+      "word": "草",
+      "start": 9.0,
+      "end": 9.3,
+      "type": "word"
+    },
+    {
+      "word": "屋",
+      "start": 9.3,
+      "end": 10.039,
+      "type": "word"
+    },
+    {
+      "word": "倒",
+      "start": 10.039,
+      "end": 10.26,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 10.26,
+      "end": 10.639,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 10.639,
+      "end": 10.699,
+      "type": "word"
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "source_file": "P09_v1.mp3",
+  "language": "ZH-TW",
+  "version": "standard",
+  "page": "P09",
+  "variant": "v1",
+  "generated_at": "2026-03-06T05:33:14Z",
+  "words": [
+    {
+      "word": "大",
+      "start": 0.219,
+      "end": 0.579,
+      "type": "word"
+    },
+    {
+      "word": "野",
+      "start": 0.579,
+      "end": 0.959,
+      "type": "word"
+    },
+    {
+      "word": "狼",
+      "start": 0.959,
+      "end": 1.559,
+      "type": "word"
+    },
+    {
+      "word": "吸",
+      "start": 1.559,
+      "end": 1.859,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 1.86,
+      "end": 1.98,
+      "type": "word"
+    },
+    {
+      "word": "一",
+      "start": 1.98,
+      "end": 2.379,
+      "type": "word"
+    },
+    {
+      "word": "大",
+      "start": 2.379,
+      "end": 2.779,
+      "type": "word"
+    },
+    {
+      "word": "口",
+      "start": 2.779,
+      "end": 3.0,
+      "type": "word"
+    },
+    {
+      "word": "气",
+      "start": 3.0,
+      "end": 3.119,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 3.119,
+      "end": 4.819,
+      "type": "word"
+    },
+    {
+      "word": "呼",
+      "start": 4.819,
+      "end": 6.019,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 6.019,
+      "end": 6.98,
+      "type": "word"
+    },
+    {
+      "word": "木",
+      "start": 6.98,
+      "end": 7.34,
+      "type": "word"
+    },
+    {
+      "word": "板",
+      "start": 7.34,
+      "end": 7.459,
+      "type": "word"
+    },
+    {
+      "word": "飞",
+      "start": 7.46,
+      "end": 7.619,
+      "type": "word"
+    },
+    {
+      "word": "得",
+      "start": 7.619,
+      "end": 7.839,
+      "type": "word"
+    },
+    {
+      "word": "到",
+      "start": 7.839,
+      "end": 8.399,
+      "type": "word"
+    },
+    {
+      "word": "处",
+      "start": 8.399,
+      "end": 8.639,
+      "type": "word"
+    },
+    {
+      "word": "都",
+      "start": 8.639,
+      "end": 8.979,
+      "type": "word"
+    },
+    {
+      "word": "是",
+      "start": 8.979,
+      "end": 9.119,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 9.119,
+      "end": 9.839,
+      "type": "word"
+    },
+    {
+      "word": "木",
+      "start": 9.84,
+      "end": 10.199,
+      "type": "word"
+    },
+    {
+      "word": "头",
+      "start": 10.199,
+      "end": 10.42,
+      "type": "word"
+    },
+    {
+      "word": "屋",
+      "start": 10.42,
+      "end": 10.96,
+      "type": "word"
+    },
+    {
+      "word": "也",
+      "start": 10.96,
+      "end": 11.279,
+      "type": "word"
+    },
+    {
+      "word": "倒",
+      "start": 11.279,
+      "end": 11.46,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 11.46,
+      "end": 11.539,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 11.539,
+      "end": 12.88,
+      "type": "word"
+    },
+    {
+      "word": "大",
+      "start": 12.88,
+      "end": 13.199,
+      "type": "word"
+    },
+    {
+      "word": "毛",
+      "start": 13.199,
+      "end": 13.519,
+      "type": "word"
+    },
+    {
+      "word": "和",
+      "start": 13.519,
+      "end": 13.659,
+      "type": "word"
+    },
+    {
+      "word": "二",
+      "start": 13.659,
+      "end": 13.979,
+      "type": "word"
+    },
+    {
+      "word": "毛",
+      "start": 13.979,
+      "end": 14.539,
+      "type": "word"
+    },
+    {
+      "word": "抱",
+      "start": 14.539,
+      "end": 14.699,
+      "type": "word"
+    },
+    {
+      "word": "在",
+      "start": 14.699,
+      "end": 14.859,
+      "type": "word"
+    },
+    {
+      "word": "一",
+      "start": 14.859,
+      "end": 15.159,
+      "type": "word"
+    },
+    {
+      "word": "起",
+      "start": 15.159,
+      "end": 15.279,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 15.279,
+      "end": 16.0,
+      "type": "word"
+    },
+    {
+      "word": "拔",
+      "start": 16.0,
+      "end": 16.299,
+      "type": "word"
+    },
+    {
+      "word": "腿",
+      "start": 16.299,
+      "end": 16.659,
+      "type": "word"
+    },
+    {
+      "word": "就",
+      "start": 16.659,
+      "end": 16.92,
+      "type": "word"
+    },
+    {
+      "word": "跑",
+      "start": 16.92,
+      "end": 17.0,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 17.0,
+      "end": 17.02,
+      "type": "word"
+    }
+  ]
+}

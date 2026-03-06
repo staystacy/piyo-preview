@@ -1,0 +1,394 @@
+{
+  "source_file": "P08_v2.mp3",
+  "language": "ZH-TW",
+  "version": "standard",
+  "page": "P08",
+  "variant": "v2",
+  "generated_at": "2026-03-06T05:33:12Z",
+  "words": [
+    {
+      "word": "大",
+      "start": 0.399,
+      "end": 0.639,
+      "type": "word"
+    },
+    {
+      "word": "毛",
+      "start": 0.639,
+      "end": 1.159,
+      "type": "word"
+    },
+    {
+      "word": "跑",
+      "start": 1.159,
+      "end": 1.279,
+      "type": "word"
+    },
+    {
+      "word": "呀",
+      "start": 1.279,
+      "end": 1.599,
+      "type": "word"
+    },
+    {
+      "word": "跑",
+      "start": 1.599,
+      "end": 1.699,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 1.699,
+      "end": 2.219,
+      "type": "word"
+    },
+    {
+      "word": "跑",
+      "start": 2.219,
+      "end": 2.559,
+      "type": "word"
+    },
+    {
+      "word": "到",
+      "start": 2.559,
+      "end": 2.899,
+      "type": "word"
+    },
+    {
+      "word": "二",
+      "start": 2.899,
+      "end": 3.099,
+      "type": "word"
+    },
+    {
+      "word": "毛",
+      "start": 3.099,
+      "end": 3.459,
+      "type": "word"
+    },
+    {
+      "word": "的",
+      "start": 3.46,
+      "end": 3.68,
+      "type": "word"
+    },
+    {
+      "word": "木",
+      "start": 3.68,
+      "end": 3.959,
+      "type": "word"
+    },
+    {
+      "word": "头",
+      "start": 3.959,
+      "end": 4.159,
+      "type": "word"
+    },
+    {
+      "word": "屋",
+      "start": 4.159,
+      "end": 4.239,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 4.239,
+      "end": 5.219,
+      "type": "word"
+    },
+    {
+      "word": "快",
+      "start": 5.4,
+      "end": 5.639,
+      "type": "word"
+    },
+    {
+      "word": "看",
+      "start": 5.639,
+      "end": 5.719,
+      "type": "word"
+    },
+    {
+      "word": "啊",
+      "start": 5.719,
+      "end": 5.939,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 5.939,
+      "end": 6.36,
+      "type": "word"
+    },
+    {
+      "word": "大",
+      "start": 6.36,
+      "end": 6.519,
+      "type": "word"
+    },
+    {
+      "word": "野",
+      "start": 6.519,
+      "end": 6.659,
+      "type": "word"
+    },
+    {
+      "word": "狼",
+      "start": 6.659,
+      "end": 6.899,
+      "type": "word"
+    },
+    {
+      "word": "来",
+      "start": 6.899,
+      "end": 7.159,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 7.159,
+      "end": 7.379,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 7.379,
+      "end": 8.579,
+      "type": "word"
+    },
+    {
+      "word": "大",
+      "start": 8.76,
+      "end": 9.079,
+      "type": "word"
+    },
+    {
+      "word": "野",
+      "start": 9.079,
+      "end": 9.34,
+      "type": "word"
+    },
+    {
+      "word": "狼",
+      "start": 9.34,
+      "end": 9.84,
+      "type": "word"
+    },
+    {
+      "word": "追",
+      "start": 9.84,
+      "end": 10.14,
+      "type": "word"
+    },
+    {
+      "word": "来",
+      "start": 10.14,
+      "end": 10.399,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 10.399,
+      "end": 10.579,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 10.579,
+      "end": 11.699,
+      "type": "word"
+    },
+    {
+      "word": "小",
+      "start": 12.0,
+      "end": 12.14,
+      "type": "word"
+    },
+    {
+      "word": "猪",
+      "start": 12.14,
+      "end": 12.239,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 12.239,
+      "end": 12.479,
+      "type": "word"
+    },
+    {
+      "word": "小",
+      "start": 12.479,
+      "end": 12.639,
+      "type": "word"
+    },
+    {
+      "word": "猪",
+      "start": 12.639,
+      "end": 12.699,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 12.699,
+      "end": 13.179,
+      "type": "word"
+    },
+    {
+      "word": "让",
+      "start": 13.179,
+      "end": 13.359,
+      "type": "word"
+    },
+    {
+      "word": "我",
+      "start": 13.359,
+      "end": 13.639,
+      "type": "word"
+    },
+    {
+      "word": "进",
+      "start": 13.639,
+      "end": 13.979,
+      "type": "word"
+    },
+    {
+      "word": "去",
+      "start": 13.979,
+      "end": 14.079,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 14.079,
+      "end": 15.319,
+      "type": "word"
+    },
+    {
+      "word": "两",
+      "start": 15.539,
+      "end": 15.659,
+      "type": "word"
+    },
+    {
+      "word": "只",
+      "start": 15.659,
+      "end": 16.0,
+      "type": "word"
+    },
+    {
+      "word": "小",
+      "start": 16.0,
+      "end": 16.2,
+      "type": "word"
+    },
+    {
+      "word": "猪",
+      "start": 16.2,
+      "end": 16.639,
+      "type": "word"
+    },
+    {
+      "word": "一",
+      "start": 16.639,
+      "end": 16.899,
+      "type": "word"
+    },
+    {
+      "word": "起",
+      "start": 16.899,
+      "end": 17.079,
+      "type": "word"
+    },
+    {
+      "word": "喊",
+      "start": 17.079,
+      "end": 17.18,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 17.18,
+      "end": 18.139,
+      "type": "word"
+    },
+    {
+      "word": "不",
+      "start": 18.219,
+      "end": 18.399,
+      "type": "word"
+    },
+    {
+      "word": "要",
+      "start": 18.399,
+      "end": 18.479,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 18.479,
+      "end": 18.799,
+      "type": "word"
+    },
+    {
+      "word": "不",
+      "start": 18.799,
+      "end": 18.939,
+      "type": "word"
+    },
+    {
+      "word": "要",
+      "start": 18.939,
+      "end": 19.059,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 19.059,
+      "end": 19.379,
+      "type": "word"
+    },
+    {
+      "word": "就",
+      "start": 19.379,
+      "end": 19.479,
+      "type": "word"
+    },
+    {
+      "word": "不",
+      "start": 19.479,
+      "end": 19.719,
+      "type": "word"
+    },
+    {
+      "word": "让",
+      "start": 19.719,
+      "end": 19.959,
+      "type": "word"
+    },
+    {
+      "word": "你",
+      "start": 19.959,
+      "end": 20.159,
+      "type": "word"
+    },
+    {
+      "word": "进",
+      "start": 20.159,
+      "end": 20.379,
+      "type": "word"
+    },
+    {
+      "word": "来",
+      "start": 20.379,
+      "end": 20.539,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 20.539,
+      "end": 20.62,
+      "type": "word"
+    }
+  ]
+}

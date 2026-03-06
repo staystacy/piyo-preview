@@ -1,0 +1,130 @@
+{
+  "source_file": "P01.mp3",
+  "language": "ZH-TW",
+  "version": "toddler",
+  "page": "P01",
+  "variant": "v0",
+  "generated_at": "2026-03-06T05:36:22Z",
+  "words": [
+    {
+      "word": "三",
+      "start": 0.239,
+      "end": 0.539,
+      "type": "word"
+    },
+    {
+      "word": "只",
+      "start": 0.539,
+      "end": 0.919,
+      "type": "word"
+    },
+    {
+      "word": "小",
+      "start": 0.919,
+      "end": 0.999,
+      "type": "word"
+    },
+    {
+      "word": "猪",
+      "start": 0.999,
+      "end": 2.039,
+      "type": "word"
+    },
+    {
+      "word": "要",
+      "start": 2.039,
+      "end": 2.22,
+      "type": "word"
+    },
+    {
+      "word": "去",
+      "start": 2.22,
+      "end": 2.42,
+      "type": "word"
+    },
+    {
+      "word": "盖",
+      "start": 2.42,
+      "end": 2.599,
+      "type": "word"
+    },
+    {
+      "word": "房",
+      "start": 2.599,
+      "end": 2.919,
+      "type": "word"
+    },
+    {
+      "word": "子",
+      "start": 2.919,
+      "end": 3.219,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 3.22,
+      "end": 3.38,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 3.38,
+      "end": 4.359,
+      "type": "word"
+    },
+    {
+      "word": "猪",
+      "start": 4.36,
+      "end": 4.519,
+      "type": "word"
+    },
+    {
+      "word": "妈",
+      "start": 4.519,
+      "end": 4.679,
+      "type": "word"
+    },
+    {
+      "word": "妈",
+      "start": 4.679,
+      "end": 5.119,
+      "type": "word"
+    },
+    {
+      "word": "说",
+      "start": 5.119,
+      "end": 5.319,
+      "type": "word"
+    },
+    {
+      "word": "：“",
+      "start": 5.319,
+      "end": 6.159,
+      "type": "word"
+    },
+    {
+      "word": "加",
+      "start": 6.159,
+      "end": 6.42,
+      "type": "word"
+    },
+    {
+      "word": "油",
+      "start": 6.42,
+      "end": 6.659,
+      "type": "word"
+    },
+    {
+      "word": "哦",
+      "start": 6.659,
+      "end": 6.799,
+      "type": "word"
+    },
+    {
+      "word": "！”",
+      "start": 6.799,
+      "end": 6.899,
+      "type": "word"
+    }
+  ]
+}

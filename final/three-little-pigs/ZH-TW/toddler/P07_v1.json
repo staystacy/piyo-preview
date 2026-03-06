@@ -1,0 +1,76 @@
+{
+  "source_file": "P07_v1.mp3",
+  "language": "ZH-TW",
+  "version": "toddler",
+  "page": "P07",
+  "variant": "v1",
+  "generated_at": "2026-03-06T05:32:56Z",
+  "words": [
+    {
+      "word": "让",
+      "start": 0.239,
+      "end": 0.699,
+      "type": "word"
+    },
+    {
+      "word": "我",
+      "start": 0.699,
+      "end": 0.98,
+      "type": "word"
+    },
+    {
+      "word": "进",
+      "start": 0.98,
+      "end": 1.439,
+      "type": "word"
+    },
+    {
+      "word": "去",
+      "start": 1.439,
+      "end": 1.779,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 1.779,
+      "end": 2.539,
+      "type": "word"
+    },
+    {
+      "word": "不",
+      "start": 2.68,
+      "end": 3.059,
+      "type": "word"
+    },
+    {
+      "word": "要",
+      "start": 3.059,
+      "end": 3.279,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 3.279,
+      "end": 3.359,
+      "type": "word"
+    },
+    {
+      "word": "不",
+      "start": 3.359,
+      "end": 3.839,
+      "type": "word"
+    },
+    {
+      "word": "要",
+      "start": 3.839,
+      "end": 4.199,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 4.199,
+      "end": 4.299,
+      "type": "word"
+    }
+  ]
+}

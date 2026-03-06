@@ -1,0 +1,124 @@
+{
+  "source_file": "P06_v1.mp3",
+  "language": "JA",
+  "version": "toddler",
+  "page": "P06",
+  "variant": "v1",
+  "generated_at": "2026-03-06T05:33:35Z",
+  "words": [
+    {
+      "word": "つ",
+      "start": 0.179,
+      "end": 0.259,
+      "type": "word"
+    },
+    {
+      "word": "る",
+      "start": 0.259,
+      "end": 0.399,
+      "type": "word"
+    },
+    {
+      "word": "び",
+      "start": 0.399,
+      "end": 0.56,
+      "type": "word"
+    },
+    {
+      "word": "き",
+      "start": 0.56,
+      "end": 1.099,
+      "type": "word"
+    },
+    {
+      "word": "み",
+      "start": 1.099,
+      "end": 1.199,
+      "type": "word"
+    },
+    {
+      "word": "ん",
+      "start": 1.199,
+      "end": 1.319,
+      "type": "word"
+    },
+    {
+      "word": "な",
+      "start": 1.319,
+      "end": 1.339,
+      "type": "word"
+    },
+    {
+      "word": "で",
+      "start": 1.339,
+      "end": 2.019,
+      "type": "word"
+    },
+    {
+      "word": "レ",
+      "start": 2.019,
+      "end": 2.079,
+      "type": "word"
+    },
+    {
+      "word": "ン",
+      "start": 2.079,
+      "end": 2.24,
+      "type": "word"
+    },
+    {
+      "word": "ガ",
+      "start": 2.24,
+      "end": 2.38,
+      "type": "word"
+    },
+    {
+      "word": "の",
+      "start": 2.38,
+      "end": 2.499,
+      "type": "word"
+    },
+    {
+      "word": "お",
+      "start": 2.499,
+      "end": 2.68,
+      "type": "word"
+    },
+    {
+      "word": "家",
+      "start": 2.68,
+      "end": 2.859,
+      "type": "word"
+    },
+    {
+      "word": "へ",
+      "start": 2.859,
+      "end": 3.019,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 3.019,
+      "end": 4.92,
+      "type": "word"
+    },
+    {
+      "word": "安",
+      "start": 4.92,
+      "end": 5.44,
+      "type": "word"
+    },
+    {
+      "word": "全",
+      "start": 5.44,
+      "end": 5.539,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 5.539,
+      "end": 5.82,
+      "type": "word"
+    }
+  ]
+}

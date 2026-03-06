@@ -1,0 +1,46 @@
+{
+  "source_file": "P07_v1.mp3",
+  "language": "EN",
+  "version": "toddler",
+  "page": "P07",
+  "variant": "v1",
+  "generated_at": "2026-03-06T05:32:14Z",
+  "words": [
+    {
+      "word": "Let",
+      "start": 0.259,
+      "end": 0.479,
+      "type": "word"
+    },
+    {
+      "word": "me",
+      "start": 0.559,
+      "end": 0.74,
+      "type": "word"
+    },
+    {
+      "word": "in.",
+      "start": 0.839,
+      "end": 1.179,
+      "type": "word"
+    },
+    {
+      "word": "No,",
+      "start": 1.48,
+      "end": 1.74,
+      "type": "word"
+    },
+    {
+      "word": "no,",
+      "start": 1.759,
+      "end": 2.019,
+      "type": "word"
+    },
+    {
+      "word": "no!",
+      "start": 2.059,
+      "end": 2.539,
+      "type": "word"
+    }
+  ]
+}

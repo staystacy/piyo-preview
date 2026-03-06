@@ -1,0 +1,202 @@
+{
+  "source_file": "P07_v2.mp3",
+  "language": "EN",
+  "version": "standard",
+  "page": "P07",
+  "variant": "v2",
+  "generated_at": "2026-03-06T05:32:34Z",
+  "words": [
+    {
+      "word": "Big",
+      "start": 0.199,
+      "end": 0.579,
+      "type": "word"
+    },
+    {
+      "word": "Bad",
+      "start": 0.699,
+      "end": 0.999,
+      "type": "word"
+    },
+    {
+      "word": "Wolf",
+      "start": 1.079,
+      "end": 1.5,
+      "type": "word"
+    },
+    {
+      "word": "took",
+      "start": 1.6,
+      "end": 1.799,
+      "type": "word"
+    },
+    {
+      "word": "a",
+      "start": 1.86,
+      "end": 1.899,
+      "type": "word"
+    },
+    {
+      "word": "deep",
+      "start": 2.139,
+      "end": 2.859,
+      "type": "word"
+    },
+    {
+      "word": "breath.",
+      "start": 3.059,
+      "end": 3.819,
+      "type": "word"
+    },
+    {
+      "word": "\"I'll",
+      "start": 4.539,
+      "end": 5.0,
+      "type": "word"
+    },
+    {
+      "word": "huff",
+      "start": 5.119,
+      "end": 5.519,
+      "type": "word"
+    },
+    {
+      "word": "and",
+      "start": 5.92,
+      "end": 6.179,
+      "type": "word"
+    },
+    {
+      "word": "I'll",
+      "start": 6.339,
+      "end": 6.539,
+      "type": "word"
+    },
+    {
+      "word": "puff",
+      "start": 6.639,
+      "end": 7.099,
+      "type": "word"
+    },
+    {
+      "word": "and",
+      "start": 7.42,
+      "end": 7.719,
+      "type": "word"
+    },
+    {
+      "word": "I'll",
+      "start": 7.859,
+      "end": 8.119,
+      "type": "word"
+    },
+    {
+      "word": "blow",
+      "start": 8.239,
+      "end": 9.0,
+      "type": "word"
+    },
+    {
+      "word": "your",
+      "start": 9.119,
+      "end": 9.32,
+      "type": "word"
+    },
+    {
+      "word": "house",
+      "start": 9.42,
+      "end": 9.779,
+      "type": "word"
+    },
+    {
+      "word": "down.\"",
+      "start": 9.88,
+      "end": 10.5,
+      "type": "word"
+    },
+    {
+      "word": "Whoosh!",
+      "start": 11.039,
+      "end": 11.899,
+      "type": "word"
+    },
+    {
+      "word": "Straw",
+      "start": 12.64,
+      "end": 13.119,
+      "type": "word"
+    },
+    {
+      "word": "flew",
+      "start": 13.139,
+      "end": 13.439,
+      "type": "word"
+    },
+    {
+      "word": "everywhere.",
+      "start": 13.719,
+      "end": 14.479,
+      "type": "word"
+    },
+    {
+      "word": "The",
+      "start": 14.699,
+      "end": 14.879,
+      "type": "word"
+    },
+    {
+      "word": "house",
+      "start": 14.939,
+      "end": 15.279,
+      "type": "word"
+    },
+    {
+      "word": "was",
+      "start": 15.319,
+      "end": 15.559,
+      "type": "word"
+    },
+    {
+      "word": "gone.",
+      "start": 15.6,
+      "end": 16.239,
+      "type": "word"
+    },
+    {
+      "word": "Biggie",
+      "start": 16.639,
+      "end": 17.02,
+      "type": "word"
+    },
+    {
+      "word": "ran",
+      "start": 17.1,
+      "end": 17.559,
+      "type": "word"
+    },
+    {
+      "word": "and",
+      "start": 17.659,
+      "end": 17.8,
+      "type": "word"
+    },
+    {
+      "word": "ran",
+      "start": 17.94,
+      "end": 18.459,
+      "type": "word"
+    },
+    {
+      "word": "and",
+      "start": 18.52,
+      "end": 18.64,
+      "type": "word"
+    },
+    {
+      "word": "ran",
+      "start": 18.779,
+      "end": 19.5,
+      "type": "word"
+    }
+  ]
+}

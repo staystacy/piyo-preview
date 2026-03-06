@@ -1,0 +1,166 @@
+{
+  "source_file": "P01_v1.mp3",
+  "language": "EN",
+  "version": "standard",
+  "page": "P01",
+  "variant": "v1",
+  "generated_at": "2026-03-06T05:32:20Z",
+  "words": [
+    {
+      "word": "Biggy,",
+      "start": 0.299,
+      "end": 1.059,
+      "type": "word"
+    },
+    {
+      "word": "Woody,",
+      "start": 1.159,
+      "end": 1.879,
+      "type": "word"
+    },
+    {
+      "word": "and",
+      "start": 1.919,
+      "end": 2.079,
+      "type": "word"
+    },
+    {
+      "word": "Bricky",
+      "start": 2.159,
+      "end": 2.6,
+      "type": "word"
+    },
+    {
+      "word": "were",
+      "start": 2.879,
+      "end": 3.139,
+      "type": "word"
+    },
+    {
+      "word": "three",
+      "start": 3.179,
+      "end": 3.459,
+      "type": "word"
+    },
+    {
+      "word": "little",
+      "start": 3.619,
+      "end": 3.9,
+      "type": "word"
+    },
+    {
+      "word": "pig",
+      "start": 3.919,
+      "end": 4.139,
+      "type": "word"
+    },
+    {
+      "word": "brothers.",
+      "start": 4.219,
+      "end": 5.0,
+      "type": "word"
+    },
+    {
+      "word": "One",
+      "start": 5.139,
+      "end": 5.259,
+      "type": "word"
+    },
+    {
+      "word": "day,",
+      "start": 5.359,
+      "end": 5.779,
+      "type": "word"
+    },
+    {
+      "word": "Mama",
+      "start": 5.839,
+      "end": 6.119,
+      "type": "word"
+    },
+    {
+      "word": "Pig",
+      "start": 6.219,
+      "end": 6.439,
+      "type": "word"
+    },
+    {
+      "word": "said,",
+      "start": 6.539,
+      "end": 7.079,
+      "type": "word"
+    },
+    {
+      "word": "\"You're",
+      "start": 7.099,
+      "end": 7.399,
+      "type": "word"
+    },
+    {
+      "word": "all",
+      "start": 7.519,
+      "end": 7.699,
+      "type": "word"
+    },
+    {
+      "word": "grown",
+      "start": 7.799,
+      "end": 8.1,
+      "type": "word"
+    },
+    {
+      "word": "up",
+      "start": 8.159,
+      "end": 8.38,
+      "type": "word"
+    },
+    {
+      "word": "now.",
+      "start": 8.399,
+      "end": 8.739,
+      "type": "word"
+    },
+    {
+      "word": "Time",
+      "start": 9.039,
+      "end": 9.38,
+      "type": "word"
+    },
+    {
+      "word": "to",
+      "start": 9.399,
+      "end": 9.539,
+      "type": "word"
+    },
+    {
+      "word": "build",
+      "start": 9.559,
+      "end": 9.86,
+      "type": "word"
+    },
+    {
+      "word": "your",
+      "start": 9.98,
+      "end": 10.279,
+      "type": "word"
+    },
+    {
+      "word": "very",
+      "start": 10.34,
+      "end": 10.779,
+      "type": "word"
+    },
+    {
+      "word": "own",
+      "start": 10.88,
+      "end": 11.06,
+      "type": "word"
+    },
+    {
+      "word": "houses.\"",
+      "start": 11.18,
+      "end": 11.739,
+      "type": "word"
+    }
+  ]
+}

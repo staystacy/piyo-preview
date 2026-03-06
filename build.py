@@ -63,6 +63,24 @@ def scan_audio(version_dir: Path) -> dict:
     return audio_map
 
 
+def scan_timestamps(version_dir: Path, audio_map: dict) -> dict:
+    """Scan for per-MP3 timestamp JSON files. Return {page_id: words_list}.
+    For each page in audio_map, look for a .json file with the same stem as the MP3.
+    E.g. P01_v1.mp3 -> P01_v1.json
+    """
+    ts_map = {}
+    if not version_dir.is_dir():
+        return ts_map
+    for page_id, audio_rel in audio_map.items():
+        audio_stem = Path(audio_rel).stem  # e.g. "P01_v1"
+        ts_file = version_dir / f"{audio_stem}.json"
+        if ts_file.is_file():
+            data = load_json(ts_file)
+            if data and isinstance(data, dict) and "words" in data:
+                ts_map[page_id] = data["words"]
+    return ts_map
+
+
 def load_json(filepath: Path):
     """Load a JSON file, return None if not found."""
     if not filepath.is_file():
@@ -87,6 +105,7 @@ def build_story(story_dir: Path) -> dict:
 
     # Scan media
     media_map = scan_media(story_dir / "media")
+    media_mapping = (meta or {}).get("mediaMapping", {})
 
     # Discover languages and versions
     languages = sorted(
@@ -119,17 +138,11 @@ def build_story(story_dir: Path) -> dict:
                 pages[lang][version] = []
                 continue
 
-            # Load timestamps (optional)
-            timestamps_json = load_json(version_dir / "timestamps.json")
-            timestamps_map = {}
-            if timestamps_json and isinstance(timestamps_json, list):
-                for entry in timestamps_json:
-                    page_id = entry.get("page")
-                    if page_id:
-                        timestamps_map[page_id] = entry.get("words")
-
             # Scan audio
             audio_map = scan_audio(version_dir)
+
+            # Scan per-MP3 timestamp JSON files
+            timestamps_map = scan_timestamps(version_dir, audio_map)
 
             # Combine per page
             page_list = []
@@ -137,7 +150,9 @@ def build_story(story_dir: Path) -> dict:
                 page_id = page_entry.get("page")
                 if not page_id:
                     continue
-                media_info = media_map.get(page_id)
+                version_media_map = media_mapping.get(version, {})
+                media_page = version_media_map.get(page_id, page_id)
+                media_info = media_map.get(media_page)
                 page_data = {
                     "page": page_id,
                     "mediaType": media_info["mediaType"] if media_info else None,

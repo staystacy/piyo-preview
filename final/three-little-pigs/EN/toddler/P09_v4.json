@@ -1,0 +1,58 @@
+{
+  "source_file": "P09_v4.mp3",
+  "language": "EN",
+  "version": "toddler",
+  "page": "P09",
+  "variant": "v4",
+  "generated_at": "2026-03-06T05:32:18Z",
+  "words": [
+    {
+      "word": "Three",
+      "start": 0.639,
+      "end": 1.0,
+      "type": "word"
+    },
+    {
+      "word": "little",
+      "start": 1.019,
+      "end": 1.299,
+      "type": "word"
+    },
+    {
+      "word": "pigs",
+      "start": 1.319,
+      "end": 1.739,
+      "type": "word"
+    },
+    {
+      "word": "had",
+      "start": 1.839,
+      "end": 1.959,
+      "type": "word"
+    },
+    {
+      "word": "a",
+      "start": 2.159,
+      "end": 2.179,
+      "type": "word"
+    },
+    {
+      "word": "happy",
+      "start": 2.299,
+      "end": 2.66,
+      "type": "word"
+    },
+    {
+      "word": "dinner",
+      "start": 2.679,
+      "end": 3.039,
+      "type": "word"
+    },
+    {
+      "word": "together",
+      "start": 3.039,
+      "end": 4.619,
+      "type": "word"
+    }
+  ]
+}

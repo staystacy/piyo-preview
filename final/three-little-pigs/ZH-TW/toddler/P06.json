@@ -1,0 +1,94 @@
+{
+  "source_file": "P06.mp3",
+  "language": "ZH-TW",
+  "version": "toddler",
+  "page": "P06",
+  "variant": "v0",
+  "generated_at": "2026-03-06T05:36:26Z",
+  "words": [
+    {
+      "word": "三",
+      "start": 0.14,
+      "end": 0.379,
+      "type": "word"
+    },
+    {
+      "word": "只",
+      "start": 0.379,
+      "end": 0.72,
+      "type": "word"
+    },
+    {
+      "word": "小",
+      "start": 0.72,
+      "end": 0.779,
+      "type": "word"
+    },
+    {
+      "word": "猪",
+      "start": 0.779,
+      "end": 1.44,
+      "type": "word"
+    },
+    {
+      "word": "躲",
+      "start": 1.44,
+      "end": 1.919,
+      "type": "word"
+    },
+    {
+      "word": "进",
+      "start": 1.919,
+      "end": 2.039,
+      "type": "word"
+    },
+    {
+      "word": "砖",
+      "start": 2.039,
+      "end": 2.339,
+      "type": "word"
+    },
+    {
+      "word": "头",
+      "start": 2.339,
+      "end": 2.539,
+      "type": "word"
+    },
+    {
+      "word": "屋",
+      "start": 2.539,
+      "end": 2.759,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 2.759,
+      "end": 3.72,
+      "type": "word"
+    },
+    {
+      "word": "这",
+      "start": 3.72,
+      "end": 3.9,
+      "type": "word"
+    },
+    {
+      "word": "里",
+      "start": 3.9,
+      "end": 4.119,
+      "type": "word"
+    },
+    {
+      "word": "安",
+      "start": 4.119,
+      "end": 4.619,
+      "type": "word"
+    },
+    {
+      "word": "全",
+      "start": 4.619,
+      "end": 4.799,
+      "type": "word"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "source_file": "P09.mp3",
+  "language": "ZH-TW",
+  "version": "toddler",
+  "page": "P09",
+  "variant": "v0",
+  "generated_at": "2026-03-06T05:36:28Z",
+  "words": [
+    {
+      "word": "三",
+      "start": 0.219,
+      "end": 0.419,
+      "type": "word"
+    },
+    {
+      "word": "只",
+      "start": 0.419,
+      "end": 0.659,
+      "type": "word"
+    },
+    {
+      "word": "小",
+      "start": 0.659,
+      "end": 0.879,
+      "type": "word"
+    },
+    {
+      "word": "猪",
+      "start": 0.879,
+      "end": 1.319,
+      "type": "word"
+    },
+    {
+      "word": "好",
+      "start": 1.319,
+      "end": 1.539,
+      "type": "word"
+    },
+    {
+      "word": "开",
+      "start": 1.539,
+      "end": 1.939,
+      "type": "word"
+    },
+    {
+      "word": "心",
+      "start": 1.939,
+      "end": 2.099,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 2.099,
+      "end": 2.639,
+      "type": "word"
+    },
+    {
+      "word": "一",
+      "start": 2.639,
+      "end": 2.999,
+      "type": "word"
+    },
+    {
+      "word": "起",
+      "start": 3.0,
+      "end": 3.299,
+      "type": "word"
+    },
+    {
+      "word": "吃",
+      "start": 3.299,
+      "end": 3.779,
+      "type": "word"
+    },
+    {
+      "word": "饭",
+      "start": 3.779,
+      "end": 4.099,
+      "type": "word"
+    },
+    {
+      "word": "饭",
+      "start": 4.099,
+      "end": 4.239,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 4.239,
+      "end": 4.259,
+      "type": "word"
+    }
+  ]
+}

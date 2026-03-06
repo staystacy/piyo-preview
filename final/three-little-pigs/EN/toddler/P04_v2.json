@@ -1,0 +1,88 @@
+{
+  "source_file": "P04_v2.mp3",
+  "language": "EN",
+  "version": "toddler",
+  "page": "P04",
+  "variant": "v2",
+  "generated_at": "2026-03-06T05:32:09Z",
+  "words": [
+    {
+      "word": "The",
+      "start": 0.119,
+      "end": 0.3,
+      "type": "word"
+    },
+    {
+      "word": "wolf",
+      "start": 0.34,
+      "end": 0.72,
+      "type": "word"
+    },
+    {
+      "word": "came.",
+      "start": 0.839,
+      "end": 1.379,
+      "type": "word"
+    },
+    {
+      "word": "\"Let",
+      "start": 1.879,
+      "end": 2.279,
+      "type": "word"
+    },
+    {
+      "word": "me",
+      "start": 2.299,
+      "end": 2.539,
+      "type": "word"
+    },
+    {
+      "word": "in.\"",
+      "start": 2.7,
+      "end": 3.159,
+      "type": "word"
+    },
+    {
+      "word": "\"No!\"",
+      "start": 3.439,
+      "end": 3.879,
+      "type": "word"
+    },
+    {
+      "word": "Whoosh!",
+      "start": 4.219,
+      "end": 4.799,
+      "type": "word"
+    },
+    {
+      "word": "The",
+      "start": 5.079,
+      "end": 5.139,
+      "type": "word"
+    },
+    {
+      "word": "straw",
+      "start": 5.239,
+      "end": 5.559,
+      "type": "word"
+    },
+    {
+      "word": "house",
+      "start": 5.659,
+      "end": 6.0,
+      "type": "word"
+    },
+    {
+      "word": "fell",
+      "start": 6.159,
+      "end": 6.479,
+      "type": "word"
+    },
+    {
+      "word": "down",
+      "start": 6.519,
+      "end": 7.26,
+      "type": "word"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "source_file": "P05_v2.mp3",
+  "language": "JA",
+  "version": "toddler",
+  "page": "P05",
+  "variant": "v2",
+  "generated_at": "2026-03-06T05:33:33Z",
+  "words": [
+    {
+      "word": "狼",
+      "start": 0.219,
+      "end": 1.199,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 1.199,
+      "end": 1.259,
+      "type": "word"
+    },
+    {
+      "word": "ま",
+      "start": 1.259,
+      "end": 1.519,
+      "type": "word"
+    },
+    {
+      "word": "た",
+      "start": 1.519,
+      "end": 1.84,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 1.84,
+      "end": 2.759,
+      "type": "word"
+    },
+    {
+      "word": "入",
+      "start": 2.839,
+      "end": 3.019,
+      "type": "word"
+    },
+    {
+      "word": "れ",
+      "start": 3.019,
+      "end": 3.2,
+      "type": "word"
+    },
+    {
+      "word": "て",
+      "start": 3.2,
+      "end": 3.399,
+      "type": "word"
+    },
+    {
+      "word": "よ",
+      "start": 3.399,
+      "end": 4.46,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 4.46,
+      "end": 4.519,
+      "type": "word"
+    },
+    {
+      "word": "や",
+      "start": 4.659,
+      "end": 4.899,
+      "type": "word"
+    },
+    {
+      "word": "だ",
+      "start": 4.9,
+      "end": 6.559,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 6.559,
+      "end": 6.619,
+      "type": "word"
+    },
+    {
+      "word": "ふ",
+      "start": 6.619,
+      "end": 6.819,
+      "type": "word"
+    },
+    {
+      "word": "ぅ",
+      "start": 6.819,
+      "end": 7.239,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 7.239,
+      "end": 8.26,
+      "type": "word"
+    },
+    {
+      "word": "木",
+      "start": 8.26,
+      "end": 8.44,
+      "type": "word"
+    },
+    {
+      "word": "の",
+      "start": 8.44,
+      "end": 8.619,
+      "type": "word"
+    },
+    {
+      "word": "お",
+      "start": 8.619,
+      "end": 8.839,
+      "type": "word"
+    },
+    {
+      "word": "家",
+      "start": 8.84,
+      "end": 9.02,
+      "type": "word"
+    },
+    {
+      "word": "も",
+      "start": 9.02,
+      "end": 9.659,
+      "type": "word"
+    },
+    {
+      "word": "倒",
+      "start": 9.659,
+      "end": 9.939,
+      "type": "word"
+    },
+    {
+      "word": "れ",
+      "start": 9.939,
+      "end": 10.139,
+      "type": "word"
+    },
+    {
+      "word": "た",
+      "start": 10.139,
+      "end": 10.319,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 10.319,
+      "end": 10.38,
+      "type": "word"
+    }
+  ]
+}

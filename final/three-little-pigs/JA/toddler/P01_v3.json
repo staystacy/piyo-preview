@@ -1,0 +1,154 @@
+{
+  "source_file": "P01_v3.mp3",
+  "language": "JA",
+  "version": "toddler",
+  "page": "P01",
+  "variant": "v3",
+  "generated_at": "2026-03-06T05:33:26Z",
+  "words": [
+    {
+      "word": "三",
+      "start": 0.219,
+      "end": 0.519,
+      "type": "word"
+    },
+    {
+      "word": "匹",
+      "start": 0.519,
+      "end": 0.819,
+      "type": "word"
+    },
+    {
+      "word": "の",
+      "start": 0.819,
+      "end": 1.0,
+      "type": "word"
+    },
+    {
+      "word": "子",
+      "start": 1.0,
+      "end": 1.179,
+      "type": "word"
+    },
+    {
+      "word": "豚",
+      "start": 1.179,
+      "end": 1.439,
+      "type": "word"
+    },
+    {
+      "word": "が",
+      "start": 1.439,
+      "end": 2.179,
+      "type": "word"
+    },
+    {
+      "word": "お",
+      "start": 2.179,
+      "end": 2.499,
+      "type": "word"
+    },
+    {
+      "word": "家",
+      "start": 2.5,
+      "end": 2.799,
+      "type": "word"
+    },
+    {
+      "word": "を",
+      "start": 2.799,
+      "end": 3.179,
+      "type": "word"
+    },
+    {
+      "word": "作",
+      "start": 3.179,
+      "end": 3.379,
+      "type": "word"
+    },
+    {
+      "word": "り",
+      "start": 3.379,
+      "end": 3.539,
+      "type": "word"
+    },
+    {
+      "word": "に",
+      "start": 3.539,
+      "end": 3.619,
+      "type": "word"
+    },
+    {
+      "word": "行",
+      "start": 3.619,
+      "end": 3.759,
+      "type": "word"
+    },
+    {
+      "word": "く",
+      "start": 3.759,
+      "end": 3.96,
+      "type": "word"
+    },
+    {
+      "word": "よ",
+      "start": 3.96,
+      "end": 5.639,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 5.639,
+      "end": 5.739,
+      "type": "word"
+    },
+    {
+      "word": "み",
+      "start": 5.739,
+      "end": 5.979,
+      "type": "word"
+    },
+    {
+      "word": "、",
+      "start": 5.979,
+      "end": 6.039,
+      "type": "word"
+    },
+    {
+      "word": "頑",
+      "start": 6.039,
+      "end": 6.139,
+      "type": "word"
+    },
+    {
+      "word": "張",
+      "start": 6.139,
+      "end": 6.299,
+      "type": "word"
+    },
+    {
+      "word": "っ",
+      "start": 6.299,
+      "end": 6.379,
+      "type": "word"
+    },
+    {
+      "word": "て",
+      "start": 6.379,
+      "end": 6.459,
+      "type": "word"
+    },
+    {
+      "word": "ね",
+      "start": 6.46,
+      "end": 6.579,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 6.579,
+      "end": 6.619,
+      "type": "word"
+    }
+  ]
+}

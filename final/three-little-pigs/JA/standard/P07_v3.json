@@ -1,0 +1,316 @@
+{
+  "source_file": "P07_v3.mp3",
+  "language": "JA",
+  "version": "standard",
+  "page": "P07",
+  "variant": "v3",
+  "generated_at": "2026-03-06T05:33:55Z",
+  "words": [
+    {
+      "word": "狼",
+      "start": 0.14,
+      "end": 0.799,
+      "type": "word"
+    },
+    {
+      "word": "は",
+      "start": 0.799,
+      "end": 1.679,
+      "type": "word"
+    },
+    {
+      "word": "大",
+      "start": 1.679,
+      "end": 1.939,
+      "type": "word"
+    },
+    {
+      "word": "き",
+      "start": 1.939,
+      "end": 2.179,
+      "type": "word"
+    },
+    {
+      "word": "く",
+      "start": 2.18,
+      "end": 2.8,
+      "type": "word"
+    },
+    {
+      "word": "息",
+      "start": 2.8,
+      "end": 3.24,
+      "type": "word"
+    },
+    {
+      "word": "を",
+      "start": 3.24,
+      "end": 3.519,
+      "type": "word"
+    },
+    {
+      "word": "吸",
+      "start": 3.519,
+      "end": 3.68,
+      "type": "word"
+    },
+    {
+      "word": "っ",
+      "start": 3.68,
+      "end": 3.939,
+      "type": "word"
+    },
+    {
+      "word": "て",
+      "start": 3.939,
+      "end": 5.42,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 5.42,
+      "end": 5.519,
+      "type": "word"
+    },
+    {
+      "word": "ふ",
+      "start": 5.519,
+      "end": 5.9,
+      "type": "word"
+    },
+    {
+      "word": "ー",
+      "start": 5.9,
+      "end": 6.619,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 6.619,
+      "end": 7.519,
+      "type": "word"
+    },
+    {
+      "word": "藁",
+      "start": 7.519,
+      "end": 7.759,
+      "type": "word"
+    },
+    {
+      "word": "が",
+      "start": 7.759,
+      "end": 8.119,
+      "type": "word"
+    },
+    {
+      "word": "ピ",
+      "start": 8.119,
+      "end": 8.18,
+      "type": "word"
+    },
+    {
+      "word": "ュ",
+      "start": 8.18,
+      "end": 8.359,
+      "type": "word"
+    },
+    {
+      "word": "ン",
+      "start": 8.359,
+      "end": 8.579,
+      "type": "word"
+    },
+    {
+      "word": "ピ",
+      "start": 8.579,
+      "end": 8.659,
+      "type": "word"
+    },
+    {
+      "word": "ュ",
+      "start": 8.659,
+      "end": 8.739,
+      "type": "word"
+    },
+    {
+      "word": "ン",
+      "start": 8.739,
+      "end": 9.02,
+      "type": "word"
+    },
+    {
+      "word": "飛",
+      "start": 9.02,
+      "end": 9.059,
+      "type": "word"
+    },
+    {
+      "word": "ん",
+      "start": 9.059,
+      "end": 9.22,
+      "type": "word"
+    },
+    {
+      "word": "で",
+      "start": 9.22,
+      "end": 9.32,
+      "type": "word"
+    },
+    {
+      "word": "い",
+      "start": 9.32,
+      "end": 9.44,
+      "type": "word"
+    },
+    {
+      "word": "き",
+      "start": 9.44,
+      "end": 9.52,
+      "type": "word"
+    },
+    {
+      "word": "ま",
+      "start": 9.52,
+      "end": 9.639,
+      "type": "word"
+    },
+    {
+      "word": "す",
+      "start": 9.639,
+      "end": 9.759,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 9.759,
+      "end": 10.479,
+      "type": "word"
+    },
+    {
+      "word": "お",
+      "start": 10.479,
+      "end": 10.839,
+      "type": "word"
+    },
+    {
+      "word": "家",
+      "start": 10.84,
+      "end": 11.3,
+      "type": "word"
+    },
+    {
+      "word": "が",
+      "start": 11.3,
+      "end": 11.42,
+      "type": "word"
+    },
+    {
+      "word": "壊",
+      "start": 11.42,
+      "end": 11.64,
+      "type": "word"
+    },
+    {
+      "word": "れ",
+      "start": 11.64,
+      "end": 11.779,
+      "type": "word"
+    },
+    {
+      "word": "ち",
+      "start": 11.779,
+      "end": 11.84,
+      "type": "word"
+    },
+    {
+      "word": "ゃ",
+      "start": 11.84,
+      "end": 11.98,
+      "type": "word"
+    },
+    {
+      "word": "っ",
+      "start": 11.98,
+      "end": 12.119,
+      "type": "word"
+    },
+    {
+      "word": "た",
+      "start": 12.119,
+      "end": 13.319,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 13.319,
+      "end": 13.439,
+      "type": "word"
+    },
+    {
+      "word": "ブ",
+      "start": 13.439,
+      "end": 13.539,
+      "type": "word"
+    },
+    {
+      "word": "ー",
+      "start": 13.539,
+      "end": 13.739,
+      "type": "word"
+    },
+    {
+      "word": "タ",
+      "start": 13.739,
+      "end": 13.92,
+      "type": "word"
+    },
+    {
+      "word": "は",
+      "start": 13.92,
+      "end": 14.34,
+      "type": "word"
+    },
+    {
+      "word": "逃",
+      "start": 14.34,
+      "end": 14.579,
+      "type": "word"
+    },
+    {
+      "word": "げ",
+      "start": 14.579,
+      "end": 14.779,
+      "type": "word"
+    },
+    {
+      "word": "ろ",
+      "start": 14.779,
+      "end": 15.119,
+      "type": "word"
+    },
+    {
+      "word": "逃",
+      "start": 15.119,
+      "end": 15.3,
+      "type": "word"
+    },
+    {
+      "word": "げ",
+      "start": 15.3,
+      "end": 15.379,
+      "type": "word"
+    },
+    {
+      "word": "ろ",
+      "start": 15.38,
+      "end": 15.42,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 15.42,
+      "end": 15.42,
+      "type": "word"
+    }
+  ]
+}

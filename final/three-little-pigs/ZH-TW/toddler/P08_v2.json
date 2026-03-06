@@ -1,0 +1,112 @@
+{
+  "source_file": "P08_v2.mp3",
+  "language": "ZH-TW",
+  "version": "toddler",
+  "page": "P08",
+  "variant": "v2",
+  "generated_at": "2026-03-06T05:32:58Z",
+  "words": [
+    {
+      "word": "呼",
+      "start": 0.34,
+      "end": 0.68,
+      "type": "word"
+    },
+    {
+      "word": "~",
+      "start": 0.68,
+      "end": 3.319,
+      "type": "word"
+    },
+    {
+      "word": "吹",
+      "start": 3.319,
+      "end": 3.5,
+      "type": "word"
+    },
+    {
+      "word": "呀",
+      "start": 3.5,
+      "end": 4.0,
+      "type": "word"
+    },
+    {
+      "word": "吹",
+      "start": 4.0,
+      "end": 4.0,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 4.0,
+      "end": 7.199,
+      "type": "word"
+    },
+    {
+      "word": "吹",
+      "start": 7.199,
+      "end": 7.46,
+      "type": "word"
+    },
+    {
+      "word": "不",
+      "start": 7.46,
+      "end": 7.8,
+      "type": "word"
+    },
+    {
+      "word": "倒",
+      "start": 7.8,
+      "end": 8.219,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 8.22,
+      "end": 9.4,
+      "type": "word"
+    },
+    {
+      "word": "大",
+      "start": 9.4,
+      "end": 9.619,
+      "type": "word"
+    },
+    {
+      "word": "野",
+      "start": 9.619,
+      "end": 10.0,
+      "type": "word"
+    },
+    {
+      "word": "狼",
+      "start": 10.0,
+      "end": 10.64,
+      "type": "word"
+    },
+    {
+      "word": "跑",
+      "start": 10.64,
+      "end": 10.919,
+      "type": "word"
+    },
+    {
+      "word": "掉",
+      "start": 10.919,
+      "end": 11.5,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 11.5,
+      "end": 11.619,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 11.619,
+      "end": 11.659,
+      "type": "word"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "source_file": "P04_v2.mp3",
+  "language": "EN",
+  "version": "standard",
+  "page": "P04",
+  "variant": "v2",
+  "generated_at": "2026-03-06T05:32:27Z",
+  "words": [
+    {
+      "word": "Bricky",
+      "start": 0.199,
+      "end": 0.6,
+      "type": "word"
+    },
+    {
+      "word": "carried",
+      "start": 0.639,
+      "end": 0.999,
+      "type": "word"
+    },
+    {
+      "word": "bricks",
+      "start": 1.0,
+      "end": 1.46,
+      "type": "word"
+    },
+    {
+      "word": "one",
+      "start": 1.539,
+      "end": 1.759,
+      "type": "word"
+    },
+    {
+      "word": "by",
+      "start": 1.879,
+      "end": 2.199,
+      "type": "word"
+    },
+    {
+      "word": "one",
+      "start": 2.279,
+      "end": 2.799,
+      "type": "word"
+    },
+    {
+      "word": "and",
+      "start": 2.839,
+      "end": 3.019,
+      "type": "word"
+    },
+    {
+      "word": "spread",
+      "start": 3.039,
+      "end": 3.4,
+      "type": "word"
+    },
+    {
+      "word": "cement",
+      "start": 3.399,
+      "end": 3.919,
+      "type": "word"
+    },
+    {
+      "word": "layer",
+      "start": 4.039,
+      "end": 4.439,
+      "type": "word"
+    },
+    {
+      "word": "by",
+      "start": 4.579,
+      "end": 4.819,
+      "type": "word"
+    },
+    {
+      "word": "layer.",
+      "start": 4.98,
+      "end": 5.819,
+      "type": "word"
+    },
+    {
+      "word": "It",
+      "start": 5.819,
+      "end": 6.059,
+      "type": "word"
+    },
+    {
+      "word": "was",
+      "start": 6.079,
+      "end": 6.379,
+      "type": "word"
+    },
+    {
+      "word": "hard",
+      "start": 6.46,
+      "end": 6.899,
+      "type": "word"
+    },
+    {
+      "word": "work,",
+      "start": 6.94,
+      "end": 7.719,
+      "type": "word"
+    },
+    {
+      "word": "but",
+      "start": 7.759,
+      "end": 7.959,
+      "type": "word"
+    },
+    {
+      "word": "Bricky",
+      "start": 7.98,
+      "end": 8.34,
+      "type": "word"
+    },
+    {
+      "word": "didn't",
+      "start": 8.359,
+      "end": 8.68,
+      "type": "word"
+    },
+    {
+      "word": "stop.",
+      "start": 8.76,
+      "end": 9.259,
+      "type": "word"
+    }
+  ]
+}

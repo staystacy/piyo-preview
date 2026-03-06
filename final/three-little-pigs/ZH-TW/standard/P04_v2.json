@@ -1,0 +1,214 @@
+{
+  "source_file": "P04_v2.mp3",
+  "language": "ZH-TW",
+  "version": "standard",
+  "page": "P04",
+  "variant": "v2",
+  "generated_at": "2026-03-06T05:33:03Z",
+  "words": [
+    {
+      "word": "小",
+      "start": 0.539,
+      "end": 0.599,
+      "type": "word"
+    },
+    {
+      "word": "毛",
+      "start": 0.599,
+      "end": 1.839,
+      "type": "word"
+    },
+    {
+      "word": "一",
+      "start": 1.839,
+      "end": 2.259,
+      "type": "word"
+    },
+    {
+      "word": "块",
+      "start": 2.259,
+      "end": 2.5,
+      "type": "word"
+    },
+    {
+      "word": "一",
+      "start": 2.5,
+      "end": 2.9,
+      "type": "word"
+    },
+    {
+      "word": "块",
+      "start": 2.9,
+      "end": 3.119,
+      "type": "word"
+    },
+    {
+      "word": "搬",
+      "start": 3.119,
+      "end": 3.139,
+      "type": "word"
+    },
+    {
+      "word": "砖",
+      "start": 3.139,
+      "end": 3.659,
+      "type": "word"
+    },
+    {
+      "word": "头",
+      "start": 3.659,
+      "end": 3.879,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 3.879,
+      "end": 4.619,
+      "type": "word"
+    },
+    {
+      "word": "一",
+      "start": 4.619,
+      "end": 5.119,
+      "type": "word"
+    },
+    {
+      "word": "层",
+      "start": 5.119,
+      "end": 5.48,
+      "type": "word"
+    },
+    {
+      "word": "一",
+      "start": 5.48,
+      "end": 5.82,
+      "type": "word"
+    },
+    {
+      "word": "层",
+      "start": 5.82,
+      "end": 6.219,
+      "type": "word"
+    },
+    {
+      "word": "涂",
+      "start": 6.219,
+      "end": 6.639,
+      "type": "word"
+    },
+    {
+      "word": "水",
+      "start": 6.639,
+      "end": 6.899,
+      "type": "word"
+    },
+    {
+      "word": "泥",
+      "start": 6.899,
+      "end": 7.059,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 7.059,
+      "end": 8.739,
+      "type": "word"
+    },
+    {
+      "word": "好",
+      "start": 8.739,
+      "end": 9.179,
+      "type": "word"
+    },
+    {
+      "word": "累",
+      "start": 9.179,
+      "end": 9.359,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 9.359,
+      "end": 9.84,
+      "type": "word"
+    },
+    {
+      "word": "好",
+      "start": 9.84,
+      "end": 10.14,
+      "type": "word"
+    },
+    {
+      "word": "累",
+      "start": 10.14,
+      "end": 10.379,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 10.379,
+      "end": 11.199,
+      "type": "word"
+    },
+    {
+      "word": "可",
+      "start": 11.199,
+      "end": 11.479,
+      "type": "word"
+    },
+    {
+      "word": "是",
+      "start": 11.479,
+      "end": 12.099,
+      "type": "word"
+    },
+    {
+      "word": "小",
+      "start": 12.099,
+      "end": 12.399,
+      "type": "word"
+    },
+    {
+      "word": "毛",
+      "start": 12.399,
+      "end": 12.799,
+      "type": "word"
+    },
+    {
+      "word": "没",
+      "start": 12.799,
+      "end": 12.839,
+      "type": "word"
+    },
+    {
+      "word": "有",
+      "start": 12.839,
+      "end": 13.139,
+      "type": "word"
+    },
+    {
+      "word": "停",
+      "start": 13.139,
+      "end": 13.479,
+      "type": "word"
+    },
+    {
+      "word": "下",
+      "start": 13.479,
+      "end": 13.679,
+      "type": "word"
+    },
+    {
+      "word": "来",
+      "start": 13.679,
+      "end": 13.819,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 13.819,
+      "end": 13.819,
+      "type": "word"
+    }
+  ]
+}

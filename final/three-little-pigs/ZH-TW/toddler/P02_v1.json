@@ -1,0 +1,88 @@
+{
+  "source_file": "P02_v1.mp3",
+  "language": "ZH-TW",
+  "version": "toddler",
+  "page": "P02",
+  "variant": "v1",
+  "generated_at": "2026-03-06T05:32:50Z",
+  "words": [
+    {
+      "word": "大",
+      "start": 0.199,
+      "end": 0.719,
+      "type": "word"
+    },
+    {
+      "word": "毛",
+      "start": 0.719,
+      "end": 1.439,
+      "type": "word"
+    },
+    {
+      "word": "盖",
+      "start": 1.439,
+      "end": 1.879,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 1.879,
+      "end": 1.919,
+      "type": "word"
+    },
+    {
+      "word": "稻",
+      "start": 1.919,
+      "end": 2.159,
+      "type": "word"
+    },
+    {
+      "word": "草",
+      "start": 2.159,
+      "end": 2.559,
+      "type": "word"
+    },
+    {
+      "word": "屋",
+      "start": 2.559,
+      "end": 2.759,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 2.759,
+      "end": 4.099,
+      "type": "word"
+    },
+    {
+      "word": "好",
+      "start": 4.099,
+      "end": 4.279,
+      "type": "word"
+    },
+    {
+      "word": "快",
+      "start": 4.279,
+      "end": 4.439,
+      "type": "word"
+    },
+    {
+      "word": "好",
+      "start": 4.44,
+      "end": 4.559,
+      "type": "word"
+    },
+    {
+      "word": "快",
+      "start": 4.559,
+      "end": 4.739,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 4.739,
+      "end": 4.779,
+      "type": "word"
+    }
+  ]
+}

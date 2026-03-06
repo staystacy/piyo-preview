@@ -1,0 +1,118 @@
+{
+  "source_file": "P08_v1.mp3",
+  "language": "JA",
+  "version": "toddler",
+  "page": "P08",
+  "variant": "v1",
+  "generated_at": "2026-03-06T05:33:38Z",
+  "words": [
+    {
+      "word": "ふ",
+      "start": 0.28,
+      "end": 0.6,
+      "type": "word"
+    },
+    {
+      "word": "ぅ",
+      "start": 0.6,
+      "end": 1.22,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 1.22,
+      "end": 2.059,
+      "type": "word"
+    },
+    {
+      "word": "ふ",
+      "start": 2.059,
+      "end": 2.22,
+      "type": "word"
+    },
+    {
+      "word": "ぅ",
+      "start": 2.22,
+      "end": 2.48,
+      "type": "word"
+    },
+    {
+      "word": "ふ",
+      "start": 2.48,
+      "end": 2.48,
+      "type": "word"
+    },
+    {
+      "word": "ぅ",
+      "start": 2.48,
+      "end": 2.819,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 2.819,
+      "end": 3.859,
+      "type": "word"
+    },
+    {
+      "word": "倒",
+      "start": 3.859,
+      "end": 4.079,
+      "type": "word"
+    },
+    {
+      "word": "れ",
+      "start": 4.079,
+      "end": 4.259,
+      "type": "word"
+    },
+    {
+      "word": "な",
+      "start": 4.259,
+      "end": 4.419,
+      "type": "word"
+    },
+    {
+      "word": "い",
+      "start": 4.42,
+      "end": 4.559,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 4.559,
+      "end": 5.46,
+      "type": "word"
+    },
+    {
+      "word": "狼",
+      "start": 5.46,
+      "end": 6.039,
+      "type": "word"
+    },
+    {
+      "word": "逃",
+      "start": 6.039,
+      "end": 6.219,
+      "type": "word"
+    },
+    {
+      "word": "げ",
+      "start": 6.219,
+      "end": 6.359,
+      "type": "word"
+    },
+    {
+      "word": "た",
+      "start": 6.359,
+      "end": 6.559,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 6.559,
+      "end": 7.179,
+      "type": "word"
+    }
+  ]
+}

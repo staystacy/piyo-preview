@@ -1,0 +1,136 @@
+{
+  "source_file": "P05_v1.mp3",
+  "language": "ZH-TW",
+  "version": "standard",
+  "page": "P05",
+  "variant": "v1",
+  "generated_at": "2026-03-06T05:33:05Z",
+  "words": [
+    {
+      "word": "偶",
+      "start": 0.359,
+      "end": 0.639,
+      "type": "word"
+    },
+    {
+      "word": "遇",
+      "start": 0.639,
+      "end": 1.759,
+      "type": "word"
+    },
+    {
+      "word": "小",
+      "start": 1.759,
+      "end": 1.98,
+      "type": "word"
+    },
+    {
+      "word": "猫",
+      "start": 1.98,
+      "end": 2.259,
+      "type": "word"
+    },
+    {
+      "word": "的",
+      "start": 2.259,
+      "end": 2.359,
+      "type": "word"
+    },
+    {
+      "word": "砖",
+      "start": 2.359,
+      "end": 2.659,
+      "type": "word"
+    },
+    {
+      "word": "头",
+      "start": 2.659,
+      "end": 2.879,
+      "type": "word"
+    },
+    {
+      "word": "屋",
+      "start": 2.879,
+      "end": 3.339,
+      "type": "word"
+    },
+    {
+      "word": "盖",
+      "start": 3.339,
+      "end": 3.799,
+      "type": "word"
+    },
+    {
+      "word": "好",
+      "start": 3.799,
+      "end": 4.179,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 4.179,
+      "end": 4.339,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 4.339,
+      "end": 5.839,
+      "type": "word"
+    },
+    {
+      "word": "又",
+      "start": 5.839,
+      "end": 6.159,
+      "type": "word"
+    },
+    {
+      "word": "大",
+      "start": 6.159,
+      "end": 6.699,
+      "type": "word"
+    },
+    {
+      "word": "又",
+      "start": 6.699,
+      "end": 7.019,
+      "type": "word"
+    },
+    {
+      "word": "漂",
+      "start": 7.019,
+      "end": 7.34,
+      "type": "word"
+    },
+    {
+      "word": "亮",
+      "start": 7.34,
+      "end": 8.059,
+      "type": "word"
+    },
+    {
+      "word": "又",
+      "start": 8.059,
+      "end": 8.199,
+      "type": "word"
+    },
+    {
+      "word": "坚",
+      "start": 8.199,
+      "end": 8.5,
+      "type": "word"
+    },
+    {
+      "word": "固",
+      "start": 8.5,
+      "end": 8.6,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 8.6,
+      "end": 8.619,
+      "type": "word"
+    }
+  ]
+}

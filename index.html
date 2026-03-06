@@ -347,17 +347,23 @@ body {
 
 /* Karaoke word spans */
 .subtitle-area .word {
-  color: var(--unspoken);
-  transition: color 0.15s ease, background-color 0.15s ease;
-  border-radius: 3px;
-  padding: 1px 2px;
+  color: #D2C4AD;
+  transition: color 0.25s ease, background-color 0.25s ease;
+  border-radius: 4px;
+  padding: 2px 3px;
 }
 .subtitle-area .word.spoken {
-  color: var(--text-primary);
+  color: var(--accent);
 }
 .subtitle-area .word.active {
-  color: var(--text-primary);
-  background-color: var(--accent-light);
+  color: var(--card-bg);
+  background-color: var(--accent);
+  border-radius: 6px;
+  padding: 2px 6px;
+}
+.karaoke-text {
+  width: 100%;
+  text-align: center;
 }
 
 /* ============================================================
@@ -736,27 +742,103 @@ function renderMedia(page) {
   }
 }
 
+/* --- CJK helpers -------------------------------------------------- */
+function isCJKContent(ch) {
+  const c = ch.codePointAt(0);
+  if (c >= 0x4E00 && c <= 0x9FFF) return true;  // CJK Unified Ideographs
+  if (c >= 0x3400 && c <= 0x4DBF) return true;  // CJK Extension A
+  if (c >= 0x3040 && c <= 0x309F) return true;  // Hiragana
+  if (c >= 0x30A0 && c <= 0x30FF) return true;  // Katakana
+  return false;
+}
+
+/**
+ * CJK karaoke: phrase-based display from page.text, timing from timestamps.
+ * Punctuation acts as phrase delimiter and is NOT displayed.
+ * Each phrase highlights as a unit (like English words).
+ */
+function renderCJKKaraoke(wrapper, page) {
+  // Collect per-content-char timing from timestamps
+  const contentTimings = [];
+  page.timestamps.forEach(ts => {
+    for (const ch of ts.word) {
+      if (isCJKContent(ch)) {
+        contentTimings.push({ start: ts.start, end: ts.end });
+      }
+    }
+  });
+
+  let contentIdx = 0;
+  const lines = page.text.split('\n');
+
+  lines.forEach((line, lineIdx) => {
+    if (lineIdx > 0) wrapper.appendChild(document.createElement('br'));
+
+    // Extract phrases: consecutive runs of CJK content chars
+    const chars = [...line];
+    const phrases = [];
+    let buf = '';
+    for (const ch of chars) {
+      if (isCJKContent(ch)) { buf += ch; }
+      else if (buf) { phrases.push(buf); buf = ''; }
+    }
+    if (buf) phrases.push(buf);
+
+    phrases.forEach((phrase, pi) => {
+      if (pi > 0) wrapper.appendChild(document.createTextNode(' '));
+      const span = document.createElement('span');
+      span.className = 'word';
+      span.textContent = phrase;
+      // Timing: first char start → last char end
+      const len = [...phrase].filter(isCJKContent).length;
+      if (contentIdx < contentTimings.length) {
+        span.dataset.start = contentTimings[contentIdx].start;
+        span.dataset.end = contentTimings[Math.min(contentIdx + len - 1, contentTimings.length - 1)].end;
+        contentIdx += len;
+      }
+      wrapper.appendChild(span);
+    });
+  });
+}
+
+/** EN karaoke: timestamps words match page.text directly. */
+function renderENKaraoke(wrapper, page) {
+  const text = page.text;
+  let cursor = 0;
+  page.timestamps.forEach((ts, i) => {
+    const word = ts.word;
+    const foundAt = text.indexOf(word, cursor);
+    if (foundAt >= 0) {
+      const gap = text.substring(cursor, foundAt);
+      const newlines = (gap.match(/\n/g) || []).length;
+      for (let n = 0; n < newlines; n++) wrapper.appendChild(document.createElement('br'));
+      if (newlines === 0 && i > 0) wrapper.appendChild(document.createTextNode(' '));
+      cursor = foundAt + word.length;
+    } else if (i > 0) {
+      wrapper.appendChild(document.createTextNode(' '));
+    }
+    const span = document.createElement('span');
+    span.className = 'word';
+    span.textContent = word;
+    span.dataset.start = ts.start;
+    span.dataset.end   = ts.end;
+    wrapper.appendChild(span);
+  });
+}
+
 function renderSubtitle(page) {
   subtitleArea.innerHTML = '';
   subtitleArea.setAttribute('data-lang', state.lang);
-
   if (!page.text) return;
 
   if (page.timestamps && page.timestamps.length > 0) {
-    // Karaoke mode: render each word as a span
-    page.timestamps.forEach((ts, i) => {
-      const span = document.createElement('span');
-      span.className = 'word';
-      span.textContent = ts.word;
-      span.dataset.index = i;
-      subtitleArea.appendChild(span);
-      // Add space between words (for EN), for CJK no space needed
-      if (state.lang === 'EN' && i < page.timestamps.length - 1) {
-        subtitleArea.appendChild(document.createTextNode(' '));
-      }
-    });
+    const wrapper = document.createElement('div');
+    wrapper.className = 'karaoke-text';
+    const isCJK = (state.lang === 'ZH-TW' || state.lang === 'JA');
+    if (isCJK) { renderCJKKaraoke(wrapper, page); }
+    else       { renderENKaraoke(wrapper, page); }
+    subtitleArea.appendChild(wrapper);
   } else {
-    // Plain text mode
     subtitleArea.textContent = page.text;
   }
 }
@@ -771,7 +853,7 @@ function playAudio(page) {
   audioPlayer.play().then(() => {
     // Start karaoke if timestamps
     if (page.timestamps && page.timestamps.length > 0) {
-      startKaraoke(page.timestamps);
+      startKaraoke();
     }
     // Sync video start
     const video = document.getElementById('currentVideo');
@@ -811,20 +893,21 @@ audioPlayer.addEventListener('ended', () => {
 /* ============================================================
    KARAOKE ENGINE
    ============================================================ */
-function startKaraoke(timestamps) {
+function startKaraoke() {
   cancelKaraoke();
   const wordEls = subtitleArea.querySelectorAll('.word');
   if (wordEls.length === 0) return;
 
   function update() {
     const t = audioPlayer.currentTime;
-    wordEls.forEach((el, i) => {
-      const ts = timestamps[i];
-      if (!ts) return;
-      if (t >= ts.end) {
+    wordEls.forEach(el => {
+      const s = parseFloat(el.dataset.start);
+      const e = parseFloat(el.dataset.end);
+      if (isNaN(s)) return;
+      if (t >= e) {
         el.classList.add('spoken');
         el.classList.remove('active');
-      } else if (t >= ts.start) {
+      } else if (t >= s) {
         el.classList.add('active');
         el.classList.remove('spoken');
       } else {

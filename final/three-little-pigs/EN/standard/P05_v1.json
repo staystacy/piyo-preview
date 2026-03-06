@@ -1,0 +1,76 @@
+{
+  "source_file": "P05_v1.mp3",
+  "language": "EN",
+  "version": "standard",
+  "page": "P05",
+  "variant": "v1",
+  "generated_at": "2026-03-06T05:32:29Z",
+  "words": [
+    {
+      "word": "At",
+      "start": 0.259,
+      "end": 0.519,
+      "type": "word"
+    },
+    {
+      "word": "last,",
+      "start": 0.68,
+      "end": 1.419,
+      "type": "word"
+    },
+    {
+      "word": "Bricky's",
+      "start": 1.439,
+      "end": 1.879,
+      "type": "word"
+    },
+    {
+      "word": "brick",
+      "start": 2.0,
+      "end": 2.259,
+      "type": "word"
+    },
+    {
+      "word": "house",
+      "start": 2.319,
+      "end": 2.66,
+      "type": "word"
+    },
+    {
+      "word": "was",
+      "start": 2.779,
+      "end": 3.099,
+      "type": "word"
+    },
+    {
+      "word": "done.",
+      "start": 3.24,
+      "end": 3.679,
+      "type": "word"
+    },
+    {
+      "word": "Big,",
+      "start": 3.98,
+      "end": 4.8,
+      "type": "word"
+    },
+    {
+      "word": "beautiful,",
+      "start": 4.839,
+      "end": 6.059,
+      "type": "word"
+    },
+    {
+      "word": "and",
+      "start": 6.159,
+      "end": 6.48,
+      "type": "word"
+    },
+    {
+      "word": "strong",
+      "start": 6.619,
+      "end": 7.659,
+      "type": "word"
+    }
+  ]
+}
