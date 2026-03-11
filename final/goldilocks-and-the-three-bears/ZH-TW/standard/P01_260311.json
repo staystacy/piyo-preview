@@ -1,0 +1,250 @@
+{
+  "source_file": "P01_260311.mp3",
+  "language": "ZH-TW",
+  "version": "standard",
+  "page": "P01",
+  "variant": "260311",
+  "generated_at": "2026-03-11T13:00:06Z",
+  "words": [
+    {
+      "word": "小",
+      "start": 0.319,
+      "end": 0.539,
+      "type": "word"
+    },
+    {
+      "word": "金",
+      "start": 0.539,
+      "end": 0.819,
+      "type": "word"
+    },
+    {
+      "word": "最",
+      "start": 0.819,
+      "end": 1.059,
+      "type": "word"
+    },
+    {
+      "word": "喜",
+      "start": 1.059,
+      "end": 1.339,
+      "type": "word"
+    },
+    {
+      "word": "欢",
+      "start": 1.339,
+      "end": 1.639,
+      "type": "word"
+    },
+    {
+      "word": "在",
+      "start": 1.639,
+      "end": 1.659,
+      "type": "word"
+    },
+    {
+      "word": "森",
+      "start": 1.659,
+      "end": 1.919,
+      "type": "word"
+    },
+    {
+      "word": "林",
+      "start": 1.919,
+      "end": 2.019,
+      "type": "word"
+    },
+    {
+      "word": "里",
+      "start": 2.019,
+      "end": 2.46,
+      "type": "word"
+    },
+    {
+      "word": "散",
+      "start": 2.46,
+      "end": 2.66,
+      "type": "word"
+    },
+    {
+      "word": "步",
+      "start": 2.66,
+      "end": 2.699,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 2.699,
+      "end": 3.519,
+      "type": "word"
+    },
+    {
+      "word": "今",
+      "start": 3.519,
+      "end": 3.9,
+      "type": "word"
+    },
+    {
+      "word": "天",
+      "start": 3.9,
+      "end": 3.999,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 3.999,
+      "end": 4.44,
+      "type": "word"
+    },
+    {
+      "word": "他",
+      "start": 4.44,
+      "end": 4.639,
+      "type": "word"
+    },
+    {
+      "word": "发",
+      "start": 4.639,
+      "end": 4.879,
+      "type": "word"
+    },
+    {
+      "word": "现",
+      "start": 4.88,
+      "end": 4.94,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 4.94,
+      "end": 5.139,
+      "type": "word"
+    },
+    {
+      "word": "一",
+      "start": 5.139,
+      "end": 5.46,
+      "type": "word"
+    },
+    {
+      "word": "条",
+      "start": 5.46,
+      "end": 5.699,
+      "type": "word"
+    },
+    {
+      "word": "从",
+      "start": 5.699,
+      "end": 5.839,
+      "type": "word"
+    },
+    {
+      "word": "没",
+      "start": 5.839,
+      "end": 6.079,
+      "type": "word"
+    },
+    {
+      "word": "走",
+      "start": 6.079,
+      "end": 6.219,
+      "type": "word"
+    },
+    {
+      "word": "过",
+      "start": 6.219,
+      "end": 6.399,
+      "type": "word"
+    },
+    {
+      "word": "的",
+      "start": 6.399,
+      "end": 6.539,
+      "type": "word"
+    },
+    {
+      "word": "小",
+      "start": 6.539,
+      "end": 6.96,
+      "type": "word"
+    },
+    {
+      "word": "路",
+      "start": 6.96,
+      "end": 7.039,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 7.039,
+      "end": 8.059,
+      "type": "word"
+    },
+    {
+      "word": "咦",
+      "start": 8.059,
+      "end": 8.279,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 8.279,
+      "end": 8.84,
+      "type": "word"
+    },
+    {
+      "word": "这",
+      "start": 8.84,
+      "end": 9.079,
+      "type": "word"
+    },
+    {
+      "word": "条",
+      "start": 9.079,
+      "end": 9.42,
+      "type": "word"
+    },
+    {
+      "word": "路",
+      "start": 9.42,
+      "end": 9.84,
+      "type": "word"
+    },
+    {
+      "word": "通",
+      "start": 9.84,
+      "end": 10.02,
+      "type": "word"
+    },
+    {
+      "word": "到",
+      "start": 10.02,
+      "end": 10.259,
+      "type": "word"
+    },
+    {
+      "word": "哪",
+      "start": 10.26,
+      "end": 10.46,
+      "type": "word"
+    },
+    {
+      "word": "里",
+      "start": 10.46,
+      "end": 10.64,
+      "type": "word"
+    },
+    {
+      "word": "呢",
+      "start": 10.64,
+      "end": 10.899,
+      "type": "word"
+    },
+    {
+      "word": "？",
+      "start": 10.899,
+      "end": 11.619,
+      "type": "word"
+    }
+  ]
+}

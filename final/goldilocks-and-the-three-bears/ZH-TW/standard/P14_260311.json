@@ -1,0 +1,454 @@
+{
+  "source_file": "P14_260311.mp3",
+  "language": "ZH-TW",
+  "version": "standard",
+  "page": "P14",
+  "variant": "260311",
+  "generated_at": "2026-03-11T13:00:18Z",
+  "words": [
+    {
+      "word": "熊",
+      "start": 0.219,
+      "end": 0.319,
+      "type": "word"
+    },
+    {
+      "word": "妈",
+      "start": 0.319,
+      "end": 0.559,
+      "type": "word"
+    },
+    {
+      "word": "妈",
+      "start": 0.559,
+      "end": 0.719,
+      "type": "word"
+    },
+    {
+      "word": "笑",
+      "start": 0.719,
+      "end": 1.059,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 1.059,
+      "end": 1.199,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 1.199,
+      "end": 2.179,
+      "type": "word"
+    },
+    {
+      "word": "没",
+      "start": 2.18,
+      "end": 2.42,
+      "type": "word"
+    },
+    {
+      "word": "关",
+      "start": 2.42,
+      "end": 2.739,
+      "type": "word"
+    },
+    {
+      "word": "系",
+      "start": 2.74,
+      "end": 2.839,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 2.839,
+      "end": 3.399,
+      "type": "word"
+    },
+    {
+      "word": "下",
+      "start": 3.399,
+      "end": 3.719,
+      "type": "word"
+    },
+    {
+      "word": "次",
+      "start": 3.72,
+      "end": 3.94,
+      "type": "word"
+    },
+    {
+      "word": "记",
+      "start": 3.94,
+      "end": 4.159,
+      "type": "word"
+    },
+    {
+      "word": "得",
+      "start": 4.159,
+      "end": 4.279,
+      "type": "word"
+    },
+    {
+      "word": "先",
+      "start": 4.279,
+      "end": 4.519,
+      "type": "word"
+    },
+    {
+      "word": "敲",
+      "start": 4.519,
+      "end": 4.88,
+      "type": "word"
+    },
+    {
+      "word": "门",
+      "start": 4.88,
+      "end": 5.0,
+      "type": "word"
+    },
+    {
+      "word": "哦",
+      "start": 5.0,
+      "end": 5.26,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 5.26,
+      "end": 6.519,
+      "type": "word"
+    },
+    {
+      "word": "小",
+      "start": 6.519,
+      "end": 6.779,
+      "type": "word"
+    },
+    {
+      "word": "熊",
+      "start": 6.779,
+      "end": 6.999,
+      "type": "word"
+    },
+    {
+      "word": "宝",
+      "start": 7.0,
+      "end": 7.039,
+      "type": "word"
+    },
+    {
+      "word": "宝",
+      "start": 7.039,
+      "end": 7.38,
+      "type": "word"
+    },
+    {
+      "word": "拉",
+      "start": 7.38,
+      "end": 7.739,
+      "type": "word"
+    },
+    {
+      "word": "着",
+      "start": 7.739,
+      "end": 7.979,
+      "type": "word"
+    },
+    {
+      "word": "小",
+      "start": 7.98,
+      "end": 8.159,
+      "type": "word"
+    },
+    {
+      "word": "金",
+      "start": 8.159,
+      "end": 8.38,
+      "type": "word"
+    },
+    {
+      "word": "的",
+      "start": 8.38,
+      "end": 8.6,
+      "type": "word"
+    },
+    {
+      "word": "手",
+      "start": 8.6,
+      "end": 8.699,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 8.699,
+      "end": 9.499,
+      "type": "word"
+    },
+    {
+      "word": "你",
+      "start": 9.5,
+      "end": 9.819,
+      "type": "word"
+    },
+    {
+      "word": "下",
+      "start": 9.819,
+      "end": 10.0,
+      "type": "word"
+    },
+    {
+      "word": "次",
+      "start": 10.0,
+      "end": 10.319,
+      "type": "word"
+    },
+    {
+      "word": "再",
+      "start": 10.319,
+      "end": 10.479,
+      "type": "word"
+    },
+    {
+      "word": "来",
+      "start": 10.479,
+      "end": 10.699,
+      "type": "word"
+    },
+    {
+      "word": "跟",
+      "start": 10.699,
+      "end": 10.859,
+      "type": "word"
+    },
+    {
+      "word": "我",
+      "start": 10.859,
+      "end": 11.259,
+      "type": "word"
+    },
+    {
+      "word": "玩",
+      "start": 11.259,
+      "end": 11.379,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 11.379,
+      "end": 12.479,
+      "type": "word"
+    },
+    {
+      "word": "小",
+      "start": 12.479,
+      "end": 12.919,
+      "type": "word"
+    },
+    {
+      "word": "金",
+      "start": 12.92,
+      "end": 13.14,
+      "type": "word"
+    },
+    {
+      "word": "挥",
+      "start": 13.14,
+      "end": 13.319,
+      "type": "word"
+    },
+    {
+      "word": "挥",
+      "start": 13.319,
+      "end": 13.639,
+      "type": "word"
+    },
+    {
+      "word": "手",
+      "start": 13.639,
+      "end": 13.739,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 13.739,
+      "end": 14.859,
+      "type": "word"
+    },
+    {
+      "word": "好",
+      "start": 14.859,
+      "end": 14.96,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 14.96,
+      "end": 15.379,
+      "type": "word"
+    },
+    {
+      "word": "我",
+      "start": 15.38,
+      "end": 15.56,
+      "type": "word"
+    },
+    {
+      "word": "下",
+      "start": 15.56,
+      "end": 15.879,
+      "type": "word"
+    },
+    {
+      "word": "次",
+      "start": 15.88,
+      "end": 16.18,
+      "type": "word"
+    },
+    {
+      "word": "带",
+      "start": 16.18,
+      "end": 16.42,
+      "type": "word"
+    },
+    {
+      "word": "好",
+      "start": 16.42,
+      "end": 16.739,
+      "type": "word"
+    },
+    {
+      "word": "吃",
+      "start": 16.739,
+      "end": 16.94,
+      "type": "word"
+    },
+    {
+      "word": "的",
+      "start": 16.94,
+      "end": 17.12,
+      "type": "word"
+    },
+    {
+      "word": "粥",
+      "start": 17.12,
+      "end": 17.479,
+      "type": "word"
+    },
+    {
+      "word": "来",
+      "start": 17.479,
+      "end": 17.659,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 17.659,
+      "end": 18.959,
+      "type": "word"
+    },
+    {
+      "word": "后",
+      "start": 18.959,
+      "end": 19.339,
+      "type": "word"
+    },
+    {
+      "word": "来",
+      "start": 19.34,
+      "end": 19.579,
+      "type": "word"
+    },
+    {
+      "word": "呀",
+      "start": 19.579,
+      "end": 20.119,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 20.119,
+      "end": 20.38,
+      "type": "word"
+    },
+    {
+      "word": "小",
+      "start": 20.38,
+      "end": 20.639,
+      "type": "word"
+    },
+    {
+      "word": "金",
+      "start": 20.639,
+      "end": 20.92,
+      "type": "word"
+    },
+    {
+      "word": "和",
+      "start": 20.92,
+      "end": 21.159,
+      "type": "word"
+    },
+    {
+      "word": "三",
+      "start": 21.159,
+      "end": 21.379,
+      "type": "word"
+    },
+    {
+      "word": "只",
+      "start": 21.379,
+      "end": 21.719,
+      "type": "word"
+    },
+    {
+      "word": "熊",
+      "start": 21.719,
+      "end": 22.279,
+      "type": "word"
+    },
+    {
+      "word": "变",
+      "start": 22.279,
+      "end": 22.719,
+      "type": "word"
+    },
+    {
+      "word": "成",
+      "start": 22.719,
+      "end": 22.92,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 22.92,
+      "end": 23.5,
+      "type": "word"
+    },
+    {
+      "word": "好",
+      "start": 23.5,
+      "end": 23.84,
+      "type": "word"
+    },
+    {
+      "word": "朋",
+      "start": 23.84,
+      "end": 24.02,
+      "type": "word"
+    },
+    {
+      "word": "友",
+      "start": 24.02,
+      "end": 24.059,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 24.059,
+      "end": 24.079,
+      "type": "word"
+    }
+  ]
+}

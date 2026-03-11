@@ -1,0 +1,70 @@
+{
+  "source_file": "P07_260311.mp3",
+  "language": "ZH-TW",
+  "version": "toddler",
+  "page": "P07",
+  "variant": "260311",
+  "generated_at": "2026-03-11T13:00:04Z",
+  "words": [
+    {
+      "word": "大",
+      "start": 0.179,
+      "end": 0.579,
+      "type": "word"
+    },
+    {
+      "word": "床",
+      "start": 0.579,
+      "end": 1.799,
+      "type": "word"
+    },
+    {
+      "word": "太",
+      "start": 1.799,
+      "end": 2.22,
+      "type": "word"
+    },
+    {
+      "word": "硬",
+      "start": 2.22,
+      "end": 2.559,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 2.559,
+      "end": 3.779,
+      "type": "word"
+    },
+    {
+      "word": "中",
+      "start": 3.779,
+      "end": 4.179,
+      "type": "word"
+    },
+    {
+      "word": "床",
+      "start": 4.179,
+      "end": 5.5,
+      "type": "word"
+    },
+    {
+      "word": "太",
+      "start": 5.5,
+      "end": 5.86,
+      "type": "word"
+    },
+    {
+      "word": "软",
+      "start": 5.86,
+      "end": 6.119,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 6.119,
+      "end": 6.159,
+      "type": "word"
+    }
+  ]
+}

@@ -23,7 +23,7 @@ KNOWN_VERSIONS = {"standard", "toddler"}
 # Page number patterns
 PAGE_PATTERN = re.compile(r"^P(\d+)$")
 # Audio files may have version suffix: P01.mp3, P01_v1.mp3, P01_v2.mp3
-AUDIO_PATTERN = re.compile(r"^(P\d+)(?:_v\d+)?$")
+AUDIO_PATTERN = re.compile(r"^(P\d+)(?:_(?:v\d+|\d{6}))?$")
 
 
 def scan_media(media_dir: Path) -> dict:

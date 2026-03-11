@@ -1,0 +1,58 @@
+{
+  "source_file": "P02_260311.mp3",
+  "language": "ZH-TW",
+  "version": "toddler",
+  "page": "P02",
+  "variant": "260311",
+  "generated_at": "2026-03-11T13:00:02Z",
+  "words": [
+    {
+      "word": "大",
+      "start": 0.34,
+      "end": 0.56,
+      "type": "word"
+    },
+    {
+      "word": "碗",
+      "start": 0.56,
+      "end": 1.019,
+      "type": "word"
+    },
+    {
+      "word": "的",
+      "start": 1.019,
+      "end": 1.159,
+      "type": "word"
+    },
+    {
+      "word": "粥",
+      "start": 1.159,
+      "end": 2.42,
+      "type": "word"
+    },
+    {
+      "word": "太",
+      "start": 2.42,
+      "end": 3.079,
+      "type": "word"
+    },
+    {
+      "word": "烫",
+      "start": 3.079,
+      "end": 3.96,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 3.96,
+      "end": 4.279,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 4.279,
+      "end": 4.339,
+      "type": "word"
+    }
+  ]
+}
