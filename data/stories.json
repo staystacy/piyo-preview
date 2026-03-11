@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-06T13:17:41Z",
+  "generatedAt": "2026-03-11T06:11:57Z",
   "stories": [
     {
       "id": "goldilocks-and-the-three-bears",
@@ -12160,7 +12160,7 @@
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P12.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/standard/P12_v2.mp3",
-              "text": "門開了！三隻熊回來了。\n熊爸爸說…… 「誰吃了我的粥？」\n熊媽媽說…… 「誰坐壞了我的椅子？」\n小熊寶寶跑到樓上大叫—— 「有人在我的床上！」",
+              "text": "門開了！三隻熊回來了。\n熊爸爸說：「誰吃了我的粥？」\n熊媽媽說：「誰坐壞了我的椅子？」\n小熊寶寶跑到樓上大叫—— 「有人在我的床上！」",
               "timestamps": [
                 {
                   "word": "门",
@@ -12772,7 +12772,7 @@
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P14.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/standard/P14_v1.mp3",
-              "text": "熊媽媽笑了……  「沒關係，下次記得先敲門喔！」\n小熊寶寶拉著小金的手…… 「你下次再來跟我玩！」\n小金揮揮手…… 「好！我下次帶好吃的粥來！」\n後來呀…… 小金和三隻熊變成了好朋友。",
+              "text": "熊媽媽笑了：「沒關係，下次記得先敲門喔！」\n小熊寶寶拉著小金的手：「你下次再來跟我玩！」\n小金揮揮手：「好！我下次帶好吃的粥來！」\n後來呀，小金和三隻熊變成了好朋友。",
               "timestamps": [
                 {
                   "word": "熊",
@@ -14154,7 +14154,7 @@
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P14.mp4",
               "audio": "final/goldilocks-and-the-three-bears/ZH-TW/toddler/P10.mp3",
-              "text": "小金說對不起。\n大家變成…… 好朋友！",
+              "text": "小金說對不起。\n大家變成好朋友！",
               "timestamps": [
                 {
                   "word": "小",
@@ -23744,7 +23744,7 @@
               "mediaType": "video",
               "media": "final/the-tortoise-and-the-hare/media/P01.mp4",
               "audio": "final/the-tortoise-and-the-hare/ZH-TW/standard/P01_v2.mp3",
-              "text": "跳跳兔跑得好快好快，他最喜歡笑慢慢龜——\n「你走路好慢喔！哈哈哈！」\n慢慢龜說……  「那我們來比賽吧！」",
+              "text": "跳跳兔跑得好快好快，他最喜歡笑慢慢龜——\n「你走路好慢喔！哈哈哈！」\n慢慢龜說：「那我們來比賽吧！」",
               "timestamps": [
                 {
                   "word": "跳",
@@ -24569,7 +24569,7 @@
               "mediaType": "video",
               "media": "final/the-tortoise-and-the-hare/media/P04.mp4",
               "audio": "final/the-tortoise-and-the-hare/ZH-TW/standard/P04_v1.mp3",
-              "text": "慢慢龜一步一步往前走。\n他小聲地對自己說……\n「沒關係，慢慢走，一步一步，不要停。」",
+              "text": "慢慢龜一步一步往前走。\n他小聲地對自己說：\n「沒關係，慢慢走，一步一步，不要停。」",
               "timestamps": [
                 {
                   "word": "慢",
@@ -26879,7 +26879,7 @@
               "mediaType": "video",
               "media": "final/the-tortoise-and-the-hare/media/P12.mp4",
               "audio": "final/the-tortoise-and-the-hare/ZH-TW/standard/P12_v2.mp3",
-              "text": "跳跳兔跑到終點，喘得說不出話來。\n他對慢慢龜說…… 「你好厲害！我以後不會再偷懶了。」\n慢慢龜笑了…… 「我們一起跑，好不好？」\n後來呀…… 他們變成了最好的朋友。",
+              "text": "跳跳兔跑到終點，喘得說不出話來。\n他對慢慢龜說：「你好厲害！我以後不會再偷懶了。」\n慢慢龜笑了：「我們一起跑，好不好？」\n後來呀，他們變成了最好的朋友。",
               "timestamps": [
                 {
                   "word": "跳",
@@ -27340,7 +27340,7 @@
               "mediaType": "video",
               "media": "final/the-tortoise-and-the-hare/media/P01.mp4",
               "audio": "final/the-tortoise-and-the-hare/ZH-TW/toddler/P01_v3.mp3",
-              "text": "跳跳兔笑慢慢龜走路慢。\n慢慢龜說…… 「來比賽！」",
+              "text": "跳跳兔笑慢慢龜走路慢。\n慢慢龜說：「來比賽！」",
               "timestamps": [
                 {
                   "word": "跳",
@@ -28255,7 +28255,7 @@
               "mediaType": "video",
               "media": "final/the-tortoise-and-the-hare/media/P12.mp4",
               "audio": "final/the-tortoise-and-the-hare/ZH-TW/toddler/P08_v2.mp3",
-              "text": "跳跳兔說…… 「你好厲害！」\n他們變成…… 好朋友。",
+              "text": "跳跳兔說：「你好厲害！」\n他們變成好朋友。",
               "timestamps": [
                 {
                   "word": "跳",
@@ -37527,7 +37527,7 @@
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P01.mp4",
               "audio": "final/three-little-pigs/ZH-TW/standard/P01.mp3",
-              "text": "大毛、二毛和小毛，是豬媽媽的三個寶貝。\n有一天，豬媽媽說……\n「你們長大了，去蓋自己的房子吧！」",
+              "text": "大毛、二毛和小毛，是豬媽媽的三個寶貝。\n有一天，豬媽媽說：\n「你們長大了，去蓋自己的房子吧！」",
               "timestamps": [
                 {
                   "word": "大",
@@ -40083,7 +40083,7 @@
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P11.mp4",
               "audio": "final/three-little-pigs/ZH-TW/standard/P11_v1.mp3",
-              "text": "大野狼追到磚頭屋前面——\n「小豬小豬，讓我進去！」\n三隻小豬一起喊……  「不要不要，就不讓你進來！」\n大野狼吸了…… 最～大～口氣——",
+              "text": "大野狼追到磚頭屋前面——\n「小豬小豬，讓我進去！」\n三隻小豬一起喊：「不要不要，就不讓你進來！」\n大野狼吸了…… 最～大～口氣——",
               "timestamps": [
                 {
                   "word": "大",
@@ -40611,7 +40611,7 @@
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P13.mp4",
               "audio": "final/three-little-pigs/ZH-TW/standard/P13_v1.mp3",
-              "text": "三兄弟在小毛的磚頭屋裡，一起吃晚餐、一起聊天。\n大毛說…… 「小毛，謝謝你！」\n二毛說…… 「下次，我也要蓋磚頭屋！」\n後來呀…… 三隻小豬就快快樂樂住在一起了。",
+              "text": "三兄弟在小毛的磚頭屋裡，一起吃晚餐、一起聊天。\n大毛說：「小毛，謝謝你！」\n二毛說：「下次，我也要蓋磚頭屋！」\n後來呀，三隻小豬就快快樂樂住在一起了。",
               "timestamps": [
                 {
                   "word": "三",
@@ -41018,7 +41018,7 @@
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P01.mp4",
               "audio": "final/three-little-pigs/ZH-TW/toddler/P01.mp3",
-              "text": "三隻小豬…… 要去蓋房子了。\n豬媽媽說……  「加油喔！」",
+              "text": "三隻小豬…… 要去蓋房子了。\n豬媽媽說：「加油喔！」",
               "timestamps": [
                 {
                   "word": "三",
@@ -41948,7 +41948,7 @@
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P13.mp4",
               "audio": "final/three-little-pigs/ZH-TW/toddler/P09.mp3",
-              "text": "三隻小豬好開心……\n一起吃飯飯。",
+              "text": "三隻小豬好開心！\n一起吃飯飯。",
               "timestamps": [
                 {
                   "word": "三",
