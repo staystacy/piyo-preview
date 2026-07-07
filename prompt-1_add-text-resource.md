@@ -3,14 +3,14 @@
 ## 背景說明
 這是 JOJO Math 有聲繪本的定稿資源區。
 所有「最終確認」的圖片、音檔、文字都放在這裡，供 Preview 工具使用。
-**不要碰其他任何 AI_workflow 子資料夾。**
+**不要碰其他任何 pipeline 子資料夾。**
 
 ---
 
 ## 定稿區完整資料夾結構
 
 ```
-/Users/stacywang/Desktop/Piyo/AI_workflow/4_previewGen/
+/Users/stacywang/Desktop/Piyo/pipeline/preview/
 └── final/
     └── {故事名稱}/
         ├── images/              ← 圖片三語共用，直接放
@@ -132,5 +132,5 @@
 ---
 
 ## 重要限制
-- 只在 `4_previewGen/final/` 內操作
-- 不要碰 `2_sceneGen/`、`3_ttsGen/` 或其他任何資料夾
+- 只在 `preview/final/` 內操作
+- 不要碰 `scene_gen/`、`tts_gen/` 或其他任何資料夾

@@ -43,7 +43,7 @@ TTS_CONFIG = {
         "standard": ["P03", "P07", "P08", "P14"],
         "toddler":  ["P05", "P06", "P07"],
     },
-    # apply 時的目標路徑（相對於 4_previewGen/）
+    # apply 時的目標路徑（相對於 preview/）
     "targets": {
         ("standard", "P03"): "final/goldilocks-and-the-three-bears/ZH-TW/standard/P03_v1.mp3",
         ("standard", "P07"): "final/goldilocks-and-the-three-bears/ZH-TW/standard/P07_v1.mp3",
@@ -131,12 +131,12 @@ def generate_tts_candidates():
     cfg = TTS_CONFIG
 
     # Load parsed scripts
-    parsed_path = os.path.join(PROJECT_ROOT, "3_ttsGen", "parsed_scripts.json")
+    parsed_path = os.path.join(PROJECT_ROOT, "tts_gen", "parsed_scripts.json")
     with open(parsed_path, "r", encoding="utf-8") as f:
         parsed = json.load(f)
 
     # Load pronunciation dictionary config
-    dict_path = os.path.join(PROJECT_ROOT, "3_ttsGen", "tc_pronunciation_dict.json")
+    dict_path = os.path.join(PROJECT_ROOT, "tts_gen", "tc_pronunciation_dict.json")
     with open(dict_path, "r", encoding="utf-8") as f:
         tc_dict = json.load(f)
 
@@ -281,7 +281,7 @@ def _get_elevenlabs_api_key():
     if key:
         return key
     # Fallback: read from existing script
-    script_path = os.path.join(PROJECT_ROOT, "3_ttsGen", "tts_generate_full.py")
+    script_path = os.path.join(PROJECT_ROOT, "tts_gen", "tts_generate_full.py")
     with open(script_path, "r", encoding="utf-8") as f:
         for line in f:
             if line.strip().startswith("API_KEY"):
@@ -295,7 +295,7 @@ def _get_elevenlabs_api_key():
 # IMAGE GENERATION
 # ══════════════════════════════════════════════════════════════
 
-# Scene gen 常數（從 2_sceneGen/scene_gen.py 複製，避免 import 副作用）
+# Scene gen 常數（從 scene_gen/scene_gen.py 複製，避免 import 副作用）
 _CORE_STYLE = """
 Style: Japanese children's picture book illustration,
 iyashikei healing style, soft pastel low-saturation colors,
@@ -459,7 +459,7 @@ def generate_image_candidates(priority_filter=None):
 def _load_scene_data(story_name):
     """從 scene_gen.py 載入場景資料"""
     # Add scene_gen directory to path for import
-    scene_gen_dir = os.path.join(PROJECT_ROOT, "2_sceneGen")
+    scene_gen_dir = os.path.join(PROJECT_ROOT, "scene_gen")
     sys.path.insert(0, scene_gen_dir)
     try:
         from scene_gen import STORIES
@@ -514,7 +514,7 @@ def _build_scene_prompt(base_prompt, characters, prompt_extra, negative_extra, u
 
 def _get_ref_images(characters, story_name):
     """取得角色參考圖路徑"""
-    base_dir = os.path.join(PROJECT_ROOT, "2_sceneGen", "selected_characters", story_name)
+    base_dir = os.path.join(PROJECT_ROOT, "scene_gen", "selected_characters", story_name)
     refs = []
     for char_name in characters:
         if char_name in _CHARACTER_REGISTRY:

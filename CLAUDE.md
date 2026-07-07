@@ -1,4 +1,4 @@
-# 4_previewGen — Preview Player & Build Pipeline
+# preview — Preview Player & Build Pipeline
 
 Single-page vanilla JS app (`index.html`, 1215 lines) + Python build script (`build.py`, 222 lines).
 Zero external dependencies. Server: `python3 -m http.server 8080`.
@@ -147,8 +147,8 @@ Media container: 3:2 aspect ratio, max 860px wide, centered within 960px content
 |---|---|
 | Rebuild after resource change | `python3 build.py` |
 | Preview locally | `python3 -m http.server 8080` |
-| Add timestamps for new audio | `cd .. && python3 generate_timestamps.py --skip-existing --yes && cd 4_previewGen && python3 build.py` |
-| Audit timestamp coverage | `cd .. && python3 generate_timestamps.py --audit` |
+| Add timestamps for new audio | `cd ../tools && python3 generate_timestamps.py --skip-existing --yes && cd ../preview && python3 build.py` |
+| Audit timestamp coverage | `cd ../tools && python3 generate_timestamps.py --audit` |
 
 <!-- Last verified: 2026-03-11. Key staleness indicators:
      - index.html line count changed (currently 1215)

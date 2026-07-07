@@ -1,7 +1,7 @@
 # ElevenLabs Scribe STT — Word-Level Timestamps 流程文檔
 
-> **目的：** 將 `4_previewGen/final/` 中所有故事的 MP3 音檔，透過 ElevenLabs Scribe v2 API 反推 word-level timestamps，供 Preview Tool 的逐字同步 (karaoke) 功能使用。
-> **腳本位置：** `AI_workflow/generate_timestamps.py`
+> **目的：** 將 `preview/final/` 中所有故事的 MP3 音檔，透過 ElevenLabs Scribe v2 API 反推 word-level timestamps，供 Preview Tool 的逐字同步 (karaoke) 功能使用。
+> **腳本位置：** `pipeline/tools/generate_timestamps.py`
 > **適用範圍：** 所有故事 × 所有語言（EN / ZH-TW / JA）× 所有版本（standard / toddler）
 
 ---
@@ -9,7 +9,7 @@
 ## 日常維護速查
 
 ```bash
-cd /Users/stacywang/Desktop/Piyo/AI_workflow
+cd /Users/stacywang/Desktop/Piyo/pipeline/tools
 
 # 盤點覆蓋率（不呼叫 API）
 python3 generate_timestamps.py --audit
@@ -21,10 +21,10 @@ python3 generate_timestamps.py --skip-existing --yes
 python3 generate_timestamps.py --force --yes
 
 # 只處理特定故事
-python3 generate_timestamps.py --folder 4_previewGen/final/故事名稱 --force --yes
+python3 generate_timestamps.py --folder ../preview/final/故事名稱 --force --yes
 
 # 產生完後重建 stories.json
-python3 4_previewGen/build.py
+python3 ../preview/build.py
 ```
 
 ---
@@ -48,10 +48,10 @@ export ELEVENLABS_API_KEY="sk_..."
 
 ## 二、資料夾結構
 
-腳本自動掃描 `4_previewGen/final/` 下所有故事子資料夾：
+腳本自動掃描 `preview/final/` 下所有故事子資料夾：
 
 ```
-4_previewGen/final/
+preview/final/
 ├── three-little-pigs/
 │   ├── EN/standard/    ← P01_v1.mp3 + P01_v1.json
 │   ├── EN/toddler/

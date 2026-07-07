@@ -8,8 +8,8 @@ import re
 import json
 import os
 
-TTS_DIR = "/Users/stacywang/Desktop/Piyo/AI_workflow/3_ttsGen/tts_scripts"
-FINAL_DIR = "/Users/stacywang/Desktop/Piyo/AI_workflow/4_previewGen/final"
+TTS_DIR = "/Users/stacywang/Desktop/Piyo/pipeline/tts_gen/tts_scripts"
+FINAL_DIR = "/Users/stacywang/Desktop/Piyo/pipeline/preview/final"
 
 # Mapping: (filename prefix, language code in JSON, folder language code)
 LANG_MAP = {

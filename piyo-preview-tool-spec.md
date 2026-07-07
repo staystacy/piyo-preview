@@ -12,7 +12,7 @@
 ### 1.1 總覽
 
 ```
-4_previewGen/
+preview/
 ├── index.html              ← 主程式（單一檔案）
 ├── build.py                ← 掃描腳本，產生 stories.json
 ├── README.md               ← 使用說明
@@ -194,12 +194,12 @@
 }
 ```
 
-> **路徑規則：** `media` 和 `audio` 使用**相對於 `4_previewGen/` 的路徑**。
+> **路徑規則：** `media` 和 `audio` 使用**相對於 `preview/` 的路徑**。
 
 ### 2.4 執行方式
 
 ```bash
-cd /Users/stacywang/Desktop/Piyo/AI_workflow/4_previewGen
+cd /Users/stacywang/Desktop/Piyo/pipeline/preview
 python3 build.py
 # → 輸出 data/stories.json
 ```
@@ -436,7 +436,7 @@ async function playPage(pageData) {
 ### 6.1 本機預覽
 
 ```bash
-cd /Users/stacywang/Desktop/Piyo/AI_workflow/4_previewGen
+cd /Users/stacywang/Desktop/Piyo/pipeline/preview
 python3 -m http.server 8080
 # 瀏覽器開啟 http://localhost:8080
 ```
@@ -485,7 +485,7 @@ python3 build.py
 ### 6.5 部署到 GitHub Pages
 
 ```bash
-# 將整個 4_previewGen/ 推上 GitHub repo
+# 將整個 preview/ 推上 GitHub repo
 git add .
 git commit -m "update preview resources"
 git push
@@ -520,7 +520,7 @@ result = client.text_to_speech.convert(
 ## 七、重要限制與原則
 
 1. **唯讀原則：** `build.py` 和 `index.html` 只讀取 `final/` 內的資源，永不改動
-2. **隔離原則：** 不碰 `AI_workflow/` 下的其他子資料夾
+2. **隔離原則：** 不碰 `pipeline/` 下的其他子資料夾
 3. **容錯原則：** 任何欄位缺失都以 `null` 處理，前端優雅降級，不報錯
 4. **獨立原則：** `build.py` 使用 Python 標準庫，任何人都能跑
 5. **單一原則：** `index.html` 是自包含的單一檔案，零依賴零建構

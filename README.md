@@ -5,7 +5,7 @@ Internal preview player for JOJO Math audio picture books. Review images, videos
 ## Quick Start
 
 ```bash
-cd /Users/stacywang/Desktop/Piyo/AI_workflow/4_previewGen
+cd /Users/stacywang/Desktop/Piyo/pipeline/preview
 python3 -m http.server 8080
 # Open http://localhost:8080
 ```
