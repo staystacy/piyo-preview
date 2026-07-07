@@ -9,7 +9,7 @@ Zero external dependencies. Server: `python3 -m http.server 8080`.
 final/{story-slug}/
 ├── meta.json                           ← Story metadata
 ├── media/P{NN}.{png|mp4}              ← Visual assets (shared across all languages)
-└── {EN|ZH-TW|JA}/
+└── {EN-US|ZH-TW|JA}/
     └── {standard|toddler}/
         ├── pages.json                  ← Text content per page
         ├── P{NN}_v{N}.mp3             ← Audio narration (versioned)
@@ -21,7 +21,7 @@ final/{story-slug}/
 ```json
 {
   "id": "three-little-pigs",
-  "title": { "EN": "The Three Little Pigs", "ZH-TW": "三隻小豬", "JA": "三匹の子ぶた" },
+  "title": { "EN-US": "The Three Little Pigs", "ZH-TW": "三隻小豬", "JA": "三匹の子ぶた" },
   "coverPage": "P01",
   "mediaMapping": {
     "toddler": { "P03": "P05", "P04": "P07" }
@@ -50,7 +50,7 @@ final/{story-slug}/
 
 1. Scans `final/` for story directories (alphabetical order)
 2. Per story: reads `meta.json`, scans `media/` for PNG/MP4
-3. Discovers languages (`EN`, `ZH-TW`, `JA`) and versions (`standard`, `toddler`)
+3. Discovers languages (`EN-US`, `ZH-TW`, `JA` — folder must be registered in `KNOWN_LANGUAGES`, build.py line ~20) and versions (`standard`, `toddler`)
 4. Per language/version: loads `pages.json`, scans MP3 audio (versioned: `P01_v2.mp3` beats `P01_v1.mp3`), scans timestamp JSONs
 5. Applies `mediaMapping` to resolve which media file each page uses
 6. Writes `data/stories.json` with `generatedAt` timestamp
@@ -62,7 +62,7 @@ final/{story-slug}/
   "page": "P01",
   "mediaType": "video",
   "media": "final/three-little-pigs/media/P01.mp4",
-  "audio": "final/three-little-pigs/EN/standard/P01_v1.mp3",
+  "audio": "final/three-little-pigs/EN-US/standard/P01_v1.mp3",
   "text": "Biggie, Woody, and Bricky were three little pig brothers.",
   "timestamps": [{ "word": "Biggie,", "start": 0.299, "end": 1.059, "type": "word" }]
 }

@@ -17,7 +17,7 @@ OUTPUT_DIR = SCRIPT_DIR / "data"
 OUTPUT_FILE = OUTPUT_DIR / "stories.json"
 
 # Known language folders
-KNOWN_LANGUAGES = {"EN", "ZH-TW", "JA"}
+KNOWN_LANGUAGES = {"EN-US", "ZH-TW", "JA"}
 # Known version folders
 KNOWN_VERSIONS = {"standard", "toddler"}
 # Page number patterns
@@ -100,7 +100,7 @@ def build_story(story_dir: Path) -> dict:
         title = meta.get("title", {})
     else:
         story_id = story_slug
-        title = {"EN": story_slug}
+        title = {"EN-US": story_slug}
         print(f"  WARNING: No meta.json, using folder name as title")
 
     # Scan media

@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-27T06:10:42Z",
+  "generatedAt": "2026-07-07T10:25:00Z",
   "stories": [
     {
       "id": "goldilocks-and-the-three-bears",
       "title": {
-        "EN": "Goldilocks and the Three Bears",
+        "EN-US": "Goldilocks and the Three Bears",
         "ZH-TW": "金髮女孩與三隻熊",
         "JA": "ゴルディロックスと3びきのくま"
       },
       "languages": [
-        "EN",
+        "EN-US",
         "JA",
         "ZH-TW"
       ],
@@ -18,13 +18,13 @@
         "toddler"
       ],
       "pages": {
-        "EN": {
+        "EN-US": {
           "standard": [
             {
               "page": "P01",
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P01.mp4",
-              "audio": "final/goldilocks-and-the-three-bears/EN/standard/P01_v2.mp3",
+              "audio": "final/goldilocks-and-the-three-bears/EN-US/standard/P01_v2.mp3",
               "text": "Goldie loved walking in the forest.\nToday, she found a path she'd never seen before.\n\"Hmm? Where does this lead?\"",
               "timestamps": [
                 {
@@ -153,7 +153,7 @@
               "page": "P02",
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P02.mp4",
-              "audio": "final/goldilocks-and-the-three-bears/EN/standard/P02_v2.mp3",
+              "audio": "final/goldilocks-and-the-three-bears/EN-US/standard/P02_v2.mp3",
               "text": "At the end of the path was the cutest little cottage!\nThe door was open, and something smelled delicious inside.\nGoldie couldn't help herself. She tiptoed in.",
               "timestamps": [
                 {
@@ -324,7 +324,7 @@
               "page": "P03",
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P03.mp4",
-              "audio": "final/goldilocks-and-the-three-bears/EN/standard/P03_v1.mp3",
+              "audio": "final/goldilocks-and-the-three-bears/EN-US/standard/P03_v1.mp3",
               "text": "On the table sat three bowls of porridge — a big one, a medium one, and a tiny one.\nGoldie tasted the big bowl.\n\"Ow ow ow! This one is too HOT!\"",
               "timestamps": [
                 {
@@ -525,7 +525,7 @@
               "page": "P04",
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P04.mp4",
-              "audio": "final/goldilocks-and-the-three-bears/EN/standard/P04_v2.mp3",
+              "audio": "final/goldilocks-and-the-three-bears/EN-US/standard/P04_v2.mp3",
               "text": "She tasted the medium bowl.\n\"Brrr! This one is too COLD!\"",
               "timestamps": [
                 {
@@ -600,7 +600,7 @@
               "page": "P05",
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P05.mp4",
-              "audio": "final/goldilocks-and-the-three-bears/EN/standard/P05_v1.mp3",
+              "audio": "final/goldilocks-and-the-three-bears/EN-US/standard/P05_v1.mp3",
               "text": "She tasted the tiny bowl.\n\"This one is…  just right!\"\nGoldie ate it all up. Every last drop!",
               "timestamps": [
                 {
@@ -717,7 +717,7 @@
               "page": "P06",
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P06.mp4",
-              "audio": "final/goldilocks-and-the-three-bears/EN/standard/P06_v1.mp3",
+              "audio": "final/goldilocks-and-the-three-bears/EN-US/standard/P06_v1.mp3",
               "text": "In the living room, Goldie found three chairs.\nShe sat in the big chair.\n\"Ouch! This one is too HARD!\"",
               "timestamps": [
                 {
@@ -846,7 +846,7 @@
               "page": "P07",
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P07.mp4",
-              "audio": "final/goldilocks-and-the-three-bears/EN/standard/P07_v1.mp3",
+              "audio": "final/goldilocks-and-the-three-bears/EN-US/standard/P07_v1.mp3",
               "text": "She sat in the medium chair.\n\"Whoa! This one is too SOFT!\"\nShe sank right in and could barely get out!",
               "timestamps": [
                 {
@@ -981,7 +981,7 @@
               "page": "P08",
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P08.mp4",
-              "audio": "final/goldilocks-and-the-three-bears/EN/standard/P08_v1.mp3",
+              "audio": "final/goldilocks-and-the-three-bears/EN-US/standard/P08_v1.mp3",
               "text": "She sat in the tiny chair.\n\"This one is…  just right!\"\nBut she wiggled and wobbled and—\nCRACK!  The chair broke!",
               "timestamps": [
                 {
@@ -1116,7 +1116,7 @@
               "page": "P09",
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P09.mp4",
-              "audio": "final/goldilocks-and-the-three-bears/EN/standard/P09_v2.mp3",
+              "audio": "final/goldilocks-and-the-three-bears/EN-US/standard/P09_v2.mp3",
               "text": "Upstairs, Goldie found three beds.\nShe lay down on the big bed.\n\"Ouch! This one is too HARD!\"",
               "timestamps": [
                 {
@@ -1233,7 +1233,7 @@
               "page": "P10",
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P10.mp4",
-              "audio": "final/goldilocks-and-the-three-bears/EN/standard/P10_v1.mp3",
+              "audio": "final/goldilocks-and-the-three-bears/EN-US/standard/P10_v1.mp3",
               "text": "She tried the medium bed.\n\"Ugh! This one is too SOFT!\"\nShe sank right in and couldn't get comfortable!",
               "timestamps": [
                 {
@@ -1356,7 +1356,7 @@
               "page": "P11",
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P11.mp4",
-              "audio": "final/goldilocks-and-the-three-bears/EN/standard/P11_v1.mp3",
+              "audio": "final/goldilocks-and-the-three-bears/EN-US/standard/P11_v1.mp3",
               "text": "She lay down in the tiny bed.\n\"This one is… just… right…\"\nAnd just like that, Goldie fell fast asleep. Zzzzzz.",
               "timestamps": [
                 {
@@ -1485,7 +1485,7 @@
               "page": "P12",
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P12.mp4",
-              "audio": "final/goldilocks-and-the-three-bears/EN/standard/P12_v1.mp3",
+              "audio": "final/goldilocks-and-the-three-bears/EN-US/standard/P12_v1.mp3",
               "text": "The door opened. The three bears were home!\nPapa Bear rumbled… \"Who's been eating MY porridge?\"\nMama Bear gasped… \"Who broke MY chair?\"\nBaby Bear ran upstairs and squealed — \"Someone's in MY bed!\"",
               "timestamps": [
                 {
@@ -1698,7 +1698,7 @@
               "page": "P13",
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P13.mp4",
-              "audio": "final/goldilocks-and-the-three-bears/EN/standard/P13_v3.mp3",
+              "audio": "final/goldilocks-and-the-three-bears/EN-US/standard/P13_v3.mp3",
               "text": "Goldie woke up and saw three bears staring at her.\n\"AAAH! I'm so sorry! I'm so so sorry!\"\n\"I shouldn't have come into your house without asking!\"",
               "timestamps": [
                 {
@@ -1869,7 +1869,7 @@
               "page": "P14",
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P14.mp4",
-              "audio": "final/goldilocks-and-the-three-bears/EN/standard/P14_v2.mp3",
+              "audio": "final/goldilocks-and-the-three-bears/EN-US/standard/P14_v2.mp3",
               "text": "Mama Bear smiled…  \"It's okay, dear. Just knock next time!\"\nBaby Bear tugged on Goldie's dress… \"Come play with me again!\"\nGoldie waved goodbye… \"I will! And I'll bring yummy porridge!\"\nAnd from that day on… Goldie and the three bears became the best of friends.",
               "timestamps": [
                 {
@@ -2156,7 +2156,7 @@
               "page": "P01",
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P02.mp4",
-              "audio": "final/goldilocks-and-the-three-bears/EN/toddler/P01_v4.mp3",
+              "audio": "final/goldilocks-and-the-three-bears/EN-US/toddler/P01_v4.mp3",
               "text": "Goldie found a little house in the forest.\nMmm, yummy smell!\nShe went inside.",
               "timestamps": [
                 {
@@ -2249,7 +2249,7 @@
               "page": "P02",
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P03.mp4",
-              "audio": "final/goldilocks-and-the-three-bears/EN/toddler/P02_v1.mp3",
+              "audio": "final/goldilocks-and-the-three-bears/EN-US/toddler/P02_v1.mp3",
               "text": "Big bowl —\ntoo HOT!",
               "timestamps": [
                 {
@@ -2288,7 +2288,7 @@
               "page": "P03",
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P04.mp4",
-              "audio": "final/goldilocks-and-the-three-bears/EN/toddler/P03_v2.mp3",
+              "audio": "final/goldilocks-and-the-three-bears/EN-US/toddler/P03_v2.mp3",
               "text": "Medium bowl —\ntoo COLD!",
               "timestamps": [
                 {
@@ -2327,7 +2327,7 @@
               "page": "P04",
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P05.mp4",
-              "audio": "final/goldilocks-and-the-three-bears/EN/toddler/P04_v2.mp3",
+              "audio": "final/goldilocks-and-the-three-bears/EN-US/toddler/P04_v2.mp3",
               "text": "Tiny bowl —\njust right!\nAll gone!",
               "timestamps": [
                 {
@@ -2378,7 +2378,7 @@
               "page": "P05",
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P06.mp4",
-              "audio": "final/goldilocks-and-the-three-bears/EN/toddler/P05_v2.mp3",
+              "audio": "final/goldilocks-and-the-three-bears/EN-US/toddler/P05_v2.mp3",
               "text": "Big chair —  too HARD!\nMedium chair —  too SOFT!",
               "timestamps": [
                 {
@@ -2447,7 +2447,7 @@
               "page": "P06",
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P08.mp4",
-              "audio": "final/goldilocks-and-the-three-bears/EN/toddler/P06_v2.mp3",
+              "audio": "final/goldilocks-and-the-three-bears/EN-US/toddler/P06_v2.mp3",
               "text": "Tiny chair —\njust right!\nBut…  CRACK! It broke!",
               "timestamps": [
                 {
@@ -2510,7 +2510,7 @@
               "page": "P07",
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P09.mp4",
-              "audio": "final/goldilocks-and-the-three-bears/EN/toddler/P07_v1.mp3",
+              "audio": "final/goldilocks-and-the-three-bears/EN-US/toddler/P07_v1.mp3",
               "text": "Big bed —  too HARD!\nMedium bed —  too SOFT!",
               "timestamps": [
                 {
@@ -2579,7 +2579,7 @@
               "page": "P08",
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P11.mp4",
-              "audio": "final/goldilocks-and-the-three-bears/EN/toddler/P08_v2.mp3",
+              "audio": "final/goldilocks-and-the-three-bears/EN-US/toddler/P08_v2.mp3",
               "text": "Tiny bed —\njust right…\nZzz, Goldie fell asleep.",
               "timestamps": [
                 {
@@ -2636,7 +2636,7 @@
               "page": "P09",
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P12.mp4",
-              "audio": "final/goldilocks-and-the-three-bears/EN/toddler/P09_v2.mp3",
+              "audio": "final/goldilocks-and-the-three-bears/EN-US/toddler/P09_v2.mp3",
               "text": "The bears came home!\n\"Someone's in my bed!\"",
               "timestamps": [
                 {
@@ -2693,7 +2693,7 @@
               "page": "P10",
               "mediaType": "video",
               "media": "final/goldilocks-and-the-three-bears/media/P14.mp4",
-              "audio": "final/goldilocks-and-the-three-bears/EN/toddler/P10_v1.mp3",
+              "audio": "final/goldilocks-and-the-three-bears/EN-US/toddler/P10_v1.mp3",
               "text": "Goldie said sorry.\nThey all became… friends!",
               "timestamps": [
                 {
@@ -14081,12 +14081,12 @@
     {
       "id": "the-tortoise-and-the-hare",
       "title": {
-        "EN": "The Tortoise and the Hare",
+        "EN-US": "The Tortoise and the Hare",
         "ZH-TW": "龜兔賽跑",
         "JA": "ウサギとカメ"
       },
       "languages": [
-        "EN",
+        "EN-US",
         "JA",
         "ZH-TW"
       ],
@@ -14095,13 +14095,13 @@
         "toddler"
       ],
       "pages": {
-        "EN": {
+        "EN-US": {
           "standard": [
             {
               "page": "P01",
               "mediaType": "video",
               "media": "final/the-tortoise-and-the-hare/media/P01.mp4",
-              "audio": "final/the-tortoise-and-the-hare/EN/standard/P01_v1.mp3",
+              "audio": "final/the-tortoise-and-the-hare/EN-US/standard/P01_v1.mp3",
               "text": "Hops the Hare was the fastest runner in the forest.\nHe loved teasing Tilly the Tortoise… \"You're sooooo slow! Ha ha ha!\"\nTilly looked up calmly.  \"Then let's have a race.\"",
               "timestamps": [
                 {
@@ -14296,7 +14296,7 @@
               "page": "P02",
               "mediaType": "video",
               "media": "final/the-tortoise-and-the-hare/media/P02.mp4",
-              "audio": "final/the-tortoise-and-the-hare/EN/standard/P02_v1.mp3",
+              "audio": "final/the-tortoise-and-the-hare/EN-US/standard/P02_v1.mp3",
               "text": "Judge Owl raised his flag.\n\"Ready… set…  GO!\"\nZOOM! Hops shot off like a rocket!\nTilly took her first step. One step… two steps… nice and slow.",
               "timestamps": [
                 {
@@ -14467,7 +14467,7 @@
               "page": "P03",
               "mediaType": "video",
               "media": "final/the-tortoise-and-the-hare/media/P03.mp4",
-              "audio": "final/the-tortoise-and-the-hare/EN/standard/P03_v3.mp3",
+              "audio": "final/the-tortoise-and-the-hare/EN-US/standard/P03_v3.mp3",
               "text": "Hops ran so far ahead, he turned around and laughed.\n\"Ha! The tortoise is just a tiny little dot!\"\nHe put his hands on his hips and grinned.",
               "timestamps": [
                 {
@@ -14644,7 +14644,7 @@
               "page": "P04",
               "mediaType": "video",
               "media": "final/the-tortoise-and-the-hare/media/P04.mp4",
-              "audio": "final/the-tortoise-and-the-hare/EN/standard/P04_v1.mp3",
+              "audio": "final/the-tortoise-and-the-hare/EN-US/standard/P04_v1.mp3",
               "text": "Tilly kept walking, one little step at a time.\nShe whispered to herself…\n\"It's okay, nice and slow, step by step, here I go.\"",
               "timestamps": [
                 {
@@ -14797,7 +14797,7 @@
               "page": "P05",
               "mediaType": "video",
               "media": "final/the-tortoise-and-the-hare/media/P05.mp4",
-              "audio": "final/the-tortoise-and-the-hare/EN/standard/P05_v1.mp3",
+              "audio": "final/the-tortoise-and-the-hare/EN-US/standard/P05_v1.mp3",
               "text": "Hops was too far ahead with nothing to do. So boring!\nHe chased butterflies. He picked flowers.\n\"The tortoise is so slow… I can play all day!\"",
               "timestamps": [
                 {
@@ -14968,7 +14968,7 @@
               "page": "P06",
               "mediaType": "video",
               "media": "final/the-tortoise-and-the-hare/media/P06.mp4",
-              "audio": "final/the-tortoise-and-the-hare/EN/standard/P06_v2.mp3",
+              "audio": "final/the-tortoise-and-the-hare/EN-US/standard/P06_v2.mp3",
               "text": "Hops yawned a biiiiig yawn.\n\"She's so slow… I'll just rest… my eyes… for a second…\"\nAnd just like that… Hops was snoring. Zzzzzzz.",
               "timestamps": [
                 {
@@ -15115,7 +15115,7 @@
               "page": "P07",
               "mediaType": "video",
               "media": "final/the-tortoise-and-the-hare/media/P07.mp4",
-              "audio": "final/the-tortoise-and-the-hare/EN/standard/P07_v1.mp3",
+              "audio": "final/the-tortoise-and-the-hare/EN-US/standard/P07_v1.mp3",
               "text": "Tilly walked and walked… and walked.\nShe passed right by the snoring hare.\nShe glanced at him… but didn't stop.\n\"It's okay, nice and slow, step by step, here I go.\"",
               "timestamps": [
                 {
@@ -15310,7 +15310,7 @@
               "page": "P08",
               "mediaType": "video",
               "media": "final/the-tortoise-and-the-hare/media/P08.mp4",
-              "audio": "final/the-tortoise-and-the-hare/EN/standard/P08_v1.mp3",
+              "audio": "final/the-tortoise-and-the-hare/EN-US/standard/P08_v1.mp3",
               "text": "The hill was steep. Tilly was so tired, sweat dripping from her head.\nBut she didn't stop.\n\"It's okay… nice and slow… step by step… here I go.\"",
               "timestamps": [
                 {
@@ -15487,7 +15487,7 @@
               "page": "P09",
               "mediaType": "video",
               "media": "final/the-tortoise-and-the-hare/media/P09.mp4",
-              "audio": "final/the-tortoise-and-the-hare/EN/standard/P09_v4.mp3",
+              "audio": "final/the-tortoise-and-the-hare/EN-US/standard/P09_v4.mp3",
               "text": "Hops' eyes popped open!\n\"Oh no! How long was I asleep?!\"\nHe looked around —  the tortoise was GONE!",
               "timestamps": [
                 {
@@ -15610,7 +15610,7 @@
               "page": "P10",
               "mediaType": "video",
               "media": "final/the-tortoise-and-the-hare/media/P10.mp4",
-              "audio": "final/the-tortoise-and-the-hare/EN/standard/P10_v2.mp3",
+              "audio": "final/the-tortoise-and-the-hare/EN-US/standard/P10_v2.mp3",
               "text": "Hops ran as fast as he could!\nBut far, far away, near the top of the hill—\nTilly was almost at the finish line!",
               "timestamps": [
                 {
@@ -15763,7 +15763,7 @@
               "page": "P11",
               "mediaType": "video",
               "media": "final/the-tortoise-and-the-hare/media/P11.mp4",
-              "audio": "final/the-tortoise-and-the-hare/EN/standard/P11_v1.mp3",
+              "audio": "final/the-tortoise-and-the-hare/EN-US/standard/P11_v1.mp3",
               "text": "\"It's okay, nice and slow, step by step, here I go.\"\nTilly crossed the finish line!\n\"HOORAY! Tilly wins!\" everyone cheered!",
               "timestamps": [
                 {
@@ -15898,7 +15898,7 @@
               "page": "P12",
               "mediaType": "video",
               "media": "final/the-tortoise-and-the-hare/media/P12.mp4",
-              "audio": "final/the-tortoise-and-the-hare/EN/standard/P12_v1.mp3",
+              "audio": "final/the-tortoise-and-the-hare/EN-US/standard/P12_v1.mp3",
               "text": "Hops arrived, panting and puffing.\n\"You were amazing!\" he said. \"I'll never be lazy again.\"\nTilly smiled… \"Want to run together next time?\"\nAnd from that day on… they became the very best of friends.",
               "timestamps": [
                 {
@@ -16119,7 +16119,7 @@
               "page": "P01",
               "mediaType": "video",
               "media": "final/the-tortoise-and-the-hare/media/P01.mp4",
-              "audio": "final/the-tortoise-and-the-hare/EN/toddler/P01_v2.mp3",
+              "audio": "final/the-tortoise-and-the-hare/EN-US/toddler/P01_v2.mp3",
               "text": "Hops laughed at Tilly.  \"You're so slow!\"\nTilly said… \"Let's race!\"",
               "timestamps": [
                 {
@@ -16194,7 +16194,7 @@
               "page": "P02",
               "mediaType": "video",
               "media": "final/the-tortoise-and-the-hare/media/P02.mp4",
-              "audio": "final/the-tortoise-and-the-hare/EN/toddler/P02_v1.mp3",
+              "audio": "final/the-tortoise-and-the-hare/EN-US/toddler/P02_v1.mp3",
               "text": "Ready, set, GO!\nZOOM! Hops was fast!\nTilly… walked slowly.",
               "timestamps": [
                 {
@@ -16263,7 +16263,7 @@
               "page": "P03",
               "mediaType": "video",
               "media": "final/the-tortoise-and-the-hare/media/P04.mp4",
-              "audio": "final/the-tortoise-and-the-hare/EN/toddler/P03_v2.mp3",
+              "audio": "final/the-tortoise-and-the-hare/EN-US/toddler/P03_v2.mp3",
               "text": "Tilly walked step by step.\n\"Nice and slow… here I go.\"",
               "timestamps": [
                 {
@@ -16338,7 +16338,7 @@
               "page": "P04",
               "mediaType": "video",
               "media": "final/the-tortoise-and-the-hare/media/P06.mp4",
-              "audio": "final/the-tortoise-and-the-hare/EN/toddler/P04_v2.mp3",
+              "audio": "final/the-tortoise-and-the-hare/EN-US/toddler/P04_v2.mp3",
               "text": "Hops got tired…\nand fell asleep.  Zzzzz!",
               "timestamps": [
                 {
@@ -16383,7 +16383,7 @@
               "page": "P05",
               "mediaType": "video",
               "media": "final/the-tortoise-and-the-hare/media/P07.mp4",
-              "audio": "final/the-tortoise-and-the-hare/EN/toddler/P05_v2.mp3",
+              "audio": "final/the-tortoise-and-the-hare/EN-US/toddler/P05_v2.mp3",
               "text": "Tilly walked past the sleeping hare.\n\"Nice and slow… here I go.\"",
               "timestamps": [
                 {
@@ -16464,7 +16464,7 @@
               "page": "P06",
               "mediaType": "video",
               "media": "final/the-tortoise-and-the-hare/media/P08.mp4",
-              "audio": "final/the-tortoise-and-the-hare/EN/toddler/P06_v1.mp3",
+              "audio": "final/the-tortoise-and-the-hare/EN-US/toddler/P06_v1.mp3",
               "text": "Tilly climbed the hill.\nHops woke up —  oh no!",
               "timestamps": [
                 {
@@ -16533,7 +16533,7 @@
               "page": "P07",
               "mediaType": "video",
               "media": "final/the-tortoise-and-the-hare/media/P11.mp4",
-              "audio": "final/the-tortoise-and-the-hare/EN/toddler/P07_v2.mp3",
+              "audio": "final/the-tortoise-and-the-hare/EN-US/toddler/P07_v2.mp3",
               "text": "Tilly crossed the finish!\n\"Hooray!\"",
               "timestamps": [
                 {
@@ -16572,7 +16572,7 @@
               "page": "P08",
               "mediaType": "video",
               "media": "final/the-tortoise-and-the-hare/media/P12.mp4",
-              "audio": "final/the-tortoise-and-the-hare/EN/toddler/P08_v1.mp3",
+              "audio": "final/the-tortoise-and-the-hare/EN-US/toddler/P08_v1.mp3",
               "text": "Hops said… \"You're amazing!\"\nThey became… best friends.",
               "timestamps": [
                 {
@@ -28212,12 +28212,12 @@
     {
       "id": "three-little-pigs",
       "title": {
-        "EN": "The Three Little Pigs",
+        "EN-US": "The Three Little Pigs",
         "ZH-TW": "三隻小豬",
         "JA": "三匹の子ぶた"
       },
       "languages": [
-        "EN",
+        "EN-US",
         "JA",
         "ZH-TW"
       ],
@@ -28226,13 +28226,13 @@
         "toddler"
       ],
       "pages": {
-        "EN": {
+        "EN-US": {
           "standard": [
             {
               "page": "P01",
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P01.mp4",
-              "audio": "final/three-little-pigs/EN/standard/P01_v1.mp3",
+              "audio": "final/three-little-pigs/EN-US/standard/P01_v1.mp3",
               "text": "Biggie, Woody, and Bricky were three little pig brothers.\nOne day, Mama Pig said…\n\"You're all grown up now! Time to build your very own houses!\"",
               "timestamps": [
                 {
@@ -28397,7 +28397,7 @@
               "page": "P02",
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P02.mp4",
-              "audio": "final/three-little-pigs/EN/standard/P02_v4.mp3",
+              "audio": "final/three-little-pigs/EN-US/standard/P02_v4.mp3",
               "text": "Biggie grabbed a bunch of straw and  slapped his house together in no time.\n\"Done! My straw house is all finished!\"\nThen he flopped into a chair… and fell fast asleep.",
               "timestamps": [
                 {
@@ -28592,7 +28592,7 @@
               "page": "P03",
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P03.mp4",
-              "audio": "final/three-little-pigs/EN/standard/P03_v2.mp3",
+              "audio": "final/three-little-pigs/EN-US/standard/P03_v2.mp3",
               "text": "Woody found lots of sticks and hammered away — tap, tap, tap!\n\"Hmph! My house is WAY better than yours!\" he said proudly.",
               "timestamps": [
                 {
@@ -28733,7 +28733,7 @@
               "page": "P04",
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P04.mp4",
-              "audio": "final/three-little-pigs/EN/standard/P04_v2.mp3",
+              "audio": "final/three-little-pigs/EN-US/standard/P04_v2.mp3",
               "text": "Bricky carried bricks one by one… and spread cement layer by layer.\nIt was hard work.  But Bricky didn't stop.",
               "timestamps": [
                 {
@@ -28862,7 +28862,7 @@
               "page": "P05",
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P05.mp4",
-              "audio": "final/three-little-pigs/EN/standard/P05_v1.mp3",
+              "audio": "final/three-little-pigs/EN-US/standard/P05_v1.mp3",
               "text": "At last! Bricky's brick house was done!\nBig… beautiful… and strong.",
               "timestamps": [
                 {
@@ -28937,7 +28937,7 @@
               "page": "P06",
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P06.mp4",
-              "audio": "final/three-little-pigs/EN/standard/P06_v2.mp3",
+              "audio": "final/three-little-pigs/EN-US/standard/P06_v2.mp3",
               "text": "One day… Big Bad Wolf showed up!\nHe marched to Biggie's straw house and growled—\n\"Little pig, little pig, let me in!\"\nBiggie shook all over…  \"No, no, no! Not by the hair on my chinny chin chin!\"",
               "timestamps": [
                 {
@@ -29174,7 +29174,7 @@
               "page": "P07",
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P07.mp4",
-              "audio": "final/three-little-pigs/EN/standard/P07_v2.mp3",
+              "audio": "final/three-little-pigs/EN-US/standard/P07_v2.mp3",
               "text": "Big Bad Wolf took a deeeeep breath—\n\"I'll huff, and I'll puff, and I'll BLOW your house down!\"\nWHOOOOSH!\nStraw flew everywhere! The house was gone!\nBiggie ran and ran and ran.",
               "timestamps": [
                 {
@@ -29375,7 +29375,7 @@
               "page": "P08",
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P08.mp4",
-              "audio": "final/three-little-pigs/EN/standard/P08_v2.mp3",
+              "audio": "final/three-little-pigs/EN-US/standard/P08_v2.mp3",
               "text": "Biggie ran to Woody's stick house.\n\"Open up! The wolf is coming!\"\nBig Bad Wolf followed—\n\"Little pig, little pig, let me in!\"\nBoth piggies shouted… \"No, no, no! Not by the hair on our chinny chin chins!\"",
               "timestamps": [
                 {
@@ -29612,7 +29612,7 @@
               "page": "P09",
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P09.mp4",
-              "audio": "final/three-little-pigs/EN/standard/P09_v1.mp3",
+              "audio": "final/three-little-pigs/EN-US/standard/P09_v1.mp3",
               "text": "Big Bad Wolf took a deeeeep breath—\n\"I'll huff, and I'll puff, and I'll BLOW your house down!\"\nCRAAAAASH!\nSticks flew everywhere! That house was gone too!\nBiggie and Woody held hands and ran!",
               "timestamps": [
                 {
@@ -29825,7 +29825,7 @@
               "page": "P10",
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P10.mp4",
-              "audio": "final/three-little-pigs/EN/standard/P10_v2.mp3",
+              "audio": "final/three-little-pigs/EN-US/standard/P10_v2.mp3",
               "text": "The two brothers ran to Bricky's brick house.\nBricky opened the door wide…  \"Quick, come in! You're safe here!\"",
               "timestamps": [
                 {
@@ -29948,7 +29948,7 @@
               "page": "P11",
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P11.mp4",
-              "audio": "final/three-little-pigs/EN/standard/P11_v1.mp3",
+              "audio": "final/three-little-pigs/EN-US/standard/P11_v1.mp3",
               "text": "Big Bad Wolf caught up—\n\"Little pig, little pig, let me in!\"\nAll three piggies shouted together…  \"No, no, NO! Not by the hair on our chinny chin chins!\"\nBig Bad Wolf took the biggest… deepest breath… of all—",
               "timestamps": [
                 {
@@ -30191,7 +30191,7 @@
               "page": "P12",
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P12.mp4",
-              "audio": "final/three-little-pigs/EN/standard/P12_v2.mp3",
+              "audio": "final/three-little-pigs/EN-US/standard/P12_v2.mp3",
               "text": "\"I'll HUFF! And I'll PUFF! And I'll BLOW YOUR HOUSE DOWN!\"\nHe huffed… and he puffed… and he puffed… and he huffed…\nBut he could NOT blow it down!\nBig Bad Wolf fell flat on his face…  and slunk away.",
               "timestamps": [
                 {
@@ -30440,7 +30440,7 @@
               "page": "P13",
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P13.mp4",
-              "audio": "final/three-little-pigs/EN/standard/P13_v4.mp3",
+              "audio": "final/three-little-pigs/EN-US/standard/P13_v4.mp3",
               "text": "That night, the three brothers had a cozy dinner in Bricky's brick house.\nBiggie said… \"Bricky, thank you!\"\nWoody said… \"Next time, I'm building with bricks too!\"\nAnd from that day on… the three little pigs lived happily together.",
               "timestamps": [
                 {
@@ -30685,7 +30685,7 @@
               "page": "P01",
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P01.mp4",
-              "audio": "final/three-little-pigs/EN/toddler/P01_v1.mp3",
+              "audio": "final/three-little-pigs/EN-US/toddler/P01_v1.mp3",
               "text": "Three little pigs… set off to build houses.\n\"Good luck!\" said Mama.",
               "timestamps": [
                 {
@@ -30766,7 +30766,7 @@
               "page": "P02",
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P02.mp4",
-              "audio": "final/three-little-pigs/EN/toddler/P02_v3.mp3",
+              "audio": "final/three-little-pigs/EN-US/toddler/P02_v3.mp3",
               "text": "Biggie built a straw house.\nSo fast!",
               "timestamps": [
                 {
@@ -30817,7 +30817,7 @@
               "page": "P03",
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P05.mp4",
-              "audio": "final/three-little-pigs/EN/toddler/P03_v3.mp3",
+              "audio": "final/three-little-pigs/EN-US/toddler/P03_v3.mp3",
               "text": "Woody built a stick house.\nBricky built a brick house.\nSo strong!",
               "timestamps": [
                 {
@@ -30898,7 +30898,7 @@
               "page": "P04",
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P07.mp4",
-              "audio": "final/three-little-pigs/EN/toddler/P04_v2.mp3",
+              "audio": "final/three-little-pigs/EN-US/toddler/P04_v2.mp3",
               "text": "Wolf came!\n\"Let me in!\"\n\"No!\"\nWHOOSH!\nThe straw house fell down!",
               "timestamps": [
                 {
@@ -30985,7 +30985,7 @@
               "page": "P05",
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P09.mp4",
-              "audio": "final/three-little-pigs/EN/toddler/P05_v3.mp3",
+              "audio": "final/three-little-pigs/EN-US/toddler/P05_v3.mp3",
               "text": "Wolf came again!\n\"Let me in!\"\n\"No!\"\nCRASH!\nThe stick house fell too!",
               "timestamps": [
                 {
@@ -31072,7 +31072,7 @@
               "page": "P06",
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P10.mp4",
-              "audio": "final/three-little-pigs/EN/toddler/P06_v1.mp3",
+              "audio": "final/three-little-pigs/EN-US/toddler/P06_v1.mp3",
               "text": "All three hid in the brick house.\n\"We're safe!\"",
               "timestamps": [
                 {
@@ -31135,7 +31135,7 @@
               "page": "P07",
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P11.mp4",
-              "audio": "final/three-little-pigs/EN/toddler/P07_v1.mp3",
+              "audio": "final/three-little-pigs/EN-US/toddler/P07_v1.mp3",
               "text": "\"Let me in!\"\n\"No no NO!\"",
               "timestamps": [
                 {
@@ -31180,7 +31180,7 @@
               "page": "P08",
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P12.mp4",
-              "audio": "final/three-little-pigs/EN/toddler/P08_v1.mp3",
+              "audio": "final/three-little-pigs/EN-US/toddler/P08_v1.mp3",
               "text": "HUFF… PUFF…\nCan't blow it down!\nWolf ran away!",
               "timestamps": [
                 {
@@ -31243,7 +31243,7 @@
               "page": "P09",
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P13.mp4",
-              "audio": "final/three-little-pigs/EN/toddler/P09_v4.mp3",
+              "audio": "final/three-little-pigs/EN-US/toddler/P09_v4.mp3",
               "text": "Three little pigs had a happy dinner together!",
               "timestamps": [
                 {

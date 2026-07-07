@@ -8,14 +8,15 @@ import re
 import json
 import os
 
-TTS_DIR = "/Users/stacywang/Desktop/Piyo/pipeline/tts_gen/tts_scripts"
-FINAL_DIR = "/Users/stacywang/Desktop/Piyo/pipeline/preview/final"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+TTS_DIR = os.path.join(SCRIPT_DIR, "..", "tts_gen", "tts_scripts")
+FINAL_DIR = os.path.join(SCRIPT_DIR, "final")
 
-# Mapping: (filename prefix, language code in JSON, folder language code)
+# Mapping: filename prefix -> final/ folder language code
 LANG_MAP = {
-    "11_TTS_script_TC": ("ZH-TW", "ZH-TW"),
-    "12_TTS_script_EN": ("EN", "EN"),
-    "13_TTS_script_JP": ("JA", "JA"),
+    "11_TTS_script_TC": "ZH-TW",
+    "12_TTS_script_EN": "EN-US",
+    "13_TTS_script_JP": "JA",
 }
 
 STORIES = ["三隻小豬", "金髮女孩與三隻熊", "龜兔賽跑"]
@@ -94,27 +95,24 @@ def extract_pages_from_md(md_content: str):
     return standard_pages, toddler_pages
 
 
-def build_pages_json(story: str, language: str, version: str, pages: list) -> dict:
-    """Build the pages.json structure."""
-    return {
-        "story": story,
-        "language": language,
-        "version": version,
-        "pages": [
-            {
-                "page": f"P{i+1:02d}",
-                "text": text
-            }
-            for i, text in enumerate(pages)
-        ]
-    }
+def build_pages_json(pages: list) -> list:
+    """Build the pages.json structure.
+    Bare list format — this is what build.py iterates and what shipped
+    pages.json files use. Do not wrap in a metadata dict."""
+    return [
+        {
+            "page": f"P{i+1:02d}",
+            "text": text
+        }
+        for i, text in enumerate(pages)
+    ]
 
 
 def main():
     total_written = 0
 
     for story in STORIES:
-        for prefix, (lang_code, folder_lang) in LANG_MAP.items():
+        for prefix, folder_lang in LANG_MAP.items():
             filename = f"{prefix}_{story}.md"
             filepath = os.path.join(TTS_DIR, filename)
 
@@ -128,7 +126,7 @@ def main():
             standard_pages, toddler_pages = extract_pages_from_md(content)
 
             # Write standard pages.json
-            std_json = build_pages_json(story, lang_code, "standard", standard_pages)
+            std_json = build_pages_json(standard_pages)
             std_path = os.path.join(FINAL_DIR, story, folder_lang, "standard", "pages.json")
             os.makedirs(os.path.dirname(std_path), exist_ok=True)
             with open(std_path, 'w', encoding='utf-8') as f:
@@ -137,7 +135,7 @@ def main():
             total_written += 1
 
             # Write toddler pages.json
-            tod_json = build_pages_json(story, lang_code, "toddler", toddler_pages)
+            tod_json = build_pages_json(toddler_pages)
             tod_path = os.path.join(FINAL_DIR, story, folder_lang, "toddler", "pages.json")
             os.makedirs(os.path.dirname(tod_path), exist_ok=True)
             with open(tod_path, 'w', encoding='utf-8') as f:

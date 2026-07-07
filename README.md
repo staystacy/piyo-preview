@@ -5,7 +5,7 @@ Internal preview player for JOJO Math audio picture books. Review images, videos
 ## Quick Start
 
 ```bash
-cd /Users/stacywang/Desktop/Piyo/pipeline/preview
+cd "/Users/stacywang/Desktop/Code Project/Piyo/pipeline/preview"
 python3 -m http.server 8080
 # Open http://localhost:8080
 ```
@@ -30,19 +30,19 @@ python3 build.py
 | Add timestamps | Create/update `timestamps.json` → `python3 build.py` |
 | Add a page | Add media + audio + update `pages.json` → `python3 build.py` |
 | Add a story | Create new folder with `meta.json` → add resources → `python3 build.py` |
-| Add a language | Add language subfolder (e.g. `KO/`) → add resources → `python3 build.py` |
+| Add a language | Register the folder code in `build.py` `KNOWN_LANGUAGES` (line ~20) → add language subfolder (e.g. `ZH-HK/`) → add resources → `python3 build.py`. Folder codes and all per-language wiring points are documented in `knowledge_base/locale_specs/README.md` |
 
 ## Add a New Story
 
 ```bash
 # 1. Create folder structure
-mkdir -p final/new-story/{media,EN/{standard,toddler},ZH-TW/{standard,toddler},JA/{standard,toddler}}
+mkdir -p final/new-story/{media,EN-US/{standard,toddler},ZH-TW/{standard,toddler},JA/{standard,toddler}}
 
 # 2. Create meta.json
 cat > final/new-story/meta.json << 'EOF'
 {
   "id": "new-story",
-  "title": { "EN": "New Story", "ZH-TW": "新故事", "JA": "新しい物語" },
+  "title": { "EN-US": "New Story", "ZH-TW": "新故事", "JA": "新しい物語" },
   "coverPage": "P01"
 }
 EOF
