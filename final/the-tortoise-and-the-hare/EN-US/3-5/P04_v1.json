@@ -1,0 +1,154 @@
+{
+  "source_file": "P04_v1.mp3",
+  "language": "EN",
+  "version": "3-5",
+  "page": "P04",
+  "variant": "v1",
+  "generated_at": "2026-03-06T13:17:00Z",
+  "words": [
+    {
+      "word": "Tilly",
+      "start": 0.143,
+      "end": 0.467,
+      "type": "word"
+    },
+    {
+      "word": "kept",
+      "start": 0.531,
+      "end": 0.787,
+      "type": "word"
+    },
+    {
+      "word": "walking,",
+      "start": 0.867,
+      "end": 1.64,
+      "type": "word"
+    },
+    {
+      "word": "one",
+      "start": 1.906,
+      "end": 2.065,
+      "type": "word"
+    },
+    {
+      "word": "little",
+      "start": 2.11,
+      "end": 2.38,
+      "type": "word"
+    },
+    {
+      "word": "step",
+      "start": 2.46,
+      "end": 2.78,
+      "type": "word"
+    },
+    {
+      "word": "at",
+      "start": 2.833,
+      "end": 2.939,
+      "type": "word"
+    },
+    {
+      "word": "a",
+      "start": 2.979,
+      "end": 3.019,
+      "type": "word"
+    },
+    {
+      "word": "time.",
+      "start": 3.099,
+      "end": 3.739,
+      "type": "word"
+    },
+    {
+      "word": "She",
+      "start": 4.192,
+      "end": 4.201,
+      "type": "word"
+    },
+    {
+      "word": "whispered",
+      "start": 4.249,
+      "end": 4.681,
+      "type": "word"
+    },
+    {
+      "word": "to",
+      "start": 4.734,
+      "end": 4.84,
+      "type": "word"
+    },
+    {
+      "word": "herself…",
+      "start": 4.93,
+      "end": 6.0,
+      "type": "word"
+    },
+    {
+      "word": "It's",
+      "start": 6.177,
+      "end": 6.345,
+      "type": "word"
+    },
+    {
+      "word": "okay,",
+      "start": 6.457,
+      "end": 7.225,
+      "type": "word"
+    },
+    {
+      "word": "nice",
+      "start": 7.321,
+      "end": 7.705,
+      "type": "word"
+    },
+    {
+      "word": "and",
+      "start": 7.745,
+      "end": 7.865,
+      "type": "word"
+    },
+    {
+      "word": "slow,",
+      "start": 7.977,
+      "end": 8.825,
+      "type": "word"
+    },
+    {
+      "word": "step",
+      "start": 8.921,
+      "end": 9.305,
+      "type": "word"
+    },
+    {
+      "word": "by",
+      "start": 9.385,
+      "end": 9.545,
+      "type": "word"
+    },
+    {
+      "word": "step,",
+      "start": 9.657,
+      "end": 10.425,
+      "type": "word"
+    },
+    {
+      "word": "here",
+      "start": 10.489,
+      "end": 10.745,
+      "type": "word"
+    },
+    {
+      "word": "I",
+      "start": 10.825,
+      "end": 10.905,
+      "type": "word"
+    },
+    {
+      "word": "go.",
+      "start": 11.011,
+      "end": 11.303,
+      "type": "word"
+    }
+  ]
+}

@@ -40,18 +40,18 @@ TTS_CONFIG = {
     "similarity_boost": 0.75,
     "style": 0.0,
     "pages": {
-        "standard": ["P03", "P07", "P08", "P14"],
-        "toddler":  ["P05", "P06", "P07"],
+        "3-5": ["P03", "P07", "P08", "P14"],
+        "2-3":  ["P05", "P06", "P07"],
     },
     # apply 時的目標路徑（相對於 preview/）
     "targets": {
-        ("standard", "P03"): "final/goldilocks-and-the-three-bears/ZH-TW/standard/P03_v1.mp3",
-        ("standard", "P07"): "final/goldilocks-and-the-three-bears/ZH-TW/standard/P07_v1.mp3",
-        ("standard", "P08"): "final/goldilocks-and-the-three-bears/ZH-TW/standard/P08_v1.mp3",
-        ("standard", "P14"): "final/goldilocks-and-the-three-bears/ZH-TW/standard/P14_v1.mp3",
-        ("toddler", "P05"):  "final/goldilocks-and-the-three-bears/ZH-TW/toddler/P05.mp3",
-        ("toddler", "P06"):  "final/goldilocks-and-the-three-bears/ZH-TW/toddler/P06_v2.mp3",
-        ("toddler", "P07"):  "final/goldilocks-and-the-three-bears/ZH-TW/toddler/P07_v1.mp3",
+        ("3-5", "P03"): "final/goldilocks-and-the-three-bears/ZH-TW/3-5/P03_v1.mp3",
+        ("3-5", "P07"): "final/goldilocks-and-the-three-bears/ZH-TW/3-5/P07_v1.mp3",
+        ("3-5", "P08"): "final/goldilocks-and-the-three-bears/ZH-TW/3-5/P08_v1.mp3",
+        ("3-5", "P14"): "final/goldilocks-and-the-three-bears/ZH-TW/3-5/P14_v1.mp3",
+        ("2-3", "P05"):  "final/goldilocks-and-the-three-bears/ZH-TW/2-3/P05.mp3",
+        ("2-3", "P06"):  "final/goldilocks-and-the-three-bears/ZH-TW/2-3/P06_v2.mp3",
+        ("2-3", "P07"):  "final/goldilocks-and-the-three-bears/ZH-TW/2-3/P07_v1.mp3",
     },
 }
 

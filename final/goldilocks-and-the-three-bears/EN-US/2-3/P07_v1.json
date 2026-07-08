@@ -1,0 +1,70 @@
+{
+  "source_file": "P07_v1.mp3",
+  "language": "EN",
+  "version": "2-3",
+  "page": "P07",
+  "variant": "v1",
+  "generated_at": "2026-03-06T13:17:00Z",
+  "words": [
+    {
+      "word": "Big",
+      "start": 0.69,
+      "end": 0.702,
+      "type": "word"
+    },
+    {
+      "word": "bed",
+      "start": 0.882,
+      "end": 1.422,
+      "type": "word"
+    },
+    {
+      "word": "—",
+      "start": 1.702,
+      "end": 1.982,
+      "type": "word"
+    },
+    {
+      "word": "too",
+      "start": 2.254,
+      "end": 2.302,
+      "type": "word"
+    },
+    {
+      "word": "HARD!",
+      "start": 2.462,
+      "end": 3.102,
+      "type": "word"
+    },
+    {
+      "word": "Medium",
+      "start": 4.246,
+      "end": 4.366,
+      "type": "word"
+    },
+    {
+      "word": "bed",
+      "start": 4.526,
+      "end": 5.006,
+      "type": "word"
+    },
+    {
+      "word": "—",
+      "start": 5.446,
+      "end": 5.886,
+      "type": "word"
+    },
+    {
+      "word": "too",
+      "start": 6.226,
+      "end": 6.286,
+      "type": "word"
+    },
+    {
+      "word": "SOFT!",
+      "start": 6.526,
+      "end": 7.566,
+      "type": "word"
+    }
+  ]
+}

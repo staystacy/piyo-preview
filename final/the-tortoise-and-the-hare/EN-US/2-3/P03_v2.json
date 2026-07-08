@@ -1,0 +1,76 @@
+{
+  "source_file": "P03_v2.mp3",
+  "language": "EN",
+  "version": "2-3",
+  "page": "P03",
+  "variant": "v2",
+  "generated_at": "2026-03-06T13:17:00Z",
+  "words": [
+    {
+      "word": "Tilly",
+      "start": 0.211,
+      "end": 0.616,
+      "type": "word"
+    },
+    {
+      "word": "walked",
+      "start": 0.684,
+      "end": 1.092,
+      "type": "word"
+    },
+    {
+      "word": "step",
+      "start": 1.22,
+      "end": 1.732,
+      "type": "word"
+    },
+    {
+      "word": "by",
+      "start": 1.918,
+      "end": 2.29,
+      "type": "word"
+    },
+    {
+      "word": "step.",
+      "start": 2.418,
+      "end": 2.93,
+      "type": "word"
+    },
+    {
+      "word": "Nice",
+      "start": 4.023,
+      "end": 4.023,
+      "type": "word"
+    },
+    {
+      "word": "and",
+      "start": 4.023,
+      "end": 4.023,
+      "type": "word"
+    },
+    {
+      "word": "slow…",
+      "start": 4.023,
+      "end": 5.063,
+      "type": "word"
+    },
+    {
+      "word": "here",
+      "start": 5.111,
+      "end": 5.303,
+      "type": "word"
+    },
+    {
+      "word": "I",
+      "start": 5.423,
+      "end": 5.543,
+      "type": "word"
+    },
+    {
+      "word": "go.",
+      "start": 5.676,
+      "end": 5.942,
+      "type": "word"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "source_file": "P07_v1.mp3",
+  "language": "EN",
+  "version": "3-5",
+  "page": "P07",
+  "variant": "v1",
+  "generated_at": "2026-03-06T13:17:00Z",
+  "words": [
+    {
+      "word": "She",
+      "start": 0.286,
+      "end": 0.292,
+      "type": "word"
+    },
+    {
+      "word": "sat",
+      "start": 0.392,
+      "end": 0.692,
+      "type": "word"
+    },
+    {
+      "word": "in",
+      "start": 0.772,
+      "end": 0.932,
+      "type": "word"
+    },
+    {
+      "word": "the",
+      "start": 0.952,
+      "end": 1.012,
+      "type": "word"
+    },
+    {
+      "word": "medium",
+      "start": 1.08,
+      "end": 1.488,
+      "type": "word"
+    },
+    {
+      "word": "chair.",
+      "start": 1.568,
+      "end": 1.968,
+      "type": "word"
+    },
+    {
+      "word": "Whoa!",
+      "start": 2.974,
+      "end": 3.392,
+      "type": "word"
+    },
+    {
+      "word": "This",
+      "start": 3.488,
+      "end": 3.872,
+      "type": "word"
+    },
+    {
+      "word": "one",
+      "start": 3.932,
+      "end": 4.112,
+      "type": "word"
+    },
+    {
+      "word": "is",
+      "start": 4.192,
+      "end": 4.352,
+      "type": "word"
+    },
+    {
+      "word": "too",
+      "start": 4.512,
+      "end": 4.992,
+      "type": "word"
+    },
+    {
+      "word": "SOFT!",
+      "start": 5.205,
+      "end": 6.311,
+      "type": "word"
+    },
+    {
+      "word": "She",
+      "start": 6.724,
+      "end": 6.733,
+      "type": "word"
+    },
+    {
+      "word": "sank",
+      "start": 6.797,
+      "end": 7.053,
+      "type": "word"
+    },
+    {
+      "word": "right",
+      "start": 7.119,
+      "end": 7.449,
+      "type": "word"
+    },
+    {
+      "word": "in",
+      "start": 7.529,
+      "end": 7.689,
+      "type": "word"
+    },
+    {
+      "word": "and",
+      "start": 7.749,
+      "end": 7.929,
+      "type": "word"
+    },
+    {
+      "word": "could",
+      "start": 7.982,
+      "end": 8.247,
+      "type": "word"
+    },
+    {
+      "word": "barely",
+      "start": 8.292,
+      "end": 8.562,
+      "type": "word"
+    },
+    {
+      "word": "get",
+      "start": 8.622,
+      "end": 8.802,
+      "type": "word"
+    },
+    {
+      "word": "out!",
+      "start": 8.922,
+      "end": 9.362,
+      "type": "word"
+    }
+  ]
+}

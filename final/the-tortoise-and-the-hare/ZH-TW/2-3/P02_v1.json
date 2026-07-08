@@ -1,0 +1,148 @@
+{
+  "source_file": "P02_v1.mp3",
+  "language": "ZH-TW",
+  "version": "2-3",
+  "page": "P02",
+  "variant": "v1",
+  "generated_at": "2026-03-06T13:17:00Z",
+  "words": [
+    {
+      "word": "預",
+      "start": 0.537,
+      "end": 1.137,
+      "type": "word"
+    },
+    {
+      "word": "備",
+      "start": 1.137,
+      "end": 1.737,
+      "type": "word"
+    },
+    {
+      "word": "—",
+      "start": 1.737,
+      "end": 1.777,
+      "type": "word"
+    },
+    {
+      "word": "—",
+      "start": 1.777,
+      "end": 1.817,
+      "type": "word"
+    },
+    {
+      "word": "跑",
+      "start": 1.817,
+      "end": 2.297,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 2.297,
+      "end": 2.297,
+      "type": "word"
+    },
+    {
+      "word": "咻",
+      "start": 4.202,
+      "end": 4.482,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 4.482,
+      "end": 4.762,
+      "type": "word"
+    },
+    {
+      "word": "跳",
+      "start": 4.762,
+      "end": 4.922,
+      "type": "word"
+    },
+    {
+      "word": "跳",
+      "start": 4.922,
+      "end": 5.162,
+      "type": "word"
+    },
+    {
+      "word": "兔",
+      "start": 5.162,
+      "end": 5.602,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 5.602,
+      "end": 5.642,
+      "type": "word"
+    },
+    {
+      "word": "好",
+      "start": 5.642,
+      "end": 6.042,
+      "type": "word"
+    },
+    {
+      "word": "快",
+      "start": 6.042,
+      "end": 6.442,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 6.442,
+      "end": 6.442,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 10.24,
+      "end": 10.426,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 10.426,
+      "end": 10.566,
+      "type": "word"
+    },
+    {
+      "word": "龜",
+      "start": 10.566,
+      "end": 10.706,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 10.706,
+      "end": 10.846,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 11.226,
+      "end": 11.226,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 11.226,
+      "end": 11.252,
+      "type": "word"
+    },
+    {
+      "word": "走",
+      "start": 11.252,
+      "end": 11.278,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 11.278,
+      "end": 11.304,
+      "type": "word"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "source_file": "P09_v1.mp3",
+  "language": "ZH-TW",
+  "version": "3-5",
+  "page": "P09",
+  "variant": "v1",
+  "generated_at": "2026-03-06T13:17:00Z",
+  "words": [
+    {
+      "word": "跳",
+      "start": 0.701,
+      "end": 0.781,
+      "type": "word"
+    },
+    {
+      "word": "跳",
+      "start": 0.781,
+      "end": 1.301,
+      "type": "word"
+    },
+    {
+      "word": "兔",
+      "start": 1.301,
+      "end": 1.301,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 1.301,
+      "end": 1.301,
+      "type": "word"
+    },
+    {
+      "word": "突",
+      "start": 1.301,
+      "end": 1.541,
+      "type": "word"
+    },
+    {
+      "word": "然",
+      "start": 1.541,
+      "end": 1.781,
+      "type": "word"
+    },
+    {
+      "word": "醒",
+      "start": 1.781,
+      "end": 2.021,
+      "type": "word"
+    },
+    {
+      "word": "來",
+      "start": 2.021,
+      "end": 2.261,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 2.261,
+      "end": 2.261,
+      "type": "word"
+    },
+    {
+      "word": "啊",
+      "start": 4.31,
+      "end": 4.59,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 4.59,
+      "end": 4.73,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 4.73,
+      "end": 4.87,
+      "type": "word"
+    },
+    {
+      "word": "我",
+      "start": 4.87,
+      "end": 5.11,
+      "type": "word"
+    },
+    {
+      "word": "睡",
+      "start": 5.11,
+      "end": 5.27,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 5.27,
+      "end": 5.43,
+      "type": "word"
+    },
+    {
+      "word": "多",
+      "start": 5.43,
+      "end": 5.83,
+      "type": "word"
+    },
+    {
+      "word": "久",
+      "start": 5.83,
+      "end": 6.23,
+      "type": "word"
+    },
+    {
+      "word": "？",
+      "start": 6.23,
+      "end": 6.23,
+      "type": "word"
+    },
+    {
+      "word": "他",
+      "start": 7.648,
+      "end": 7.655,
+      "type": "word"
+    },
+    {
+      "word": "到",
+      "start": 7.655,
+      "end": 7.895,
+      "type": "word"
+    },
+    {
+      "word": "處",
+      "start": 7.895,
+      "end": 8.135,
+      "type": "word"
+    },
+    {
+      "word": "張",
+      "start": 8.135,
+      "end": 8.455,
+      "type": "word"
+    },
+    {
+      "word": "望",
+      "start": 8.455,
+      "end": 8.695,
+      "type": "word"
+    },
+    {
+      "word": "—",
+      "start": 8.695,
+      "end": 9.055,
+      "type": "word"
+    },
+    {
+      "word": "—",
+      "start": 9.055,
+      "end": 9.415,
+      "type": "word"
+    },
+    {
+      "word": "烏",
+      "start": 10.534,
+      "end": 10.654,
+      "type": "word"
+    },
+    {
+      "word": "龜",
+      "start": 10.654,
+      "end": 10.894,
+      "type": "word"
+    },
+    {
+      "word": "不",
+      "start": 10.894,
+      "end": 11.014,
+      "type": "word"
+    },
+    {
+      "word": "見",
+      "start": 11.014,
+      "end": 11.334,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 11.334,
+      "end": 11.574,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 11.574,
+      "end": 11.734,
+      "type": "word"
+    }
+  ]
+}

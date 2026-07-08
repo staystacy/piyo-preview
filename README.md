@@ -36,7 +36,7 @@ python3 build.py
 
 ```bash
 # 1. Create folder structure
-mkdir -p final/new-story/{media,EN-US/{standard,toddler},ZH-TW/{standard,toddler},JA/{standard,toddler}}
+mkdir -p final/new-story/{media,EN-US/{2-3,3-5},ZH-TW/{2-3,3-5},JA/{2-3,3-5}}
 
 # 2. Create meta.json
 cat > final/new-story/meta.json << 'EOF'

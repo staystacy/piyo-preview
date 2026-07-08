@@ -1,0 +1,124 @@
+{
+  "source_file": "P10_v1.mp3",
+  "language": "EN",
+  "version": "3-5",
+  "page": "P10",
+  "variant": "v1",
+  "generated_at": "2026-03-06T13:17:00Z",
+  "words": [
+    {
+      "word": "She",
+      "start": 0.144,
+      "end": 0.15,
+      "type": "word"
+    },
+    {
+      "word": "tried",
+      "start": 0.203,
+      "end": 0.468,
+      "type": "word"
+    },
+    {
+      "word": "the",
+      "start": 0.508,
+      "end": 0.628,
+      "type": "word"
+    },
+    {
+      "word": "medium",
+      "start": 0.685,
+      "end": 1.027,
+      "type": "word"
+    },
+    {
+      "word": "bed.",
+      "start": 1.127,
+      "end": 1.427,
+      "type": "word"
+    },
+    {
+      "word": "Ugh!",
+      "start": 1.977,
+      "end": 2.467,
+      "type": "word"
+    },
+    {
+      "word": "This",
+      "start": 2.515,
+      "end": 2.707,
+      "type": "word"
+    },
+    {
+      "word": "one",
+      "start": 2.747,
+      "end": 2.867,
+      "type": "word"
+    },
+    {
+      "word": "is",
+      "start": 2.947,
+      "end": 3.107,
+      "type": "word"
+    },
+    {
+      "word": "too",
+      "start": 3.187,
+      "end": 3.427,
+      "type": "word"
+    },
+    {
+      "word": "SOFT!",
+      "start": 3.667,
+      "end": 4.547,
+      "type": "word"
+    },
+    {
+      "word": "She",
+      "start": 4.921,
+      "end": 4.927,
+      "type": "word"
+    },
+    {
+      "word": "sank",
+      "start": 4.991,
+      "end": 5.247,
+      "type": "word"
+    },
+    {
+      "word": "right",
+      "start": 5.3,
+      "end": 5.565,
+      "type": "word"
+    },
+    {
+      "word": "in",
+      "start": 5.645,
+      "end": 5.805,
+      "type": "word"
+    },
+    {
+      "word": "and",
+      "start": 5.845,
+      "end": 5.965,
+      "type": "word"
+    },
+    {
+      "word": "couldn't",
+      "start": 6.01,
+      "end": 6.36,
+      "type": "word"
+    },
+    {
+      "word": "get",
+      "start": 6.4,
+      "end": 6.52,
+      "type": "word"
+    },
+    {
+      "word": "comfortable!",
+      "start": 6.58,
+      "end": 7.48,
+      "type": "word"
+    }
+  ]
+}

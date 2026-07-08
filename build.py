@@ -19,7 +19,7 @@ OUTPUT_FILE = OUTPUT_DIR / "stories.json"
 # Known language folders
 KNOWN_LANGUAGES = {"EN-US", "ZH-TW", "JA"}
 # Known version folders
-KNOWN_VERSIONS = {"standard", "toddler"}
+KNOWN_VERSIONS = {"2-3", "3-5", "5-6"}
 # Page number patterns
 PAGE_PATTERN = re.compile(r"^P(\d+)$")
 # Audio files may have version suffix: P01.mp3, P01_v1.mp3, P01_v2.mp3

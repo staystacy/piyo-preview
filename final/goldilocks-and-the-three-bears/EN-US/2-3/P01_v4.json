@@ -1,0 +1,94 @@
+{
+  "source_file": "P01_v4.mp3",
+  "language": "EN",
+  "version": "2-3",
+  "page": "P01",
+  "variant": "v4",
+  "generated_at": "2026-03-06T13:17:00Z",
+  "words": [
+    {
+      "word": "Goldie",
+      "start": 0.505,
+      "end": 0.605,
+      "type": "word"
+    },
+    {
+      "word": "found",
+      "start": 0.685,
+      "end": 1.085,
+      "type": "word"
+    },
+    {
+      "word": "a",
+      "start": 1.205,
+      "end": 1.325,
+      "type": "word"
+    },
+    {
+      "word": "little",
+      "start": 1.382,
+      "end": 1.724,
+      "type": "word"
+    },
+    {
+      "word": "house",
+      "start": 1.804,
+      "end": 2.204,
+      "type": "word"
+    },
+    {
+      "word": "in",
+      "start": 2.23,
+      "end": 2.282,
+      "type": "word"
+    },
+    {
+      "word": "the",
+      "start": 2.302,
+      "end": 2.362,
+      "type": "word"
+    },
+    {
+      "word": "forest.",
+      "start": 2.464,
+      "end": 3.156,
+      "type": "word"
+    },
+    {
+      "word": "Mmm,",
+      "start": 3.695,
+      "end": 4.188,
+      "type": "word"
+    },
+    {
+      "word": "yummy",
+      "start": 4.561,
+      "end": 4.826,
+      "type": "word"
+    },
+    {
+      "word": "smell!",
+      "start": 4.959,
+      "end": 5.904,
+      "type": "word"
+    },
+    {
+      "word": "She",
+      "start": 6.243,
+      "end": 6.249,
+      "type": "word"
+    },
+    {
+      "word": "went",
+      "start": 6.297,
+      "end": 6.489,
+      "type": "word"
+    },
+    {
+      "word": "inside.",
+      "start": 6.58,
+      "end": 7.206,
+      "type": "word"
+    }
+  ]
+}

@@ -53,12 +53,12 @@ export ELEVENLABS_API_KEY="sk_..."
 ```
 preview/final/
 ├── three-little-pigs/
-│   ├── EN/standard/    ← P01_v1.mp3 + P01_v1.json
-│   ├── EN/toddler/
-│   ├── ZH-TW/standard/
-│   ├── ZH-TW/toddler/
-│   ├── JA/standard/
-│   └── JA/toddler/
+│   ├── EN/3-5/    ← P01_v1.mp3 + P01_v1.json
+│   ├── EN/2-3/
+│   ├── ZH-TW/3-5/
+│   ├── ZH-TW/2-3/
+│   ├── JA/3-5/
+│   └── JA/2-3/
 ├── goldilocks-and-the-three-bears/
 │   └── ...（同上結構）
 └── the-tortoise-and-the-hare/
@@ -76,7 +76,7 @@ preview/final/
 {
   "source_file": "P01_v1.mp3",
   "language": "EN",
-  "version": "standard",
+  "version": "3-5",
   "page": "P01",
   "variant": "v1",
   "generated_at": "2026-03-06T05:32:20Z",

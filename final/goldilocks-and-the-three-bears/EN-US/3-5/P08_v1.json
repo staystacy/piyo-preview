@@ -1,0 +1,136 @@
+{
+  "source_file": "P08_v1.mp3",
+  "language": "EN",
+  "version": "3-5",
+  "page": "P08",
+  "variant": "v1",
+  "generated_at": "2026-03-06T13:17:00Z",
+  "words": [
+    {
+      "word": "She",
+      "start": 0.284,
+      "end": 0.299,
+      "type": "word"
+    },
+    {
+      "word": "sat",
+      "start": 0.419,
+      "end": 0.779,
+      "type": "word"
+    },
+    {
+      "word": "in",
+      "start": 0.832,
+      "end": 0.938,
+      "type": "word"
+    },
+    {
+      "word": "the",
+      "start": 0.978,
+      "end": 1.098,
+      "type": "word"
+    },
+    {
+      "word": "tiny",
+      "start": 1.178,
+      "end": 1.498,
+      "type": "word"
+    },
+    {
+      "word": "chair.",
+      "start": 1.578,
+      "end": 2.058,
+      "type": "word"
+    },
+    {
+      "word": "This",
+      "start": 2.738,
+      "end": 2.762,
+      "type": "word"
+    },
+    {
+      "word": "one",
+      "start": 2.842,
+      "end": 3.082,
+      "type": "word"
+    },
+    {
+      "word": "is…",
+      "start": 3.295,
+      "end": 3.961,
+      "type": "word"
+    },
+    {
+      "word": "just",
+      "start": 4.553,
+      "end": 4.593,
+      "type": "word"
+    },
+    {
+      "word": "right!",
+      "start": 4.686,
+      "end": 5.511,
+      "type": "word"
+    },
+    {
+      "word": "But",
+      "start": 5.77,
+      "end": 5.776,
+      "type": "word"
+    },
+    {
+      "word": "she",
+      "start": 5.876,
+      "end": 6.176,
+      "type": "word"
+    },
+    {
+      "word": "wiggled",
+      "start": 6.216,
+      "end": 6.814,
+      "type": "word"
+    },
+    {
+      "word": "and",
+      "start": 6.854,
+      "end": 6.974,
+      "type": "word"
+    },
+    {
+      "word": "wobbled",
+      "start": 7.134,
+      "end": 7.93,
+      "type": "word"
+    },
+    {
+      "word": "and—",
+      "start": 7.99,
+      "end": 8.497,
+      "type": "word"
+    },
+    {
+      "word": "CRACK!",
+      "start": 8.702,
+      "end": 9.148,
+      "type": "word"
+    },
+    {
+      "word": "The",
+      "start": 9.725,
+      "end": 9.824,
+      "type": "word"
+    },
+    {
+      "word": "chair",
+      "start": 9.917,
+      "end": 10.382,
+      "type": "word"
+    },
+    {
+      "word": "broke!",
+      "start": 10.502,
+      "end": 11.342,
+      "type": "word"
+    }
+  ]
+}

@@ -10,7 +10,7 @@ final/{story-slug}/
 ├── meta.json                           ← Story metadata
 ├── media/P{NN}.{png|mp4}              ← Visual assets (shared across all languages)
 └── {EN-US|ZH-TW|JA}/
-    └── {standard|toddler}/
+    └── {2-3|3-5|5-6}/
         ├── pages.json                  ← Text content per page
         ├── P{NN}_v{N}.mp3             ← Audio narration (versioned)
         └── P{NN}_v{N}.json            ← Word-level timestamps (same stem as MP3)
@@ -24,7 +24,7 @@ final/{story-slug}/
   "title": { "EN-US": "The Three Little Pigs", "ZH-TW": "三隻小豬", "JA": "三匹の子ぶた" },
   "coverPage": "P01",
   "mediaMapping": {
-    "toddler": { "P03": "P05", "P04": "P07" }
+    "2-3": { "P03": "P05", "P04": "P07" }
   }
 }
 ```
@@ -62,7 +62,7 @@ final/{story-slug}/
   "page": "P01",
   "mediaType": "video",
   "media": "final/three-little-pigs/media/P01.mp4",
-  "audio": "final/three-little-pigs/EN-US/standard/P01_v1.mp3",
+  "audio": "final/three-little-pigs/EN-US/3-5/P01_v1.mp3",
   "text": "Biggie, Woody, and Bricky were three little pig brothers.",
   "timestamps": [{ "word": "Biggie,", "start": 0.299, "end": 1.059, "type": "word" }]
 }

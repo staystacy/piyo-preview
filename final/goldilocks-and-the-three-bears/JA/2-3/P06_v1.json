@@ -1,0 +1,178 @@
+{
+  "source_file": "P06_v1.mp3",
+  "language": "JA",
+  "version": "2-3",
+  "page": "P06",
+  "variant": "v1",
+  "generated_at": "2026-03-06T13:17:00Z",
+  "words": [
+    {
+      "word": "ち",
+      "start": 0.201,
+      "end": 0.217,
+      "type": "word"
+    },
+    {
+      "word": "い",
+      "start": 0.217,
+      "end": 0.457,
+      "type": "word"
+    },
+    {
+      "word": "さ",
+      "start": 0.457,
+      "end": 0.697,
+      "type": "word"
+    },
+    {
+      "word": "い",
+      "start": 0.697,
+      "end": 0.937,
+      "type": "word"
+    },
+    {
+      "word": "い",
+      "start": 1.057,
+      "end": 1.177,
+      "type": "word"
+    },
+    {
+      "word": "す",
+      "start": 1.177,
+      "end": 2.697,
+      "type": "word"
+    },
+    {
+      "word": "—",
+      "start": 2.697,
+      "end": 2.737,
+      "type": "word"
+    },
+    {
+      "word": "—",
+      "start": 2.737,
+      "end": 2.779,
+      "type": "word"
+    },
+    {
+      "word": "ち",
+      "start": 2.988,
+      "end": 3.028,
+      "type": "word"
+    },
+    {
+      "word": "ょ",
+      "start": 3.028,
+      "end": 3.048,
+      "type": "word"
+    },
+    {
+      "word": "う",
+      "start": 3.048,
+      "end": 3.068,
+      "type": "word"
+    },
+    {
+      "word": "ど",
+      "start": 3.068,
+      "end": 3.308,
+      "type": "word"
+    },
+    {
+      "word": "い",
+      "start": 3.468,
+      "end": 3.668,
+      "type": "word"
+    },
+    {
+      "word": "い",
+      "start": 3.668,
+      "end": 3.868,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 3.868,
+      "end": 4.028,
+      "type": "word"
+    },
+    {
+      "word": "で",
+      "start": 5.511,
+      "end": 5.521,
+      "type": "word"
+    },
+    {
+      "word": "も",
+      "start": 5.521,
+      "end": 5.531,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 5.531,
+      "end": 5.891,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 5.891,
+      "end": 6.251,
+      "type": "word"
+    },
+    {
+      "word": "パ",
+      "start": 6.467,
+      "end": 6.491,
+      "type": "word"
+    },
+    {
+      "word": "キ",
+      "start": 6.491,
+      "end": 6.651,
+      "type": "word"
+    },
+    {
+      "word": "ッ",
+      "start": 6.651,
+      "end": 7.051,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 7.051,
+      "end": 7.451,
+      "type": "word"
+    },
+    {
+      "word": "こ",
+      "start": 7.451,
+      "end": 7.531,
+      "type": "word"
+    },
+    {
+      "word": "わ",
+      "start": 7.531,
+      "end": 7.691,
+      "type": "word"
+    },
+    {
+      "word": "れ",
+      "start": 7.691,
+      "end": 7.851,
+      "type": "word"
+    },
+    {
+      "word": "た",
+      "start": 7.851,
+      "end": 8.011,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 8.011,
+      "end": 8.091,
+      "type": "word"
+    }
+  ]
+}

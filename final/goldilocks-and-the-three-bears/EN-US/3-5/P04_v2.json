@@ -1,0 +1,76 @@
+{
+  "source_file": "P04_v2.mp3",
+  "language": "EN",
+  "version": "3-5",
+  "page": "P04",
+  "variant": "v2",
+  "generated_at": "2026-03-06T13:17:00Z",
+  "words": [
+    {
+      "word": "She",
+      "start": 0.277,
+      "end": 0.289,
+      "type": "word"
+    },
+    {
+      "word": "tasted",
+      "start": 0.38,
+      "end": 0.926,
+      "type": "word"
+    },
+    {
+      "word": "the",
+      "start": 0.946,
+      "end": 1.006,
+      "type": "word"
+    },
+    {
+      "word": "medium",
+      "start": 1.086,
+      "end": 1.566,
+      "type": "word"
+    },
+    {
+      "word": "bowl.",
+      "start": 1.662,
+      "end": 2.126,
+      "type": "word"
+    },
+    {
+      "word": "Brrr!",
+      "start": 2.507,
+      "end": 3.151,
+      "type": "word"
+    },
+    {
+      "word": "This",
+      "start": 3.263,
+      "end": 3.711,
+      "type": "word"
+    },
+    {
+      "word": "one",
+      "start": 3.751,
+      "end": 3.871,
+      "type": "word"
+    },
+    {
+      "word": "is",
+      "start": 3.977,
+      "end": 4.189,
+      "type": "word"
+    },
+    {
+      "word": "too",
+      "start": 4.269,
+      "end": 4.509,
+      "type": "word"
+    },
+    {
+      "word": "COLD!",
+      "start": 4.669,
+      "end": 5.628,
+      "type": "word"
+    }
+  ]
+}

@@ -478,7 +478,7 @@ const state = {
   data: null,          // stories.json
   storyIndex: 0,
   lang: 'EN-US',
-  version: 'standard',
+  version: '3-5',
   pageIndex: 0,
   autoPlay: true,
   audioUnlocked: false,
@@ -487,7 +487,7 @@ const state = {
 };
 
 const LANG_LABELS = { 'EN-US': 'English (US)', 'ZH-TW': '繁體中文', 'JA': '日本語' };
-const VERSION_LABELS = { 'standard': 'Standard（4-6y）', 'toddler': 'Toddler（2-4y）' };
+const VERSION_LABELS = { '2-3': 'Ages 2–3', '3-5': 'Ages 3–5', '5-6': 'Ages 5–6' };
 
 /* ============================================================
    DOM REFS
@@ -1172,7 +1172,7 @@ function onSelectionChange() {
     state.lang = story.languages[0] || 'EN-US';
   }
   if (!story.versions.includes(state.version)) {
-    state.version = story.versions[0] || 'standard';
+    state.version = story.versions.includes('3-5') ? '3-5' : (story.versions[0] || '3-5');
   }
   updateDropdowns();
   renderPage();
@@ -1202,7 +1202,7 @@ async function init() {
   const firstStory = state.data.stories[0];
   state.storyIndex = 0;
   state.lang = firstStory.languages[0] || 'EN-US';
-  state.version = firstStory.versions[0] || 'standard';
+  state.version = firstStory.versions.includes('3-5') ? '3-5' : (firstStory.versions[0] || '3-5');
   state.pageIndex = 0;
 
   initDropdowns();

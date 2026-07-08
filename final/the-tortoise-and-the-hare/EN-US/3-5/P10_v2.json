@@ -1,0 +1,154 @@
+{
+  "source_file": "P10_v2.mp3",
+  "language": "EN",
+  "version": "3-5",
+  "page": "P10",
+  "variant": "v2",
+  "generated_at": "2026-03-06T13:17:00Z",
+  "words": [
+    {
+      "word": "Hops",
+      "start": 0.142,
+      "end": 0.392,
+      "type": "word"
+    },
+    {
+      "word": "ran",
+      "start": 0.452,
+      "end": 0.632,
+      "type": "word"
+    },
+    {
+      "word": "as",
+      "start": 0.685,
+      "end": 0.791,
+      "type": "word"
+    },
+    {
+      "word": "fast",
+      "start": 0.887,
+      "end": 1.271,
+      "type": "word"
+    },
+    {
+      "word": "as",
+      "start": 1.324,
+      "end": 1.43,
+      "type": "word"
+    },
+    {
+      "word": "he",
+      "start": 1.483,
+      "end": 1.589,
+      "type": "word"
+    },
+    {
+      "word": "could!",
+      "start": 1.642,
+      "end": 2.067,
+      "type": "word"
+    },
+    {
+      "word": "But",
+      "start": 2.356,
+      "end": 2.365,
+      "type": "word"
+    },
+    {
+      "word": "far,",
+      "start": 2.585,
+      "end": 3.405,
+      "type": "word"
+    },
+    {
+      "word": "far",
+      "start": 3.605,
+      "end": 3.725,
+      "type": "word"
+    },
+    {
+      "word": "away,",
+      "start": 3.821,
+      "end": 4.285,
+      "type": "word"
+    },
+    {
+      "word": "near",
+      "start": 4.445,
+      "end": 4.765,
+      "type": "word"
+    },
+    {
+      "word": "the",
+      "start": 4.805,
+      "end": 4.925,
+      "type": "word"
+    },
+    {
+      "word": "top",
+      "start": 5.045,
+      "end": 5.405,
+      "type": "word"
+    },
+    {
+      "word": "of",
+      "start": 5.458,
+      "end": 5.564,
+      "type": "word"
+    },
+    {
+      "word": "the",
+      "start": 5.584,
+      "end": 5.644,
+      "type": "word"
+    },
+    {
+      "word": "hill—",
+      "start": 5.756,
+      "end": 6.524,
+      "type": "word"
+    },
+    {
+      "word": "Tilly",
+      "start": 6.582,
+      "end": 6.824,
+      "type": "word"
+    },
+    {
+      "word": "was",
+      "start": 6.924,
+      "end": 7.224,
+      "type": "word"
+    },
+    {
+      "word": "almost",
+      "start": 7.292,
+      "end": 7.7,
+      "type": "word"
+    },
+    {
+      "word": "at",
+      "start": 7.753,
+      "end": 7.859,
+      "type": "word"
+    },
+    {
+      "word": "the",
+      "start": 7.899,
+      "end": 8.019,
+      "type": "word"
+    },
+    {
+      "word": "finish",
+      "start": 8.076,
+      "end": 8.418,
+      "type": "word"
+    },
+    {
+      "word": "line",
+      "start": 8.514,
+      "end": 8.898,
+      "type": "word"
+    }
+  ]
+}

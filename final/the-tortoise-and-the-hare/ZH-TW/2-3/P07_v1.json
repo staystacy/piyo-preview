@@ -1,0 +1,76 @@
+{
+  "source_file": "P07_v1.mp3",
+  "language": "ZH-TW",
+  "version": "2-3",
+  "page": "P07",
+  "variant": "v1",
+  "generated_at": "2026-03-06T13:17:00Z",
+  "words": [
+    {
+      "word": "慢",
+      "start": 0.297,
+      "end": 0.497,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 0.497,
+      "end": 0.697,
+      "type": "word"
+    },
+    {
+      "word": "龜",
+      "start": 0.697,
+      "end": 1.377,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 1.377,
+      "end": 1.657,
+      "type": "word"
+    },
+    {
+      "word": "到",
+      "start": 1.657,
+      "end": 1.977,
+      "type": "word"
+    },
+    {
+      "word": "終",
+      "start": 1.977,
+      "end": 2.297,
+      "type": "word"
+    },
+    {
+      "word": "點",
+      "start": 2.297,
+      "end": 3.017,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 3.017,
+      "end": 3.017,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 3.017,
+      "end": 3.017,
+      "type": "word"
+    },
+    {
+      "word": "耶",
+      "start": 4.599,
+      "end": 4.639,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 4.639,
+      "end": 4.999,
+      "type": "word"
+    }
+  ]
+}

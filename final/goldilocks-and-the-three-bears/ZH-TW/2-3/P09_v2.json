@@ -1,0 +1,100 @@
+{
+  "source_file": "P09_v2.mp3",
+  "language": "ZH-TW",
+  "version": "2-3",
+  "page": "P09",
+  "variant": "v2",
+  "generated_at": "2026-03-06T13:17:00Z",
+  "words": [
+    {
+      "word": "三",
+      "start": 0.633,
+      "end": 0.689,
+      "type": "word"
+    },
+    {
+      "word": "隻",
+      "start": 0.689,
+      "end": 1.649,
+      "type": "word"
+    },
+    {
+      "word": "熊",
+      "start": 1.649,
+      "end": 2.209,
+      "type": "word"
+    },
+    {
+      "word": "回",
+      "start": 2.209,
+      "end": 3.089,
+      "type": "word"
+    },
+    {
+      "word": "來",
+      "start": 3.089,
+      "end": 3.649,
+      "type": "word"
+    },
+    {
+      "word": "了",
+      "start": 3.649,
+      "end": 3.649,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 3.649,
+      "end": 3.649,
+      "type": "word"
+    },
+    {
+      "word": "有",
+      "start": 5.136,
+      "end": 5.142,
+      "type": "word"
+    },
+    {
+      "word": "人",
+      "start": 5.142,
+      "end": 5.382,
+      "type": "word"
+    },
+    {
+      "word": "在",
+      "start": 5.382,
+      "end": 5.622,
+      "type": "word"
+    },
+    {
+      "word": "我",
+      "start": 5.622,
+      "end": 5.822,
+      "type": "word"
+    },
+    {
+      "word": "的",
+      "start": 5.822,
+      "end": 6.022,
+      "type": "word"
+    },
+    {
+      "word": "床",
+      "start": 6.022,
+      "end": 6.502,
+      "type": "word"
+    },
+    {
+      "word": "上",
+      "start": 6.502,
+      "end": 7.062,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 7.062,
+      "end": 7.222,
+      "type": "word"
+    }
+  ]
+}

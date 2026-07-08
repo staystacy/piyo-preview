@@ -127,7 +127,7 @@ def main():
 
             # Write standard pages.json
             std_json = build_pages_json(standard_pages)
-            std_path = os.path.join(FINAL_DIR, story, folder_lang, "standard", "pages.json")
+            std_path = os.path.join(FINAL_DIR, story, folder_lang, "3-5", "pages.json")
             os.makedirs(os.path.dirname(std_path), exist_ok=True)
             with open(std_path, 'w', encoding='utf-8') as f:
                 json.dump(std_json, f, ensure_ascii=False, indent=2)
@@ -136,7 +136,7 @@ def main():
 
             # Write toddler pages.json
             tod_json = build_pages_json(toddler_pages)
-            tod_path = os.path.join(FINAL_DIR, story, folder_lang, "toddler", "pages.json")
+            tod_path = os.path.join(FINAL_DIR, story, folder_lang, "2-3", "pages.json")
             os.makedirs(os.path.dirname(tod_path), exist_ok=True)
             with open(tod_path, 'w', encoding='utf-8') as f:
                 json.dump(tod_json, f, ensure_ascii=False, indent=2)

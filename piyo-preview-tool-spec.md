@@ -25,21 +25,21 @@ preview/
         │   ├── P03.mp4     ← 影片頁（靜音，旁白由 MP3 提供）
         │   └── ...
         ├── EN/
-        │   ├── standard/
+        │   ├── 3-5/
         │   │   ├── pages.json       ← 字幕文字
         │   │   ├── timestamps.json  ← 逐字時間軸（可選，無則整句顯示）
         │   │   ├── P01.mp3
         │   │   └── ...
-        │   └── toddler/
+        │   └── 2-3/
         │       ├── pages.json
         │       ├── timestamps.json
         │       └── ...
         ├── ZH-TW/
-        │   ├── standard/
-        │   └── toddler/
+        │   ├── 3-5/
+        │   └── 2-3/
         └── JA/
-            ├── standard/
-            └── toddler/
+            ├── 3-5/
+            └── 2-3/
 ```
 
 ### 1.2 命名規則
@@ -160,15 +160,15 @@ preview/
         "JA": "三匹の子ぶた"
       },
       "languages": ["EN", "ZH-TW", "JA"],
-      "versions": ["standard", "toddler"],
+      "versions": ["3-5", "2-3"],
       "pages": {
         "EN": {
-          "standard": [
+          "3-5": [
             {
               "page": "P01",
               "mediaType": "image",
               "media": "final/three-little-pigs/media/P01.png",
-              "audio": "final/three-little-pigs/EN/standard/P01.mp3",
+              "audio": "final/three-little-pigs/EN/3-5/P01.mp3",
               "text": "Once upon a time, three little pigs set off to build their own homes.",
               "timestamps": [
                 { "word": "Once", "start": 0.00, "end": 0.35 },
@@ -179,15 +179,15 @@ preview/
               "page": "P03",
               "mediaType": "video",
               "media": "final/three-little-pigs/media/P03.mp4",
-              "audio": "final/three-little-pigs/EN/standard/P03.mp3",
+              "audio": "final/three-little-pigs/EN/3-5/P03.mp3",
               "text": "The wolf huffed and puffed and blew the house down!",
               "timestamps": null
             }
           ],
-          "toddler": []
+          "2-3": []
         },
-        "ZH-TW": { "standard": [], "toddler": [] },
-        "JA": { "standard": [], "toddler": [] }
+        "ZH-TW": { "3-5": [], "2-3": [] },
+        "JA": { "3-5": [], "2-3": [] }
       }
     }
   ]
@@ -467,7 +467,7 @@ python3 build.py
 
 ```bash
 # 1. 建立資料夾結構
-mkdir -p final/new-story/{media,EN/{standard,toddler},ZH-TW/{standard,toddler},JA/{standard,toddler}}
+mkdir -p final/new-story/{media,EN/{2-3,3-5},ZH-TW/{2-3,3-5},JA/{2-3,3-5}}
 
 # 2. 建立 meta.json
 echo '{

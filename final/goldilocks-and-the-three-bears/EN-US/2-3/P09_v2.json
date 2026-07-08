@@ -1,0 +1,58 @@
+{
+  "source_file": "P09_v2.mp3",
+  "language": "EN",
+  "version": "2-3",
+  "page": "P09",
+  "variant": "v2",
+  "generated_at": "2026-03-06T13:17:00Z",
+  "words": [
+    {
+      "word": "The",
+      "start": 0.281,
+      "end": 0.287,
+      "type": "word"
+    },
+    {
+      "word": "bears",
+      "start": 0.433,
+      "end": 1.163,
+      "type": "word"
+    },
+    {
+      "word": "came",
+      "start": 1.339,
+      "end": 2.043,
+      "type": "word"
+    },
+    {
+      "word": "home!",
+      "start": 2.203,
+      "end": 2.949,
+      "type": "word"
+    },
+    {
+      "word": "Someone's",
+      "start": 3.672,
+      "end": 3.787,
+      "type": "word"
+    },
+    {
+      "word": "in",
+      "start": 3.813,
+      "end": 3.865,
+      "type": "word"
+    },
+    {
+      "word": "my",
+      "start": 3.945,
+      "end": 4.105,
+      "type": "word"
+    },
+    {
+      "word": "bed!",
+      "start": 4.265,
+      "end": 5.145,
+      "type": "word"
+    }
+  ]
+}

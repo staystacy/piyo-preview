@@ -1,0 +1,40 @@
+{
+  "source_file": "P07_v2.mp3",
+  "language": "EN",
+  "version": "2-3",
+  "page": "P07",
+  "variant": "v2",
+  "generated_at": "2026-03-06T13:17:00Z",
+  "words": [
+    {
+      "word": "Tilly",
+      "start": 0.138,
+      "end": 0.54,
+      "type": "word"
+    },
+    {
+      "word": "crossed",
+      "start": 0.61,
+      "end": 1.1,
+      "type": "word"
+    },
+    {
+      "word": "the",
+      "start": 1.14,
+      "end": 1.26,
+      "type": "word"
+    },
+    {
+      "word": "finish!",
+      "start": 1.362,
+      "end": 2.054,
+      "type": "word"
+    },
+    {
+      "word": "Hooray!",
+      "start": 2.644,
+      "end": 4.084,
+      "type": "word"
+    }
+  ]
+}

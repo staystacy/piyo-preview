@@ -1,0 +1,70 @@
+{
+  "source_file": "P06_v1.mp3",
+  "language": "EN",
+  "version": "2-3",
+  "page": "P06",
+  "variant": "v1",
+  "generated_at": "2026-03-06T13:17:00Z",
+  "words": [
+    {
+      "word": "Tilly",
+      "start": 0.31,
+      "end": 0.388,
+      "type": "word"
+    },
+    {
+      "word": "climbed",
+      "start": 0.458,
+      "end": 0.948,
+      "type": "word"
+    },
+    {
+      "word": "the",
+      "start": 0.968,
+      "end": 1.028,
+      "type": "word"
+    },
+    {
+      "word": "hill.",
+      "start": 1.124,
+      "end": 2.388,
+      "type": "word"
+    },
+    {
+      "word": "Hops",
+      "start": 2.446,
+      "end": 2.847,
+      "type": "word"
+    },
+    {
+      "word": "woke",
+      "start": 2.911,
+      "end": 3.167,
+      "type": "word"
+    },
+    {
+      "word": "up",
+      "start": 3.273,
+      "end": 3.485,
+      "type": "word"
+    },
+    {
+      "word": "—",
+      "start": 3.605,
+      "end": 3.725,
+      "type": "word"
+    },
+    {
+      "word": "oh",
+      "start": 4.336,
+      "end": 4.442,
+      "type": "word"
+    },
+    {
+      "word": "no!",
+      "start": 4.628,
+      "end": 5.08,
+      "type": "word"
+    }
+  ]
+}

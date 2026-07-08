@@ -1,0 +1,178 @@
+{
+  "source_file": "P08_v1.mp3",
+  "language": "EN",
+  "version": "3-5",
+  "page": "P08",
+  "variant": "v1",
+  "generated_at": "2026-03-06T13:17:00Z",
+  "words": [
+    {
+      "word": "The",
+      "start": 0.143,
+      "end": 0.155,
+      "type": "word"
+    },
+    {
+      "word": "hill",
+      "start": 0.235,
+      "end": 0.555,
+      "type": "word"
+    },
+    {
+      "word": "was",
+      "start": 0.635,
+      "end": 0.875,
+      "type": "word"
+    },
+    {
+      "word": "steep.",
+      "start": 0.955,
+      "end": 1.435,
+      "type": "word"
+    },
+    {
+      "word": "Tilly",
+      "start": 1.795,
+      "end": 2.235,
+      "type": "word"
+    },
+    {
+      "word": "was",
+      "start": 2.335,
+      "end": 2.635,
+      "type": "word"
+    },
+    {
+      "word": "so",
+      "start": 2.741,
+      "end": 2.953,
+      "type": "word"
+    },
+    {
+      "word": "tired,",
+      "start": 3.073,
+      "end": 3.753,
+      "type": "word"
+    },
+    {
+      "word": "sweat",
+      "start": 3.939,
+      "end": 4.469,
+      "type": "word"
+    },
+    {
+      "word": "dripping",
+      "start": 4.54,
+      "end": 5.108,
+      "type": "word"
+    },
+    {
+      "word": "from",
+      "start": 5.156,
+      "end": 5.348,
+      "type": "word"
+    },
+    {
+      "word": "her",
+      "start": 5.388,
+      "end": 5.508,
+      "type": "word"
+    },
+    {
+      "word": "head.",
+      "start": 5.588,
+      "end": 6.208,
+      "type": "word"
+    },
+    {
+      "word": "But",
+      "start": 6.518,
+      "end": 6.527,
+      "type": "word"
+    },
+    {
+      "word": "she",
+      "start": 6.607,
+      "end": 6.847,
+      "type": "word"
+    },
+    {
+      "word": "didn't",
+      "start": 6.911,
+      "end": 7.407,
+      "type": "word"
+    },
+    {
+      "word": "stop.",
+      "start": 7.519,
+      "end": 8.247,
+      "type": "word"
+    },
+    {
+      "word": "It's",
+      "start": 8.509,
+      "end": 8.673,
+      "type": "word"
+    },
+    {
+      "word": "okay…",
+      "start": 8.801,
+      "end": 9.553,
+      "type": "word"
+    },
+    {
+      "word": "nice",
+      "start": 9.665,
+      "end": 10.113,
+      "type": "word"
+    },
+    {
+      "word": "and",
+      "start": 10.193,
+      "end": 10.433,
+      "type": "word"
+    },
+    {
+      "word": "slow…",
+      "start": 10.529,
+      "end": 11.313,
+      "type": "word"
+    },
+    {
+      "word": "step",
+      "start": 11.425,
+      "end": 11.873,
+      "type": "word"
+    },
+    {
+      "word": "by",
+      "start": 11.979,
+      "end": 12.191,
+      "type": "word"
+    },
+    {
+      "word": "step…",
+      "start": 12.303,
+      "end": 13.071,
+      "type": "word"
+    },
+    {
+      "word": "here",
+      "start": 13.135,
+      "end": 13.391,
+      "type": "word"
+    },
+    {
+      "word": "I",
+      "start": 13.511,
+      "end": 13.631,
+      "type": "word"
+    },
+    {
+      "word": "go.",
+      "start": 13.791,
+      "end": 14.271,
+      "type": "word"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "source_file": "P11_v1.mp3",
+  "language": "EN",
+  "version": "3-5",
+  "page": "P11",
+  "variant": "v1",
+  "generated_at": "2026-03-06T13:17:00Z",
+  "words": [
+    {
+      "word": "It's",
+      "start": 0.131,
+      "end": 0.223,
+      "type": "word"
+    },
+    {
+      "word": "okay,",
+      "start": 0.303,
+      "end": 0.783,
+      "type": "word"
+    },
+    {
+      "word": "nice",
+      "start": 0.847,
+      "end": 1.103,
+      "type": "word"
+    },
+    {
+      "word": "and",
+      "start": 1.143,
+      "end": 1.263,
+      "type": "word"
+    },
+    {
+      "word": "slow,",
+      "start": 1.375,
+      "end": 1.983,
+      "type": "word"
+    },
+    {
+      "word": "step",
+      "start": 2.079,
+      "end": 2.463,
+      "type": "word"
+    },
+    {
+      "word": "by",
+      "start": 2.569,
+      "end": 2.781,
+      "type": "word"
+    },
+    {
+      "word": "step,",
+      "start": 2.877,
+      "end": 3.461,
+      "type": "word"
+    },
+    {
+      "word": "here",
+      "start": 3.501,
+      "end": 3.661,
+      "type": "word"
+    },
+    {
+      "word": "I",
+      "start": 3.781,
+      "end": 3.901,
+      "type": "word"
+    },
+    {
+      "word": "go.",
+      "start": 4.007,
+      "end": 4.459,
+      "type": "word"
+    },
+    {
+      "word": "Tilly",
+      "start": 4.681,
+      "end": 5.003,
+      "type": "word"
+    },
+    {
+      "word": "crossed",
+      "start": 5.083,
+      "end": 5.643,
+      "type": "word"
+    },
+    {
+      "word": "the",
+      "start": 5.663,
+      "end": 5.723,
+      "type": "word"
+    },
+    {
+      "word": "finish",
+      "start": 5.791,
+      "end": 6.199,
+      "type": "word"
+    },
+    {
+      "word": "line!",
+      "start": 6.311,
+      "end": 6.999,
+      "type": "word"
+    },
+    {
+      "word": "HOORAY!",
+      "start": 7.143,
+      "end": 8.025,
+      "type": "word"
+    },
+    {
+      "word": "Tilly",
+      "start": 8.185,
+      "end": 8.665,
+      "type": "word"
+    },
+    {
+      "word": "wins!",
+      "start": 8.841,
+      "end": 9.625,
+      "type": "word"
+    },
+    {
+      "word": "everyone",
+      "start": 10.385,
+      "end": 10.417,
+      "type": "word"
+    },
+    {
+      "word": "cheered!",
+      "start": 10.497,
+      "end": 11.297,
+      "type": "word"
+    }
+  ]
+}

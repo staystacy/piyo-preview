@@ -1,0 +1,58 @@
+{
+  "source_file": "P08_v2.mp3",
+  "language": "EN",
+  "version": "2-3",
+  "page": "P08",
+  "variant": "v2",
+  "generated_at": "2026-03-06T13:17:00Z",
+  "words": [
+    {
+      "word": "Tiny",
+      "start": 0.67,
+      "end": 0.702,
+      "type": "word"
+    },
+    {
+      "word": "bed",
+      "start": 0.862,
+      "end": 1.342,
+      "type": "word"
+    },
+    {
+      "word": "—",
+      "start": 1.342,
+      "end": 1.342,
+      "type": "word"
+    },
+    {
+      "word": "just",
+      "start": 3.154,
+      "end": 3.154,
+      "type": "word"
+    },
+    {
+      "word": "right…",
+      "start": 3.154,
+      "end": 3.79,
+      "type": "word"
+    },
+    {
+      "word": "Goldie",
+      "start": 5.12,
+      "end": 5.292,
+      "type": "word"
+    },
+    {
+      "word": "fell",
+      "start": 5.324,
+      "end": 5.452,
+      "type": "word"
+    },
+    {
+      "word": "asleep.",
+      "start": 5.532,
+      "end": 6.092,
+      "type": "word"
+    }
+  ]
+}

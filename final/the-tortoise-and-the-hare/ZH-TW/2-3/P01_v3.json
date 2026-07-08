@@ -1,0 +1,160 @@
+{
+  "source_file": "P01_v3.mp3",
+  "language": "ZH-TW",
+  "version": "2-3",
+  "page": "P01",
+  "variant": "v3",
+  "generated_at": "2026-03-06T13:17:00Z",
+  "words": [
+    {
+      "word": "跳",
+      "start": 0.378,
+      "end": 0.458,
+      "type": "word"
+    },
+    {
+      "word": "跳",
+      "start": 0.458,
+      "end": 0.538,
+      "type": "word"
+    },
+    {
+      "word": "兔",
+      "start": 0.538,
+      "end": 1.258,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 1.258,
+      "end": 1.578,
+      "type": "word"
+    },
+    {
+      "word": "笑",
+      "start": 1.578,
+      "end": 1.898,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 1.898,
+      "end": 2.218,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 2.218,
+      "end": 2.538,
+      "type": "word"
+    },
+    {
+      "word": "龜",
+      "start": 2.538,
+      "end": 3.298,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 3.298,
+      "end": 3.658,
+      "type": "word"
+    },
+    {
+      "word": "走",
+      "start": 3.658,
+      "end": 3.978,
+      "type": "word"
+    },
+    {
+      "word": "路",
+      "start": 3.978,
+      "end": 4.458,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 4.458,
+      "end": 4.778,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 4.778,
+      "end": 6.298,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 6.318,
+      "end": 6.338,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 6.338,
+      "end": 6.398,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 6.696,
+      "end": 6.776,
+      "type": "word"
+    },
+    {
+      "word": "慢",
+      "start": 6.776,
+      "end": 6.856,
+      "type": "word"
+    },
+    {
+      "word": "龜",
+      "start": 6.856,
+      "end": 7.576,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 7.576,
+      "end": 7.896,
+      "type": "word"
+    },
+    {
+      "word": "說",
+      "start": 7.896,
+      "end": 8.216,
+      "type": "word"
+    },
+    {
+      "word": "，",
+      "start": 8.216,
+      "end": 8.882,
+      "type": "word"
+    },
+    {
+      "word": "來",
+      "start": 9.116,
+      "end": 9.169,
+      "type": "word"
+    },
+    {
+      "word": "比",
+      "start": 9.169,
+      "end": 9.409,
+      "type": "word"
+    },
+    {
+      "word": "賽",
+      "start": 9.409,
+      "end": 9.969,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 9.969,
+      "end": 10.129,
+      "type": "word"
+    }
+  ]
+}

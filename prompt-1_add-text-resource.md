@@ -18,27 +18,27 @@
         │   ├── P02.png
         │   └── ...
         ├── EN/
-        │   ├── standard/
+        │   ├── 3-5/
         │   │   ├── pages.json   ← 所有頁的字幕文字
         │   │   ├── P01.mp3
         │   │   ├── P02.mp3
         │   │   └── ...
-        │   └── toddler/
+        │   └── 2-3/
         │       ├── pages.json
         │       ├── P01.mp3
         │       └── ...
         ├── ZH-TW/
-        │   ├── standard/
+        │   ├── 3-5/
         │   │   ├── pages.json
         │   │   └── ...
-        │   └── toddler/
+        │   └── 2-3/
         │       ├── pages.json
         │       └── ...
         └── JA/
-            ├── standard/
+            ├── 3-5/
             │   ├── pages.json
             │   └── ...
-            └── toddler/
+            └── 2-3/
                 ├── pages.json
                 └── ...
 ```
@@ -51,7 +51,7 @@
 {
   "story": "三隻小豬",
   "language": "EN",
-  "version": "standard",
+  "version": "3-5",
   "pages": [
     {
       "page": "P01",
@@ -88,32 +88,32 @@
 ### 故事一：三隻小豬（The Three Little Pigs）
 | 路徑 | 語氣說明 |
 |------|---------|
-| `三隻小豬/EN/standard/pages.json` | 英文，4-6歲，完整敘述 |
-| `三隻小豬/EN/toddler/pages.json` | 英文，2-4歲，句子極短極簡單 |
-| `三隻小豬/ZH-TW/standard/pages.json` | 繁體中文，4-6歲 |
-| `三隻小豬/ZH-TW/toddler/pages.json` | 繁體中文，2-4歲 |
-| `三隻小豬/JA/standard/pages.json` | 日文，4-6歲 |
-| `三隻小豬/JA/toddler/pages.json` | 日文，2-4歲 |
+| `三隻小豬/EN/3-5/pages.json` | 英文，4-6歲，完整敘述 |
+| `三隻小豬/EN/2-3/pages.json` | 英文，2-4歲，句子極短極簡單 |
+| `三隻小豬/ZH-TW/3-5/pages.json` | 繁體中文，4-6歲 |
+| `三隻小豬/ZH-TW/2-3/pages.json` | 繁體中文，2-4歲 |
+| `三隻小豬/JA/3-5/pages.json` | 日文，4-6歲 |
+| `三隻小豬/JA/2-3/pages.json` | 日文，2-4歲 |
 
 ### 故事二：金髮女孩與三隻熊（Goldilocks and the Three Bears）
 | 路徑 | 語氣說明 |
 |------|---------|
-| `金髮女孩與三隻熊/EN/standard/pages.json` | 英文，4-6歲 |
-| `金髮女孩與三隻熊/EN/toddler/pages.json` | 英文，2-4歲 |
-| `金髮女孩與三隻熊/ZH-TW/standard/pages.json` | 繁體中文，4-6歲 |
-| `金髮女孩與三隻熊/ZH-TW/toddler/pages.json` | 繁體中文，2-4歲 |
-| `金髮女孩與三隻熊/JA/standard/pages.json` | 日文，4-6歲 |
-| `金髮女孩與三隻熊/JA/toddler/pages.json` | 日文，2-4歲 |
+| `金髮女孩與三隻熊/EN/3-5/pages.json` | 英文，4-6歲 |
+| `金髮女孩與三隻熊/EN/2-3/pages.json` | 英文，2-4歲 |
+| `金髮女孩與三隻熊/ZH-TW/3-5/pages.json` | 繁體中文，4-6歲 |
+| `金髮女孩與三隻熊/ZH-TW/2-3/pages.json` | 繁體中文，2-4歲 |
+| `金髮女孩與三隻熊/JA/3-5/pages.json` | 日文，4-6歲 |
+| `金髮女孩與三隻熊/JA/2-3/pages.json` | 日文，2-4歲 |
 
 ### 故事三：龜兔賽跑（The Tortoise and the Hare）
 | 路徑 | 語氣說明 |
 |------|---------|
-| `龜兔賽跑/EN/standard/pages.json` | 英文，4-6歲 |
-| `龜兔賽跑/EN/toddler/pages.json` | 英文，2-4歲 |
-| `龜兔賽跑/ZH-TW/standard/pages.json` | 繁體中文，4-6歲 |
-| `龜兔賽跑/ZH-TW/toddler/pages.json` | 繁體中文，2-4歲 |
-| `龜兔賽跑/JA/standard/pages.json` | 日文，4-6歲 |
-| `龜兔賽跑/JA/toddler/pages.json` | 日文，2-4歲 |
+| `龜兔賽跑/EN/3-5/pages.json` | 英文，4-6歲 |
+| `龜兔賽跑/EN/2-3/pages.json` | 英文，2-4歲 |
+| `龜兔賽跑/ZH-TW/3-5/pages.json` | 繁體中文，4-6歲 |
+| `龜兔賽跑/ZH-TW/2-3/pages.json` | 繁體中文，2-4歲 |
+| `龜兔賽跑/JA/3-5/pages.json` | 日文，4-6歲 |
+| `龜兔賽跑/JA/2-3/pages.json` | 日文，2-4歲 |
 
 每個 pages.json 請填入合理的示範文字（10頁），之後我會替換成真實內容。
 

@@ -1,0 +1,136 @@
+{
+  "source_file": "P10_v1.mp3",
+  "language": "JA",
+  "version": "2-3",
+  "page": "P10",
+  "variant": "v1",
+  "generated_at": "2026-03-06T13:17:00Z",
+  "words": [
+    {
+      "word": "ゴ",
+      "start": 0.219,
+      "end": 0.259,
+      "type": "word"
+    },
+    {
+      "word": "ル",
+      "start": 0.259,
+      "end": 0.299,
+      "type": "word"
+    },
+    {
+      "word": "デ",
+      "start": 0.299,
+      "end": 0.379,
+      "type": "word"
+    },
+    {
+      "word": "ィ",
+      "start": 0.379,
+      "end": 0.459,
+      "type": "word"
+    },
+    {
+      "word": "ご",
+      "start": 1.259,
+      "end": 1.419,
+      "type": "word"
+    },
+    {
+      "word": "め",
+      "start": 1.419,
+      "end": 1.499,
+      "type": "word"
+    },
+    {
+      "word": "ん",
+      "start": 1.499,
+      "end": 1.819,
+      "type": "word"
+    },
+    {
+      "word": "ね",
+      "start": 1.819,
+      "end": 1.819,
+      "type": "word"
+    },
+    {
+      "word": "。",
+      "start": 1.819,
+      "end": 2.579,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 2.959,
+      "end": 3.339,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 3.339,
+      "end": 3.399,
+      "type": "word"
+    },
+    {
+      "word": "み",
+      "start": 3.472,
+      "end": 3.474,
+      "type": "word"
+    },
+    {
+      "word": "ん",
+      "start": 3.474,
+      "end": 4.114,
+      "type": "word"
+    },
+    {
+      "word": "な",
+      "start": 4.114,
+      "end": 4.754,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 4.754,
+      "end": 4.794,
+      "type": "word"
+    },
+    {
+      "word": "…",
+      "start": 4.794,
+      "end": 4.834,
+      "type": "word"
+    },
+    {
+      "word": "な",
+      "start": 4.914,
+      "end": 4.994,
+      "type": "word"
+    },
+    {
+      "word": "か",
+      "start": 4.994,
+      "end": 5.154,
+      "type": "word"
+    },
+    {
+      "word": "よ",
+      "start": 5.154,
+      "end": 5.314,
+      "type": "word"
+    },
+    {
+      "word": "し",
+      "start": 5.314,
+      "end": 5.474,
+      "type": "word"
+    },
+    {
+      "word": "！",
+      "start": 5.474,
+      "end": 6.834,
+      "type": "word"
+    }
+  ]
+}
